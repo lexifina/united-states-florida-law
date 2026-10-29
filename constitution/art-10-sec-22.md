@@ -1,0 +1,3 @@
+# Art. X, Sec. 22. Parental notice of termination of a minor's pregnancy.
+The Legislature shall not limit or deny the privacy right guaranteed to a minor under the United States Constitution as interpreted by the United States Supreme Court. Notwithstanding a minor's right of privacy provided in Section 23 of Article I, the Legislature is authorized to require by general law for notification to a parent or guardian of a minor before the termination of the minor's pregnancy. The Legislature shall provide exceptions to such requirement for notification and shall create a process for judicial waiver of the notification.
+History.-Added, H.J.R. 1, 2004; adopted 2004.

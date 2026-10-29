@@ -1,0 +1,3 @@
+# Art. V, Sec. 18. Public defenders.
+In each judicial circuit a public defender shall be elected for a term of four years, who shall perform duties prescribed by general law. A public defender shall be an elector of the state and reside in the territorial jurisdiction of the circuit and shall be and have been a member of the Bar of Florida for the preceding five years. Public defenders shall appoint such assistant public defenders as may be authorized by law.
+History.-S.J.R. 52-D, 1971; adopted 1972; Am. proposed by Constitution Revision Commission, Revision No. 13, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

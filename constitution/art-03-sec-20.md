@@ -1,0 +1,7 @@
+# Art. III, Sec. 20. Standards for establishing congressional district boundaries.
+In establishing congressional district boundaries:
+(a) No apportionment plan or individual district shall be drawn with the intent to favor or disfavor a political party or an incumbent; and districts shall not be drawn with the intent or result of denying or abridging the equal opportunity of racial or language minorities to participate in the political process or to diminish their ability to elect representatives of their choice; and districts shall consist of contiguous territory.
+(b) Unless compliance with the standards in this subsection conflicts with the standards in subsection 1(a) or with federal law, districts shall be as nearly equal in population as is practicable; districts shall be compact; and districts shall, where feasible, utilize existing political and geographical boundaries.
+(c) The order in which the standards within subsections 1(a) and (b) of this section are set forth shall not be read to establish any priority of one standard over the other within that subsection.
+History.-Proposed by Initiative Petition filed with the Secretary of State September 28, 2007; adopted 2010.
+1Note.-The subsections of section 20, as it appeared in Amendment No. 6, proposed by Initiative Petition filed with the Secretary of State September 28, 2007, and adopted in 2010, were designated (1)-(3); the editors redesignated them as (a)-(c) to conform to the format of the State Constitution.

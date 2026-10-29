@@ -1,0 +1,3 @@
+# Art. VI, Sec. 1. Regulation of elections.
+All elections by the people shall be by direct and secret vote. General elections shall be determined by a plurality of votes cast. Registration and elections shall, and political party functions may, be regulated by law; however, the requirements for a candidate with no party affiliation or for a candidate of a minor party for placement of the candidate's name on the ballot shall be no greater than the requirements for a candidate of the party having the largest number of registered voters.
+History.-Am. proposed by Constitution Revision Commission, Revision No. 11, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

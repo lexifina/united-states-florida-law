@@ -1,0 +1,4 @@
+# Art. V, Sec. 13. Ethics in the judiciary.
+(a) All justices and judges shall devote full time to their judicial duties. A justice or judge shall not engage in the practice of law or hold office in any political party.
+(b) A former justice or former judge shall not lobby for compensation on issues of policy, appropriations, or procurement before the legislative or executive branches of state government for a period of six years after he or she vacates his or her judicial position. The legislature may enact legislation to implement this subsection, including, but not limited to, defining terms and providing penalties for violations. Any such law shall not contain provisions on any other subject.
+History.-S.J.R. 52-D, 1971; adopted 1972; Am. proposed by Constitution Revision Commission, Revision No. 7, 2018, filed with the Secretary of State May 9, 2018; adopted 2018.

@@ -1,0 +1,3 @@
+# Art. I, Sec. 4. Freedom of speech and press.
+Every person may speak, write and publish sentiments on all subjects but shall be responsible for the abuse of that right. No law shall be passed to restrain or abridge the liberty of speech or of the press. In all criminal prosecutions and civil actions for defamation the truth may be given in evidence. If the matter charged as defamatory is true and was published with good motives, the party shall be acquitted or exonerated.
+History.-Am. proposed by Constitution Revision Commission, Revision No. 13, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

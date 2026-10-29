@@ -1,0 +1,4 @@
+# Art. IX, Sec. 4. School districts; school boards.
+(a) Each county shall constitute a school district; provided, two or more contiguous counties, upon vote of the electors of each county pursuant to law, may be combined into one school district. In each school district there shall be a school board composed of five or more members chosen by vote of the electors in a nonpartisan election for appropriately staggered terms of four years, as provided by law.
+(b) The school board shall operate, control and supervise all free public schools within the school district and determine the rate of school district taxes within the limits prescribed herein. Two or more school districts may operate and finance joint educational programs.
+History.-Am. proposed by Constitution Revision Commission, Revision No. 11, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

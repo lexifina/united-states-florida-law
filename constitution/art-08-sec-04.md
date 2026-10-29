@@ -1,0 +1,2 @@
+# Art. VIII, Sec. 4. Transfer of powers.
+By law or by resolution of the governing bodies of each of the governments affected, any function or power of a county, municipality or special district may be transferred to or contracted to be performed by another county, municipality or special district, after approval by vote of the electors of the transferor and approval by vote of the electors of the transferee, or as otherwise provided by law.

@@ -1,0 +1,3 @@
+# Art. X, Sec. 3. Vacancy in office.
+Vacancy in office shall occur upon the creation of an office, upon the death, removal from office, or resignation of the incumbent or the incumbent's succession to another office, unexplained absence for sixty consecutive days, or failure to maintain the residence required when elected or appointed, and upon failure of one elected or appointed to office to qualify within thirty days from the commencement of the term.
+History.-Am. proposed by Constitution Revision Commission, Revision No. 13, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

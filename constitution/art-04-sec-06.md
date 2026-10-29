@@ -1,0 +1,4 @@
+# Art. IV, Sec. 6. Executive departments.
+All functions of the executive branch of state government shall be allotted among not more than twenty-five departments, exclusive of those specifically provided for or authorized in this constitution. The administration of each department, unless otherwise provided in this constitution, shall be placed by law under the direct supervision of the governor, the lieutenant governor, the governor and cabinet, a cabinet member, or an officer or board appointed by and serving at the pleasure of the governor, except:
+(a) When provided by law, confirmation by the senate or the approval of three members of the cabinet shall be required for appointment to or removal from any designated statutory office.
+(b) Boards authorized to grant and revoke licenses to engage in regulated occupations shall be assigned to appropriate departments and their members appointed for fixed terms, subject to removal only for cause.

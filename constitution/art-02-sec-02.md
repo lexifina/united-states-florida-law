@@ -1,0 +1,2 @@
+# Art. II, Sec. 2. Seat of government.
+The seat of government shall be the City of Tallahassee, in Leon County, where the offices of the governor, lieutenant governor, cabinet members and the supreme court shall be maintained and the sessions of the legislature shall be held; provided that, in time of invasion or grave emergency, the governor by proclamation may for the period of the emergency transfer the seat of government to another place.

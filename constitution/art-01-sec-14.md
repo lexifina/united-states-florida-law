@@ -1,0 +1,3 @@
+# Art. I, Sec. 14. Pretrial release and detention.
+Unless charged with a capital offense or an offense punishable by life imprisonment and the proof of guilt is evident or the presumption is great, every person charged with a crime or violation of municipal or county ordinance shall be entitled to pretrial release on reasonable conditions. If no conditions of release can reasonably protect the community from risk of physical harm to persons, assure the presence of the accused at trial, or assure the integrity of the judicial process, the accused may be detained.
+History.-Am. H.J.R. 43-H, 1982; adopted 1982.

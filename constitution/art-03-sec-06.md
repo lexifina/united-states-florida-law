@@ -1,0 +1,2 @@
+# Art. III, Sec. 6. Laws.
+Every law shall embrace but one subject and matter properly connected therewith, and the subject shall be briefly expressed in the title. No law shall be revised or amended by reference to its title only. Laws to revise or amend shall set out in full the revised or amended act, section, subsection or paragraph of a subsection. The enacting clause of every law shall read: "Be It Enacted by the Legislature of the State of Florida:".

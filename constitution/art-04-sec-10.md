@@ -1,0 +1,3 @@
+# Art. IV, Sec. 10. Attorney General.
+The attorney general shall, as directed by general law, request the opinion of the justices of the supreme court as to the validity of any initiative petition circulated pursuant to Section 3 of Article XI. The justices shall, subject to their rules of procedure, permit interested persons to be heard on the questions presented and shall render their written opinion no later than April 1 of the year in which the initiative is to be submitted to the voters pursuant to Section 5 of Article XI.
+History.-Added, H.J.R. 71, 1986; adopted 1986; Am. S.J.R. 2394, 2004; adopted 2004.

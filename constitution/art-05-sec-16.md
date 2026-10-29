@@ -1,0 +1,3 @@
+# Art. V, Sec. 16. Clerks of the circuit courts.
+There shall be in each county a clerk of the circuit court who shall be selected pursuant to the provisions of Article VIII section 1. Notwithstanding any other provision of the constitution, the duties of the clerk of the circuit court may be divided by special or general law between two officers, one serving as clerk of court and one serving as ex officio clerk of the board of county commissioners, auditor, recorder, and custodian of all county funds. There may be a clerk of the county court if authorized by general or special law.
+History.-S.J.R. 52-D, 1971; adopted 1972.

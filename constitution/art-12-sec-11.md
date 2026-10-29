@@ -1,0 +1,2 @@
+# Art. XII, Sec. 11. Deletion of obsolete schedule items.
+The legislature shall have power, by joint resolution, to delete from this revision any section of this Article XII, including this section, when all events to which the section to be deleted is or could become applicable have occurred. A legislative determination of fact made as a basis for application of this section shall be subject to judicial review.

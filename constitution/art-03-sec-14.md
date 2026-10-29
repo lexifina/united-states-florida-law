@@ -1,0 +1,2 @@
+# Art. III, Sec. 14. Civil service system.
+By law there shall be created a civil service system for state employees, except those expressly exempted, and there may be created civil service systems and boards for county, district or municipal employees and for such offices thereof as are not elected or appointed by the governor, and there may be authorized such boards as are necessary to prescribe the qualifications, method of selection and tenure of such employees and officers.

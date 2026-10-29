@@ -1,0 +1,3 @@
+# Art. XII, Sec. 7. Rights reserved.
+(a) All actions, rights of action, claims, contracts and obligations of individuals, corporations and public bodies or agencies existing on the date this revision becomes effective shall continue to be valid as if this revision had not been adopted. All taxes, penalties, fines and forfeitures owing to the state under the Constitution of 1885, as amended, shall inure to the state under this revision, and all sentences as punishment for crime shall be executed according to their terms.
+(b) This revision shall not be retroactive so as to create any right or liability which did not exist under the Constitution of 1885, as amended, based upon matters occurring prior to the adoption of this revision.

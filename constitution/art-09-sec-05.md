@@ -1,0 +1,3 @@
+# Art. IX, Sec. 5. Superintendent of schools.
+In each school district there shall be a superintendent of schools who shall be elected at the general election in each year the number of which is a multiple of four for a term of four years; or, when provided by resolution of the district school board, or by special law, approved by vote of the electors, the district school superintendent in any school district shall be employed by the district school board as provided by general law. The resolution or special law may be rescinded or repealed by either procedure after four years.
+History.-Am. proposed by Constitution Revision Commission, Revision No. 13, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.

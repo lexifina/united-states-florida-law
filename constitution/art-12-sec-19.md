@@ -1,0 +1,4 @@
+# Art. XII, Sec. 19. Renewable energy source property.
+The amendment to Section 3 of Article VII, relating to an exemption for a renewable energy source device and real property on which such device is installed, if adopted at the special election in October 1980, shall take effect January 1, 1981.
+History.-Added, S.J.R. 15-E, 1980; adopted 1980.
+1Note.-A. This section, originally designated section 18 by S.J.R. 15-E, 1980, was redesignated section 19 by the editors in order to avoid confusion with section 18 as contained in S.J.R. 6-E, 1980.B. The amendment to section 3 of Article VII, relating to an exemption for renewable energy source property, was repealed effective November 4, 2008, by Am. proposed by the Taxation and Budget Reform Commission, Revision No. 3, 2008, filed with the Secretary of State April 28, 2008; adopted 2008.

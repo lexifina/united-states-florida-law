@@ -1,0 +1,12 @@
+# Art. X, Sec. 31. Death benefits for survivors of first responders and military members.
+(a) A death benefit shall be paid by the employing agency when a firefighter; a paramedic; an emergency medical technician; a law enforcement, correctional, or correctional probation officer; or a member of the Florida National Guard, while engaged in the performance of their official duties, is:
+(1) Accidentally killed or receives accidental bodily injury which results in the loss of the individual's life, provided that such killing is not the result of suicide and that such bodily injury is not intentionally self-inflicted; or
+(2) Unlawfully and intentionally killed or dies as a result of such unlawful and intentional act or is killed during active duty.
+(b) A death benefit shall be paid by funds from general revenue when an active duty member of the United States Armed Forces is:
+(1) Accidentally killed or receives accidental bodily injury which results in the loss of the individual's life, provided that such killing is not the result of suicide and that such bodily injury is not intentionally self-inflicted; or
+(2) Unlawfully and intentionally killed or dies as a result of such unlawful and intentional act or is killed during active duty.
+(c) If a firefighter; a paramedic; an emergency medical technician; a law enforcement, correctional, or correctional probation officer; or an active duty member of the Florida National Guard or United States Armed Forces is accidentally killed as specified in paragraphs (a)(1) and (b)(1), or unlawfully and intentionally killed as specified in paragraphs (a)(2) and (b)(2), the state shall waive certain educational expenses that the child or spouse of the deceased first responder or military member incurs while obtaining a career certificate, an undergraduate education, or a postgraduate education.
+(d) An eligible first responder must have been working for the State of Florida or any of its political subdivisions or agencies at the time of death. An eligible military member must have been a resident of this state or his or her duty post must have been within this state at the time of death.
+(e) The legislature shall implement this section by general law.
+(f) This section shall take effect on July 1, 2019.
+History.-Proposed by Constitution Revision Commission, Revision No. 2, 2018, filed with the Secretary of State May 9, 2018; adopted 2018.

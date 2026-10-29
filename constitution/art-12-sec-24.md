@@ -1,0 +1,5 @@
+# Art. XII, Sec. 24. Executive branch reform.
+(a) The amendments contained in this revision shall take effect January 7, 2003, but shall govern with respect to the qualifying for and the holding of primary elections in 2002. The office of chief financial officer shall be a new office as a result of this revision.
+(b) In the event the secretary of state is removed as a cabinet office in the 1998 general election, the term "custodian of state records" shall be substituted for the term "secretary of state" throughout the constitution and the duties previously performed by the secretary of state shall be as provided by law.
+History.-Proposed by Constitution Revision Commission, Revision No. 8, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.
+1Note.-This section, originally designated section 22 by Revision No. 8 of the Constitution Revision Commission, 1998, was redesignated section 24 by the editors in order to avoid confusion with section 22 as created in H.J.R. 969, 1997.

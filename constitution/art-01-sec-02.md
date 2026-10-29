@@ -1,0 +1,3 @@
+# Art. I, Sec. 2. Basic rights.
+All natural persons, female and male alike, are equal before the law and have inalienable rights, among which are the right to enjoy and defend life and liberty, to pursue happiness, to be rewarded for industry, and to acquire, possess and protect property. No person shall be deprived of any right because of race, religion, national origin, or physical disability.
+History.-Am. S.J.R. 917, 1974; adopted 1974; Am. proposed by Constitution Revision Commission, Revision No. 9, 1998, filed with the Secretary of State May 5, 1998; adopted 1998; Am. proposed by Constitution Revision Commission, Revision No. 6, 2018, filed with the Secretary of State May 9, 2018; adopted 2018.

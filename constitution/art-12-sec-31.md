@@ -1,0 +1,3 @@
+# Art. XII, Sec. 31. Additional ad valorem tax exemption for certain members of the armed forces deployed on active duty outside of the United States.
+The amendment to Section 3 of Article VII providing for an additional ad valorem tax exemption for members of the United States military or military reserves, the United States Coast Guard or its reserves, or the Florida National Guard deployed on active duty outside of the United States in support of military operations designated by the legislature and this section shall take effect January 1, 2011.
+History.-Added, H.J.R. 833, 2009; adopted 2010.

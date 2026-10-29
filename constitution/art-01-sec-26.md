@@ -1,0 +1,4 @@
+# Art. I, Sec. 26. Claimant's right to fair compensation.
+(a) Article I, Section 26 is created to read "Claimant's right to fair compensation." In any medical liability claim involving a contingency fee, the claimant is entitled to receive no less than 70% of the first $250,000.00 in all damages received by the claimant, exclusive of reasonable and customary costs, whether received by judgment, settlement, or otherwise, and regardless of the number of defendants. The claimant is entitled to 90% of all damages in excess of $250,000.00, exclusive of reasonable and customary costs and regardless of the number of defendants. This provision is self-executing and does not require implementing legislation.
+(b) This Amendment shall take effect on the day following approval by the voters.
+History.-Proposed by Initiative Petition filed with the Secretary of State September 8, 2003; adopted 2004.

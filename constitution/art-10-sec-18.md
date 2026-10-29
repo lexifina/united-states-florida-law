@@ -1,0 +1,3 @@
+# Art. X, Sec. 18. Disposition of conservation lands.
+The fee interest in real property held by an entity of the state and designated for natural resources conservation purposes as provided by general law shall be managed for the benefit of the citizens of this state and may be disposed of only if the members of the governing board of the entity holding title determine the property is no longer needed for conservation purposes and only upon a vote of two-thirds of the governing board.
+History.-Proposed by Constitution Revision Commission, Revision No. 5, 1998, filed with the Secretary of State May 5, 1998; adopted 1998.
