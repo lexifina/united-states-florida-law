@@ -1,0 +1,2 @@
+# Art. XII, Sec. 14. Representatives; terms.
+The legislature at its first regular session following the ratification of this revision, by joint resolution, shall propose to the electors of the state for ratification or rejection in the general election of 1970 an amendment to Article III, Section 15(b), of the constitution providing staggered terms of four years for members of the house of representatives.
