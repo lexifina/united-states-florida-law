@@ -1,0 +1,5 @@
+# Art. III, Sec. 15. Terms and qualifications of legislators.
+(a) SENATORS. Senators shall be elected for terms of four years, those from odd-numbered districts in the years the numbers of which are multiples of four and those from even-numbered districts in even-numbered years the numbers of which are not multiples of four; except, at the election next following a reapportionment, some senators shall be elected for terms of two years when necessary to maintain staggered terms.
+(b) REPRESENTATIVES. Members of the house of representatives shall be elected for terms of two years in each even-numbered year.
+(c) QUALIFICATIONS. Each legislator shall be at least twenty-one years of age, an elector and resident of the district from which elected and shall have resided in the state for a period of two years prior to election.
+(d) ASSUMING OFFICE; VACANCIES. Members of the legislature shall take office upon election. Vacancies in legislative office shall be filled only by election as provided by law.

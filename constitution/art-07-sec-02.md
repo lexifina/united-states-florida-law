@@ -1,0 +1,2 @@
+# Art. VII, Sec. 2. Taxes; rate.
+All ad valorem taxation shall be at a uniform rate within each taxing unit, except the taxes on intangible personal property may be at different rates but shall never exceed two mills on the dollar of assessed value; provided, as to any obligations secured by mortgage, deed of trust, or other lien on real estate wherever located, an intangible tax of not more than two mills on the dollar may be levied by law to be in lieu of all other intangible assessments on such obligations.

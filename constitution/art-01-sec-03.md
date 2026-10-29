@@ -1,0 +1,2 @@
+# Art. I, Sec. 3. Religious freedom.
+There shall be no law respecting the establishment of religion or prohibiting or penalizing the free exercise thereof. Religious freedom shall not justify practices inconsistent with public morals, peace or safety. No revenue of the state or any political subdivision or agency thereof shall ever be taken from the public treasury directly or indirectly in aid of any church, sect, or religious denomination or in aid of any sectarian institution.
