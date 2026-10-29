@@ -1,0 +1,2 @@
+# Art. III, Sec. 9. Effective date of laws.
+Each law shall take effect on the sixtieth day after adjournment sine die of the session of the legislature in which enacted or as otherwise provided therein. If the law is passed over the veto of the governor it shall take effect on the sixtieth day after adjournment sine die of the session in which the veto is overridden, on a later date fixed in the law, or on a date fixed by resolution passed by both houses of the legislature.
