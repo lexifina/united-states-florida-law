@@ -15,7 +15,7 @@ Nothing else of Florida's law is in it yet.
 
 ## Where the text comes from
 
-The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter was fetched once through the site's "View Entire Chapter" link and the Constitution as one page, 94 requests in all, about 1.5 seconds apart. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators, its History line (the session laws behind it) and any Note the Legislature prints inside the section. Footnote markers are dropped.
+The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's "View Entire Chapter" page and the Constitution from one page. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators, its History line (the session laws behind it) and any Note the Legislature prints inside the section. Footnote markers are dropped.
 
 ## Dates
 
