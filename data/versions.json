@@ -1,0 +1,61 @@
+{
+ "country": "US-FL",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Fla. Const.",
+   "title": "Constitution of the State of Florida",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 214,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes",
+     "sha256": "846382ef5d3598e34787eea3a263625b77bdbe793eb58eb48f9de0ae98a8f784"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-business-organizations",
+   "short": "Fla. Stat. XXXVI",
+   "title": "Florida Statutes, Title XXXVI: Business Organizations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 970,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI",
+     "sha256": "8f014102314b4c6583944a21285421ccb8c9df7091c68303bcd133942844a90d"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-real-and-personal-property",
+   "short": "Fla. Stat. XL",
+   "title": "Florida Statutes, Title XL: Real and Personal Property",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 798,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
+     "sha256": "28b0eeea06bdb1417519c939e1a25a94d923bc930f6417a79234fad9fa433523"
+    }
+   ]
+  },
+  {
+   "slug": "title-46-crimes",
+   "short": "Fla. Stat. XLVI",
+   "title": "Florida Statutes, Title XLVI: Crimes",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 985,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
+     "sha256": "b64163da4a071d981690cc61729099939a5ab4a1bd6a36f32a0dd89f8e716c69"
+    }
+   ]
+  }
+ ]
+}

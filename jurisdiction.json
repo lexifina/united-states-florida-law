@@ -1,0 +1,9 @@
+{
+  "path": "us-fl",
+  "code": "FL",
+  "name": "Florida",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-florida-law",
+  "build": "built: Florida Constitution and Statutes Titles XXXVI, XL and XLVI, 2026 Florida Statutes, current text only (one version each)",
+  "register_date": "2026-10-30"
+}
