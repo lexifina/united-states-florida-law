@@ -15,9 +15,8 @@ write_docs(HERE, {
     'acts': acts,
     'build': 'built: Florida Constitution and Statutes Titles XXXVI, XL and XLVI, 2026 Florida Statutes, current text only (one version each)',
     'source': ("The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** "
-              "publishes the Constitution and the 2026 Florida Statutes. Its robots.txt (30 October 2026) disallows only `/employees/` "
-              "(and two named bots) and sets no crawl delay. Each chapter was fetched once through the site's \"View Entire Chapter\" "
-              "link and the Constitution as one page, 94 requests in all, about 1.5 seconds apart. Each section keeps its catchline, its "
+              "publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's \"View Entire Chapter\" "
+              "page and the Constitution from one page. Each section keeps its catchline, its "
               "text with subsection, paragraph and subparagraph designators, its History line (the session laws behind it) and any "
               "Note the Legislature prints inside the section. Footnote markers are dropped."),
     'dates': ("- Each act has **one version**, dated 29 October 2026, the last full day before the pages were retrieved on 30 October "

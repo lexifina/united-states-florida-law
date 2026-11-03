@@ -1,12 +1,13 @@
 # How this repository was made (Florida)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-03, the day the source data was retrieved.
 
 ## Sources
 
 | Source | Address | Retrieved | Licence |
 | --- | --- | --- | --- |
 | Online Sunshine: The Florida Constitution and the 2026 Florida Statutes (The Florida Legislature) | <https://www.leg.state.fl.us/statutes/> | 2026-10-30 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislature publishes the Florida Statutes and the Constitution for free public use; its footer reads "Copyright 1995-2026 The Florida Legislature" and no annotations are taken. |
+| Online Sunshine: every title of the 2026 Florida Statutes (The Florida Legislature) | <https://www.leg.state.fl.us/statutes/index.cfm?Mode=View%20Statutes&Submenu=1&Tab=statutes> | 2026-11-03 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislature publishes the Florida Statutes and the Constitution for free public use; its footer reads "Copyright 1995-2026 The Florida Legislature" and no annotations are taken. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -18,20 +19,45 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-36-business-organizations` | Florida Statutes, Title XXXVI: Business Organizations | 1 | 2026-10-29 to 2026-10-29 |
 | `title-40-real-and-personal-property` | Florida Statutes, Title XL: Real and Personal Property | 1 | 2026-10-29 to 2026-10-29 |
 | `title-46-crimes` | Florida Statutes, Title XLVI: Crimes | 1 | 2026-10-29 to 2026-10-29 |
+| `title-1-construction-of-statutes` | Florida Statutes, Title I: Construction of Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-2-state-organization` | Florida Statutes, Title II: State Organization | 1 | 2026-11-03 to 2026-11-03 |
+| `title-3-legislative-branch-commissions` | Florida Statutes, Title III: Legislative Branch; Commissions | 1 | 2026-11-03 to 2026-11-03 |
+| `title-4-executive-branch` | Florida Statutes, Title IV: Executive Branch | 1 | 2026-11-03 to 2026-11-03 |
+| `title-5-judicial-branch` | Florida Statutes, Title V: Judicial Branch | 1 | 2026-11-03 to 2026-11-03 |
+| `title-6-civil-practice-and-procedure` | Florida Statutes, Title VI: Civil Practice and Procedure | 1 | 2026-11-03 to 2026-11-03 |
+| `title-7-evidence` | Florida Statutes, Title VII: Evidence | 1 | 2026-11-03 to 2026-11-03 |
+| `title-8-limitations` | Florida Statutes, Title VIII: Limitations | 1 | 2026-11-03 to 2026-11-03 |
+| `title-9-electors-and-elections` | Florida Statutes, Title IX: Electors and Elections | 1 | 2026-11-03 to 2026-11-03 |
+| `title-10-public-officers-employees-and-records` | Florida Statutes, Title X: Public Officers, Employees, and Records | 1 | 2026-11-03 to 2026-11-03 |
+| `title-11-county-organization-and-intergovernmental-relations` | Florida Statutes, Title XI: County Organization and Intergovernmental Relations | 1 | 2026-11-03 to 2026-11-03 |
+| `title-12-municipalities` | Florida Statutes, Title XII: Municipalities | 1 | 2026-11-03 to 2026-11-03 |
+| `title-13-planning-and-development` | Florida Statutes, Title XIII: Planning and Development | 1 | 2026-11-03 to 2026-11-03 |
+| `title-14-taxation-and-finance` | Florida Statutes, Title XIV: Taxation and Finance | 1 | 2026-11-03 to 2026-11-03 |
+| `title-15-homestead-and-exemptions` | Florida Statutes, Title XV: Homestead and Exemptions | 1 | 2026-11-03 to 2026-11-03 |
+| `title-16-teachers-retirement-system-higher-educational-facilities-bonds` | Florida Statutes, Title XVI: Teachers' Retirement System; Higher Educational Facilities Bonds | 1 | 2026-11-03 to 2026-11-03 |
+| `title-17-military-affairs-and-related-matters` | Florida Statutes, Title XVII: Military Affairs and Related Matters | 1 | 2026-11-03 to 2026-11-03 |
+| `title-18-public-lands-and-property` | Florida Statutes, Title XVIII: Public Lands and Property | 1 | 2026-11-03 to 2026-11-03 |
+| `title-19-public-business` | Florida Statutes, Title XIX: Public Business | 1 | 2026-11-03 to 2026-11-03 |
+| `title-20-veterans` | Florida Statutes, Title XX: Veterans | 1 | 2026-11-03 to 2026-11-03 |
+| `title-21-drainage` | Florida Statutes, Title XXI: Drainage | 1 | 2026-11-03 to 2026-11-03 |
+| `title-22-ports-and-harbors` | Florida Statutes, Title XXII: Ports and Harbors | 1 | 2026-11-03 to 2026-11-03 |
+| `title-23-motor-vehicles` | Florida Statutes, Title XXIII: Motor Vehicles | 1 | 2026-11-03 to 2026-11-03 |
+| `title-24-vessels` | Florida Statutes, Title XXIV: Vessels | 1 | 2026-11-03 to 2026-11-03 |
+| `title-25-aviation` | Florida Statutes, Title XXV: Aviation | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 4 commits:
+The build made 29 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 4 | first version of an act |
+| 29 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-10-30.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 4 tags.
+- 29 tags.
 
 ## Dates
 
@@ -43,8 +69,8 @@ When a law gives no date of its own, the default rule applies: Fla. Stat. 11.242
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `449147fbaeba9f8650884d910eae745d68c91d901da1fbe7a3866d4fdb2b9b69` (8004896 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3e59cb6f05eccb94a9ec14431a7f6781221e83ef`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `d13df49f69274204a3493f175d61ccaa6959794998ab0b6cb690348fa94feed4` (31443280 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -58,6 +84,8 @@ No second build of this corpus has been compared yet.
 - First build: only the Constitution and Titles XXXVI (business organizations), XL (real and personal property) and XLVI (crimes) of the 2026 Florida Statutes, as retrieved on 2026-10-30. Each act has one version, credited to the publisher as the oldest version available.
 - The version is dated 2026-10-29, the last full day before retrieval, so that no commit is dated ahead of the build; the site prints no edition date.
 - Each section keeps its History line (the session laws behind it) and any editors' Note the Legislature prints inside the section; no annotations are taken.
+- Wave 3 (2026-11-03): every other title of the 2026 Florida Statutes in this part is added, one act per title, parsed as in the first build.
+- Each new title is dated by the retrieval day (2026-11-03) and credited to the publisher as the oldest version available: the History lines give session-law numbers, not in-force days, so the latest amendment's in-force day is not given by the source.
 
 ## What AI did and did not do
 
