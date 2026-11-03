@@ -66,7 +66,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-48-early-learning-20-education-code` | Florida Statutes, Title XLVIII: Early Learning-20 Education Code | 1 | 2026-11-03 to 2026-11-03 |
 | `title-49-parents-bill-of-rights-teachers-bill-of-rights` | Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 50 commits:
+The build made 100 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -82,16 +82,16 @@ Other counts:
 
 ## Dates
 
-Each commit is dated at noon (America/New_York) on the day the change took effect. The other dates, enacted and published, are trailers.
+Each commit is dated at noon (America/New_York) on its In-force day. For Florida that is not a day any text took effect: each act is one snapshot of the 2026 Florida Statutes, whose effective dates the source does not give. The original commits are dated by the capture (29 October 2026 for the Constitution and Titles XXXVI, XL and XLVI, the day before their 30 October capture; 3 November 2026 for the other titles); each correction's In-force and Corrects name the recorded version it corrects, and its Text-as-of is the verified capture day. The "latest in force" labels in the act READMEs are the shared builder's wording, to be corrected there.
 
 When a law gives no date of its own, the default rule applies: Fla. Stat. 11.2421: the Florida Statutes are adopted annually; a session law takes effect on the date it states, otherwise on the 60th day after the legislature adjourns (Fla. Const. art. III, s. 9); this first build holds only the 2026 Florida Statutes as published, dated by the day before retrieval https://www.leg.state.fl.us/statutes/
 
 ## How the history is built
 
-`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+`tools/build.py` turns the corpus into this history in one pass: for Florida, one commit per act (its single snapshot), then the labelled corrections appended after it. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a59e588c3e11682cb75427b36ed411d497bdf6bc4db7e7dd451f033501e7d838` (76964782 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `77a91b97ad7c30ae110cd2c6c5c189fd7cf2ee062f59ed46fc8cc26275d03481` (77224038 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
