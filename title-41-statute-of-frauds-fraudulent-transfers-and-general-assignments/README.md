@@ -1,6 +1,6 @@
 # Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments
 
-Fla. Stat. XLI · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI>
+Fla. Stat. XLI · 3 versions, from 2024-12-31 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -32,7 +32,7 @@ Fla. Stat. XLI · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <
 | 727.106 | [sec-0727-106.md](sec-0727-106.md) | 0 |  |
 | 727.107 | [sec-0727-107.md](sec-0727-107.md) | 0 |  |
 | 727.108 | [sec-0727-108.md](sec-0727-108.md) | 0 |  |
-| 727.109 | [sec-0727-109.md](sec-0727-109.md) | 0 |  |
+| 727.109 | [sec-0727-109.md](sec-0727-109.md) | 1 | 2025-12-31 |
 | 727.110 | [sec-0727-110.md](sec-0727-110.md) | 0 |  |
 | 727.111 | [sec-0727-111.md](sec-0727-111.md) | 0 |  |
 | 727.112 | [sec-0727-112.md](sec-0727-112.md) | 0 |  |

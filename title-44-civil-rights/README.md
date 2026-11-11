@@ -1,6 +1,6 @@
 # Florida Statutes, Title XLIV: Civil Rights
 
-Fla. Stat. XLIV · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV>
+Fla. Stat. XLIV · 3 versions, from 2024-12-31 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -15,28 +15,28 @@ Fla. Stat. XLIV · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · 
 | 760.07 | [sec-0760-07.md](sec-0760-07.md) | 0 |  |
 | 760.08 | [sec-0760-08.md](sec-0760-08.md) | 0 |  |
 | 760.10 | [sec-0760-10.md](sec-0760-10.md) | 0 |  |
-| 760.11 | [sec-0760-11.md](sec-0760-11.md) | 0 |  |
+| 760.11 | [sec-0760-11.md](sec-0760-11.md) | 1 | 2026-11-03 |
 | 760.20 | [sec-0760-20.md](sec-0760-20.md) | 0 |  |
 | 760.21 | [sec-0760-21.md](sec-0760-21.md) | 0 |  |
-| 760.22 | [sec-0760-22.md](sec-0760-22.md) | 0 |  |
+| 760.22 | [sec-0760-22.md](sec-0760-22.md) | 1 | 2026-11-03 |
 | 760.23 | [sec-0760-23.md](sec-0760-23.md) | 0 |  |
 | 760.24 | [sec-0760-24.md](sec-0760-24.md) | 0 |  |
 | 760.25 | [sec-0760-25.md](sec-0760-25.md) | 0 |  |
-| 760.26 | [sec-0760-26.md](sec-0760-26.md) | 0 |  |
+| 760.26 | [sec-0760-26.md](sec-0760-26.md) | 1 | 2026-11-03 |
 | 760.27 | [sec-0760-27.md](sec-0760-27.md) | 0 |  |
 | 760.29 | [sec-0760-29.md](sec-0760-29.md) | 0 |  |
 | 760.30 | [sec-0760-30.md](sec-0760-30.md) | 0 |  |
 | 760.31 | [sec-0760-31.md](sec-0760-31.md) | 0 |  |
 | 760.32 | [sec-0760-32.md](sec-0760-32.md) | 0 |  |
 | 760.34 | [sec-0760-34.md](sec-0760-34.md) | 0 |  |
-| 760.35 | [sec-0760-35.md](sec-0760-35.md) | 0 |  |
+| 760.35 | [sec-0760-35.md](sec-0760-35.md) | 1 | 2026-11-03 |
 | 760.36 | [sec-0760-36.md](sec-0760-36.md) | 0 |  |
 | 760.37 | [sec-0760-37.md](sec-0760-37.md) | 0 |  |
 | 760.40 | [sec-0760-40.md](sec-0760-40.md) | 0 |  |
 | 760.50 | [sec-0760-50.md](sec-0760-50.md) | 0 |  |
 | 760.51 | [sec-0760-51.md](sec-0760-51.md) | 0 |  |
 | 760.60 | [sec-0760-60.md](sec-0760-60.md) | 0 |  |
-| 760.701 | [sec-0760-701.md](sec-0760-701.md) | 0 |  |
+| 760.701 | [sec-0760-701.md](sec-0760-701.md) | 1 | 2025-12-31 |
 | 760.80 | [sec-0760-80.md](sec-0760-80.md) | 0 |  |
 | 760.854 | [sec-0760-854.md](sec-0760-854.md) | 0 |  |
 | 761.01 | [sec-0761-01.md](sec-0761-01.md) | 0 |  |
@@ -89,7 +89,7 @@ Fla. Stat. XLIV · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · 
 | 765.518 | [sec-0765-518.md](sec-0765-518.md) | 0 |  |
 | 765.5185 | [sec-0765-5185.md](sec-0765-5185.md) | 0 |  |
 | 765.519 | [sec-0765-519.md](sec-0765-519.md) | 0 |  |
-| 765.521 | [sec-0765-521.md](sec-0765-521.md) | 0 |  |
+| 765.521 | [sec-0765-521.md](sec-0765-521.md) | 1 | 2026-11-03 |
 | 765.522 | [sec-0765-522.md](sec-0765-522.md) | 0 |  |
 | 765.523 | [sec-0765-523.md](sec-0765-523.md) | 0 |  |
 | 765.541 | [sec-0765-541.md](sec-0765-541.md) | 0 |  |

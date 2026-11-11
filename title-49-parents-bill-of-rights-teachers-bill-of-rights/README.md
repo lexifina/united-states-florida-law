@@ -1,6 +1,6 @@
 # Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights
 
-Fla. Stat. XLIX · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX>
+Fla. Stat. XLIX · 3 versions, from 2024-12-31 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
