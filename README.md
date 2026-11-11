@@ -63,7 +63,7 @@ Nothing else of Florida's law is in it yet.
 
 ## Where the text comes from
 
-The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's "View Entire Chapter" page and the Constitution from one page. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators in the order the page gives them, its History line (the session laws behind it) and any Note the Legislature prints inside the section, with the page's own punctuation (curly quotes and dashes) and a word break wherever the page breaks a line. Footnote markers are dropped. Two sections show an image (sections 320.0842 and 322.051, the accessibility and deaf symbols); the images are not in this record yet and will be added, byte for byte, once the shared builder stores images.
+The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's "View Entire Chapter" page and the Constitution from one page. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators in the order the page gives them, its History line (the session laws behind it) and any Note the Legislature prints inside the section, with the page's own punctuation (curly quotes and dashes) and a word break wherever the page breaks a line. Footnote markers are retained as the official text prints them. Two sections show an image (sections 320.0842 and 322.051, the accessibility and deaf symbols); the images are not in this record yet and will be added, byte for byte, once the shared builder stores images.
 
 ## Dates
 
@@ -87,3 +87,7 @@ The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes
 ## What "author" means
 
 Each act's original commit is authored by the publisher (the Florida Legislature (Online Sunshine)) because this record holds one version of each act, the oldest version available. The correction commits that restore the page's own text and label the dates are authored by Lexifina. The committer is always Lexifina.
+
+## Current text corrections
+
+593 sections across 39 titles have labelled corrections restoring the official word boundaries at superscript markers, mixed numbers and block breaks. These corrections retain the existing version dates and make no new commencement assertion. Earlier annual editions remain incomplete.
