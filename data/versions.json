@@ -64,6 +64,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I",
    "versions": [
     {
+     "from": "2003-05-23",
+     "units": 5,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I&StatuteYear=2003",
+     "sha256": "5bc101ac7d52b232bb7948f4c36f519b9cf9ae33526d21d13e99076e69552c92"
+    },
+    {
+     "from": "2007-07-01",
+     "units": 5,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I&StatuteYear=2007",
+     "sha256": "08d3cd20cae165c9044ad6e34a2a25bf0de65adbe76aa96a1867a157176c103f"
+    },
+    {
      "from": "2026-11-03",
      "units": 8,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I",

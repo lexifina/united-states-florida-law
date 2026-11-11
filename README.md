@@ -12,7 +12,7 @@ The statute law of Florida as a git repository: one file per section, committed 
 | `title-36-business-organizations/` | Florida Statutes, Title XXXVI: Business Organizations (970 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 30 October 2026 (dated 29 October); the source gives no in-force day for it |
 | `title-40-real-and-personal-property/` | Florida Statutes, Title XL: Real and Personal Property (798 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 30 October 2026 (dated 29 October); the source gives no in-force day for it |
 | `title-46-crimes/` | Florida Statutes, Title XLVI: Crimes (985 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 30 October 2026 (dated 29 October); the source gives no in-force day for it |
-| `title-1-construction-of-statutes/` | Florida Statutes, Title I: Construction of Statutes (8 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 3 November 2026; the source gives no in-force day for it |
+| `title-1-construction-of-statutes/` | Florida Statutes, Title I: Construction of Statutes (8 current sections) | 3 | The 2003 and 2007 editions (5 sections each), dated by chapters 2003-42 and 2007-32; the current version is from the 2026 edition. |
 | `title-2-state-organization/` | Florida Statutes, Title II: State Organization (93 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 3 November 2026; the source gives no in-force day for it |
 | `title-3-legislative-branch-commissions/` | Florida Statutes, Title III: Legislative Branch; Commissions (76 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 3 November 2026; the source gives no in-force day for it |
 | `title-4-executive-branch/` | Florida Statutes, Title IV: Executive Branch (294 sections) | 1 | One version: the text as the Florida Legislature publishes it in the 2026 Florida Statutes, captured 3 November 2026; the source gives no in-force day for it |
@@ -70,11 +70,12 @@ The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes
 - Each act has **one version**, the text as the pages showed it when captured: the Constitution and Titles XXXVI, XL and XLVI were captured on 30 October 2026 and are dated 29 October, the day before; the other titles were captured and are dated on 3 November 2026. The site prints no in-force day for the edition or a title, so these are capture days (`Text-as-of`), not days the text took effect; the correction commits say so (`In-force-basis`). Dates some sections state for themselves (such as Art. XII s. 42 of the Constitution) are part of their text. Earlier editions (1997 onward) are online but not in this record.
 - The first commit of each act is credited to the Florida Legislature as "oldest version available".
 - The session laws in each History line are part of the text, not the commit dates.
+- The added Title I versions are the complete texts of chapters 1 and 2 in the 2003 and 2007 Florida Statutes. The 2003 text remains unchanged in the 2006 edition; the 2007 text remains unchanged in the 2009 edition. Chapter 2003-42 took effect on becoming law on 23 May 2003, and chapter 2007-32 took effect on 1 July 2007.
 - The correction commits restore the page's own text: its punctuation (an earlier build had made curly quotes and dashes ASCII), the word breaks at line breaks, and text that follows a list back after it. They are appended; the earlier commits are unchanged.
 
 ## What it does not show
 
-- Any amendment history: the Statutes before the 2026 edition.
+- Earlier editions for every title except Title I, and any history before Title I's 2003 edition.
 - The Laws of Florida (session laws) and regulations.
 - The two images in sections 320.0842 and 322.051, until the shared builder stores images.
 - Nothing here is an official publication.
@@ -86,4 +87,4 @@ The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes
 
 ## What "author" means
 
-Each act's original commit is authored by the publisher (the Florida Legislature (Online Sunshine)) because this record holds one version of each act, the oldest version available. The correction commits that restore the page's own text and label the dates are authored by Lexifina. The committer is always Lexifina.
+Each commit is authored by the publisher (the Florida Legislature (Online Sunshine)) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.

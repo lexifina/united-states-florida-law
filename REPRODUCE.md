@@ -1,6 +1,6 @@
 # How this repository was made (Florida)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -19,7 +19,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-36-business-organizations` | Florida Statutes, Title XXXVI: Business Organizations | 1 | 2026-10-29 to 2026-10-29 |
 | `title-40-real-and-personal-property` | Florida Statutes, Title XL: Real and Personal Property | 1 | 2026-10-29 to 2026-10-29 |
 | `title-46-crimes` | Florida Statutes, Title XLVI: Crimes | 1 | 2026-10-29 to 2026-10-29 |
-| `title-1-construction-of-statutes` | Florida Statutes, Title I: Construction of Statutes | 1 | 2026-11-03 to 2026-11-03 |
+| `title-1-construction-of-statutes` | Florida Statutes, Title I: Construction of Statutes | 3 | 2003-05-23 to 2026-11-03 |
 | `title-2-state-organization` | Florida Statutes, Title II: State Organization | 1 | 2026-11-03 to 2026-11-03 |
 | `title-3-legislative-branch-commissions` | Florida Statutes, Title III: Legislative Branch; Commissions | 1 | 2026-11-03 to 2026-11-03 |
 | `title-4-executive-branch` | Florida Statutes, Title IV: Executive Branch | 1 | 2026-11-03 to 2026-11-03 |
@@ -66,7 +66,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-48-early-learning-20-education-code` | Florida Statutes, Title XLVIII: Early Learning-20 Education Code | 1 | 2026-11-03 to 2026-11-03 |
 | `title-49-parents-bill-of-rights-teachers-bill-of-rights` | Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights | 1 | 2026-11-03 to 2026-11-03 |
 
-The build made 100 commits:
+The build made 103 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -75,23 +75,23 @@ The build made 100 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 50 tags.
 
 ## Dates
 
-Each commit is dated at noon (America/New_York) on its In-force day. For Florida that is not a day any text took effect: each act is one snapshot of the 2026 Florida Statutes, whose effective dates the source does not give. The original commits are dated by the capture (29 October 2026 for the Constitution and Titles XXXVI, XL and XLVI, the day before their 30 October capture; 3 November 2026 for the other titles); each correction's In-force and Corrects name the recorded version it corrects, and its Text-as-of is the verified capture day. The "latest in force" labels in the act READMEs are the shared builder's wording, to be corrected there.
+Each commit is dated at noon (America/New_York) on the day the change took effect. The other dates, enacted and published, are trailers.
 
 When a law gives no date of its own, the default rule applies: Fla. Stat. 11.2421: the Florida Statutes are adopted annually; a session law takes effect on the date it states, otherwise on the 60th day after the legislature adjourns (Fla. Const. art. III, s. 9); this first build holds only the 2026 Florida Statutes as published, dated by the day before retrieval https://www.leg.state.fl.us/statutes/
 
 ## How the history is built
 
-`tools/build.py` turns the corpus into this history in one pass: for Florida, one commit per act (its single snapshot), then the labelled corrections appended after it. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
+`tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `77a91b97ad7c30ae110cd2c6c5c189fd7cf2ee062f59ed46fc8cc26275d03481` (77224038 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `a7805b19c255c67dda985360f3ad913b2f2c622704d0f27990885e5f6b744ace` (77368475 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
