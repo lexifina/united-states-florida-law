@@ -4,6 +4,6 @@
   "name": "Florida",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-florida-law",
-  "build": "built: the Florida Constitution and all 49 titles of the 2026 Florida Statutes, current text only (one version each)",
+  "build": "built: the Florida Constitution and all 49 titles of the 2026 Florida Statutes; Titles XXXVII\u2013XLIX also have the 2024, 2025 annual editions",
   "register_date": "2026-11-03"
 }

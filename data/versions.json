@@ -36,6 +36,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 798,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL&StatuteYear=2024",
+     "sha256": "6691c1f5f23023ea54510a8ab5dc2ac756e01ea3396ed7bce0020869e12a3ee0"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 798,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL&StatuteYear=2025",
+     "sha256": "bdad7c08ba22cf84f60a7e1507fa16bb5e78f2f2139b8c43500392862791de80"
+    },
+    {
      "from": "2026-10-29",
      "units": 798,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
@@ -49,6 +61,18 @@
    "title": "Florida Statutes, Title XLVI: Crimes",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 976,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI&StatuteYear=2024",
+     "sha256": "f2e9fcea49edd878dfe2b917094f31b6dad0d86fae462dbcb2d5d19ca6f1c7f7"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 981,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI&StatuteYear=2025",
+     "sha256": "4de624d964ca7f68dbe3ee35fcba441e8f0b840bb937baca9758d3dd0e2f23c5"
+    },
     {
      "from": "2026-10-29",
      "units": 985,
@@ -554,6 +578,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 2276,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII&StatuteYear=2024",
+     "sha256": "3ca63fa69bbd03886da1c5073d0e66e26e584215a306ecc94e76ef88e984edfe"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 2279,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII&StatuteYear=2025",
+     "sha256": "72e94bdd8f7e3f41072ae950aa1a8cb574d44a91134b601107ea8c4546cb2ade"
+    },
+    {
      "from": "2026-11-03",
      "units": 2278,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII",
@@ -567,6 +603,18 @@
    "title": "Florida Statutes, Title XXXVIII: Banks and Banking",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 346,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII&StatuteYear=2024",
+     "sha256": "7d6cf12d9d1dad5a0fa0eae39097959b8cf72f1fd9b0c6436265b41fd7c5f261"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 347,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII&StatuteYear=2025",
+     "sha256": "b404ada6b7ee5e164fb56ec21cd2e3930a66b420c256633ac56744baab4de7c0"
+    },
     {
      "from": "2026-11-03",
      "units": 348,
@@ -582,6 +630,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 855,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX&StatuteYear=2024",
+     "sha256": "43139ab22c8dd8a2ca4b80f91bc0997d2bd1aca4e636217105af3b4cd6942cea"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 893,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX&StatuteYear=2025",
+     "sha256": "e40dcbd59faccb441a647228a7f401138f46685b6adfa233f16f4308ba0dac0b"
+    },
+    {
      "from": "2026-11-03",
      "units": 893,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX",
@@ -595,6 +655,18 @@
    "title": "Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 37,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI&StatuteYear=2024",
+     "sha256": "7f4cac38a2dd204cc4159f450d92033d7468b939480da320d92a68de86cf912b"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 37,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI&StatuteYear=2025",
+     "sha256": "10b52dbf04bbd7eabe52116a2a876d280cc1f2f45d3a3246b9c9b2e0928b2b3e"
+    },
     {
      "from": "2026-11-03",
      "units": 37,
@@ -610,6 +682,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 466,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII&StatuteYear=2024",
+     "sha256": "1fb114c27150d49077086e18ff93c5ac225f396f9b6a597b10766a10a4dba19e"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 468,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII&StatuteYear=2025",
+     "sha256": "2f01aa3a088cfbe1fbe0e99e28a6e8024d7508eb78bb3da52559a138b1055c17"
+    },
+    {
      "from": "2026-11-03",
      "units": 470,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII",
@@ -623,6 +707,18 @@
    "title": "Florida Statutes, Title XLIII: Domestic Relations",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 262,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII&StatuteYear=2024",
+     "sha256": "82e37646338bf92d7d67f0e1e30631a22230b3fbb1e44002039d86a2c1e52755"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 262,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII&StatuteYear=2025",
+     "sha256": "f44985ccbd88ae1b1ecbbc8147e3b56a49d4e4910b7e4da56d38b221fc24a533"
+    },
     {
      "from": "2026-11-03",
      "units": 265,
@@ -638,6 +734,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 94,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV&StatuteYear=2024",
+     "sha256": "b750c4e15d41fb637a0426f8ea6b22ae09974325b50a7aa69de0ef23f0bc2485"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 95,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV&StatuteYear=2025",
+     "sha256": "05093cdde9351b5efb8f7061746e5c957d597ce15b1e409960ed6aaffe6250b7"
+    },
+    {
      "from": "2026-11-03",
      "units": 95,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
@@ -651,6 +759,18 @@
    "title": "Florida Statutes, Title XLV: Torts",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 197,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV&StatuteYear=2024",
+     "sha256": "0a45610c221e73a49a695acf5891474078e7b35ca1bd587ca1219a325aac7982"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 197,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV&StatuteYear=2025",
+     "sha256": "79ba521e525c4d39316a2c1fe875443d5eba1c2bab2978986935dcb0f0abbf02"
+    },
     {
      "from": "2026-11-03",
      "units": 198,
@@ -666,6 +786,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 1206,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII&StatuteYear=2024",
+     "sha256": "aff9665a2e87ad4c804b6c27ef3f155275a5c34ee2ae26ea7dea1e30a0c78a76"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 1211,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII&StatuteYear=2025",
+     "sha256": "4a29e65c0d78a9ecf681aef2462f1558f2f515b413df12f422e82fc3f95476c3"
+    },
+    {
      "from": "2026-11-03",
      "units": 1219,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII",
@@ -680,6 +812,18 @@
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII",
    "versions": [
     {
+     "from": "2024-12-31",
+     "units": 961,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII&StatuteYear=2024",
+     "sha256": "d4820c61e34c58fa524cb8b68fc7ec17af40e65077ba9777ad6c8b799925108c"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 973,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII&StatuteYear=2025",
+     "sha256": "36c9aae7326d20b8ae04549d72edcab18badfa308120b4bfb928ce1fb0f8a3c8"
+    },
+    {
      "from": "2026-11-03",
      "units": 985,
      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII",
@@ -693,6 +837,18 @@
    "title": "Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights",
    "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX",
    "versions": [
+    {
+     "from": "2024-12-31",
+     "units": 12,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX&StatuteYear=2024",
+     "sha256": "d5e25256aab9cb4855ed73e827cb6393a48a537b69d12ea0651389cb2a504992"
+    },
+    {
+     "from": "2025-12-31",
+     "units": 12,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX&StatuteYear=2025",
+     "sha256": "c64992772137d627469e48d80b47621f596d1d46821fa5f44cf93887f795a1d0"
+    },
     {
      "from": "2026-11-03",
      "units": 12,
