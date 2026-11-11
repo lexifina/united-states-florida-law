@@ -388,8 +388,8 @@
     {
      "from": "2026-11-03",
      "units": 131,
-     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV",
-     "sha256": "f9509623cd8439de5e2a0b5d118431b8587777f34ac10b3b77a65b06d4d33b8c"
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV&StatuteYear=2026",
+     "sha256": "f96c5e65bafe6e2188c9bc95e8edb39d53d29a671caf8e02198ecb181ed26ef9"
     }
    ]
   },
