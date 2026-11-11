@@ -86,4 +86,4 @@ The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes
 
 ## What "author" means
 
-Each act's original commit is authored by the publisher (the Florida Legislature (Online Sunshine)) because this record holds one version of each act, the oldest version available. The correction commits that restore the page's own text and label the dates are authored by Lexifina. The committer is always Lexifina.
+Each commit is authored by the publisher (the Florida Legislature (Online Sunshine)) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
