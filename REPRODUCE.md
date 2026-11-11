@@ -1,6 +1,6 @@
 # How this repository was made (Florida)
 
-This file is written by the build on 2026-11-03, the day the source data was retrieved.
+This file is written by the build on 2026-11-11, the day the source data was retrieved.
 
 ## Sources
 
@@ -17,8 +17,8 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | --- | --- | ---: | --- |
 | `constitution` | Constitution of the State of Florida | 1 | 2026-10-29 to 2026-10-29 |
 | `title-36-business-organizations` | Florida Statutes, Title XXXVI: Business Organizations | 1 | 2026-10-29 to 2026-10-29 |
-| `title-40-real-and-personal-property` | Florida Statutes, Title XL: Real and Personal Property | 1 | 2026-10-29 to 2026-10-29 |
-| `title-46-crimes` | Florida Statutes, Title XLVI: Crimes | 1 | 2026-10-29 to 2026-10-29 |
+| `title-40-real-and-personal-property` | Florida Statutes, Title XL: Real and Personal Property | 2 | 2025-12-31 to 2026-10-29 |
+| `title-46-crimes` | Florida Statutes, Title XLVI: Crimes | 2 | 2025-12-31 to 2026-10-29 |
 | `title-1-construction-of-statutes` | Florida Statutes, Title I: Construction of Statutes | 1 | 2026-11-03 to 2026-11-03 |
 | `title-2-state-organization` | Florida Statutes, Title II: State Organization | 1 | 2026-11-03 to 2026-11-03 |
 | `title-3-legislative-branch-commissions` | Florida Statutes, Title III: Legislative Branch; Commissions | 1 | 2026-11-03 to 2026-11-03 |
@@ -54,19 +54,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `title-33-regulation-of-trade-commerce-investments-and-solicitations` | Florida Statutes, Title XXXIII: Regulation of Trade, Commerce, Investments,   and Solicitations | 1 | 2026-11-03 to 2026-11-03 |
 | `title-34-alcoholic-beverages-and-tobacco` | Florida Statutes, Title XXXIV: Alcoholic Beverages and Tobacco | 1 | 2026-11-03 to 2026-11-03 |
 | `title-35-agriculture-horticulture-and-animal-industry` | Florida Statutes, Title XXXV: Agriculture, Horticulture, and Animal Industry | 1 | 2026-11-03 to 2026-11-03 |
-| `title-37-insurance` | Florida Statutes, Title XXXVII: Insurance | 1 | 2026-11-03 to 2026-11-03 |
-| `title-38-banks-and-banking` | Florida Statutes, Title XXXVIII: Banks and Banking | 1 | 2026-11-03 to 2026-11-03 |
-| `title-39-commercial-relations` | Florida Statutes, Title XXXIX: Commercial Relations | 1 | 2026-11-03 to 2026-11-03 |
-| `title-41-statute-of-frauds-fraudulent-transfers-and-general-assignments` | Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments | 1 | 2026-11-03 to 2026-11-03 |
-| `title-42-estates-and-trusts` | Florida Statutes, Title XLII: Estates and Trusts | 1 | 2026-11-03 to 2026-11-03 |
-| `title-43-domestic-relations` | Florida Statutes, Title XLIII: Domestic Relations | 1 | 2026-11-03 to 2026-11-03 |
-| `title-44-civil-rights` | Florida Statutes, Title XLIV: Civil Rights | 1 | 2026-11-03 to 2026-11-03 |
-| `title-45-torts` | Florida Statutes, Title XLV: Torts | 1 | 2026-11-03 to 2026-11-03 |
-| `title-47-criminal-procedure-and-corrections` | Florida Statutes, Title XLVII: Criminal Procedure and Corrections | 1 | 2026-11-03 to 2026-11-03 |
-| `title-48-early-learning-20-education-code` | Florida Statutes, Title XLVIII: Early Learning-20 Education Code | 1 | 2026-11-03 to 2026-11-03 |
-| `title-49-parents-bill-of-rights-teachers-bill-of-rights` | Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights | 1 | 2026-11-03 to 2026-11-03 |
+| `title-37-insurance` | Florida Statutes, Title XXXVII: Insurance | 2 | 2025-12-31 to 2026-11-03 |
+| `title-38-banks-and-banking` | Florida Statutes, Title XXXVIII: Banks and Banking | 2 | 2025-12-31 to 2026-11-03 |
+| `title-39-commercial-relations` | Florida Statutes, Title XXXIX: Commercial Relations | 2 | 2025-12-31 to 2026-11-03 |
+| `title-41-statute-of-frauds-fraudulent-transfers-and-general-assignments` | Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments | 2 | 2025-12-31 to 2026-11-03 |
+| `title-42-estates-and-trusts` | Florida Statutes, Title XLII: Estates and Trusts | 2 | 2025-12-31 to 2026-11-03 |
+| `title-43-domestic-relations` | Florida Statutes, Title XLIII: Domestic Relations | 2 | 2025-12-31 to 2026-11-03 |
+| `title-44-civil-rights` | Florida Statutes, Title XLIV: Civil Rights | 2 | 2025-12-31 to 2026-11-03 |
+| `title-45-torts` | Florida Statutes, Title XLV: Torts | 2 | 2025-12-31 to 2026-11-03 |
+| `title-47-criminal-procedure-and-corrections` | Florida Statutes, Title XLVII: Criminal Procedure and Corrections | 2 | 2025-12-31 to 2026-11-03 |
+| `title-48-early-learning-20-education-code` | Florida Statutes, Title XLVIII: Early Learning-20 Education Code | 2 | 2025-12-31 to 2026-11-03 |
+| `title-49-parents-bill-of-rights-teachers-bill-of-rights` | Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights | 2 | 2025-12-31 to 2026-11-03 |
 
-The build made 50 commits:
+The build made 76 commits:
 
 | Commits | Kind |
 | ---: | --- |
@@ -75,7 +75,7 @@ The build made 50 commits:
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-03.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
 - 50 tags.
@@ -90,8 +90,8 @@ When a law gives no date of its own, the default rule applies: Fla. Stat. 11.242
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `a59e588c3e11682cb75427b36ed411d497bdf6bc4db7e7dd451f033501e7d838` (76964782 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
+- Corpus: sha256 `97736af7748cb2912be852ad7281cc45017236886a242b3b3ec58fffc62cc872` (101763013 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
