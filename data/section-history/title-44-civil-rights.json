@@ -1,0 +1,1490 @@
+{
+  "schema_version": 1,
+  "act_path": "title-44-civil-rights",
+  "title": "Florida Statutes, Title XLIV: Civil Rights",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV&StatuteYear=2026",
+  "source_title_sha256": "64cb18b558bfa2b38fba843b7356510531d16711c2bb1f532bc1151e0f73ffde",
+  "sections": [
+    {
+      "section": "760.01",
+      "section_path": "title-44-civil-rights/sec-0760-01.md",
+      "history": [
+        "History.—s. 1, ch. 69-287; s. 1, ch. 72-48; s. 1, ch. 77-341; s. 1, ch. 92-177; s. 4, ch. 92-282; s. 2, ch. 2015-68."
+      ],
+      "source_citations": [
+        "s. 1, ch. 69-287",
+        "s. 1, ch. 72-48",
+        "s. 1, ch. 77-341",
+        "s. 1, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 2, ch. 2015-68."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.02",
+      "section_path": "title-44-civil-rights/sec-0760-02.md",
+      "history": [
+        "History.—s. 2, ch. 69-287; s. 2, ch. 72-48; s. 2, ch. 77-341; s. 3, ch. 79-400; s. 2, ch. 92-177; s. 4, ch. 92-282; s. 4, ch. 2003-396."
+      ],
+      "source_citations": [
+        "s. 2, ch. 69-287",
+        "s. 2, ch. 72-48",
+        "s. 2, ch. 77-341",
+        "s. 3, ch. 79-400",
+        "s. 2, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 4, ch. 2003-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.021",
+      "section_path": "title-44-civil-rights/sec-0760-021.md",
+      "history": [
+        "History.—s. 2, ch. 2003-396."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2003-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.03",
+      "section_path": "title-44-civil-rights/sec-0760-03.md",
+      "history": [
+        "History.—s. 3, ch. 69-287; s. 1, ch. 70-438; s. 3, ch. 77-341; s. 1, ch. 80-148; s. 27, ch. 87-172; s. 3, ch. 92-177; s. 4, ch. 92-282; s. 1, ch. 2020-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 69-287",
+        "s. 1, ch. 70-438",
+        "s. 3, ch. 77-341",
+        "s. 1, ch. 80-148",
+        "s. 27, ch. 87-172",
+        "s. 3, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 1, ch. 2020-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.04",
+      "section_path": "title-44-civil-rights/sec-0760-04.md",
+      "history": [
+        "History.—s. 7, ch. 69-287; ss. 45, 56, ch. 79-190; s. 4, ch. 92-177; s. 134, ch. 92-279; ss. 1, 4, ch. 92-282; s. 55, ch. 92-326; s. 35, ch. 96-399."
+      ],
+      "source_citations": [
+        "s. 7, ch. 69-287",
+        "ss. 45, 56, ch. 79-190",
+        "s. 4, ch. 92-177",
+        "s. 134, ch. 92-279",
+        "ss. 1, 4, ch. 92-282",
+        "s. 55, ch. 92-326",
+        "s. 35, ch. 96-399."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.05",
+      "section_path": "title-44-civil-rights/sec-0760-05.md",
+      "history": [
+        "History.—s. 4, ch. 69-287; s. 4, ch. 77-341; s. 4, ch. 79-400; s. 3, ch. 2015-68."
+      ],
+      "source_citations": [
+        "s. 4, ch. 69-287",
+        "s. 4, ch. 77-341",
+        "s. 4, ch. 79-400",
+        "s. 3, ch. 2015-68."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.06",
+      "section_path": "title-44-civil-rights/sec-0760-06.md",
+      "history": [
+        "History.—s. 5, ch. 69-287; s. 3, ch. 72-48; s. 1, ch. 75-232; s. 5, ch. 77-341; s. 5, ch. 92-177; s. 4, ch. 92-282; s. 26, ch. 99-333."
+      ],
+      "source_citations": [
+        "s. 5, ch. 69-287",
+        "s. 3, ch. 72-48",
+        "s. 1, ch. 75-232",
+        "s. 5, ch. 77-341",
+        "s. 5, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 26, ch. 99-333."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.065",
+      "section_path": "title-44-civil-rights/sec-0760-065.md",
+      "history": [
+        "History.—s. 1, ch. 2010-53; s. 2, ch. 2020-153."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2010-53",
+        "s. 2, ch. 2020-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.07",
+      "section_path": "title-44-civil-rights/sec-0760-07.md",
+      "history": [
+        "History.—s. 6, ch. 92-177; s. 4, ch. 92-282; s. 1137, ch. 97-102; s. 4, ch. 2015-68; s. 3, ch. 2020-164."
+      ],
+      "source_citations": [
+        "s. 6, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 1137, ch. 97-102",
+        "s. 4, ch. 2015-68",
+        "s. 3, ch. 2020-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.08",
+      "section_path": "title-44-civil-rights/sec-0760-08.md",
+      "history": [
+        "History.—s. 5, ch. 2003-396; s. 5, ch. 2015-68."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2003-396",
+        "s. 5, ch. 2015-68."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.10",
+      "section_path": "title-44-civil-rights/sec-0760-10.md",
+      "history": [
+        "History.—s. 6, ch. 77-341; s. 2, ch. 78-49; s. 5, ch. 79-400; s. 1, ch. 81-109; s. 7, ch. 92-177; ss. 2, 4, ch. 92-282; s. 6, ch. 2015-68; s. 1, ch. 2022-72."
+      ],
+      "source_citations": [
+        "s. 6, ch. 77-341",
+        "s. 2, ch. 78-49",
+        "s. 5, ch. 79-400",
+        "s. 1, ch. 81-109",
+        "s. 7, ch. 92-177",
+        "ss. 2, 4, ch. 92-282",
+        "s. 6, ch. 2015-68",
+        "s. 1, ch. 2022-72."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.11",
+      "section_path": "title-44-civil-rights/sec-0760-11.md",
+      "history": [
+        "History.—s. 8, ch. 92-177; s. 3, ch. 92-282; s. 1, ch. 94-91; s. 417, ch. 96-406; s. 302, ch. 96-410; s. 1, ch. 2001-187; s. 97, ch. 2004-11; s. 7, ch. 2015-68; s. 3, ch. 2020-153; s. 1, ch. 2026-116."
+      ],
+      "source_citations": [
+        "s. 8, ch. 92-177",
+        "s. 3, ch. 92-282",
+        "s. 1, ch. 94-91",
+        "s. 417, ch. 96-406",
+        "s. 302, ch. 96-410",
+        "s. 1, ch. 2001-187",
+        "s. 97, ch. 2004-11",
+        "s. 7, ch. 2015-68",
+        "s. 3, ch. 2020-153",
+        "s. 1, ch. 2026-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.20",
+      "section_path": "title-44-civil-rights/sec-0760-20.md",
+      "history": [
+        "History.—s. 1, ch. 83-221."
+      ],
+      "source_citations": [
+        "s. 1, ch. 83-221."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.21",
+      "section_path": "title-44-civil-rights/sec-0760-21.md",
+      "history": [
+        "History.—s. 2, ch. 83-221."
+      ],
+      "source_citations": [
+        "s. 2, ch. 83-221."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.22",
+      "section_path": "title-44-civil-rights/sec-0760-22.md",
+      "history": [
+        "History.—s. 3, ch. 83-221; s. 1, ch. 84-117; s. 1, ch. 87-106; s. 28, ch. 89-308; s. 1, ch. 89-321; s. 1138, ch. 97-102; s. 5, ch. 2020-76; s. 8, ch. 2026-179."
+      ],
+      "source_citations": [
+        "s. 3, ch. 83-221",
+        "s. 1, ch. 84-117",
+        "s. 1, ch. 87-106",
+        "s. 28, ch. 89-308",
+        "s. 1, ch. 89-321",
+        "s. 1138, ch. 97-102",
+        "s. 5, ch. 2020-76",
+        "s. 8, ch. 2026-179."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.23",
+      "section_path": "title-44-civil-rights/sec-0760-23.md",
+      "history": [
+        "History.—s. 5, ch. 83-221; s. 2, ch. 84-117; s. 2, ch. 89-321; s. 6, ch. 2020-76."
+      ],
+      "source_citations": [
+        "s. 5, ch. 83-221",
+        "s. 2, ch. 84-117",
+        "s. 2, ch. 89-321",
+        "s. 6, ch. 2020-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.24",
+      "section_path": "title-44-civil-rights/sec-0760-24.md",
+      "history": [
+        "History.—s. 7, ch. 83-221; s. 3, ch. 84-117; s. 3, ch. 89-321; s. 1139, ch. 97-102; s. 7, ch. 2020-76."
+      ],
+      "source_citations": [
+        "s. 7, ch. 83-221",
+        "s. 3, ch. 84-117",
+        "s. 3, ch. 89-321",
+        "s. 1139, ch. 97-102",
+        "s. 7, ch. 2020-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.25",
+      "section_path": "title-44-civil-rights/sec-0760-25.md",
+      "history": [
+        "History.—s. 6, ch. 83-221; s. 4, ch. 84-117; s. 4, ch. 89-321; s. 17, ch. 90-275; s. 1140, ch. 97-102; s. 8, ch. 2020-76."
+      ],
+      "source_citations": [
+        "s. 6, ch. 83-221",
+        "s. 4, ch. 84-117",
+        "s. 4, ch. 89-321",
+        "s. 17, ch. 90-275",
+        "s. 1140, ch. 97-102",
+        "s. 8, ch. 2020-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.26",
+      "section_path": "title-44-civil-rights/sec-0760-26.md",
+      "history": [
+        "History.—s. 16, ch. 2000-353; s. 9, ch. 2026-179."
+      ],
+      "source_citations": [
+        "s. 16, ch. 2000-353",
+        "s. 9, ch. 2026-179."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.27",
+      "section_path": "title-44-civil-rights/sec-0760-27.md",
+      "history": [
+        "History.—s. 1, ch. 2020-76."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2020-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.29",
+      "section_path": "title-44-civil-rights/sec-0760-29.md",
+      "history": [
+        "History.—ss. 4, 8, ch. 83-221; s. 5, ch. 84-117; s. 5, ch. 89-321; s. 18, ch. 90-275; s. 1, ch. 96-191; s. 1792, ch. 97-102; s. 1, ch. 99-348; s. 4, ch. 2001-143; s. 59, ch. 2003-164; s. 9, ch. 2020-76; s. 4, ch. 2020-153."
+      ],
+      "source_citations": [
+        "ss. 4, 8, ch. 83-221",
+        "s. 5, ch. 84-117",
+        "s. 5, ch. 89-321",
+        "s. 18, ch. 90-275",
+        "s. 1, ch. 96-191",
+        "s. 1792, ch. 97-102",
+        "s. 1, ch. 99-348",
+        "s. 4, ch. 2001-143",
+        "s. 59, ch. 2003-164",
+        "s. 9, ch. 2020-76",
+        "s. 4, ch. 2020-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.30",
+      "section_path": "title-44-civil-rights/sec-0760-30.md",
+      "history": [
+        "History.—s. 9, ch. 83-221."
+      ],
+      "source_citations": [
+        "s. 9, ch. 83-221."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.31",
+      "section_path": "title-44-civil-rights/sec-0760-31.md",
+      "history": [
+        "History.—s. 9, ch. 83-221; s. 6, ch. 89-321; s. 5, ch. 2001-143; s. 10, ch. 2020-76; s. 5, ch. 2020-153."
+      ],
+      "source_citations": [
+        "s. 9, ch. 83-221",
+        "s. 6, ch. 89-321",
+        "s. 5, ch. 2001-143",
+        "s. 10, ch. 2020-76",
+        "s. 5, ch. 2020-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.32",
+      "section_path": "title-44-civil-rights/sec-0760-32.md",
+      "history": [
+        "History.—s. 9, ch. 83-221; s. 1141, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 9, ch. 83-221",
+        "s. 1141, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.34",
+      "section_path": "title-44-civil-rights/sec-0760-34.md",
+      "history": [
+        "History.—ss. 9, 10, ch. 83-221; s. 7, ch. 89-321; s. 2, ch. 94-91; s. 418, ch. 96-406; s. 1793, ch. 97-102; s. 8, ch. 2013-207; s. 4, ch. 2020-164."
+      ],
+      "source_citations": [
+        "ss. 9, 10, ch. 83-221",
+        "s. 7, ch. 89-321",
+        "s. 2, ch. 94-91",
+        "s. 418, ch. 96-406",
+        "s. 1793, ch. 97-102",
+        "s. 8, ch. 2013-207",
+        "s. 4, ch. 2020-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.35",
+      "section_path": "title-44-civil-rights/sec-0760-35.md",
+      "history": [
+        "History.—s. 11, ch. 83-221; s. 8, ch. 89-321; s. 303, ch. 96-410; s. 1794, ch. 97-102; s. 5, ch. 2020-164; s. 10, ch. 2026-179."
+      ],
+      "source_citations": [
+        "s. 11, ch. 83-221",
+        "s. 8, ch. 89-321",
+        "s. 303, ch. 96-410",
+        "s. 1794, ch. 97-102",
+        "s. 5, ch. 2020-164",
+        "s. 10, ch. 2026-179."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.36",
+      "section_path": "title-44-civil-rights/sec-0760-36.md",
+      "history": [
+        "History.—s. 19, ch. 90-275; s. 9, ch. 92-177; s. 4, ch. 92-282; s. 3, ch. 94-91; s. 419, ch. 96-406."
+      ],
+      "source_citations": [
+        "s. 19, ch. 90-275",
+        "s. 9, ch. 92-177",
+        "s. 4, ch. 92-282",
+        "s. 3, ch. 94-91",
+        "s. 419, ch. 96-406."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.37",
+      "section_path": "title-44-civil-rights/sec-0760-37.md",
+      "history": [
+        "History.—s. 12, ch. 83-221; s. 9, ch. 89-321; s. 1142, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 12, ch. 83-221",
+        "s. 9, ch. 89-321",
+        "s. 1142, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.40",
+      "section_path": "title-44-civil-rights/sec-0760-40.md",
+      "history": [
+        "History.—s. 1, ch. 92-101; s. 10, ch. 93-204; s. 1, ch. 94-90; s. 420, ch. 96-406; s. 1795, ch. 97-102; s. 15, ch. 98-251; s. 7, ch. 2001-127; s. 40, ch. 2005-39; s. 3, ch. 2009-190; s. 2, ch. 2021-216."
+      ],
+      "source_citations": [
+        "s. 1, ch. 92-101",
+        "s. 10, ch. 93-204",
+        "s. 1, ch. 94-90",
+        "s. 420, ch. 96-406",
+        "s. 1795, ch. 97-102",
+        "s. 15, ch. 98-251",
+        "s. 7, ch. 2001-127",
+        "s. 40, ch. 2005-39",
+        "s. 3, ch. 2009-190",
+        "s. 2, ch. 2021-216."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.50",
+      "section_path": "title-44-civil-rights/sec-0760-50.md",
+      "history": [
+        "History.—s. 45, ch. 88-380; s. 14, ch. 89-350; s. 6, ch. 94-90; s. 421, ch. 96-406; s. 1796, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 45, ch. 88-380",
+        "s. 14, ch. 89-350",
+        "s. 6, ch. 94-90",
+        "s. 421, ch. 96-406",
+        "s. 1796, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.51",
+      "section_path": "title-44-civil-rights/sec-0760-51.md",
+      "history": [
+        "History.—s. 4, ch. 91-74."
+      ],
+      "source_citations": [
+        "s. 4, ch. 91-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.60",
+      "section_path": "title-44-civil-rights/sec-0760-60.md",
+      "history": [
+        "History.—s. 12, ch. 92-177; s. 6, ch. 2020-153."
+      ],
+      "source_citations": [
+        "s. 12, ch. 92-177",
+        "s. 6, ch. 2020-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.701",
+      "section_path": "title-44-civil-rights/sec-0760-701.md",
+      "history": [
+        "History.—s. 3, ch. 2025-81."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2025-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.80",
+      "section_path": "title-44-civil-rights/sec-0760-80.md",
+      "history": [
+        "History.—s. 1, ch. 94-213; s. 160, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 1, ch. 94-213",
+        "s. 160, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "760.854",
+      "section_path": "title-44-civil-rights/sec-0760-854.md",
+      "history": [
+        "History.—s. 1, ch. 98-304; s. 440, ch. 2011-142."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-304",
+        "s. 440, ch. 2011-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "source_sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2"
+    },
+    {
+      "section": "761.01",
+      "section_path": "title-44-civil-rights/sec-0761-01.md",
+      "history": [
+        "History.—s. 1, ch. 98-412."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-412."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "761.02",
+      "section_path": "title-44-civil-rights/sec-0761-02.md",
+      "history": [
+        "History.—s. 2, ch. 98-412."
+      ],
+      "source_citations": [
+        "s. 2, ch. 98-412."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "761.03",
+      "section_path": "title-44-civil-rights/sec-0761-03.md",
+      "history": [
+        "History.—s. 3, ch. 98-412."
+      ],
+      "source_citations": [
+        "s. 3, ch. 98-412."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "761.04",
+      "section_path": "title-44-civil-rights/sec-0761-04.md",
+      "history": [
+        "History.—s. 4, ch. 98-412."
+      ],
+      "source_citations": [
+        "s. 4, ch. 98-412."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "761.05",
+      "section_path": "title-44-civil-rights/sec-0761-05.md",
+      "history": [
+        "History.—s. 5, ch. 98-412."
+      ],
+      "source_citations": [
+        "s. 5, ch. 98-412."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "761.061",
+      "section_path": "title-44-civil-rights/sec-0761-061.md",
+      "history": [
+        "History.—s. 1, ch. 2016-50."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2016-50."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "source_sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20"
+    },
+    {
+      "section": "765.101",
+      "section_path": "title-44-civil-rights/sec-0765-101.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 3, ch. 94-183; s. 46, ch. 96-169; s. 16, ch. 99-331; s. 3, ch. 2001-250; s. 131, ch. 2001-277; s. 104, ch. 2006-1; s. 28, ch. 2006-178; s. 2, ch. 2015-153; s. 14, ch. 2021-112; s. 60, ch. 2022-4."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 3, ch. 94-183",
+        "s. 46, ch. 96-169",
+        "s. 16, ch. 99-331",
+        "s. 3, ch. 2001-250",
+        "s. 131, ch. 2001-277",
+        "s. 104, ch. 2006-1",
+        "s. 28, ch. 2006-178",
+        "s. 2, ch. 2015-153",
+        "s. 14, ch. 2021-112",
+        "s. 60, ch. 2022-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.102",
+      "section_path": "title-44-civil-rights/sec-0765-102.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 1144, ch. 97-102; s. 17, ch. 99-331; s. 7, ch. 2000-295; s. 4, ch. 2001-250; ss. 132, 133, ch. 2001-277; s. 3, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 1144, ch. 97-102",
+        "s. 17, ch. 99-331",
+        "s. 7, ch. 2000-295",
+        "s. 4, ch. 2001-250",
+        "ss. 132, 133, ch. 2001-277",
+        "s. 3, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.103",
+      "section_path": "title-44-civil-rights/sec-0765-103.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 18, ch. 99-331."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 18, ch. 99-331."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.104",
+      "section_path": "title-44-civil-rights/sec-0765-104.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 47, ch. 96-169; s. 19, ch. 99-331; s. 12, ch. 2002-195; s. 4, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 47, ch. 96-169",
+        "s. 19, ch. 99-331",
+        "s. 12, ch. 2002-195",
+        "s. 4, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.105",
+      "section_path": "title-44-civil-rights/sec-0765-105.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 4, ch. 94-183; s. 5, ch. 2015-153; s. 85, ch. 2016-10."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 4, ch. 94-183",
+        "s. 5, ch. 2015-153",
+        "s. 85, ch. 2016-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.106",
+      "section_path": "title-44-civil-rights/sec-0765-106.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 5, ch. 94-183."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 5, ch. 94-183."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.107",
+      "section_path": "title-44-civil-rights/sec-0765-107.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 20, ch. 99-331."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 20, ch. 99-331."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.108",
+      "section_path": "title-44-civil-rights/sec-0765-108.md",
+      "history": [
+        "History.—s. 2, ch. 92-199."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.109",
+      "section_path": "title-44-civil-rights/sec-0765-109.md",
+      "history": [
+        "History.—s. 2, ch. 92-199."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.110",
+      "section_path": "title-44-civil-rights/sec-0765-110.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 6, ch. 94-183; s. 243, ch. 94-218; s. 48, ch. 96-169; s. 284, ch. 99-8; s. 21, ch. 99-331; s. 293, ch. 2014-19; s. 29, ch. 2019-11."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 6, ch. 94-183",
+        "s. 243, ch. 94-218",
+        "s. 48, ch. 96-169",
+        "s. 284, ch. 99-8",
+        "s. 21, ch. 99-331",
+        "s. 293, ch. 2014-19",
+        "s. 29, ch. 2019-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.1103",
+      "section_path": "title-44-civil-rights/sec-0765-1103.md",
+      "history": [
+        "History.—s. 8, ch. 2000-295; s. 5, ch. 2001-250; s. 134, ch. 2001-277; s. 105, ch. 2006-197; s. 6, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2000-295",
+        "s. 5, ch. 2001-250",
+        "s. 134, ch. 2001-277",
+        "s. 105, ch. 2006-197",
+        "s. 6, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.1105",
+      "section_path": "title-44-civil-rights/sec-0765-1105.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 11, ch. 94-183; s. 1148, ch. 97-102; s. 30, ch. 99-331; s. 7, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 11, ch. 94-183",
+        "s. 1148, ch. 97-102",
+        "s. 30, ch. 99-331",
+        "s. 7, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.1115",
+      "section_path": "title-44-civil-rights/sec-0765-1115.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 31, ch. 99-331."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 31, ch. 99-331."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.112",
+      "section_path": "title-44-civil-rights/sec-0765-112.md",
+      "history": [
+        "History.—s. 2, ch. 92-199."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.113",
+      "section_path": "title-44-civil-rights/sec-0765-113.md",
+      "history": [
+        "History.—s. 2, ch. 92-199; s. 7, ch. 94-183; s. 87, ch. 99-3."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-199",
+        "s. 7, ch. 94-183",
+        "s. 87, ch. 99-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.201",
+      "section_path": "title-44-civil-rights/sec-0765-201.md",
+      "history": [
+        "History.—s. 3, ch. 92-199."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.202",
+      "section_path": "title-44-civil-rights/sec-0765-202.md",
+      "history": [
+        "History.—s. 3, ch. 92-199; s. 8, ch. 94-183; s. 49, ch. 96-169; s. 1797, ch. 97-102; s. 8, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-199",
+        "s. 8, ch. 94-183",
+        "s. 49, ch. 96-169",
+        "s. 1797, ch. 97-102",
+        "s. 8, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.203",
+      "section_path": "title-44-civil-rights/sec-0765-203.md",
+      "history": [
+        "History.—s. 3, ch. 92-199; s. 1145, ch. 97-102; s. 9, ch. 2000-295; s. 1, ch. 2008-223; s. 9, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-199",
+        "s. 1145, ch. 97-102",
+        "s. 9, ch. 2000-295",
+        "s. 1, ch. 2008-223",
+        "s. 9, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.2035",
+      "section_path": "title-44-civil-rights/sec-0765-2035.md",
+      "history": [
+        "History.—s. 10, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.2038",
+      "section_path": "title-44-civil-rights/sec-0765-2038.md",
+      "history": [
+        "History.—s. 11, ch. 2015-153; s. 86, ch. 2016-10."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2015-153",
+        "s. 86, ch. 2016-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.204",
+      "section_path": "title-44-civil-rights/sec-0765-204.md",
+      "history": [
+        "History.—s. 3, ch. 92-199; s. 1146, ch. 97-102; s. 22, ch. 99-331; s. 10, ch. 2000-295; s. 23, ch. 2013-162; s. 12, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-199",
+        "s. 1146, ch. 97-102",
+        "s. 22, ch. 99-331",
+        "s. 10, ch. 2000-295",
+        "s. 23, ch. 2013-162",
+        "s. 12, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.205",
+      "section_path": "title-44-civil-rights/sec-0765-205.md",
+      "history": [
+        "History.—s. 3, ch. 92-199; s. 9, ch. 94-183; s. 50, ch. 96-169; s. 23, ch. 99-331; s. 11, ch. 2000-295; s. 6, ch. 2001-250; s. 135, ch. 2001-277; s. 106, ch. 2006-197; s. 13, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-199",
+        "s. 9, ch. 94-183",
+        "s. 50, ch. 96-169",
+        "s. 23, ch. 99-331",
+        "s. 11, ch. 2000-295",
+        "s. 6, ch. 2001-250",
+        "s. 135, ch. 2001-277",
+        "s. 106, ch. 2006-197",
+        "s. 13, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.301",
+      "section_path": "title-44-civil-rights/sec-0765-301.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 24, ch. 99-331."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 24, ch. 99-331."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.302",
+      "section_path": "title-44-civil-rights/sec-0765-302.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 1147, ch. 97-102; s. 25, ch. 99-331; s. 14, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 1147, ch. 97-102",
+        "s. 25, ch. 99-331",
+        "s. 14, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.303",
+      "section_path": "title-44-civil-rights/sec-0765-303.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 35, ch. 99-6; s. 26, ch. 99-331; s. 12, ch. 2000-295; s. 15, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 35, ch. 99-6",
+        "s. 26, ch. 99-331",
+        "s. 12, ch. 2000-295",
+        "s. 15, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.304",
+      "section_path": "title-44-civil-rights/sec-0765-304.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 10, ch. 94-183; s. 27, ch. 99-331; s. 16, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 10, ch. 94-183",
+        "s. 27, ch. 99-331",
+        "s. 16, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.305",
+      "section_path": "title-44-civil-rights/sec-0765-305.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 28, ch. 99-331; s. 13, ch. 2000-295."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 28, ch. 99-331",
+        "s. 13, ch. 2000-295."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.306",
+      "section_path": "title-44-civil-rights/sec-0765-306.md",
+      "history": [
+        "History.—s. 4, ch. 92-199; s. 13, ch. 94-183; s. 29, ch. 99-331; s. 14, ch. 2000-295; s. 17, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199",
+        "s. 13, ch. 94-183",
+        "s. 29, ch. 99-331",
+        "s. 14, ch. 2000-295",
+        "s. 17, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.309",
+      "section_path": "title-44-civil-rights/sec-0765-309.md",
+      "history": [
+        "History.—s. 4, ch. 92-199."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.401",
+      "section_path": "title-44-civil-rights/sec-0765-401.md",
+      "history": [
+        "History.—s. 5, ch. 92-199; s. 12, ch. 94-183; s. 32, ch. 99-331; s. 15, ch. 2000-295; s. 7, ch. 2001-250; s. 136, ch. 2001-277; s. 13, ch. 2002-195; s. 5, ch. 2003-57."
+      ],
+      "source_citations": [
+        "s. 5, ch. 92-199",
+        "s. 12, ch. 94-183",
+        "s. 32, ch. 99-331",
+        "s. 15, ch. 2000-295",
+        "s. 7, ch. 2001-250",
+        "s. 136, ch. 2001-277",
+        "s. 13, ch. 2002-195",
+        "s. 5, ch. 2003-57."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.404",
+      "section_path": "title-44-civil-rights/sec-0765-404.md",
+      "history": [
+        "History.—s. 33, ch. 99-331; s. 18, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 33, ch. 99-331",
+        "s. 18, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.510",
+      "section_path": "title-44-civil-rights/sec-0765-510.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 113, ch. 75-220; s. 3, ch. 84-264; s. 60, ch. 2001-226."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 113, ch. 75-220",
+        "s. 3, ch. 84-264",
+        "s. 60, ch. 2001-226."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.511",
+      "section_path": "title-44-civil-rights/sec-0765-511.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 113, ch. 75-220; s. 973, ch. 97-102; s. 5, ch. 98-68; s. 61, ch. 2001-226; s. 1, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 113, ch. 75-220",
+        "s. 973, ch. 97-102",
+        "s. 5, ch. 98-68",
+        "s. 61, ch. 2001-226",
+        "s. 1, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.512",
+      "section_path": "title-44-civil-rights/sec-0765-512.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 4, ch. 84-264; s. 62, ch. 85-62; s. 5, ch. 95-423; s. 974, ch. 97-102; s. 6, ch. 98-68; s. 12, ch. 99-331; s. 62, ch. 2001-226; s. 2, ch. 2003-46; s. 2, ch. 2008-223; s. 2, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 4, ch. 84-264",
+        "s. 62, ch. 85-62",
+        "s. 5, ch. 95-423",
+        "s. 974, ch. 97-102",
+        "s. 6, ch. 98-68",
+        "s. 12, ch. 99-331",
+        "s. 62, ch. 2001-226",
+        "s. 2, ch. 2003-46",
+        "s. 2, ch. 2008-223",
+        "s. 2, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.513",
+      "section_path": "title-44-civil-rights/sec-0765-513.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 1, ch. 94-305; s. 975, ch. 97-102; s. 7, ch. 98-68; s. 63, ch. 2001-226; s. 3, ch. 2009-218; s. 20, ch. 2013-138."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 1, ch. 94-305",
+        "s. 975, ch. 97-102",
+        "s. 7, ch. 98-68",
+        "s. 63, ch. 2001-226",
+        "s. 3, ch. 2009-218",
+        "s. 20, ch. 2013-138."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.514",
+      "section_path": "title-44-civil-rights/sec-0765-514.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 1, ch. 83-171; s. 2, ch. 94-305; s. 6, ch. 95-423; s. 976, ch. 97-102; s. 8, ch. 98-68; s. 13, ch. 99-331; s. 64, ch. 2001-226; s. 3, ch. 2008-223; s. 4, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 1, ch. 83-171",
+        "s. 2, ch. 94-305",
+        "s. 6, ch. 95-423",
+        "s. 976, ch. 97-102",
+        "s. 8, ch. 98-68",
+        "s. 13, ch. 99-331",
+        "s. 64, ch. 2001-226",
+        "s. 3, ch. 2008-223",
+        "s. 4, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.515",
+      "section_path": "title-44-civil-rights/sec-0765-515.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 2, ch. 83-171; s. 1, ch. 87-372; s. 7, ch. 95-423; s. 33, ch. 96-418; s. 9, ch. 98-68; s. 65, ch. 2001-226; s. 17, ch. 2008-9; s. 4, ch. 2008-223; s. 5, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 2, ch. 83-171",
+        "s. 1, ch. 87-372",
+        "s. 7, ch. 95-423",
+        "s. 33, ch. 96-418",
+        "s. 9, ch. 98-68",
+        "s. 65, ch. 2001-226",
+        "s. 17, ch. 2008-9",
+        "s. 4, ch. 2008-223",
+        "s. 5, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.5155",
+      "section_path": "title-44-civil-rights/sec-0765-5155.md",
+      "history": [
+        "History.—s. 5, ch. 2008-223; s. 6, ch. 2009-218; s. 40, ch. 2010-151; s. 20, ch. 2013-154."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2008-223",
+        "s. 6, ch. 2009-218",
+        "s. 40, ch. 2010-151",
+        "s. 20, ch. 2013-154."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.51551",
+      "section_path": "title-44-civil-rights/sec-0765-51551.md",
+      "history": [
+        "History.—s. 1, ch. 2008-222; s. 7, ch. 2009-218; s. 1, ch. 2013-65."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2008-222",
+        "s. 7, ch. 2009-218",
+        "s. 1, ch. 2013-65."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.516",
+      "section_path": "title-44-civil-rights/sec-0765-516.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 113, ch. 75-220; s. 3, ch. 83-171; s. 8, ch. 95-423; s. 977, ch. 97-102; s. 10, ch. 98-68; s. 66, ch. 2001-226; s. 3, ch. 2003-46; s. 6, ch. 2008-223; s. 8, ch. 2009-218; s. 19, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 113, ch. 75-220",
+        "s. 3, ch. 83-171",
+        "s. 8, ch. 95-423",
+        "s. 977, ch. 97-102",
+        "s. 10, ch. 98-68",
+        "s. 66, ch. 2001-226",
+        "s. 3, ch. 2003-46",
+        "s. 6, ch. 2008-223",
+        "s. 8, ch. 2009-218",
+        "s. 19, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.517",
+      "section_path": "title-44-civil-rights/sec-0765-517.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 4, ch. 83-171; s. 9, ch. 95-423; s. 978, ch. 97-102; s. 14, ch. 99-331; s. 67, ch. 2001-226; s. 7, ch. 2008-223; s. 9, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 4, ch. 83-171",
+        "s. 9, ch. 95-423",
+        "s. 978, ch. 97-102",
+        "s. 14, ch. 99-331",
+        "s. 67, ch. 2001-226",
+        "s. 7, ch. 2008-223",
+        "s. 9, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.518",
+      "section_path": "title-44-civil-rights/sec-0765-518.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 462, ch. 77-147; s. 68, ch. 2001-226."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 462, ch. 77-147",
+        "s. 68, ch. 2001-226."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.5185",
+      "section_path": "title-44-civil-rights/sec-0765-5185.md",
+      "history": [
+        "History.—s. 1, ch. 77-172; s. 1, ch. 78-191; s. 979, ch. 97-102; s. 69, ch. 2001-226; s. 111, ch. 2002-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-172",
+        "s. 1, ch. 78-191",
+        "s. 979, ch. 97-102",
+        "s. 69, ch. 2001-226",
+        "s. 111, ch. 2002-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.519",
+      "section_path": "title-44-civil-rights/sec-0765-519.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 45, ch. 75-220; s. 1, ch. 80-157; s. 70, ch. 2001-226; s. 148, ch. 2004-301."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 45, ch. 75-220",
+        "s. 1, ch. 80-157",
+        "s. 70, ch. 2001-226",
+        "s. 148, ch. 2004-301."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.521",
+      "section_path": "title-44-civil-rights/sec-0765-521.md",
+      "history": [
+        "History.—s. 1, ch. 75-71; s. 1, ch. 77-16; s. 463, ch. 77-147; s. 1, ch. 77-174; ss. 1, 2, ch. 80-134; s. 5, ch. 83-171; s. 10, ch. 95-423; s. 71, ch. 2001-226; s. 8, ch. 2008-223; s. 10, ch. 2009-218; s. 62, ch. 2016-239."
+      ],
+      "source_citations": [
+        "s. 1, ch. 75-71",
+        "s. 1, ch. 77-16",
+        "s. 463, ch. 77-147",
+        "s. 1, ch. 77-174",
+        "ss. 1, 2, ch. 80-134",
+        "s. 5, ch. 83-171",
+        "s. 10, ch. 95-423",
+        "s. 71, ch. 2001-226",
+        "s. 8, ch. 2008-223",
+        "s. 10, ch. 2009-218",
+        "s. 62, ch. 2016-239."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.522",
+      "section_path": "title-44-civil-rights/sec-0765-522.md",
+      "history": [
+        "History.—s. 1, ch. 86-212; s. 2, ch. 87-372; s. 13, ch. 95-423; s. 980, ch. 97-102; s. 12, ch. 98-68; s. 15, ch. 99-331; s. 75, ch. 2001-226; s. 104, ch. 2003-1; s. 9, ch. 2008-223; s. 11, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-212",
+        "s. 2, ch. 87-372",
+        "s. 13, ch. 95-423",
+        "s. 980, ch. 97-102",
+        "s. 12, ch. 98-68",
+        "s. 15, ch. 99-331",
+        "s. 75, ch. 2001-226",
+        "s. 104, ch. 2003-1",
+        "s. 9, ch. 2008-223",
+        "s. 11, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.523",
+      "section_path": "title-44-civil-rights/sec-0765-523.md",
+      "history": [
+        "History.—s. 1, ch. 2020-139."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2020-139."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.541",
+      "section_path": "title-44-civil-rights/sec-0765-541.md",
+      "history": [
+        "History.—ss. 2, 9, ch. 91-271; s. 5, ch. 91-429; s. 5, ch. 94-305; s. 33, ch. 2003-1; s. 201, ch. 2007-230; s. 13, ch. 2009-218."
+      ],
+      "source_citations": [
+        "ss. 2, 9, ch. 91-271",
+        "s. 5, ch. 91-429",
+        "s. 5, ch. 94-305",
+        "s. 33, ch. 2003-1",
+        "s. 201, ch. 2007-230",
+        "s. 13, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.542",
+      "section_path": "title-44-civil-rights/sec-0765-542.md",
+      "history": [
+        "History.—s. 3, ch. 91-271; s. 6, ch. 94-305; s. 33, ch. 2003-1; s. 202, ch. 2007-230; s. 14, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 3, ch. 91-271",
+        "s. 6, ch. 94-305",
+        "s. 33, ch. 2003-1",
+        "s. 202, ch. 2007-230",
+        "s. 14, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.543",
+      "section_path": "title-44-civil-rights/sec-0765-543.md",
+      "history": [
+        "History.—ss. 4, 9, ch. 91-271; s. 5, ch. 91-429; s. 7, ch. 94-305; s. 7, ch. 2000-305; s. 33, ch. 2003-1; s. 15, ch. 2009-218."
+      ],
+      "source_citations": [
+        "ss. 4, 9, ch. 91-271",
+        "s. 5, ch. 91-429",
+        "s. 7, ch. 94-305",
+        "s. 7, ch. 2000-305",
+        "s. 33, ch. 2003-1",
+        "s. 15, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.544",
+      "section_path": "title-44-civil-rights/sec-0765-544.md",
+      "history": [
+        "History.—s. 5, ch. 91-271; s. 8, ch. 94-305; s. 32, ch. 96-418; ss. 3, 4, ch. 98-68; s. 54, ch. 2002-1; s. 33, ch. 2003-1; s. 203, ch. 2007-230; s. 19, ch. 2008-9; s. 16, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 5, ch. 91-271",
+        "s. 8, ch. 94-305",
+        "s. 32, ch. 96-418",
+        "ss. 3, 4, ch. 98-68",
+        "s. 54, ch. 2002-1",
+        "s. 33, ch. 2003-1",
+        "s. 203, ch. 2007-230",
+        "s. 19, ch. 2008-9",
+        "s. 16, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.545",
+      "section_path": "title-44-civil-rights/sec-0765-545.md",
+      "history": [
+        "History.—s. 6, ch. 91-271; s. 9, ch. 94-305; s. 1035, ch. 95-148; s. 34, ch. 2003-1; s. 17, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 6, ch. 91-271",
+        "s. 9, ch. 94-305",
+        "s. 1035, ch. 95-148",
+        "s. 34, ch. 2003-1",
+        "s. 17, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.546",
+      "section_path": "title-44-civil-rights/sec-0765-546.md",
+      "history": [
+        "History.—s. 7, ch. 91-271; s. 33, ch. 2003-1."
+      ],
+      "source_citations": [
+        "s. 7, ch. 91-271",
+        "s. 33, ch. 2003-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    },
+    {
+      "section": "765.547",
+      "section_path": "title-44-civil-rights/sec-0765-547.md",
+      "history": [
+        "History.—s. 18, ch. 2009-218."
+      ],
+      "source_citations": [
+        "s. 18, ch. 2009-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "source_sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f"
+    }
+  ]
+}

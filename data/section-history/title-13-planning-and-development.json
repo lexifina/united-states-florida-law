@@ -1,0 +1,2155 @@
+{
+  "schema_version": 1,
+  "act_path": "title-13-planning-and-development",
+  "title": "Florida Statutes, Title XIII: Planning and Development",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIII&StatuteYear=2026",
+  "source_title_sha256": "1c407c82fc615207b6ae71a0273d0bc56d2b12bc31e421c95760e0b560f33434",
+  "sections": [
+    {
+      "section": "186.001",
+      "section_path": "title-13-planning-and-development/sec-0186-001.md",
+      "history": [
+        "History.—s. 1, ch. 72-295; s. 68, ch. 99-2."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-295",
+        "s. 68, ch. 99-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.002",
+      "section_path": "title-13-planning-and-development/sec-0186-002.md",
+      "history": [
+        "History.—s. 2, ch. 84-257; s. 87, ch. 92-142; s. 19, ch. 93-206; s. 40, ch. 2000-371; s. 11, ch. 2012-99."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-257",
+        "s. 87, ch. 92-142",
+        "s. 19, ch. 93-206",
+        "s. 40, ch. 2000-371",
+        "s. 11, ch. 2012-99."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.003",
+      "section_path": "title-13-planning-and-development/sec-0186-003.md",
+      "history": [
+        "History.—s. 3, ch. 72-295; s. 1, ch. 78-287; s. 66, ch. 79-190; s. 3, ch. 84-257; s. 31, ch. 88-122; s. 97, ch. 91-282; s. 88, ch. 92-142; s. 20, ch. 93-206; s. 24, ch. 95-280; s. 12, ch. 97-79; s. 17, ch. 98-176; s. 69, ch. 99-2; s. 67, ch. 99-245; s. 41, ch. 2000-371; s. 9, ch. 2024-153."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-295",
+        "s. 1, ch. 78-287",
+        "s. 66, ch. 79-190",
+        "s. 3, ch. 84-257",
+        "s. 31, ch. 88-122",
+        "s. 97, ch. 91-282",
+        "s. 88, ch. 92-142",
+        "s. 20, ch. 93-206",
+        "s. 24, ch. 95-280",
+        "s. 12, ch. 97-79",
+        "s. 17, ch. 98-176",
+        "s. 69, ch. 99-2",
+        "s. 67, ch. 99-245",
+        "s. 41, ch. 2000-371",
+        "s. 9, ch. 2024-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.004",
+      "section_path": "title-13-planning-and-development/sec-0186-004.md",
+      "history": [
+        "History.—s. 1, ch. 67-157; s. 7, ch. 71-377; s. 4, ch. 72-295; s. 21, ch. 93-206."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-157",
+        "s. 7, ch. 71-377",
+        "s. 4, ch. 72-295",
+        "s. 21, ch. 93-206."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.005",
+      "section_path": "title-13-planning-and-development/sec-0186-005.md",
+      "history": [
+        "History.—s. 5, ch. 72-295; s. 67, ch. 79-190; s. 1, ch. 81-169; s. 32, ch. 88-122; s. 68, ch. 99-245; s. 7, ch. 2014-191."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-295",
+        "s. 67, ch. 79-190",
+        "s. 1, ch. 81-169",
+        "s. 32, ch. 88-122",
+        "s. 68, ch. 99-245",
+        "s. 7, ch. 2014-191."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.006",
+      "section_path": "title-13-planning-and-development/sec-0186-006.md",
+      "history": [
+        "History.—s. 4, ch. 84-257; s. 7, ch. 85-57; s. 1, ch. 95-149; s. 70, ch. 99-2."
+      ],
+      "source_citations": [
+        "s. 4, ch. 84-257",
+        "s. 7, ch. 85-57",
+        "s. 1, ch. 95-149",
+        "s. 70, ch. 99-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.007",
+      "section_path": "title-13-planning-and-development/sec-0186-007.md",
+      "history": [
+        "History.—s. 7, ch. 72-295; ss. 3, 5, ch. 77-306; s. 2, ch. 78-287; s. 68, ch. 79-190; s. 5, ch. 84-257; s. 22, ch. 93-206; s. 18, ch. 97-160; s. 18, ch. 98-176; s. 3, ch. 99-5; s. 4, ch. 2008-227; s. 46, ch. 2010-102; s. 12, ch. 2012-99."
+      ],
+      "source_citations": [
+        "s. 7, ch. 72-295",
+        "ss. 3, 5, ch. 77-306",
+        "s. 2, ch. 78-287",
+        "s. 68, ch. 79-190",
+        "s. 5, ch. 84-257",
+        "s. 22, ch. 93-206",
+        "s. 18, ch. 97-160",
+        "s. 18, ch. 98-176",
+        "s. 3, ch. 99-5",
+        "s. 4, ch. 2008-227",
+        "s. 46, ch. 2010-102",
+        "s. 12, ch. 2012-99."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.008",
+      "section_path": "title-13-planning-and-development/sec-0186-008.md",
+      "history": [
+        "History.—s. 3, ch. 67-157; ss. 31, 35, ch. 69-106; s. 8, ch. 72-295; s. 1, ch. 77-306; s. 3, ch. 78-287; s. 6, ch. 84-257; ss. 5, 7, ch. 85-57; s. 23, ch. 93-206; s. 958, ch. 95-147; s. 19, ch. 98-176."
+      ],
+      "source_citations": [
+        "s. 3, ch. 67-157",
+        "ss. 31, 35, ch. 69-106",
+        "s. 8, ch. 72-295",
+        "s. 1, ch. 77-306",
+        "s. 3, ch. 78-287",
+        "s. 6, ch. 84-257",
+        "ss. 5, 7, ch. 85-57",
+        "s. 23, ch. 93-206",
+        "s. 958, ch. 95-147",
+        "s. 19, ch. 98-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.009",
+      "section_path": "title-13-planning-and-development/sec-0186-009.md",
+      "history": [
+        "History.—s. 24, ch. 93-206; s. 19, ch. 97-160; s. 20, ch. 98-176."
+      ],
+      "source_citations": [
+        "s. 24, ch. 93-206",
+        "s. 19, ch. 97-160",
+        "s. 20, ch. 98-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.021",
+      "section_path": "title-13-planning-and-development/sec-0186-021.md",
+      "history": [
+        "History.—s. 7, ch. 84-257; ss. 6, 7, ch. 85-57; s. 1, ch. 87-137; s. 33, ch. 87-224; s. 7, ch. 91-429; s. 89, ch. 92-142; s. 25, ch. 93-206; s. 8, ch. 94-226; s. 47, ch. 94-249; s. 5, ch. 94-340; s. 39, ch. 94-356; s. 4, ch. 95-257; s. 3, ch. 97-286; ss. 16, 17, ch. 98-73; s. 42, ch. 2000-371."
+      ],
+      "source_citations": [
+        "s. 7, ch. 84-257",
+        "ss. 6, 7, ch. 85-57",
+        "s. 1, ch. 87-137",
+        "s. 33, ch. 87-224",
+        "s. 7, ch. 91-429",
+        "s. 89, ch. 92-142",
+        "s. 25, ch. 93-206",
+        "s. 8, ch. 94-226",
+        "s. 47, ch. 94-249",
+        "s. 5, ch. 94-340",
+        "s. 39, ch. 94-356",
+        "s. 4, ch. 95-257",
+        "s. 3, ch. 97-286",
+        "ss. 16, 17, ch. 98-73",
+        "s. 42, ch. 2000-371."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.031",
+      "section_path": "title-13-planning-and-development/sec-0186-031.md",
+      "history": [
+        "History.—s. 5, ch. 67-157; ss. 31, 35, ch. 69-106; s. 72, ch. 79-190; s. 15, ch. 81-259; s. 9, ch. 84-257."
+      ],
+      "source_citations": [
+        "s. 5, ch. 67-157",
+        "ss. 31, 35, ch. 69-106",
+        "s. 72, ch. 79-190",
+        "s. 15, ch. 81-259",
+        "s. 9, ch. 84-257."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.501",
+      "section_path": "title-13-planning-and-development/sec-0186-501.md",
+      "history": [
+        "History.—ss. 1, 5, ch. 80-315; s. 4, ch. 82-46; s. 1, ch. 92-182; s. 38, ch. 93-206."
+      ],
+      "source_citations": [
+        "ss. 1, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 1, ch. 92-182",
+        "s. 38, ch. 93-206."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.502",
+      "section_path": "title-13-planning-and-development/sec-0186-502.md",
+      "history": [
+        "History.—ss. 2, 5, ch. 80-315; s. 4, ch. 82-46; s. 10, ch. 84-257; s. 1, ch. 92-182; ss. 27, 38, ch. 93-206; s. 91, ch. 99-251."
+      ],
+      "source_citations": [
+        "ss. 2, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 10, ch. 84-257",
+        "s. 1, ch. 92-182",
+        "ss. 27, 38, ch. 93-206",
+        "s. 91, ch. 99-251."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.503",
+      "section_path": "title-13-planning-and-development/sec-0186-503.md",
+      "history": [
+        "History.—ss. 3, 5, ch. 80-315; s. 7, ch. 81-167; s. 4, ch. 82-46; s. 7, ch. 83-55; s. 18, ch. 84-257; s. 22, ch. 85-80; s. 99, ch. 91-282; s. 1, ch. 92-182; ss. 28, 38, ch. 93-206; s. 25, ch. 95-280; s. 12, ch. 97-79."
+      ],
+      "source_citations": [
+        "ss. 3, 5, ch. 80-315",
+        "s. 7, ch. 81-167",
+        "s. 4, ch. 82-46",
+        "s. 7, ch. 83-55",
+        "s. 18, ch. 84-257",
+        "s. 22, ch. 85-80",
+        "s. 99, ch. 91-282",
+        "s. 1, ch. 92-182",
+        "ss. 28, 38, ch. 93-206",
+        "s. 25, ch. 95-280",
+        "s. 12, ch. 97-79."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.504",
+      "section_path": "title-13-planning-and-development/sec-0186-504.md",
+      "history": [
+        "History.—s. 1, ch. 59-369; s. 19, ch. 63-400; s. 1, ch. 69-63; ss. 3, 5, ch. 80-315; s. 4, ch. 82-46; s. 11, ch. 84-257; s. 1, ch. 92-182; ss. 29, 38, ch. 93-206; s. 40, ch. 94-356; s. 92, ch. 99-251; s. 30, ch. 2001-60; s. 12, ch. 2002-296; s. 62, ch. 2011-142; s. 38, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-369",
+        "s. 19, ch. 63-400",
+        "s. 1, ch. 69-63",
+        "ss. 3, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 11, ch. 84-257",
+        "s. 1, ch. 92-182",
+        "ss. 29, 38, ch. 93-206",
+        "s. 40, ch. 94-356",
+        "s. 92, ch. 99-251",
+        "s. 30, ch. 2001-60",
+        "s. 12, ch. 2002-296",
+        "s. 62, ch. 2011-142",
+        "s. 38, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.505",
+      "section_path": "title-13-planning-and-development/sec-0186-505.md",
+      "history": [
+        "History.—s. 2, ch. 59-369; ss. 17, 35, ch. 69-106; s. 1, ch. 73-283; ss. 3, 5, ch. 80-315; s. 8, ch. 81-167; s. 4, ch. 82-46; s. 8, ch. 83-55; s. 4, ch. 83-334; s. 12, ch. 84-257; s. 1, ch. 92-182; ss. 30, 38, ch. 93-206; s. 959, ch. 95-147; s. 15, ch. 95-196; s. 71, ch. 99-2; s. 93, ch. 99-251; s. 63, ch. 2011-142; s. 13, ch. 2012-99; s. 10, ch. 2015-30."
+      ],
+      "source_citations": [
+        "s. 2, ch. 59-369",
+        "ss. 17, 35, ch. 69-106",
+        "s. 1, ch. 73-283",
+        "ss. 3, 5, ch. 80-315",
+        "s. 8, ch. 81-167",
+        "s. 4, ch. 82-46",
+        "s. 8, ch. 83-55",
+        "s. 4, ch. 83-334",
+        "s. 12, ch. 84-257",
+        "s. 1, ch. 92-182",
+        "ss. 30, 38, ch. 93-206",
+        "s. 959, ch. 95-147",
+        "s. 15, ch. 95-196",
+        "s. 71, ch. 99-2",
+        "s. 93, ch. 99-251",
+        "s. 63, ch. 2011-142",
+        "s. 13, ch. 2012-99",
+        "s. 10, ch. 2015-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.506",
+      "section_path": "title-13-planning-and-development/sec-0186-506.md",
+      "history": [
+        "History.—ss. 3, 5, ch. 80-315; s. 4, ch. 82-46; s. 1, ch. 92-182; ss. 31, 38, ch. 93-206; s. 960, ch. 95-147."
+      ],
+      "source_citations": [
+        "ss. 3, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 1, ch. 92-182",
+        "ss. 31, 38, ch. 93-206",
+        "s. 960, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.507",
+      "section_path": "title-13-planning-and-development/sec-0186-507.md",
+      "history": [
+        "History.—ss. 3, 5, ch. 80-315; s. 4, ch. 82-46; s. 13, ch. 84-257; s. 100, ch. 91-282; s. 1, ch. 92-182; ss. 32, 38, ch. 93-206; s. 8, ch. 95-322; s. 21, ch. 98-176."
+      ],
+      "source_citations": [
+        "ss. 3, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 13, ch. 84-257",
+        "s. 100, ch. 91-282",
+        "s. 1, ch. 92-182",
+        "ss. 32, 38, ch. 93-206",
+        "s. 8, ch. 95-322",
+        "s. 21, ch. 98-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.508",
+      "section_path": "title-13-planning-and-development/sec-0186-508.md",
+      "history": [
+        "History.—s. 14, ch. 84-257; s. 23, ch. 85-55; s. 13, ch. 86-191; s. 101, ch. 91-282; s. 1, ch. 92-182; ss. 34, 38, ch. 93-206; s. 31, ch. 96-410; s. 14, ch. 97-79; s. 22, ch. 98-176; s. 14, ch. 2012-99."
+      ],
+      "source_citations": [
+        "s. 14, ch. 84-257",
+        "s. 23, ch. 85-55",
+        "s. 13, ch. 86-191",
+        "s. 101, ch. 91-282",
+        "s. 1, ch. 92-182",
+        "ss. 34, 38, ch. 93-206",
+        "s. 31, ch. 96-410",
+        "s. 14, ch. 97-79",
+        "s. 22, ch. 98-176",
+        "s. 14, ch. 2012-99."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.509",
+      "section_path": "title-13-planning-and-development/sec-0186-509.md",
+      "history": [
+        "History.—s. 15, ch. 84-257; s. 1, ch. 92-182; ss. 35, 38, ch. 93-206; s. 11, ch. 2009-96; s. 10, ch. 2011-14."
+      ],
+      "source_citations": [
+        "s. 15, ch. 84-257",
+        "s. 1, ch. 92-182",
+        "ss. 35, 38, ch. 93-206",
+        "s. 11, ch. 2009-96",
+        "s. 10, ch. 2011-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.511",
+      "section_path": "title-13-planning-and-development/sec-0186-511.md",
+      "history": [
+        "History.—s. 16, ch. 84-257; s. 14, ch. 86-191; s. 102, ch. 91-282; s. 1, ch. 92-182; ss. 37, 38, ch. 93-206; s. 23, ch. 98-176."
+      ],
+      "source_citations": [
+        "s. 16, ch. 84-257",
+        "s. 14, ch. 86-191",
+        "s. 102, ch. 91-282",
+        "s. 1, ch. 92-182",
+        "ss. 37, 38, ch. 93-206",
+        "s. 23, ch. 98-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.512",
+      "section_path": "title-13-planning-and-development/sec-0186-512.md",
+      "history": [
+        "History.—s. 11, ch. 2015-30."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2015-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.513",
+      "section_path": "title-13-planning-and-development/sec-0186-513.md",
+      "history": [
+        "History.—ss. 3, 5, ch. 80-315; s. 4, ch. 82-46; s. 1, ch. 92-182; s. 38, ch. 93-206; s. 4, ch. 2006-268; s. 36, ch. 2011-139; s. 12, ch. 2015-30."
+      ],
+      "source_citations": [
+        "ss. 3, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 1, ch. 92-182",
+        "s. 38, ch. 93-206",
+        "s. 4, ch. 2006-268",
+        "s. 36, ch. 2011-139",
+        "s. 12, ch. 2015-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.515",
+      "section_path": "title-13-planning-and-development/sec-0186-515.md",
+      "history": [
+        "History.—ss. 4, 5, ch. 80-315; s. 4, ch. 82-46; s. 44, ch. 91-45; s. 1, ch. 92-182; ss. 3, 38, ch. 93-206; s. 37, ch. 2011-139."
+      ],
+      "source_citations": [
+        "ss. 4, 5, ch. 80-315",
+        "s. 4, ch. 82-46",
+        "s. 44, ch. 91-45",
+        "s. 1, ch. 92-182",
+        "ss. 3, 38, ch. 93-206",
+        "s. 37, ch. 2011-139."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.801",
+      "section_path": "title-13-planning-and-development/sec-0186-801.md",
+      "history": [
+        "History.—s. 1, ch 73-33; s. 2, ch. 76-76; s. 77, ch. 79-190; s. 2, ch. 81-167; s. 3, ch. 83-55; s. 41, ch. 94-356; s. 2, ch. 95-328; s. 15, ch. 2006-230; s. 2, ch. 2012-117; s. 32, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 1, ch 73-33",
+        "s. 2, ch. 76-76",
+        "s. 77, ch. 79-190",
+        "s. 2, ch. 81-167",
+        "s. 3, ch. 83-55",
+        "s. 41, ch. 94-356",
+        "s. 2, ch. 95-328",
+        "s. 15, ch. 2006-230",
+        "s. 2, ch. 2012-117",
+        "s. 32, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.803",
+      "section_path": "title-13-planning-and-development/sec-0186-803.md",
+      "history": [
+        "History.—s. 9, ch. 96-416."
+      ],
+      "source_citations": [
+        "s. 9, ch. 96-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "186.901",
+      "section_path": "title-13-planning-and-development/sec-0186-901.md",
+      "history": [
+        "History.—s. 3, ch. 72-360; s. 1, ch. 75-93; s. 1, ch. 77-174; s. 1, ch. 78-209; s. 76, ch. 79-190; s. 11, ch. 82-154; s. 2, ch. 83-299; s. 16, ch. 99-8; s. 44, ch. 2000-371; s. 40, ch. 2014-19."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-360",
+        "s. 1, ch. 75-93",
+        "s. 1, ch. 77-174",
+        "s. 1, ch. 78-209",
+        "s. 76, ch. 79-190",
+        "s. 11, ch. 82-154",
+        "s. 2, ch. 83-299",
+        "s. 16, ch. 99-8",
+        "s. 44, ch. 2000-371",
+        "s. 40, ch. 2014-19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "source_sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69"
+    },
+    {
+      "section": "187.101",
+      "section_path": "title-13-planning-and-development/sec-0187-101.md",
+      "history": [
+        "History.—s. 1, ch. 85-57."
+      ],
+      "source_citations": [
+        "s. 1, ch. 85-57."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0187/0187.html&StatuteYear=2026",
+      "source_sha256": "f12d81904afb4a893bd293e1fa3e2c5a21607136c2ba31e9105c2ec1141704c8"
+    },
+    {
+      "section": "187.201",
+      "section_path": "title-13-planning-and-development/sec-0187-201.md",
+      "history": [
+        "History.—s. 2, ch. 85-57; s. 1, ch. 87-354; s. 47, ch. 88-130; s. 4, ch. 89-279; s. 85, ch. 90-201; s. 28, ch. 91-5; s. 103, ch. 91-282; s. 2, ch. 95-149; s. 2, ch. 96-388; s. 6, ch. 99-378; s. 1056, ch. 2002-387; s. 5, ch. 2008-227; s. 8, ch. 2017-233."
+      ],
+      "source_citations": [
+        "s. 2, ch. 85-57",
+        "s. 1, ch. 87-354",
+        "s. 47, ch. 88-130",
+        "s. 4, ch. 89-279",
+        "s. 85, ch. 90-201",
+        "s. 28, ch. 91-5",
+        "s. 103, ch. 91-282",
+        "s. 2, ch. 95-149",
+        "s. 2, ch. 96-388",
+        "s. 6, ch. 99-378",
+        "s. 1056, ch. 2002-387",
+        "s. 5, ch. 2008-227",
+        "s. 8, ch. 2017-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0187/0187.html&StatuteYear=2026",
+      "source_sha256": "f12d81904afb4a893bd293e1fa3e2c5a21607136c2ba31e9105c2ec1141704c8"
+    },
+    {
+      "section": "189.01",
+      "section_path": "title-13-planning-and-development/sec-0189-01.md",
+      "history": [
+        "History.—s. 1, ch. 89-169; s. 6, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 89-169",
+        "s. 6, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.011",
+      "section_path": "title-13-planning-and-development/sec-0189-011.md",
+      "history": [
+        "History.—s. 2, ch. 89-169; s. 7, ch. 2014-22; s. 2, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 2, ch. 89-169",
+        "s. 7, ch. 2014-22",
+        "s. 2, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.012",
+      "section_path": "title-13-planning-and-development/sec-0189-012.md",
+      "history": [
+        "History.—s. 3, ch. 89-169; s. 1, ch. 92-314; s. 4, ch. 97-255; s. 64, ch. 2011-142; s. 10, ch. 2014-22; s. 39, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 3, ch. 89-169",
+        "s. 1, ch. 92-314",
+        "s. 4, ch. 97-255",
+        "s. 64, ch. 2011-142",
+        "s. 10, ch. 2014-22",
+        "s. 39, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.013",
+      "section_path": "title-13-planning-and-development/sec-0189-013.md",
+      "history": [
+        "History.—s. 4, ch. 89-169; s. 5, ch. 97-255; s. 11, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 4, ch. 89-169",
+        "s. 5, ch. 97-255",
+        "s. 11, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.014",
+      "section_path": "title-13-planning-and-development/sec-0189-014.md",
+      "history": [
+        "History.—s. 10, ch. 79-183; s. 15, ch. 81-167; s. 23, ch. 89-169; s. 18, ch. 97-255; s. 38, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 10, ch. 79-183",
+        "s. 15, ch. 81-167",
+        "s. 23, ch. 89-169",
+        "s. 18, ch. 97-255",
+        "s. 38, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.015",
+      "section_path": "title-13-planning-and-development/sec-0189-015.md",
+      "history": [
+        "History.—s. 10, ch. 79-183; s. 78, ch. 81-259; s. 24, ch. 89-169; s. 19, ch. 97-255; s. 33, ch. 99-378; s. 39, ch. 2014-22; s. 16, ch. 2021-17; s. 15, ch. 2022-103."
+      ],
+      "source_citations": [
+        "s. 10, ch. 79-183",
+        "s. 78, ch. 81-259",
+        "s. 24, ch. 89-169",
+        "s. 19, ch. 97-255",
+        "s. 33, ch. 99-378",
+        "s. 39, ch. 2014-22",
+        "s. 16, ch. 2021-17",
+        "s. 15, ch. 2022-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.016",
+      "section_path": "title-13-planning-and-development/sec-0189-016.md",
+      "history": [
+        "History.—s. 10, ch. 79-183; s. 16, ch. 81-167; s. 25, ch. 89-169; s. 13, ch. 96-324; s. 144, ch. 2001-266; s. 26, ch. 2002-1; s. 19, ch. 2004-305; s. 2, ch. 2009-217; s. 14, ch. 2011-144; s. 40, ch. 2014-22; s. 3, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 10, ch. 79-183",
+        "s. 16, ch. 81-167",
+        "s. 25, ch. 89-169",
+        "s. 13, ch. 96-324",
+        "s. 144, ch. 2001-266",
+        "s. 26, ch. 2002-1",
+        "s. 19, ch. 2004-305",
+        "s. 2, ch. 2009-217",
+        "s. 14, ch. 2011-144",
+        "s. 40, ch. 2014-22",
+        "s. 3, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.017",
+      "section_path": "title-13-planning-and-development/sec-0189-017.md",
+      "history": [
+        "History.—s. 59, ch. 89-169; s. 22, ch. 97-255; s. 67, ch. 2011-142; s. 46, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 59, ch. 89-169",
+        "s. 22, ch. 97-255",
+        "s. 67, ch. 2011-142",
+        "s. 46, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.018",
+      "section_path": "title-13-planning-and-development/sec-0189-018.md",
+      "history": [
+        "History.—s. 64, ch. 89-169; s. 41, ch. 93-120; s. 15, ch. 96-324; s. 3, ch. 2000-118; s. 31, ch. 2000-151; s. 169, ch. 2003-261; s. 68, ch. 2011-142; s. 47, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 64, ch. 89-169",
+        "s. 41, ch. 93-120",
+        "s. 15, ch. 96-324",
+        "s. 3, ch. 2000-118",
+        "s. 31, ch. 2000-151",
+        "s. 169, ch. 2003-261",
+        "s. 68, ch. 2011-142",
+        "s. 47, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.019",
+      "section_path": "title-13-planning-and-development/sec-0189-019.md",
+      "history": [
+        "History.—s. 24, ch. 97-255; s. 3, ch. 98-320; s. 146, ch. 2001-266; s. 49, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 24, ch. 97-255",
+        "s. 3, ch. 98-320",
+        "s. 146, ch. 2001-266",
+        "s. 49, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.02",
+      "section_path": "title-13-planning-and-development/sec-0189-02.md",
+      "history": [
+        "History.—s. 7, ch. 89-169; s. 7, ch. 97-255; s. 16, ch. 2014-22; s. 5, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 7, ch. 89-169",
+        "s. 7, ch. 97-255",
+        "s. 16, ch. 2014-22",
+        "s. 5, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.021",
+      "section_path": "title-13-planning-and-development/sec-0189-021.md",
+      "history": [
+        "History.—s. 12, ch. 97-255; s. 26, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 12, ch. 97-255",
+        "s. 26, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.022",
+      "section_path": "title-13-planning-and-development/sec-0189-022.md",
+      "history": [
+        "History.—s. 6, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.03",
+      "section_path": "title-13-planning-and-development/sec-0189-03.md",
+      "history": [
+        "History.—s. 2, ch. 89-169; s. 9, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 2, ch. 89-169",
+        "s. 9, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.031",
+      "section_path": "title-13-planning-and-development/sec-0189-031.md",
+      "history": [
+        "History.—s. 6, ch. 89-169; s. 106, ch. 90-136; s. 6, ch. 97-255; s. 6, ch. 2010-205; s. 14, ch. 2014-22; s. 15, ch. 2016-10; s. 7, ch. 2016-22; s. 1, ch. 2020-77; s. 5, ch. 2023-31."
+      ],
+      "source_citations": [
+        "s. 6, ch. 89-169",
+        "s. 106, ch. 90-136",
+        "s. 6, ch. 97-255",
+        "s. 6, ch. 2010-205",
+        "s. 14, ch. 2014-22",
+        "s. 15, ch. 2016-10",
+        "s. 7, ch. 2016-22",
+        "s. 1, ch. 2020-77",
+        "s. 5, ch. 2023-31."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0311",
+      "section_path": "title-13-planning-and-development/sec-0189-0311.md",
+      "history": [
+        "History.—s. 5, ch. 97-255; s. 30, ch. 99-378; s. 12, ch. 2014-22; s. 1, ch. 2022-266."
+      ],
+      "source_citations": [
+        "s. 5, ch. 97-255",
+        "s. 30, ch. 99-378",
+        "s. 12, ch. 2014-22",
+        "s. 1, ch. 2022-266."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0312",
+      "section_path": "title-13-planning-and-development/sec-0189-0312.md",
+      "history": [
+        "History.—s. 4, ch. 2024-136."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2024-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0313",
+      "section_path": "title-13-planning-and-development/sec-0189-0313.md",
+      "history": [
+        "History.—s. 5, ch. 2024-136."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2024-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.033",
+      "section_path": "title-13-planning-and-development/sec-0189-033.md",
+      "history": [
+        "History.—s. 8, ch. 2012-127; s. 15, ch. 2014-22; s. 13, ch. 2023-173."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2012-127",
+        "s. 15, ch. 2014-22",
+        "s. 13, ch. 2023-173."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.04",
+      "section_path": "title-13-planning-and-development/sec-0189-04.md",
+      "history": [
+        "History.—s. 12, ch. 89-169; s. 13, ch. 97-255; s. 2, ch. 98-320; s. 52, ch. 2007-30; s. 27, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 12, ch. 89-169",
+        "s. 13, ch. 97-255",
+        "s. 2, ch. 98-320",
+        "s. 52, ch. 2007-30",
+        "s. 27, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.041",
+      "section_path": "title-13-planning-and-development/sec-0189-041.md",
+      "history": [
+        "History.—s. 13, ch. 89-169; s. 14, ch. 97-255; s. 29, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 13, ch. 89-169",
+        "s. 14, ch. 97-255",
+        "s. 29, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.042",
+      "section_path": "title-13-planning-and-development/sec-0189-042.md",
+      "history": [
+        "History.—s. 15, ch. 89-169; s. 31, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 15, ch. 89-169",
+        "s. 31, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.05",
+      "section_path": "title-13-planning-and-development/sec-0189-05.md",
+      "history": [
+        "History.—s. 14, ch. 89-169; s. 30, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 14, ch. 89-169",
+        "s. 30, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.051",
+      "section_path": "title-13-planning-and-development/sec-0189-051.md",
+      "history": [
+        "History.—s. 16, ch. 89-169; s. 10, ch. 96-324; s. 32, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 16, ch. 89-169",
+        "s. 10, ch. 96-324",
+        "s. 32, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.052",
+      "section_path": "title-13-planning-and-development/sec-0189-052.md",
+      "history": [
+        "History.—s. 9, ch. 2000-355; s. 42, ch. 2014-22; s. 3, ch. 2026-37."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2000-355",
+        "s. 42, ch. 2014-22",
+        "s. 3, ch. 2026-37."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.053",
+      "section_path": "title-13-planning-and-development/sec-0189-053.md",
+      "history": [
+        "History.—s. 1, ch. 2009-217; s. 44, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2009-217",
+        "s. 44, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.054",
+      "section_path": "title-13-planning-and-development/sec-0189-054.md",
+      "history": [
+        "History.—s. 4, ch. 84-84; s. 29, ch. 89-169; s. 7, ch. 93-51; s. 8, ch. 96-202; s. 45, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 4, ch. 84-84",
+        "s. 29, ch. 89-169",
+        "s. 7, ch. 93-51",
+        "s. 8, ch. 96-202",
+        "s. 45, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.055",
+      "section_path": "title-13-planning-and-development/sec-0189-055.md",
+      "history": [
+        "History.—s. 53, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 53, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.056",
+      "section_path": "title-13-planning-and-development/sec-0189-056.md",
+      "history": [
+        "History.—s. 1, ch. 2015-43."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2015-43."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.06",
+      "section_path": "title-13-planning-and-development/sec-0189-06.md",
+      "history": [
+        "History.—s. 2, ch. 89-169; s. 8, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 2, ch. 89-169",
+        "s. 8, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.061",
+      "section_path": "title-13-planning-and-development/sec-0189-061.md",
+      "history": [
+        "History.—s. 5, ch. 89-169; s. 78, ch. 92-279; s. 55, ch. 92-326; s. 9, ch. 96-324; s. 44, ch. 2001-266; s. 167, ch. 2003-261; s. 47, ch. 2010-102; s. 69, ch. 2011-142; s. 13, ch. 2014-22; s. 10, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 5, ch. 89-169",
+        "s. 78, ch. 92-279",
+        "s. 55, ch. 92-326",
+        "s. 9, ch. 96-324",
+        "s. 44, ch. 2001-266",
+        "s. 167, ch. 2003-261",
+        "s. 47, ch. 2010-102",
+        "s. 69, ch. 2011-142",
+        "s. 13, ch. 2014-22",
+        "s. 10, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.062",
+      "section_path": "title-13-planning-and-development/sec-0189-062.md",
+      "history": [
+        "History.—s. 10, ch. 89-169; s. 10, ch. 97-255; s. 143, ch. 2001-266; s. 17, ch. 2004-305; s. 12, ch. 2011-144; s. 3, ch. 2012-16; s. 24, ch. 2014-22; s. 11, ch. 2016-22; s. 6, ch. 2024-136; s. 83, ch. 2025-22."
+      ],
+      "source_citations": [
+        "s. 10, ch. 89-169",
+        "s. 10, ch. 97-255",
+        "s. 143, ch. 2001-266",
+        "s. 17, ch. 2004-305",
+        "s. 12, ch. 2011-144",
+        "s. 3, ch. 2012-16",
+        "s. 24, ch. 2014-22",
+        "s. 11, ch. 2016-22",
+        "s. 6, ch. 2024-136",
+        "s. 83, ch. 2025-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.063",
+      "section_path": "title-13-planning-and-development/sec-0189-063.md",
+      "history": [
+        "History.—s. 31, ch. 99-378; s. 28, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 31, ch. 99-378",
+        "s. 28, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.064",
+      "section_path": "title-13-planning-and-development/sec-0189-064.md",
+      "history": [
+        "History.—s. 18, ch. 89-169; s. 15, ch. 90-502; s. 79, ch. 92-279; s. 55, ch. 92-326; s. 15, ch. 95-154; ss. 3, 17, ch. 95-272; ss. 11, 12, ch. 96-324; s. 15, ch. 97-255; s. 3, ch. 97-287; s. 69, ch. 99-255; s. 32, ch. 99-378; s. 45, ch. 2001-266; s. 25, ch. 2002-1; s. 168, ch. 2003-261; s. 18, ch. 2004-305; s. 48, ch. 2010-102; s. 65, ch. 2011-142; s. 13, ch. 2011-144; s. 33, ch. 2014-22; s. 12, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 18, ch. 89-169",
+        "s. 15, ch. 90-502",
+        "s. 79, ch. 92-279",
+        "s. 55, ch. 92-326",
+        "s. 15, ch. 95-154",
+        "ss. 3, 17, ch. 95-272",
+        "ss. 11, 12, ch. 96-324",
+        "s. 15, ch. 97-255",
+        "s. 3, ch. 97-287",
+        "s. 69, ch. 99-255",
+        "s. 32, ch. 99-378",
+        "s. 45, ch. 2001-266",
+        "s. 25, ch. 2002-1",
+        "s. 168, ch. 2003-261",
+        "s. 18, ch. 2004-305",
+        "s. 48, ch. 2010-102",
+        "s. 65, ch. 2011-142",
+        "s. 13, ch. 2011-144",
+        "s. 33, ch. 2014-22",
+        "s. 12, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.065",
+      "section_path": "title-13-planning-and-development/sec-0189-065.md",
+      "history": [
+        "History.—s. 19, ch. 89-169; s. 66, ch. 2011-142; s. 34, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 19, ch. 89-169",
+        "s. 66, ch. 2011-142",
+        "s. 34, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0651",
+      "section_path": "title-13-planning-and-development/sec-0189-0651.md",
+      "history": [
+        "History.—s. 51, ch. 2014-22; s. 8, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 51, ch. 2014-22",
+        "s. 8, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0652",
+      "section_path": "title-13-planning-and-development/sec-0189-0652.md",
+      "history": [
+        "History.—s. 52, ch. 2014-22; s. 9, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 52, ch. 2014-22",
+        "s. 9, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0653",
+      "section_path": "title-13-planning-and-development/sec-0189-0653.md",
+      "history": [
+        "History.—s. 13, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 13, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.066",
+      "section_path": "title-13-planning-and-development/sec-0189-066.md",
+      "history": [
+        "History.—s. 10, ch. 79-183; s. 26, ch. 89-169; s. 14, ch. 96-324; s. 145, ch. 2001-266; s. 20, ch. 2004-305; s. 15, ch. 2011-144; s. 41, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 10, ch. 79-183",
+        "s. 26, ch. 89-169",
+        "s. 14, ch. 96-324",
+        "s. 145, ch. 2001-266",
+        "s. 20, ch. 2004-305",
+        "s. 15, ch. 2011-144",
+        "s. 41, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.067",
+      "section_path": "title-13-planning-and-development/sec-0189-067.md",
+      "history": [
+        "History.—s. 10, ch. 79-183; s. 79, ch. 81-259; s. 27, ch. 89-169; s. 80, ch. 92-279; s. 55, ch. 92-326; s. 961, ch. 95-147; s. 32, ch. 96-410; s. 20, ch. 97-255; s. 21, ch. 2004-305; s. 23, ch. 2011-34; s. 16, ch. 2011-144; s. 19, ch. 2012-5; s. 43, ch. 2014-22; s. 14, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 10, ch. 79-183",
+        "s. 79, ch. 81-259",
+        "s. 27, ch. 89-169",
+        "s. 80, ch. 92-279",
+        "s. 55, ch. 92-326",
+        "s. 961, ch. 95-147",
+        "s. 32, ch. 96-410",
+        "s. 20, ch. 97-255",
+        "s. 21, ch. 2004-305",
+        "s. 23, ch. 2011-34",
+        "s. 16, ch. 2011-144",
+        "s. 19, ch. 2012-5",
+        "s. 43, ch. 2014-22",
+        "s. 14, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.068",
+      "section_path": "title-13-planning-and-development/sec-0189-068.md",
+      "history": [
+        "History.—s. 23, ch. 97-255; s. 46, ch. 2001-266; s. 22, ch. 2004-305; s. 6, ch. 2006-197; s. 48, ch. 2014-22; s. 15, ch. 2016-22; s. 3, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 23, ch. 97-255",
+        "s. 46, ch. 2001-266",
+        "s. 22, ch. 2004-305",
+        "s. 6, ch. 2006-197",
+        "s. 48, ch. 2014-22",
+        "s. 15, ch. 2016-22",
+        "s. 3, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.069",
+      "section_path": "title-13-planning-and-development/sec-0189-069.md",
+      "history": [
+        "History.—s. 54, ch. 2014-22; s. 16, ch. 2016-22; s. 2, ch. 2020-77."
+      ],
+      "source_citations": [
+        "s. 54, ch. 2014-22",
+        "s. 16, ch. 2016-22",
+        "s. 2, ch. 2020-77."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0694",
+      "section_path": "title-13-planning-and-development/sec-0189-0694.md",
+      "history": [
+        "History.—s. 7, ch. 2024-136."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2024-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0695",
+      "section_path": "title-13-planning-and-development/sec-0189-0695.md",
+      "history": [
+        "History.—s. 1, ch. 2021-226; s. 10, ch. 2022-4; s. 8, ch. 2024-136."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-226",
+        "s. 10, ch. 2022-4",
+        "s. 8, ch. 2024-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.07",
+      "section_path": "title-13-planning-and-development/sec-0189-07.md",
+      "history": [
+        "History.—s. 1, ch. 2012-16; s. 17, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2012-16",
+        "s. 17, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.071",
+      "section_path": "title-13-planning-and-development/sec-0189-071.md",
+      "history": [
+        "History.—s. 8, ch. 89-169; s. 8, ch. 97-255; s. 1, ch. 2012-16; s. 18, ch. 2014-22; s. 17, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 8, ch. 89-169",
+        "s. 8, ch. 97-255",
+        "s. 1, ch. 2012-16",
+        "s. 18, ch. 2014-22",
+        "s. 17, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.072",
+      "section_path": "title-13-planning-and-development/sec-0189-072.md",
+      "history": [
+        "History.—s. 8, ch. 97-255; s. 1, ch. 98-320; s. 142, ch. 2001-266; s. 1, ch. 2012-16; s. 19, ch. 2014-22; s. 18, ch. 2016-22; s. 28, ch. 2023-70."
+      ],
+      "source_citations": [
+        "s. 8, ch. 97-255",
+        "s. 1, ch. 98-320",
+        "s. 142, ch. 2001-266",
+        "s. 1, ch. 2012-16",
+        "s. 19, ch. 2014-22",
+        "s. 18, ch. 2016-22",
+        "s. 28, ch. 2023-70."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.073",
+      "section_path": "title-13-planning-and-development/sec-0189-073.md",
+      "history": [
+        "History.—s. 1, ch. 2012-16; s. 20, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2012-16",
+        "s. 20, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.074",
+      "section_path": "title-13-planning-and-development/sec-0189-074.md",
+      "history": [
+        "History.—s. 1, ch. 2012-16; s. 21, ch. 2014-22; s. 12, ch. 2015-2; s. 19, ch. 2016-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2012-16",
+        "s. 21, ch. 2014-22",
+        "s. 12, ch. 2015-2",
+        "s. 19, ch. 2016-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.075",
+      "section_path": "title-13-planning-and-development/sec-0189-075.md",
+      "history": [
+        "History.—s. 1, ch. 2012-16; s. 21, ch. 2013-15; s. 22, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2012-16",
+        "s. 21, ch. 2013-15",
+        "s. 22, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.076",
+      "section_path": "title-13-planning-and-development/sec-0189-076.md",
+      "history": [
+        "History.—s. 11, ch. 89-169; s. 11, ch. 97-255; s. 25, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 11, ch. 89-169",
+        "s. 11, ch. 97-255",
+        "s. 25, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.0761",
+      "section_path": "title-13-planning-and-development/sec-0189-0761.md",
+      "history": [
+        "History.—s. 8, ch. 89-169; s. 8, ch. 97-255; s. 1, ch. 2012-16; s. 23, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 8, ch. 89-169",
+        "s. 8, ch. 97-255",
+        "s. 1, ch. 2012-16",
+        "s. 23, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.08",
+      "section_path": "title-13-planning-and-development/sec-0189-08.md",
+      "history": [
+        "History.—s. 20, ch. 89-169; s. 26, ch. 95-280; s. 16, ch. 97-255; s. 17, ch. 99-8; s. 38, ch. 2011-139; s. 15, ch. 2012-99; s. 35, ch. 2014-22; s. 9, ch. 2018-158; s. 6, ch. 2023-31."
+      ],
+      "source_citations": [
+        "s. 20, ch. 89-169",
+        "s. 26, ch. 95-280",
+        "s. 16, ch. 97-255",
+        "s. 17, ch. 99-8",
+        "s. 38, ch. 2011-139",
+        "s. 15, ch. 2012-99",
+        "s. 35, ch. 2014-22",
+        "s. 9, ch. 2018-158",
+        "s. 6, ch. 2023-31."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.081",
+      "section_path": "title-13-planning-and-development/sec-0189-081.md",
+      "history": [
+        "History.—s. 21, ch. 89-169; s. 17, ch. 97-255; s. 6, ch. 2006-69; s. 12, ch. 2007-5; s. 7, ch. 2010-205; s. 36, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 21, ch. 89-169",
+        "s. 17, ch. 97-255",
+        "s. 6, ch. 2006-69",
+        "s. 12, ch. 2007-5",
+        "s. 7, ch. 2010-205",
+        "s. 36, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "189.082",
+      "section_path": "title-13-planning-and-development/sec-0189-082.md",
+      "history": [
+        "History.—s. 22, ch. 89-169; s. 8, ch. 2010-205; s. 37, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 22, ch. 89-169",
+        "s. 8, ch. 2010-205",
+        "s. 37, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "source_sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8"
+    },
+    {
+      "section": "190.001",
+      "section_path": "title-13-planning-and-development/sec-0190-001.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.002",
+      "section_path": "title-13-planning-and-development/sec-0190-002.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 1, ch. 84-360."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 1, ch. 84-360."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.003",
+      "section_path": "title-13-planning-and-development/sec-0190-003.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 2, ch. 84-360; s. 10, ch. 87-363; s. 2, ch. 91-308; s. 33, ch. 2000-364; s. 1, ch. 2007-160; s. 1, ch. 2009-142; s. 2, ch. 2026-164."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 2, ch. 84-360",
+        "s. 10, ch. 87-363",
+        "s. 2, ch. 91-308",
+        "s. 33, ch. 2000-364",
+        "s. 1, ch. 2007-160",
+        "s. 1, ch. 2009-142",
+        "s. 2, ch. 2026-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.004",
+      "section_path": "title-13-planning-and-development/sec-0190-004.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 3, ch. 84-360; s. 27, ch. 85-55; s. 34, ch. 87-224; s. 34, ch. 99-378; s. 9, ch. 2000-304; s. 39, ch. 2011-139."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 3, ch. 84-360",
+        "s. 27, ch. 85-55",
+        "s. 34, ch. 87-224",
+        "s. 34, ch. 99-378",
+        "s. 9, ch. 2000-304",
+        "s. 39, ch. 2011-139."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.005",
+      "section_path": "title-13-planning-and-development/sec-0190-005.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; ss. 4, 5, ch. 84-360; s. 28, ch. 85-55; s. 35, ch. 87-224; s. 34, ch. 96-410; s. 6, ch. 98-146; s. 35, ch. 99-378; s. 34, ch. 2000-364; s. 2, ch. 2007-160; s. 33, ch. 2008-4; s. 4, ch. 2009-142; s. 40, ch. 2011-139; s. 6, ch. 2012-212; s. 13, ch. 2015-30; s. 1, ch. 2016-94; s. 10, ch. 2018-158; s. 17, ch. 2021-17; s. 16, ch. 2022-103."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "ss. 4, 5, ch. 84-360",
+        "s. 28, ch. 85-55",
+        "s. 35, ch. 87-224",
+        "s. 34, ch. 96-410",
+        "s. 6, ch. 98-146",
+        "s. 35, ch. 99-378",
+        "s. 34, ch. 2000-364",
+        "s. 2, ch. 2007-160",
+        "s. 33, ch. 2008-4",
+        "s. 4, ch. 2009-142",
+        "s. 40, ch. 2011-139",
+        "s. 6, ch. 2012-212",
+        "s. 13, ch. 2015-30",
+        "s. 1, ch. 2016-94",
+        "s. 10, ch. 2018-158",
+        "s. 17, ch. 2021-17",
+        "s. 16, ch. 2022-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.006",
+      "section_path": "title-13-planning-and-development/sec-0190-006.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 6, ch. 84-360; s. 23, ch. 85-80; s. 3, ch. 91-308; s. 962, ch. 95-147; s. 36, ch. 99-378; s. 19, ch. 2000-158; s. 35, ch. 2004-345; s. 32, ch. 2004-353; s. 3, ch. 2007-160; s. 33, ch. 2008-95; s. 2, ch. 2009-142; s. 4, ch. 2026-164."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 6, ch. 84-360",
+        "s. 23, ch. 85-80",
+        "s. 3, ch. 91-308",
+        "s. 962, ch. 95-147",
+        "s. 36, ch. 99-378",
+        "s. 19, ch. 2000-158",
+        "s. 35, ch. 2004-345",
+        "s. 32, ch. 2004-353",
+        "s. 3, ch. 2007-160",
+        "s. 33, ch. 2008-95",
+        "s. 2, ch. 2009-142",
+        "s. 4, ch. 2026-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.007",
+      "section_path": "title-13-planning-and-development/sec-0190-007.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 7, ch. 84-360; s. 32, ch. 86-191; s. 963, ch. 95-147; s. 170, ch. 2003-261; s. 4, ch. 2007-160; s. 3, ch. 2020-77; s. 90, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 7, ch. 84-360",
+        "s. 32, ch. 86-191",
+        "s. 963, ch. 95-147",
+        "s. 170, ch. 2003-261",
+        "s. 4, ch. 2007-160",
+        "s. 3, ch. 2020-77",
+        "s. 90, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.0071",
+      "section_path": "title-13-planning-and-development/sec-0190-0071.md",
+      "history": [
+        "History.—s. 3, ch. 2026-164."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2026-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.008",
+      "section_path": "title-13-planning-and-development/sec-0190-008.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 5, ch. 2007-160."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 5, ch. 2007-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.009",
+      "section_path": "title-13-planning-and-development/sec-0190-009.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 17, ch. 81-167; s. 15, ch. 83-55; s. 1, ch. 85-60; s. 2, ch. 90-46; s. 9, ch. 94-218; s. 37, ch. 99-378; s. 6, ch. 2007-160; s. 10, ch. 2008-240; s. 70, ch. 2011-142; s. 40, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 17, ch. 81-167",
+        "s. 15, ch. 83-55",
+        "s. 1, ch. 85-60",
+        "s. 2, ch. 90-46",
+        "s. 9, ch. 94-218",
+        "s. 37, ch. 99-378",
+        "s. 6, ch. 2007-160",
+        "s. 10, ch. 2008-240",
+        "s. 70, ch. 2011-142",
+        "s. 40, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.011",
+      "section_path": "title-13-planning-and-development/sec-0190-011.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 8, ch. 84-360; s. 46, ch. 89-169; s. 4, ch. 91-308; s. 38, ch. 99-378; s. 1, ch. 2003-39; s. 7, ch. 2007-160; s. 5, ch. 2009-142; s. 69, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 8, ch. 84-360",
+        "s. 46, ch. 89-169",
+        "s. 4, ch. 91-308",
+        "s. 38, ch. 99-378",
+        "s. 1, ch. 2003-39",
+        "s. 7, ch. 2007-160",
+        "s. 5, ch. 2009-142",
+        "s. 69, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.012",
+      "section_path": "title-13-planning-and-development/sec-0190-012.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 51, ch. 83-217; s. 9, ch. 84-360; s. 47, ch. 89-169; s. 8, ch. 93-51; s. 39, ch. 99-378; s. 15, ch. 2000-317; s. 47, ch. 2000-364; s. 33, ch. 2004-345; s. 30, ch. 2004-353; s. 8, ch. 2007-160; s. 9, ch. 2009-142; s. 2, ch. 2016-94; s. 11, ch. 2018-158."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 51, ch. 83-217",
+        "s. 9, ch. 84-360",
+        "s. 47, ch. 89-169",
+        "s. 8, ch. 93-51",
+        "s. 39, ch. 99-378",
+        "s. 15, ch. 2000-317",
+        "s. 47, ch. 2000-364",
+        "s. 33, ch. 2004-345",
+        "s. 30, ch. 2004-353",
+        "s. 8, ch. 2007-160",
+        "s. 9, ch. 2009-142",
+        "s. 2, ch. 2016-94",
+        "s. 11, ch. 2018-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.0125",
+      "section_path": "title-13-planning-and-development/sec-0190-0125.md",
+      "history": [
+        "History.—s. 3, ch. 84-84; s. 9, ch. 93-51; s. 9, ch. 96-202."
+      ],
+      "source_citations": [
+        "s. 3, ch. 84-84",
+        "s. 9, ch. 93-51",
+        "s. 9, ch. 96-202."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.013",
+      "section_path": "title-13-planning-and-development/sec-0190-013.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 5, ch. 91-308; s. 964, ch. 95-147; s. 26, ch. 97-40."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 5, ch. 91-308",
+        "s. 964, ch. 95-147",
+        "s. 26, ch. 97-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.014",
+      "section_path": "title-13-planning-and-development/sec-0190-014.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 9, ch. 83-215; s. 9, ch. 2007-160."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 9, ch. 83-215",
+        "s. 9, ch. 2007-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.015",
+      "section_path": "title-13-planning-and-development/sec-0190-015.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 80, ch. 81-259; s. 10, ch. 83-215."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 80, ch. 81-259",
+        "s. 10, ch. 83-215."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.016",
+      "section_path": "title-13-planning-and-development/sec-0190-016.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 11, ch. 83-215; s. 10, ch. 84-360; s. 24, ch. 85-80; s. 6, ch. 91-308; s. 965, ch. 95-147; s. 8, ch. 98-47; s. 6, ch. 2009-142."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 11, ch. 83-215",
+        "s. 10, ch. 84-360",
+        "s. 24, ch. 85-80",
+        "s. 6, ch. 91-308",
+        "s. 965, ch. 95-147",
+        "s. 8, ch. 98-47",
+        "s. 6, ch. 2009-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.017",
+      "section_path": "title-13-planning-and-development/sec-0190-017.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.021",
+      "section_path": "title-13-planning-and-development/sec-0190-021.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 11, ch. 84-360; s. 48, ch. 89-169; s. 7, ch. 91-308; s. 40, ch. 99-378; s. 35, ch. 2000-364; s. 10, ch. 2007-160; s. 7, ch. 2009-142."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 11, ch. 84-360",
+        "s. 48, ch. 89-169",
+        "s. 7, ch. 91-308",
+        "s. 40, ch. 99-378",
+        "s. 35, ch. 2000-364",
+        "s. 10, ch. 2007-160",
+        "s. 7, ch. 2009-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.022",
+      "section_path": "title-13-planning-and-development/sec-0190-022.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 12, ch. 84-360; s. 8, ch. 91-308; s. 41, ch. 99-378."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 12, ch. 84-360",
+        "s. 8, ch. 91-308",
+        "s. 41, ch. 99-378."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.023",
+      "section_path": "title-13-planning-and-development/sec-0190-023.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 81, ch. 81-259; s. 12, ch. 83-215."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 81, ch. 81-259",
+        "s. 12, ch. 83-215."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.024",
+      "section_path": "title-13-planning-and-development/sec-0190-024.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 33, ch. 82-226; s. 202, ch. 85-342; s. 27, ch. 95-280."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 33, ch. 82-226",
+        "s. 202, ch. 85-342",
+        "s. 27, ch. 95-280."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.025",
+      "section_path": "title-13-planning-and-development/sec-0190-025.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 203, ch. 85-342."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 203, ch. 85-342."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.026",
+      "section_path": "title-13-planning-and-development/sec-0190-026.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 11, ch. 2007-160."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 11, ch. 2007-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.031",
+      "section_path": "title-13-planning-and-development/sec-0190-031.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.033",
+      "section_path": "title-13-planning-and-development/sec-0190-033.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 9, ch. 91-308; s. 113, ch. 94-119; s. 42, ch. 99-378; s. 12, ch. 2007-160."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 9, ch. 91-308",
+        "s. 113, ch. 94-119",
+        "s. 42, ch. 99-378",
+        "s. 12, ch. 2007-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.035",
+      "section_path": "title-13-planning-and-development/sec-0190-035.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 10, ch. 91-308."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 10, ch. 91-308."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.036",
+      "section_path": "title-13-planning-and-development/sec-0190-036.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.037",
+      "section_path": "title-13-planning-and-development/sec-0190-037.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 82, ch. 81-259."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 82, ch. 81-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.041",
+      "section_path": "title-13-planning-and-development/sec-0190-041.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 83, ch. 81-259."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 83, ch. 81-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.043",
+      "section_path": "title-13-planning-and-development/sec-0190-043.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.044",
+      "section_path": "title-13-planning-and-development/sec-0190-044.md",
+      "history": [
+        "History.—s. 2, ch. 80-407."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.046",
+      "section_path": "title-13-planning-and-development/sec-0190-046.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; ss. 13, 19, ch. 84-360; s. 49, ch. 89-169; s. 11, ch. 91-308; s. 43, ch. 99-378; s. 34, ch. 2004-345; s. 31, ch. 2004-353; s. 10, ch. 2009-142; s. 22, ch. 2013-15; s. 70, ch. 2014-22; s. 3, ch. 2016-94; s. 4, ch. 2017-3; s. 1, ch. 2019-164; s. 18, ch. 2021-17."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "ss. 13, 19, ch. 84-360",
+        "s. 49, ch. 89-169",
+        "s. 11, ch. 91-308",
+        "s. 43, ch. 99-378",
+        "s. 34, ch. 2004-345",
+        "s. 31, ch. 2004-353",
+        "s. 10, ch. 2009-142",
+        "s. 22, ch. 2013-15",
+        "s. 70, ch. 2014-22",
+        "s. 3, ch. 2016-94",
+        "s. 4, ch. 2017-3",
+        "s. 1, ch. 2019-164",
+        "s. 18, ch. 2021-17."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.048",
+      "section_path": "title-13-planning-and-development/sec-0190-048.md",
+      "history": [
+        "History.—s. 15, ch. 84-360; s. 3, ch. 90-46; s. 44, ch. 99-378."
+      ],
+      "source_citations": [
+        "s. 15, ch. 84-360",
+        "s. 3, ch. 90-46",
+        "s. 44, ch. 99-378."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.0485",
+      "section_path": "title-13-planning-and-development/sec-0190-0485.md",
+      "history": [
+        "History.—s. 45, ch. 99-378."
+      ],
+      "source_citations": [
+        "s. 45, ch. 99-378."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "190.049",
+      "section_path": "title-13-planning-and-development/sec-0190-049.md",
+      "history": [
+        "History.—s. 2, ch. 80-407; s. 16, ch. 84-360; s. 47, ch. 99-378; s. 71, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 2, ch. 80-407",
+        "s. 16, ch. 84-360",
+        "s. 47, ch. 99-378",
+        "s. 71, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "source_sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4"
+    },
+    {
+      "section": "191.001",
+      "section_path": "title-13-planning-and-development/sec-0191-001.md",
+      "history": [
+        "History.—s. 1, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.002",
+      "section_path": "title-13-planning-and-development/sec-0191-002.md",
+      "history": [
+        "History.—s. 2, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 2, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.003",
+      "section_path": "title-13-planning-and-development/sec-0191-003.md",
+      "history": [
+        "History.—s. 3, ch. 97-256; s. 72, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 3, ch. 97-256",
+        "s. 72, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.004",
+      "section_path": "title-13-planning-and-development/sec-0191-004.md",
+      "history": [
+        "History.—s. 4, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 4, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.005",
+      "section_path": "title-13-planning-and-development/sec-0191-005.md",
+      "history": [
+        "History.—s. 5, ch. 97-256; s. 24, ch. 2004-305; s. 53, ch. 2007-30; s. 73, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 5, ch. 97-256",
+        "s. 24, ch. 2004-305",
+        "s. 53, ch. 2007-30",
+        "s. 73, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.006",
+      "section_path": "title-13-planning-and-development/sec-0191-006.md",
+      "history": [
+        "History.—s. 6, ch. 97-256; s. 6, ch. 98-320; s. 171, ch. 2003-261; s. 7, ch. 2006-69; s. 2, ch. 2020-96; s. 91, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 6, ch. 97-256",
+        "s. 6, ch. 98-320",
+        "s. 171, ch. 2003-261",
+        "s. 7, ch. 2006-69",
+        "s. 2, ch. 2020-96",
+        "s. 91, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.007",
+      "section_path": "title-13-planning-and-development/sec-0191-007.md",
+      "history": [
+        "History.—s. 7, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 7, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.008",
+      "section_path": "title-13-planning-and-development/sec-0191-008.md",
+      "history": [
+        "History.—s. 8, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 8, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.009",
+      "section_path": "title-13-planning-and-development/sec-0191-009.md",
+      "history": [
+        "History.—s. 9, ch. 97-256; s. 72, ch. 2011-142; s. 160, ch. 2013-183; s. 42, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 9, ch. 97-256",
+        "s. 72, ch. 2011-142",
+        "s. 160, ch. 2013-183",
+        "s. 42, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.011",
+      "section_path": "title-13-planning-and-development/sec-0191-011.md",
+      "history": [
+        "History.—s. 10, ch. 97-256; s. 161, ch. 2013-183."
+      ],
+      "source_citations": [
+        "s. 10, ch. 97-256",
+        "s. 161, ch. 2013-183."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.012",
+      "section_path": "title-13-planning-and-development/sec-0191-012.md",
+      "history": [
+        "History.—s. 11, ch. 97-256."
+      ],
+      "source_citations": [
+        "s. 11, ch. 97-256."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.013",
+      "section_path": "title-13-planning-and-development/sec-0191-013.md",
+      "history": [
+        "History.—s. 12, ch. 97-256; s. 74, ch. 2014-22; s. 10, ch. 2024-136."
+      ],
+      "source_citations": [
+        "s. 12, ch. 97-256",
+        "s. 74, ch. 2014-22",
+        "s. 10, ch. 2024-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.014",
+      "section_path": "title-13-planning-and-development/sec-0191-014.md",
+      "history": [
+        "History.—s. 13, ch. 97-256; s. 2, ch. 2012-16; s. 75, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 13, ch. 97-256",
+        "s. 2, ch. 2012-16",
+        "s. 75, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    },
+    {
+      "section": "191.015",
+      "section_path": "title-13-planning-and-development/sec-0191-015.md",
+      "history": [
+        "History.—s. 15, ch. 97-256; s. 4, ch. 98-320; s. 73, ch. 2011-142; s. 76, ch. 2014-22; s. 43, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 15, ch. 97-256",
+        "s. 4, ch. 98-320",
+        "s. 73, ch. 2011-142",
+        "s. 76, ch. 2014-22",
+        "s. 43, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "source_sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84"
+    }
+  ]
+}

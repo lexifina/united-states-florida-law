@@ -1,0 +1,2962 @@
+{
+  "schema_version": 1,
+  "act_path": "title-45-torts",
+  "title": "Florida Statutes, Title XLV: Torts",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV&StatuteYear=2026",
+  "source_title_sha256": "6bd336e75848b4d70d65b9bde35e55eb043f3e0442077ff19bf10d2b93221f61",
+  "sections": [
+    {
+      "section": "766.101",
+      "section_path": "title-45-torts/sec-0766-101.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 72-62; s. 1, ch. 73-50; s. 1, ch. 77-461; s. 285, ch. 79-400; s. 3, ch. 80-353; s. 8, ch. 85-175; s. 1, ch. 87-342; s. 47, ch. 88-277; s. 34, ch. 88-392; s. 25, ch. 88-398; s. 4, ch. 89-281; s. 35, ch. 89-289; s. 16, ch. 89-374; s. 9, ch. 90-341; s. 92, ch. 92-289; s. 37, ch. 93-39; s. 1, ch. 93-155; s. 1, ch. 93-158; s. 1, ch. 94-73; s. 244, ch. 94-218; s. 6, ch. 95-140; s. 422, ch. 96-406; s. 1798, ch. 97-102; s. 80, ch. 97-237; s. 61, ch. 97-264; s. 31, ch. 98-89; ss. 228, 295, ch. 98-166; s. 23, ch. 98-191; s. 6, ch. 99-186; s. 143, ch. 2000-318; s. 86, ch. 2001-277; s. 50, ch. 2009-132; s. 294, ch. 2014-19; s. 73, ch. 2014-209."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 72-62",
+        "s. 1, ch. 73-50",
+        "s. 1, ch. 77-461",
+        "s. 285, ch. 79-400",
+        "s. 3, ch. 80-353",
+        "s. 8, ch. 85-175",
+        "s. 1, ch. 87-342",
+        "s. 47, ch. 88-277",
+        "s. 34, ch. 88-392",
+        "s. 25, ch. 88-398",
+        "s. 4, ch. 89-281",
+        "s. 35, ch. 89-289",
+        "s. 16, ch. 89-374",
+        "s. 9, ch. 90-341",
+        "s. 92, ch. 92-289",
+        "s. 37, ch. 93-39",
+        "s. 1, ch. 93-155",
+        "s. 1, ch. 93-158",
+        "s. 1, ch. 94-73",
+        "s. 244, ch. 94-218",
+        "s. 6, ch. 95-140",
+        "s. 422, ch. 96-406",
+        "s. 1798, ch. 97-102",
+        "s. 80, ch. 97-237",
+        "s. 61, ch. 97-264",
+        "s. 31, ch. 98-89",
+        "ss. 228, 295, ch. 98-166",
+        "s. 23, ch. 98-191",
+        "s. 6, ch. 99-186",
+        "s. 143, ch. 2000-318",
+        "s. 86, ch. 2001-277",
+        "s. 50, ch. 2009-132",
+        "s. 294, ch. 2014-19",
+        "s. 73, ch. 2014-209."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1015",
+      "section_path": "title-45-torts/sec-0766-1015.md",
+      "history": [
+        "History.—s. 9, ch. 2003-416; s. 2, ch. 2004-7; s. 16, ch. 2013-93."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2003-416",
+        "s. 2, ch. 2004-7",
+        "s. 16, ch. 2013-93."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1016",
+      "section_path": "title-45-torts/sec-0766-1016.md",
+      "history": [
+        "History.—s. 10, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.102",
+      "section_path": "title-45-torts/sec-0766-102.md",
+      "history": [
+        "History.—s. 12, ch. 76-260; s. 8, ch. 77-64; s. 1, ch. 77-174; s. 10, ch. 85-175; s. 78, ch. 88-1; s. 30, ch. 91-110; s. 1149, ch. 97-102; ss. 229, 296, ch. 98-166; s. 48, ch. 2003-416; s. 153, ch. 2004-5; s. 10, ch. 2011-233; s. 2, ch. 2013-108."
+      ],
+      "source_citations": [
+        "s. 12, ch. 76-260",
+        "s. 8, ch. 77-64",
+        "s. 1, ch. 77-174",
+        "s. 10, ch. 85-175",
+        "s. 78, ch. 88-1",
+        "s. 30, ch. 91-110",
+        "s. 1149, ch. 97-102",
+        "ss. 229, 296, ch. 98-166",
+        "s. 48, ch. 2003-416",
+        "s. 153, ch. 2004-5",
+        "s. 10, ch. 2011-233",
+        "s. 2, ch. 2013-108."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.103",
+      "section_path": "title-45-torts/sec-0766-103.md",
+      "history": [
+        "History.—s. 11, ch. 75-9; s. 21, ch. 85-175; s. 1150, ch. 97-102; s. 62, ch. 97-264; ss. 230, 297, ch. 98-166; s. 2, ch. 2007-176; s. 11, ch. 2016-145; s. 78, ch. 2018-106."
+      ],
+      "source_citations": [
+        "s. 11, ch. 75-9",
+        "s. 21, ch. 85-175",
+        "s. 1150, ch. 97-102",
+        "s. 62, ch. 97-264",
+        "ss. 230, 297, ch. 98-166",
+        "s. 2, ch. 2007-176",
+        "s. 11, ch. 2016-145",
+        "s. 78, ch. 2018-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.104",
+      "section_path": "title-45-torts/sec-0766-104.md",
+      "history": [
+        "History.—s. 12, ch. 85-175; s. 68, ch. 86-160; s. 8, ch. 86-287; s. 71, ch. 95-211; s. 1151, ch. 97-102; s. 1, ch. 2001-155; s. 79, ch. 2004-265; s. 42, ch. 2008-111; s. 28, ch. 2019-58."
+      ],
+      "source_citations": [
+        "s. 12, ch. 85-175",
+        "s. 68, ch. 86-160",
+        "s. 8, ch. 86-287",
+        "s. 71, ch. 95-211",
+        "s. 1151, ch. 97-102",
+        "s. 1, ch. 2001-155",
+        "s. 79, ch. 2004-265",
+        "s. 42, ch. 2008-111",
+        "s. 28, ch. 2019-58."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.106",
+      "section_path": "title-45-torts/sec-0766-106.md",
+      "history": [
+        "History.—s. 14, ch. 85-175; s. 9, ch. 86-287; s. 3, ch. 88-173; s. 48, ch. 88-277; s. 245, ch. 94-218; s. 1, ch. 94-258; s. 424, ch. 96-406; s. 1800, ch. 97-102; s. 164, ch. 98-166; s. 225, ch. 2000-160; s. 166, ch. 2000-318; s. 1, ch. 2000-341; s. 49, ch. 2003-416; s. 11, ch. 2011-233; s. 3, ch. 2013-108; s. 17, ch. 2022-190."
+      ],
+      "source_citations": [
+        "s. 14, ch. 85-175",
+        "s. 9, ch. 86-287",
+        "s. 3, ch. 88-173",
+        "s. 48, ch. 88-277",
+        "s. 245, ch. 94-218",
+        "s. 1, ch. 94-258",
+        "s. 424, ch. 96-406",
+        "s. 1800, ch. 97-102",
+        "s. 164, ch. 98-166",
+        "s. 225, ch. 2000-160",
+        "s. 166, ch. 2000-318",
+        "s. 1, ch. 2000-341",
+        "s. 49, ch. 2003-416",
+        "s. 11, ch. 2011-233",
+        "s. 3, ch. 2013-108",
+        "s. 17, ch. 2022-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1065",
+      "section_path": "title-45-torts/sec-0766-1065.md",
+      "history": [
+        "History.—s. 12, ch. 2011-233; s. 83, ch. 2012-5; s. 4, ch. 2013-108."
+      ],
+      "source_citations": [
+        "s. 12, ch. 2011-233",
+        "s. 83, ch. 2012-5",
+        "s. 4, ch. 2013-108."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.108",
+      "section_path": "title-45-torts/sec-0766-108.md",
+      "history": [
+        "History.—s. 19, ch. 85-175; s. 11, ch. 86-287; s. 50, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 19, ch. 85-175",
+        "s. 11, ch. 86-287",
+        "s. 50, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.110",
+      "section_path": "title-45-torts/sec-0766-110.md",
+      "history": [
+        "History.—s. 23, ch. 85-175; s. 4, ch. 90-158; s. 93, ch. 92-289; s. 64, ch. 97-264; s. 232, ch. 98-166; s. 144, ch. 2000-318; s. 34, ch. 2002-400; s. 13, ch. 2011-233."
+      ],
+      "source_citations": [
+        "s. 23, ch. 85-175",
+        "s. 4, ch. 90-158",
+        "s. 93, ch. 92-289",
+        "s. 64, ch. 97-264",
+        "s. 232, ch. 98-166",
+        "s. 144, ch. 2000-318",
+        "s. 34, ch. 2002-400",
+        "s. 13, ch. 2011-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.111",
+      "section_path": "title-45-torts/sec-0766-111.md",
+      "history": [
+        "History.—s. 26, ch. 85-175; s. 71, ch. 87-226; s. 8, ch. 96-296; s. 71, ch. 97-264."
+      ],
+      "source_citations": [
+        "s. 26, ch. 85-175",
+        "s. 71, ch. 87-226",
+        "s. 8, ch. 96-296",
+        "s. 71, ch. 97-264."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1115",
+      "section_path": "title-45-torts/sec-0766-1115.md",
+      "history": [
+        "History.—s. 1, ch. 92-278; s. 22, ch. 93-129; s. 1, ch. 94-75; s. 246, ch. 94-218; s. 425, ch. 96-406; s. 126, ch. 97-237; s. 9, ch. 97-263; s. 11, ch. 98-49; s. 41, ch. 98-89; s. 233, ch. 98-166; s. 88, ch. 99-3; s. 286, ch. 99-8; s. 49, ch. 2000-242; s. 145, ch. 2000-318; s. 88, ch. 2001-277; s. 114, ch. 2002-1; s. 1900, ch. 2003-261; s. 51, ch. 2003-416; s. 1, ch. 2004-54; s. 1, ch. 2005-118; s. 2, ch. 2011-219; s. 3, ch. 2013-151; s. 1, ch. 2014-108; s. 17, ch. 2016-224; s. 79, ch. 2018-106; s. 44, ch. 2024-15."
+      ],
+      "source_citations": [
+        "s. 1, ch. 92-278",
+        "s. 22, ch. 93-129",
+        "s. 1, ch. 94-75",
+        "s. 246, ch. 94-218",
+        "s. 425, ch. 96-406",
+        "s. 126, ch. 97-237",
+        "s. 9, ch. 97-263",
+        "s. 11, ch. 98-49",
+        "s. 41, ch. 98-89",
+        "s. 233, ch. 98-166",
+        "s. 88, ch. 99-3",
+        "s. 286, ch. 99-8",
+        "s. 49, ch. 2000-242",
+        "s. 145, ch. 2000-318",
+        "s. 88, ch. 2001-277",
+        "s. 114, ch. 2002-1",
+        "s. 1900, ch. 2003-261",
+        "s. 51, ch. 2003-416",
+        "s. 1, ch. 2004-54",
+        "s. 1, ch. 2005-118",
+        "s. 2, ch. 2011-219",
+        "s. 3, ch. 2013-151",
+        "s. 1, ch. 2014-108",
+        "s. 17, ch. 2016-224",
+        "s. 79, ch. 2018-106",
+        "s. 44, ch. 2024-15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1116",
+      "section_path": "title-45-torts/sec-0766-1116.md",
+      "history": [
+        "History.—s. 2, ch. 2004-54; s. 4, ch. 2009-41; s. 80, ch. 2018-106."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2004-54",
+        "s. 4, ch. 2009-41",
+        "s. 80, ch. 2018-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.112",
+      "section_path": "title-45-torts/sec-0766-112.md",
+      "history": [
+        "History.—ss. 79, 80, ch. 88-1; ss. 43, 44, ch. 88-277; s. 32, ch. 91-110; s. 102, ch. 92-33; s. 1, ch. 2002-401; s. 52, ch. 2003-416."
+      ],
+      "source_citations": [
+        "ss. 79, 80, ch. 88-1",
+        "ss. 43, 44, ch. 88-277",
+        "s. 32, ch. 91-110",
+        "s. 102, ch. 92-33",
+        "s. 1, ch. 2002-401",
+        "s. 52, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.113",
+      "section_path": "title-45-torts/sec-0766-113.md",
+      "history": [
+        "History.—s. 49, ch. 88-277; s. 53, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 49, ch. 88-277",
+        "s. 53, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.118",
+      "section_path": "title-45-torts/sec-0766-118.md",
+      "history": [
+        "History.—s. 54, ch. 2003-416; s. 204, ch. 2007-230; s. 28, ch. 2011-135; s. 124, ch. 2018-24; s. 81, ch. 2018-106; s. 37, ch. 2020-9."
+      ],
+      "source_citations": [
+        "s. 54, ch. 2003-416",
+        "s. 204, ch. 2007-230",
+        "s. 28, ch. 2011-135",
+        "s. 124, ch. 2018-24",
+        "s. 81, ch. 2018-106",
+        "s. 37, ch. 2020-9."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.1185",
+      "section_path": "title-45-torts/sec-0766-1185.md",
+      "history": [
+        "History.—s. 56, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 56, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.201",
+      "section_path": "title-45-torts/sec-0766-201.md",
+      "history": [
+        "History.—s. 48, ch. 88-1; s. 57, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 48, ch. 88-1",
+        "s. 57, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.202",
+      "section_path": "title-45-torts/sec-0766-202.md",
+      "history": [
+        "History.—s. 49, ch. 88-1; s. 1153, ch. 97-102; s. 58, ch. 2003-416; s. 3, ch. 2011-195; s. 125, ch. 2018-24."
+      ],
+      "source_citations": [
+        "s. 49, ch. 88-1",
+        "s. 1153, ch. 97-102",
+        "s. 58, ch. 2003-416",
+        "s. 3, ch. 2011-195",
+        "s. 125, ch. 2018-24."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.2021",
+      "section_path": "title-45-torts/sec-0766-2021.md",
+      "history": [
+        "History.—s. 59, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 59, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.203",
+      "section_path": "title-45-torts/sec-0766-203.md",
+      "history": [
+        "History.—s. 50, ch. 88-1; s. 26, ch. 88-277; s. 33, ch. 91-110; s. 113, ch. 92-33; s. 3, ch. 92-278; s. 60, ch. 2003-416; s. 154, ch. 2004-5."
+      ],
+      "source_citations": [
+        "s. 50, ch. 88-1",
+        "s. 26, ch. 88-277",
+        "s. 33, ch. 91-110",
+        "s. 113, ch. 92-33",
+        "s. 3, ch. 92-278",
+        "s. 60, ch. 2003-416",
+        "s. 154, ch. 2004-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.204",
+      "section_path": "title-45-torts/sec-0766-204.md",
+      "history": [
+        "History.—s. 51, ch. 88-1; s. 27, ch. 88-277; s. 246, ch. 98-166."
+      ],
+      "source_citations": [
+        "s. 51, ch. 88-1",
+        "s. 27, ch. 88-277",
+        "s. 246, ch. 98-166."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.205",
+      "section_path": "title-45-torts/sec-0766-205.md",
+      "history": [
+        "History.—s. 52, ch. 88-1; s. 28, ch. 88-277; s. 34, ch. 91-110."
+      ],
+      "source_citations": [
+        "s. 52, ch. 88-1",
+        "s. 28, ch. 88-277",
+        "s. 34, ch. 91-110."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.206",
+      "section_path": "title-45-torts/sec-0766-206.md",
+      "history": [
+        "History.—s. 53, ch. 88-1; s. 29, ch. 88-277; s. 35, ch. 91-110; s. 61, ch. 2003-416; s. 155, ch. 2004-5; s. 14, ch. 2011-233."
+      ],
+      "source_citations": [
+        "s. 53, ch. 88-1",
+        "s. 29, ch. 88-277",
+        "s. 35, ch. 91-110",
+        "s. 61, ch. 2003-416",
+        "s. 155, ch. 2004-5",
+        "s. 14, ch. 2011-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.207",
+      "section_path": "title-45-torts/sec-0766-207.md",
+      "history": [
+        "History.—s. 54, ch. 88-1; s. 30, ch. 88-277; s. 36, ch. 91-110; s. 114, ch. 92-33; s. 4, ch. 92-278; s. 2, ch. 94-161; s. 304, ch. 96-410; s. 1801, ch. 97-102; s. 89, ch. 99-3; s. 62, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 54, ch. 88-1",
+        "s. 30, ch. 88-277",
+        "s. 36, ch. 91-110",
+        "s. 114, ch. 92-33",
+        "s. 4, ch. 92-278",
+        "s. 2, ch. 94-161",
+        "s. 304, ch. 96-410",
+        "s. 1801, ch. 97-102",
+        "s. 89, ch. 99-3",
+        "s. 62, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.208",
+      "section_path": "title-45-torts/sec-0766-208.md",
+      "history": [
+        "History.—s. 55, ch. 88-1; s. 31, ch. 88-277; s. 305, ch. 96-410."
+      ],
+      "source_citations": [
+        "s. 55, ch. 88-1",
+        "s. 31, ch. 88-277",
+        "s. 305, ch. 96-410."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.209",
+      "section_path": "title-45-torts/sec-0766-209.md",
+      "history": [
+        "History.—s. 56, ch. 88-1; s. 32, ch. 88-277; s. 63, ch. 2003-416; s. 156, ch. 2004-5."
+      ],
+      "source_citations": [
+        "s. 56, ch. 88-1",
+        "s. 32, ch. 88-277",
+        "s. 63, ch. 2003-416",
+        "s. 156, ch. 2004-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.21",
+      "section_path": "title-45-torts/sec-0766-21.md",
+      "history": [
+        "History.—s. 57, ch. 88-1; s. 33, ch. 88-277; s. 306, ch. 96-410; s. 1802, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 57, ch. 88-1",
+        "s. 33, ch. 88-277",
+        "s. 306, ch. 96-410",
+        "s. 1802, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.211",
+      "section_path": "title-45-torts/sec-0766-211.md",
+      "history": [
+        "History.—s. 58, ch. 88-1; s. 34, ch. 88-277."
+      ],
+      "source_citations": [
+        "s. 58, ch. 88-1",
+        "s. 34, ch. 88-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.212",
+      "section_path": "title-45-torts/sec-0766-212.md",
+      "history": [
+        "History.—s. 59, ch. 88-1; s. 35, ch. 88-277."
+      ],
+      "source_citations": [
+        "s. 59, ch. 88-1",
+        "s. 35, ch. 88-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.301",
+      "section_path": "title-45-torts/sec-0766-301.md",
+      "history": [
+        "History.—s. 60, ch. 88-1; s. 1, ch. 98-113."
+      ],
+      "source_citations": [
+        "s. 60, ch. 88-1",
+        "s. 1, ch. 98-113."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.302",
+      "section_path": "title-45-torts/sec-0766-302.md",
+      "history": [
+        "History.—s. 61, ch. 88-1; s. 36, ch. 88-277; s. 16, ch. 91-46; s. 2, ch. 93-251; s. 307, ch. 96-410; s. 149, ch. 2001-277; s. 5, ch. 2002-401; s. 59, ch. 2024-140; s. 25, ch. 2024-182; s. 2, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 61, ch. 88-1",
+        "s. 36, ch. 88-277",
+        "s. 16, ch. 91-46",
+        "s. 2, ch. 93-251",
+        "s. 307, ch. 96-410",
+        "s. 149, ch. 2001-277",
+        "s. 5, ch. 2002-401",
+        "s. 59, ch. 2024-140",
+        "s. 25, ch. 2024-182",
+        "s. 2, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.303",
+      "section_path": "title-45-torts/sec-0766-303.md",
+      "history": [
+        "History.—s. 62, ch. 88-1; s. 37, ch. 88-277; s. 1, ch. 89-186; s. 1154, ch. 97-102; s. 74, ch. 2003-416; s. 2, ch. 2021-134; s. 3, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 62, ch. 88-1",
+        "s. 37, ch. 88-277",
+        "s. 1, ch. 89-186",
+        "s. 1154, ch. 97-102",
+        "s. 74, ch. 2003-416",
+        "s. 2, ch. 2021-134",
+        "s. 3, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.304",
+      "section_path": "title-45-torts/sec-0766-304.md",
+      "history": [
+        "History.—s. 63, ch. 88-1; s. 17, ch. 91-46; s. 3, ch. 93-251; s. 308, ch. 96-410; s. 1803, ch. 97-102; s. 2, ch. 98-113; s. 90, ch. 99-3; s. 75, ch. 2003-416; s. 109, ch. 2013-18."
+      ],
+      "source_citations": [
+        "s. 63, ch. 88-1",
+        "s. 17, ch. 91-46",
+        "s. 3, ch. 93-251",
+        "s. 308, ch. 96-410",
+        "s. 1803, ch. 97-102",
+        "s. 2, ch. 98-113",
+        "s. 90, ch. 99-3",
+        "s. 75, ch. 2003-416",
+        "s. 109, ch. 2013-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.305",
+      "section_path": "title-45-torts/sec-0766-305.md",
+      "history": [
+        "History.—s. 64, ch. 88-1; s. 2, ch. 89-186; s. 18, ch. 91-46; s. 4, ch. 93-251; s. 1, ch. 94-106; s. 309, ch. 96-410; s. 1804, ch. 97-102; s. 165, ch. 98-166; s. 287, ch. 99-8; s. 226, ch. 2000-160; s. 115, ch. 2002-1; s. 76, ch. 2003-416; s. 4, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 64, ch. 88-1",
+        "s. 2, ch. 89-186",
+        "s. 18, ch. 91-46",
+        "s. 4, ch. 93-251",
+        "s. 1, ch. 94-106",
+        "s. 309, ch. 96-410",
+        "s. 1804, ch. 97-102",
+        "s. 165, ch. 98-166",
+        "s. 287, ch. 99-8",
+        "s. 226, ch. 2000-160",
+        "s. 115, ch. 2002-1",
+        "s. 76, ch. 2003-416",
+        "s. 4, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.306",
+      "section_path": "title-45-torts/sec-0766-306.md",
+      "history": [
+        "History.—s. 65, ch. 88-1."
+      ],
+      "source_citations": [
+        "s. 65, ch. 88-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.307",
+      "section_path": "title-45-torts/sec-0766-307.md",
+      "history": [
+        "History.—s. 66, ch. 88-1; s. 19, ch. 91-46; s. 2, ch. 94-106; s. 310, ch. 96-410."
+      ],
+      "source_citations": [
+        "s. 66, ch. 88-1",
+        "s. 19, ch. 91-46",
+        "s. 2, ch. 94-106",
+        "s. 310, ch. 96-410."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.309",
+      "section_path": "title-45-torts/sec-0766-309.md",
+      "history": [
+        "History.—s. 68, ch. 88-1; s. 4, ch. 89-186; s. 21, ch. 91-46; s. 3, ch. 94-106; s. 312, ch. 96-410; s. 1805, ch. 97-102; s. 77, ch. 2003-416; s. 1, ch. 2006-8; s. 5, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 68, ch. 88-1",
+        "s. 4, ch. 89-186",
+        "s. 21, ch. 91-46",
+        "s. 3, ch. 94-106",
+        "s. 312, ch. 96-410",
+        "s. 1805, ch. 97-102",
+        "s. 77, ch. 2003-416",
+        "s. 1, ch. 2006-8",
+        "s. 5, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.31",
+      "section_path": "title-45-torts/sec-0766-31.md",
+      "history": [
+        "History.—s. 69, ch. 88-1; s. 5, ch. 89-186; s. 22, ch. 91-46; s. 4, ch. 94-106; s. 313, ch. 96-410; s. 150, ch. 2001-277; s. 6, ch. 2002-401; s. 78, ch. 2003-416; s. 3, ch. 2021-134; s. 23, ch. 2022-71; s. 6, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 69, ch. 88-1",
+        "s. 5, ch. 89-186",
+        "s. 22, ch. 91-46",
+        "s. 4, ch. 94-106",
+        "s. 313, ch. 96-410",
+        "s. 150, ch. 2001-277",
+        "s. 6, ch. 2002-401",
+        "s. 78, ch. 2003-416",
+        "s. 3, ch. 2021-134",
+        "s. 23, ch. 2022-71",
+        "s. 6, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.311",
+      "section_path": "title-45-torts/sec-0766-311.md",
+      "history": [
+        "History.—s. 70, ch. 88-1; s. 23, ch. 91-46; s. 6, ch. 93-251; s. 314, ch. 96-410."
+      ],
+      "source_citations": [
+        "s. 70, ch. 88-1",
+        "s. 23, ch. 91-46",
+        "s. 6, ch. 93-251",
+        "s. 314, ch. 96-410."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.312",
+      "section_path": "title-45-torts/sec-0766-312.md",
+      "history": [
+        "History.—s. 71, ch. 88-1; s. 24, ch. 91-46; s. 5, ch. 94-106; s. 315, ch. 96-410; s. 1806, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 71, ch. 88-1",
+        "s. 24, ch. 91-46",
+        "s. 5, ch. 94-106",
+        "s. 315, ch. 96-410",
+        "s. 1806, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.313",
+      "section_path": "title-45-torts/sec-0766-313.md",
+      "history": [
+        "History.—s. 72, ch. 88-1; s. 38, ch. 88-277; s. 1, ch. 93-251."
+      ],
+      "source_citations": [
+        "s. 72, ch. 88-1",
+        "s. 38, ch. 88-277",
+        "s. 1, ch. 93-251."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.314",
+      "section_path": "title-45-torts/sec-0766-314.md",
+      "history": [
+        "History.—s. 73, ch. 88-1; s. 39, ch. 88-277; s. 44, ch. 88-294; s. 6, ch. 89-186; s. 103, ch. 92-33; s. 122, ch. 92-149; s. 1, ch. 92-196; s. 94, ch. 92-289; s. 66, ch. 93-268; s. 1, ch. 94-85; s. 248, ch. 94-218; s. 426, ch. 96-406; s. 1807, ch. 97-102; s. 81, ch. 97-237; s. 167, ch. 98-166; s. 288, ch. 99-8; s. 227, ch. 2000-160; s. 7, ch. 2002-401; s. 4, ch. 2003-258; s. 1901, ch. 2003-261; ss. 79, 84, ch. 2003-416; s. 25, ch. 2022-71; s. 60, ch. 2024-140; s. 26, ch. 2024-182; s. 47, ch. 2025-199; s. 7, ch. 2026-127; ss. 62, 63, ch. 2026-233."
+      ],
+      "source_citations": [
+        "s. 73, ch. 88-1",
+        "s. 39, ch. 88-277",
+        "s. 44, ch. 88-294",
+        "s. 6, ch. 89-186",
+        "s. 103, ch. 92-33",
+        "s. 122, ch. 92-149",
+        "s. 1, ch. 92-196",
+        "s. 94, ch. 92-289",
+        "s. 66, ch. 93-268",
+        "s. 1, ch. 94-85",
+        "s. 248, ch. 94-218",
+        "s. 426, ch. 96-406",
+        "s. 1807, ch. 97-102",
+        "s. 81, ch. 97-237",
+        "s. 167, ch. 98-166",
+        "s. 288, ch. 99-8",
+        "s. 227, ch. 2000-160",
+        "s. 7, ch. 2002-401",
+        "s. 4, ch. 2003-258",
+        "s. 1901, ch. 2003-261",
+        "ss. 79, 84, ch. 2003-416",
+        "s. 25, ch. 2022-71",
+        "s. 60, ch. 2024-140",
+        "s. 26, ch. 2024-182",
+        "s. 47, ch. 2025-199",
+        "s. 7, ch. 2026-127",
+        "ss. 62, 63, ch. 2026-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.3145",
+      "section_path": "title-45-torts/sec-0766-3145.md",
+      "history": [
+        "History.—s. 4, ch. 2021-134."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2021-134."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.315",
+      "section_path": "title-45-torts/sec-0766-315.md",
+      "history": [
+        "History.—s. 74, ch. 88-1; s. 40, ch. 88-277; s. 7, ch. 89-186; s. 2, ch. 94-85; s. 427, ch. 96-406; s. 1808, ch. 97-102; s. 3, ch. 98-113; s. 2, ch. 98-409; s. 1902, ch. 2003-261; s. 3, ch. 2006-8; s. 11, ch. 2014-103; s. 5, ch. 2021-134; s. 60, ch. 2024-2; s. 8, ch. 2026-127."
+      ],
+      "source_citations": [
+        "s. 74, ch. 88-1",
+        "s. 40, ch. 88-277",
+        "s. 7, ch. 89-186",
+        "s. 2, ch. 94-85",
+        "s. 427, ch. 96-406",
+        "s. 1808, ch. 97-102",
+        "s. 3, ch. 98-113",
+        "s. 2, ch. 98-409",
+        "s. 1902, ch. 2003-261",
+        "s. 3, ch. 2006-8",
+        "s. 11, ch. 2014-103",
+        "s. 5, ch. 2021-134",
+        "s. 60, ch. 2024-2",
+        "s. 8, ch. 2026-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.316",
+      "section_path": "title-45-torts/sec-0766-316.md",
+      "history": [
+        "History.—s. 75, ch. 88-1; s. 8, ch. 89-186; s. 4, ch. 98-113; s. 91, ch. 99-3; s. 205, ch. 2007-230."
+      ],
+      "source_citations": [
+        "s. 75, ch. 88-1",
+        "s. 8, ch. 89-186",
+        "s. 4, ch. 98-113",
+        "s. 91, ch. 99-3",
+        "s. 205, ch. 2007-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "766.318",
+      "section_path": "title-45-torts/sec-0766-318.md",
+      "history": [
+        "History.—ss. 7, 9, ch. 2023-90."
+      ],
+      "source_citations": [
+        "ss. 7, 9, ch. 2023-90."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0766/0766.html&StatuteYear=2026",
+      "source_sha256": "e06ffb9a9e5ae5bdd1a91b38c54bbf9c4d15f08281eaa11c5e01079b1e660100"
+    },
+    {
+      "section": "767.01",
+      "section_path": "title-45-torts/sec-0767-01.md",
+      "history": [
+        "History.—RS 2341; ch. 4979, 1901; GS 3142; RGS 4957; CGL 7044; s. 1, ch. 94-339; s. 48, ch. 2024-137; s. 2, ch. 2025-61."
+      ],
+      "source_citations": [
+        "RS 2341",
+        "ch. 4979, 1901",
+        "GS 3142",
+        "RGS 4957",
+        "CGL 7044",
+        "s. 1, ch. 94-339",
+        "s. 48, ch. 2024-137",
+        "s. 2, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.02",
+      "section_path": "title-45-torts/sec-0767-02.md",
+      "history": [
+        "History.—s. 1, ch. 4185, 1893; GS 3143; RGS 4958; CGL 7045."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4185, 1893",
+        "GS 3143",
+        "RGS 4958",
+        "CGL 7045."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.03",
+      "section_path": "title-45-torts/sec-0767-03.md",
+      "history": [
+        "History.—s. 1, ch. 4978, 1901; GS 3144; RGS 4959; CGL 7046; s. 1, ch. 79-315; s. 2, ch. 94-339; s. 49, ch. 2024-137."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4978, 1901",
+        "GS 3144",
+        "RGS 4959",
+        "CGL 7046",
+        "s. 1, ch. 79-315",
+        "s. 2, ch. 94-339",
+        "s. 49, ch. 2024-137."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.04",
+      "section_path": "title-45-torts/sec-0767-04.md",
+      "history": [
+        "History.—s. 1, ch. 25109, 1949; s. 1, ch. 93-13; s. 1155, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 25109, 1949",
+        "s. 1, ch. 93-13",
+        "s. 1155, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.05",
+      "section_path": "title-45-torts/sec-0767-05.md",
+      "history": [
+        "History.—s. 2, ch. 79-315; s. 482, ch. 81-259."
+      ],
+      "source_citations": [
+        "s. 2, ch. 79-315",
+        "s. 482, ch. 81-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.07",
+      "section_path": "title-45-torts/sec-0767-07.md",
+      "history": [
+        "History.—s. 2, ch. 79-315."
+      ],
+      "source_citations": [
+        "s. 2, ch. 79-315."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.10",
+      "section_path": "title-45-torts/sec-0767-10.md",
+      "history": [
+        "History.—s. 1, ch. 90-180; s. 3, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 1, ch. 90-180",
+        "s. 3, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.11",
+      "section_path": "title-45-torts/sec-0767-11.md",
+      "history": [
+        "History.—s. 2, ch. 90-180; s. 2, ch. 93-13; s. 1156, ch. 97-102; s. 1, ch. 2011-211; s. 4, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 2, ch. 90-180",
+        "s. 2, ch. 93-13",
+        "s. 1156, ch. 97-102",
+        "s. 1, ch. 2011-211",
+        "s. 4, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.12",
+      "section_path": "title-45-torts/sec-0767-12.md",
+      "history": [
+        "History.—s. 3, ch. 90-180; s. 3, ch. 93-13; s. 3, ch. 94-339; s. 1157, ch. 97-102; s. 2, ch. 2016-16; s. 5, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 3, ch. 90-180",
+        "s. 3, ch. 93-13",
+        "s. 3, ch. 94-339",
+        "s. 1157, ch. 97-102",
+        "s. 2, ch. 2016-16",
+        "s. 5, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.13",
+      "section_path": "title-45-torts/sec-0767-13.md",
+      "history": [
+        "History.—s. 4, ch. 90-180; s. 4, ch. 93-13; s. 4, ch. 94-339; s. 3, ch. 2016-16; s. 6, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 4, ch. 90-180",
+        "s. 4, ch. 93-13",
+        "s. 4, ch. 94-339",
+        "s. 3, ch. 2016-16",
+        "s. 6, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.135",
+      "section_path": "title-45-torts/sec-0767-135.md",
+      "history": [
+        "History.—s. 4, ch. 90-180; s. 4, ch. 93-13; s. 4, ch. 94-339; s. 3, ch. 2016-16; s. 7, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 4, ch. 90-180",
+        "s. 4, ch. 93-13",
+        "s. 4, ch. 94-339",
+        "s. 3, ch. 2016-16",
+        "s. 7, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.136",
+      "section_path": "title-45-torts/sec-0767-136.md",
+      "history": [
+        "History.—s. 4, ch. 2016-16; s. 8, ch. 2025-61."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2016-16",
+        "s. 8, ch. 2025-61."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.14",
+      "section_path": "title-45-torts/sec-0767-14.md",
+      "history": [
+        "History.—s. 5, ch. 90-180; s. 5, ch. 2016-16; s. 1, ch. 2023-253."
+      ],
+      "source_citations": [
+        "s. 5, ch. 90-180",
+        "s. 5, ch. 2016-16",
+        "s. 1, ch. 2023-253."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.15",
+      "section_path": "title-45-torts/sec-0767-15.md",
+      "history": [
+        "History.—s. 6, ch. 90-180."
+      ],
+      "source_citations": [
+        "s. 6, ch. 90-180."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "767.16",
+      "section_path": "title-45-torts/sec-0767-16.md",
+      "history": [
+        "History.—s. 1, ch. 91-228; s. 6, ch. 2016-16; s. 2, ch. 2019-9; s. 3, ch. 2024-258."
+      ],
+      "source_citations": [
+        "s. 1, ch. 91-228",
+        "s. 6, ch. 2016-16",
+        "s. 2, ch. 2019-9",
+        "s. 3, ch. 2024-258."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0767/0767.html&StatuteYear=2026",
+      "source_sha256": "0f856e883dd5abdf09cd464d781c37f15f179164c1f46b469d75cbad406bc9b5"
+    },
+    {
+      "section": "768.041",
+      "section_path": "title-45-torts/sec-0768-041.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 57-395; s. 45, ch. 67-254; s. 1158, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 57-395",
+        "s. 45, ch. 67-254",
+        "s. 1158, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0415",
+      "section_path": "title-45-torts/sec-0768-0415.md",
+      "history": [
+        "History.—s. 1, ch. 88-173."
+      ],
+      "source_citations": [
+        "s. 1, ch. 88-173."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.042",
+      "section_path": "title-45-torts/sec-0768-042.md",
+      "history": [
+        "History.—ss. 8, 9, ch. 75-9; s. 161, ch. 2020-2."
+      ],
+      "source_citations": [
+        "ss. 8, 9, ch. 75-9",
+        "s. 161, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0425",
+      "section_path": "title-45-torts/sec-0768-0425.md",
+      "history": [
+        "History.—ss. 12, 16, ch. 87-310; s. 21, ch. 88-149; ss. 22, 23, ch. 88-156; s. 1159, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 12, 16, ch. 87-310",
+        "s. 21, ch. 88-149",
+        "ss. 22, 23, ch. 88-156",
+        "s. 1159, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0427",
+      "section_path": "title-45-torts/sec-0768-0427.md",
+      "history": [
+        "History.—ss. 6, 27, ch. 2023-15."
+      ],
+      "source_citations": [
+        "ss. 6, 27, ch. 2023-15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.043",
+      "section_path": "title-45-torts/sec-0768-043.md",
+      "history": [
+        "History.—s. 41, ch. 77-468; s. 283, ch. 79-400."
+      ],
+      "source_citations": [
+        "s. 41, ch. 77-468",
+        "s. 283, ch. 79-400."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.07",
+      "section_path": "title-45-torts/sec-0768-07.md",
+      "history": [
+        "History.—s. 3, ch. 4071, 1891; GS 3150; RGS 4966; CGL 7053; s. 1160, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 3, ch. 4071, 1891",
+        "GS 3150",
+        "RGS 4966",
+        "CGL 7053",
+        "s. 1160, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0701",
+      "section_path": "title-45-torts/sec-0768-0701.md",
+      "history": [
+        "History.—s. 7, ch. 2023-15."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2023-15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0705",
+      "section_path": "title-45-torts/sec-0768-0705.md",
+      "history": [
+        "History.—s. 18, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 18, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0706",
+      "section_path": "title-45-torts/sec-0768-0706.md",
+      "history": [
+        "History.—s. 8, ch. 2023-15."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2023-15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.075",
+      "section_path": "title-45-torts/sec-0768-075.md",
+      "history": [
+        "History.—s. 1, ch. 90-140; s. 1161, ch. 97-102; s. 19, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 1, ch. 90-140",
+        "s. 1161, ch. 97-102",
+        "s. 19, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0755",
+      "section_path": "title-45-torts/sec-0768-0755.md",
+      "history": [
+        "History.—s. 1, ch. 2010-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2010-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.08",
+      "section_path": "title-45-torts/sec-0768-08.md",
+      "history": [
+        "History.—s. 1, ch. 6520, 1913; RGS 4967; CGL 7054; s. 1162, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6520, 1913",
+        "RGS 4967",
+        "CGL 7054",
+        "s. 1162, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0895",
+      "section_path": "title-45-torts/sec-0768-0895.md",
+      "history": [
+        "History.—s. 1, ch. 2011-231."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2011-231."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.091",
+      "section_path": "title-45-torts/sec-0768-091.md",
+      "history": [
+        "History.—ss. 2, 3, ch. 82-95; s. 1163, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 2, 3, ch. 82-95",
+        "s. 1163, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.092",
+      "section_path": "title-45-torts/sec-0768-092.md",
+      "history": [
+        "History.—s. 1, ch. 2019-104."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2019-104."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.093",
+      "section_path": "title-45-torts/sec-0768-093.md",
+      "history": [
+        "History.—s. 1, ch. 2002-33."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2002-33."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.095",
+      "section_path": "title-45-torts/sec-0768-095.md",
+      "history": [
+        "History.—s. 1, ch. 91-165; s. 17, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 1, ch. 91-165",
+        "s. 17, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.096",
+      "section_path": "title-45-torts/sec-0768-096.md",
+      "history": [
+        "History.—s. 16, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 16, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.098",
+      "section_path": "title-45-torts/sec-0768-098.md",
+      "history": [
+        "History.—s. 29, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 29, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.0981",
+      "section_path": "title-45-torts/sec-0768-0981.md",
+      "history": [
+        "History.—s. 64, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 64, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.10",
+      "section_path": "title-45-torts/sec-0768-10.md",
+      "history": [
+        "History.—s. 1, ch. 4051, 1891; GS 3152; RGS 4969; CGL 7056."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4051, 1891",
+        "GS 3152",
+        "RGS 4969",
+        "CGL 7056."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.11",
+      "section_path": "title-45-torts/sec-0768-11.md",
+      "history": [
+        "History.—s. 2, ch. 4051, 1891; GS 3153; RGS 4970; CGL 7057."
+      ],
+      "source_citations": [
+        "s. 2, ch. 4051, 1891",
+        "GS 3153",
+        "RGS 4970",
+        "CGL 7057."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.12",
+      "section_path": "title-45-torts/sec-0768-12.md",
+      "history": [
+        "History.—s. 1, ch. 21018, 1941."
+      ],
+      "source_citations": [
+        "s. 1, ch. 21018, 1941."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.125",
+      "section_path": "title-45-torts/sec-0768-125.md",
+      "history": [
+        "History.—s. 1, ch. 80-37."
+      ],
+      "source_citations": [
+        "s. 1, ch. 80-37."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1256",
+      "section_path": "title-45-torts/sec-0768-1256.md",
+      "history": [
+        "History.—s. 15, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 15, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1257",
+      "section_path": "title-45-torts/sec-0768-1257.md",
+      "history": [
+        "History.—s. 14, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 14, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.128",
+      "section_path": "title-45-torts/sec-0768-128.md",
+      "history": [
+        "History.—s. 39, ch. 83-310."
+      ],
+      "source_citations": [
+        "s. 39, ch. 83-310."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.13",
+      "section_path": "title-45-torts/sec-0768-13.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 65-313; s. 1, ch. 78-334; s. 62, ch. 86-160; s. 46, ch. 88-1; s. 4, ch. 88-173; s. 42, ch. 88-277; s. 1, ch. 89-71; s. 37, ch. 91-110; s. 33, ch. 93-211; s. 3, ch. 97-34; s. 1164, ch. 97-102; s. 2, ch. 2001-76; s. 3, ch. 2002-269; s. 65, ch. 2003-416; s. 1, ch. 2004-45; s. 441, ch. 2011-142."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 65-313",
+        "s. 1, ch. 78-334",
+        "s. 62, ch. 86-160",
+        "s. 46, ch. 88-1",
+        "s. 4, ch. 88-173",
+        "s. 42, ch. 88-277",
+        "s. 1, ch. 89-71",
+        "s. 37, ch. 91-110",
+        "s. 33, ch. 93-211",
+        "s. 3, ch. 97-34",
+        "s. 1164, ch. 97-102",
+        "s. 2, ch. 2001-76",
+        "s. 3, ch. 2002-269",
+        "s. 65, ch. 2003-416",
+        "s. 1, ch. 2004-45",
+        "s. 441, ch. 2011-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1315",
+      "section_path": "title-45-torts/sec-0768-1315.md",
+      "history": [
+        "History.—s. 1, ch. 2004-368."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2004-368."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1325",
+      "section_path": "title-45-torts/sec-0768-1325.md",
+      "history": [
+        "History.—s. 1, ch. 2001-76; s. 3, ch. 2004-345; s. 3, ch. 2004-353; s. 3, ch. 2006-206; s. 2, ch. 2008-101."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2001-76",
+        "s. 3, ch. 2004-345",
+        "s. 3, ch. 2004-353",
+        "s. 3, ch. 2006-206",
+        "s. 2, ch. 2008-101."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1326",
+      "section_path": "title-45-torts/sec-0768-1326.md",
+      "history": [
+        "History.—s. 4, ch. 2001-76; s. 110, ch. 2008-6; s. 162, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2001-76",
+        "s. 110, ch. 2008-6",
+        "s. 162, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1335",
+      "section_path": "title-45-torts/sec-0768-1335.md",
+      "history": [
+        "History.—s. 1, ch. 2003-180."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2003-180."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1345",
+      "section_path": "title-45-torts/sec-0768-1345.md",
+      "history": [
+        "History.—s. 32, ch. 93-211."
+      ],
+      "source_citations": [
+        "s. 32, ch. 93-211."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.135",
+      "section_path": "title-45-torts/sec-0768-135.md",
+      "history": [
+        "History.—s. 1, ch. 80-263; s. 483, ch. 81-259; s. 2, ch. 88-257; s. 15, ch. 2011-233; s. 38, ch. 2020-9; s. 2, ch. 2026-90."
+      ],
+      "source_citations": [
+        "s. 1, ch. 80-263",
+        "s. 483, ch. 81-259",
+        "s. 2, ch. 88-257",
+        "s. 15, ch. 2011-233",
+        "s. 38, ch. 2020-9",
+        "s. 2, ch. 2026-90."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1355",
+      "section_path": "title-45-torts/sec-0768-1355.md",
+      "history": [
+        "History.—s. 1, ch. 93-139; s. 50, ch. 96-399; s. 1, ch. 2011-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 93-139",
+        "s. 50, ch. 96-399",
+        "s. 1, ch. 2011-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.136",
+      "section_path": "title-45-torts/sec-0768-136.md",
+      "history": [
+        "History.—s. 1, ch. 81-130; s. 1, ch. 85-132; s. 1, ch. 89-35; s. 2, ch. 2008-25; s. 1, ch. 2014-26."
+      ],
+      "source_citations": [
+        "s. 1, ch. 81-130",
+        "s. 1, ch. 85-132",
+        "s. 1, ch. 89-35",
+        "s. 2, ch. 2008-25",
+        "s. 1, ch. 2014-26."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.137",
+      "section_path": "title-45-torts/sec-0768-137.md",
+      "history": [
+        "History.—s. 1, ch. 92-85; s. 3, ch. 92-151; ss. 1165, 1166, ch. 97-102; s. 1, ch. 2015-38."
+      ],
+      "source_citations": [
+        "s. 1, ch. 92-85",
+        "s. 3, ch. 92-151",
+        "ss. 1165, 1166, ch. 97-102",
+        "s. 1, ch. 2015-38."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.138",
+      "section_path": "title-45-torts/sec-0768-138.md",
+      "history": [
+        "History.—s. 1, ch. 2001-165."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2001-165."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.1382",
+      "section_path": "title-45-torts/sec-0768-1382.md",
+      "history": [
+        "History.—s. 1, ch. 2005-272; s. 61, ch. 2022-4; s. 16, ch. 2024-57."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2005-272",
+        "s. 61, ch. 2022-4",
+        "s. 16, ch. 2024-57."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.139",
+      "section_path": "title-45-torts/sec-0768-139.md",
+      "history": [
+        "History.—s. 1, ch. 2016-18."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2016-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.14",
+      "section_path": "title-45-torts/sec-0768-14.md",
+      "history": [
+        "History.—s. 1, ch. 67-2204."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-2204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.16",
+      "section_path": "title-45-torts/sec-0768-16.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 105, ch. 2003-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 105, ch. 2003-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.17",
+      "section_path": "title-45-torts/sec-0768-17.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 106, ch. 2003-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 106, ch. 2003-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.18",
+      "section_path": "title-45-torts/sec-0768-18.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 66, ch. 77-121; s. 40, ch. 77-468; s. 1, ch. 81-183; s. 3, ch. 89-61; s. 1, ch. 90-14; s. 1167, ch. 97-102; s. 107, ch. 2003-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 66, ch. 77-121",
+        "s. 40, ch. 77-468",
+        "s. 1, ch. 81-183",
+        "s. 3, ch. 89-61",
+        "s. 1, ch. 90-14",
+        "s. 1167, ch. 97-102",
+        "s. 107, ch. 2003-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.19",
+      "section_path": "title-45-torts/sec-0768-19.md",
+      "history": [
+        "History.—s. 1, ch. 72-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.20",
+      "section_path": "title-45-torts/sec-0768-20.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 1168, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 1168, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.21",
+      "section_path": "title-45-torts/sec-0768-21.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 2, ch. 81-183; s. 1, ch. 85-260; s. 2, ch. 90-14; s. 1169, ch. 97-102; s. 1, ch. 2002-44; s. 66, ch. 2003-416; s. 163, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 2, ch. 81-183",
+        "s. 1, ch. 85-260",
+        "s. 2, ch. 90-14",
+        "s. 1169, ch. 97-102",
+        "s. 1, ch. 2002-44",
+        "s. 66, ch. 2003-416",
+        "s. 163, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.22",
+      "section_path": "title-45-torts/sec-0768-22.md",
+      "history": [
+        "History.—s. 1, ch. 72-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.23",
+      "section_path": "title-45-torts/sec-0768-23.md",
+      "history": [
+        "History.—s. 1, ch. 72-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.24",
+      "section_path": "title-45-torts/sec-0768-24.md",
+      "history": [
+        "History.—s. 1, ch. 72-35; s. 1170, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35",
+        "s. 1170, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.25",
+      "section_path": "title-45-torts/sec-0768-25.md",
+      "history": [
+        "History.—s. 1, ch. 72-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.26",
+      "section_path": "title-45-torts/sec-0768-26.md",
+      "history": [
+        "History.—s. 1, ch. 72-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.28",
+      "section_path": "title-45-torts/sec-0768-28.md",
+      "history": [
+        "History.—s. 1, ch. 73-313; s. 1, ch. 74-235; ss. 1, 2, 3, ch. 77-86; s. 9, ch. 79-139; s. 1, ch. 79-253; s. 284, ch. 79-400; s. 1, ch. 80-271; ss. 1, 2, ch. 81-317; s. 1, ch. 83-44; s. 1, ch. 83-257; s. 1, ch. 84-29; s. 1, ch. 84-335; s. 21, ch. 86-183; s. 1, ch. 86-184; s. 3, ch. 87-134; s. 2, ch. 88-173; ss. 55, 61, ch. 89-300; s. 92, ch. 89-360; s. 8, ch. 90-192; s. 3, ch. 91-209; s. 112, ch. 92-33; ss. 2, 11, ch. 92-278; s. 1, ch. 93-89; s. 34, ch. 93-129; s. 1, ch. 94-76; s. 2, ch. 94-147; s. 70, ch. 94-209; s. 21, ch. 94-321; s. 428, ch. 96-406; s. 34, ch. 97-93; s. 1809, ch. 97-102; s. 4, ch. 98-402; s. 289, ch. 99-8; s. 9, ch. 2000-155; s. 97, ch. 2002-20; s. 24, ch. 2002-183; s. 2, ch. 2002-401; s. 9, ch. 2003-159; s. 1903, ch. 2003-261; s. 1, ch. 2003-290; s. 67, ch. 2003-416; s. 1, ch. 2006-234; s. 1, ch. 2010-26; s. 1, ch. 2011-113; s. 3, ch. 2011-219; s. 126, ch. 2012-184; s. 12, ch. 2016-139; s. 33, ch. 2017-175; s. 3, ch. 2021-6; s. 1, ch. 2021-147; s. 10, ch. 2022-63; s. 125, ch. 2023-8; s. 3, ch. 2023-18; s. 8, ch. 2023-140; ss. 54, 59, 70, ch. 2024-15; s. 13, ch. 2024-183; s. 1, ch. 2024-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-313",
+        "s. 1, ch. 74-235",
+        "ss. 1, 2, 3, ch. 77-86",
+        "s. 9, ch. 79-139",
+        "s. 1, ch. 79-253",
+        "s. 284, ch. 79-400",
+        "s. 1, ch. 80-271",
+        "ss. 1, 2, ch. 81-317",
+        "s. 1, ch. 83-44",
+        "s. 1, ch. 83-257",
+        "s. 1, ch. 84-29",
+        "s. 1, ch. 84-335",
+        "s. 21, ch. 86-183",
+        "s. 1, ch. 86-184",
+        "s. 3, ch. 87-134",
+        "s. 2, ch. 88-173",
+        "ss. 55, 61, ch. 89-300",
+        "s. 92, ch. 89-360",
+        "s. 8, ch. 90-192",
+        "s. 3, ch. 91-209",
+        "s. 112, ch. 92-33",
+        "ss. 2, 11, ch. 92-278",
+        "s. 1, ch. 93-89",
+        "s. 34, ch. 93-129",
+        "s. 1, ch. 94-76",
+        "s. 2, ch. 94-147",
+        "s. 70, ch. 94-209",
+        "s. 21, ch. 94-321",
+        "s. 428, ch. 96-406",
+        "s. 34, ch. 97-93",
+        "s. 1809, ch. 97-102",
+        "s. 4, ch. 98-402",
+        "s. 289, ch. 99-8",
+        "s. 9, ch. 2000-155",
+        "s. 97, ch. 2002-20",
+        "s. 24, ch. 2002-183",
+        "s. 2, ch. 2002-401",
+        "s. 9, ch. 2003-159",
+        "s. 1903, ch. 2003-261",
+        "s. 1, ch. 2003-290",
+        "s. 67, ch. 2003-416",
+        "s. 1, ch. 2006-234",
+        "s. 1, ch. 2010-26",
+        "s. 1, ch. 2011-113",
+        "s. 3, ch. 2011-219",
+        "s. 126, ch. 2012-184",
+        "s. 12, ch. 2016-139",
+        "s. 33, ch. 2017-175",
+        "s. 3, ch. 2021-6",
+        "s. 1, ch. 2021-147",
+        "s. 10, ch. 2022-63",
+        "s. 125, ch. 2023-8",
+        "s. 3, ch. 2023-18",
+        "s. 8, ch. 2023-140",
+        "ss. 54, 59, 70, ch. 2024-15",
+        "s. 13, ch. 2024-183",
+        "s. 1, ch. 2024-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.295",
+      "section_path": "title-45-torts/sec-0768-295.md",
+      "history": [
+        "History.—s. 1, ch. 2000-174; s. 1, ch. 2015-70."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-174",
+        "s. 1, ch. 2015-70."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.31",
+      "section_path": "title-45-torts/sec-0768-31.md",
+      "history": [
+        "History.—ss. 1, 4, ch. 75-108; s. 1, ch. 76-186; s. 1171, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 1, 4, ch. 75-108",
+        "s. 1, ch. 76-186",
+        "s. 1171, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.35",
+      "section_path": "title-45-torts/sec-0768-35.md",
+      "history": [
+        "History.—s. 9, ch. 95-182; s. 37, ch. 95-184."
+      ],
+      "source_citations": [
+        "s. 9, ch. 95-182",
+        "s. 37, ch. 95-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.36",
+      "section_path": "title-45-torts/sec-0768-36.md",
+      "history": [
+        "History.—s. 20, ch. 99-225; s. 27, ch. 2016-145."
+      ],
+      "source_citations": [
+        "s. 20, ch. 99-225",
+        "s. 27, ch. 2016-145."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.37",
+      "section_path": "title-45-torts/sec-0768-37.md",
+      "history": [
+        "History.—s. 1, ch. 2004-88."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2004-88."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.38",
+      "section_path": "title-45-torts/sec-0768-38.md",
+      "history": [
+        "History.—s. 1, ch. 2021-1; s. 61, ch. 2024-2; s. 166, ch. 2026-168."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-1",
+        "s. 61, ch. 2024-2",
+        "s. 166, ch. 2026-168."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.381",
+      "section_path": "title-45-torts/sec-0768-381.md",
+      "history": [
+        "History.—s. 2, ch. 2021-1; s. 62, ch. 2022-4; s. 1, ch. 2022-10; s. 62, ch. 2024-2."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2021-1",
+        "s. 62, ch. 2022-4",
+        "s. 1, ch. 2022-10",
+        "s. 62, ch. 2024-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.382",
+      "section_path": "title-45-torts/sec-0768-382.md",
+      "history": [
+        "History.—s. 1, ch. 2021-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.39",
+      "section_path": "title-45-torts/sec-0768-39.md",
+      "history": [
+        "History.—s. 1, ch. 2021-232."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-232."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.395",
+      "section_path": "title-45-torts/sec-0768-395.md",
+      "history": [
+        "History.—s. 1, ch. 2023-56."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2023-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.405",
+      "section_path": "title-45-torts/sec-0768-405.md",
+      "history": [
+        "History.—s. 4, ch. 2026-103."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2026-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.71",
+      "section_path": "title-45-torts/sec-0768-71.md",
+      "history": [
+        "History.—s. 50, ch. 86-160."
+      ],
+      "source_citations": [
+        "s. 50, ch. 86-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.72",
+      "section_path": "title-45-torts/sec-0768-72.md",
+      "history": [
+        "History.—s. 51, ch. 86-160; s. 1172, ch. 97-102; s. 22, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 51, ch. 86-160",
+        "s. 1172, ch. 97-102",
+        "s. 22, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.725",
+      "section_path": "title-45-torts/sec-0768-725.md",
+      "history": [
+        "History.—s. 21, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 21, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.73",
+      "section_path": "title-45-torts/sec-0768-73.md",
+      "history": [
+        "History.—ss. 52, 65, ch. 86-160; s. 1, ch. 87-42; s. 5, ch. 87-50; s. 1, ch. 88-335; s. 71, ch. 91-282; ss. 2, 3, ch. 92-85; s. 16, ch. 97-94; s. 23, ch. 99-225."
+      ],
+      "source_citations": [
+        "ss. 52, 65, ch. 86-160",
+        "s. 1, ch. 87-42",
+        "s. 5, ch. 87-50",
+        "s. 1, ch. 88-335",
+        "s. 71, ch. 91-282",
+        "ss. 2, 3, ch. 92-85",
+        "s. 16, ch. 97-94",
+        "s. 23, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.733",
+      "section_path": "title-45-torts/sec-0768-733.md",
+      "history": [
+        "History.—s. 4, ch. 2000-128."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2000-128."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.734",
+      "section_path": "title-45-torts/sec-0768-734.md",
+      "history": [
+        "History.—s. 1, ch. 2006-117."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-117."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.735",
+      "section_path": "title-45-torts/sec-0768-735.md",
+      "history": [
+        "History.—s. 24, ch. 99-225; s. 11, ch. 2001-45; s. 107, ch. 2006-197."
+      ],
+      "source_citations": [
+        "s. 24, ch. 99-225",
+        "s. 11, ch. 2001-45",
+        "s. 107, ch. 2006-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.736",
+      "section_path": "title-45-torts/sec-0768-736.md",
+      "history": [
+        "History.—s. 25, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 25, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.737",
+      "section_path": "title-45-torts/sec-0768-737.md",
+      "history": [
+        "History.—s. 26, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 26, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.74",
+      "section_path": "title-45-torts/sec-0768-74.md",
+      "history": [
+        "History.—s. 53, ch. 86-160."
+      ],
+      "source_citations": [
+        "s. 53, ch. 86-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.76",
+      "section_path": "title-45-torts/sec-0768-76.md",
+      "history": [
+        "History.—s. 55, ch. 86-160; s. 1, ch. 93-245; s. 1173, ch. 97-102; s. 290, ch. 99-8."
+      ],
+      "source_citations": [
+        "s. 55, ch. 86-160",
+        "s. 1, ch. 93-245",
+        "s. 1173, ch. 97-102",
+        "s. 290, ch. 99-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.77",
+      "section_path": "title-45-torts/sec-0768-77.md",
+      "history": [
+        "History.—s. 56, ch. 86-160; s. 7, ch. 99-225; s. 68, ch. 2003-416."
+      ],
+      "source_citations": [
+        "s. 56, ch. 86-160",
+        "s. 7, ch. 99-225",
+        "s. 68, ch. 2003-416."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.78",
+      "section_path": "title-45-torts/sec-0768-78.md",
+      "history": [
+        "History.—ss. 57, 65, ch. 86-160; s. 5, ch. 87-50; s. 47, ch. 88-1; s. 25, ch. 88-277; s. 1, ch. 88-335; s. 1174, ch. 97-102; s. 8, ch. 99-225."
+      ],
+      "source_citations": [
+        "ss. 57, 65, ch. 86-160",
+        "s. 5, ch. 87-50",
+        "s. 47, ch. 88-1",
+        "s. 25, ch. 88-277",
+        "s. 1, ch. 88-335",
+        "s. 1174, ch. 97-102",
+        "s. 8, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.79",
+      "section_path": "title-45-torts/sec-0768-79.md",
+      "history": [
+        "History.—s. 58, ch. 86-160; s. 48, ch. 90-119; s. 1175, ch. 97-102; s. 24, ch. 2022-271."
+      ],
+      "source_citations": [
+        "s. 58, ch. 86-160",
+        "s. 48, ch. 90-119",
+        "s. 1175, ch. 97-102",
+        "s. 24, ch. 2022-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "768.81",
+      "section_path": "title-45-torts/sec-0768-81.md",
+      "history": [
+        "History.—ss. 60, 65, ch. 86-160; s. 5, ch. 87-50; s. 79, ch. 88-1; s. 43, ch. 88-277; s. 1, ch. 88-335; s. 38, ch. 91-110; s. 104, ch. 92-33; s. 27, ch. 99-225; s. 1, ch. 2006-6; s. 1, ch. 2011-215; s. 9, ch. 2023-15."
+      ],
+      "source_citations": [
+        "ss. 60, 65, ch. 86-160",
+        "s. 5, ch. 87-50",
+        "s. 79, ch. 88-1",
+        "s. 43, ch. 88-277",
+        "s. 1, ch. 88-335",
+        "s. 38, ch. 91-110",
+        "s. 104, ch. 92-33",
+        "s. 27, ch. 99-225",
+        "s. 1, ch. 2006-6",
+        "s. 1, ch. 2011-215",
+        "s. 9, ch. 2023-15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0768/0768.html&StatuteYear=2026",
+      "source_sha256": "03a53c4cdbe6275710246a9a664b3bb352f7c8a022e2a060034f60f599908e09"
+    },
+    {
+      "section": "769.01",
+      "section_path": "title-45-torts/sec-0769-01.md",
+      "history": [
+        "History.—s. 1, ch. 6521, 1913; RGS 4971; CGL 7058."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6521, 1913",
+        "RGS 4971",
+        "CGL 7058."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "769.02",
+      "section_path": "title-45-torts/sec-0769-02.md",
+      "history": [
+        "History.—s. 2, ch. 6521, 1913; RGS 4972; CGL 7059."
+      ],
+      "source_citations": [
+        "s. 2, ch. 6521, 1913",
+        "RGS 4972",
+        "CGL 7059."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "769.03",
+      "section_path": "title-45-torts/sec-0769-03.md",
+      "history": [
+        "History.—s. 3, ch. 6521, 1913; RGS 4973; CGL 7060; s. 1176, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 3, ch. 6521, 1913",
+        "RGS 4973",
+        "CGL 7060",
+        "s. 1176, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "769.04",
+      "section_path": "title-45-torts/sec-0769-04.md",
+      "history": [
+        "History.—s. 4, ch. 6521, 1913; RGS 4974; CGL 7061; s. 1177, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 4, ch. 6521, 1913",
+        "RGS 4974",
+        "CGL 7061",
+        "s. 1177, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "769.05",
+      "section_path": "title-45-torts/sec-0769-05.md",
+      "history": [
+        "History.—s. 5, ch. 6521, 1913; RGS 4975; CGL 7062."
+      ],
+      "source_citations": [
+        "s. 5, ch. 6521, 1913",
+        "RGS 4975",
+        "CGL 7062."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "769.06",
+      "section_path": "title-45-torts/sec-0769-06.md",
+      "history": [
+        "History.—s. 6, ch. 6521, 1913; RGS 4976; CGL 7063."
+      ],
+      "source_citations": [
+        "s. 6, ch. 6521, 1913",
+        "RGS 4976",
+        "CGL 7063."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0769/0769.html&StatuteYear=2026",
+      "source_sha256": "e41f23e68da308a36f2d111180b3a232e328a755c39d8737808d64751335d5f0"
+    },
+    {
+      "section": "770.01",
+      "section_path": "title-45-torts/sec-0770-01.md",
+      "history": [
+        "History.—s. 1, ch. 16070, 1933; CGL 1936 Supp. 7064(1); s. 1, ch. 76-123; s. 1178, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 16070, 1933",
+        "CGL 1936 Supp. 7064(1)",
+        "s. 1, ch. 76-123",
+        "s. 1178, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.02",
+      "section_path": "title-45-torts/sec-0770-02.md",
+      "history": [
+        "History.—s. 2, ch. 16070, 1933; CGL 1936 Supp. 7064(2); s. 1, ch. 76-123; s. 233, ch. 77-104; s. 1, ch. 80-34."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16070, 1933",
+        "CGL 1936 Supp. 7064(2)",
+        "s. 1, ch. 76-123",
+        "s. 233, ch. 77-104",
+        "s. 1, ch. 80-34."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.03",
+      "section_path": "title-45-torts/sec-0770-03.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 19616, 1939; CGL 1940 Supp. 7064 Supp. 7064(4); s. 1, ch. 20869; s. 1, ch. 76-123."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 19616, 1939",
+        "CGL 1940 Supp. 7064 Supp. 7064(4)",
+        "s. 1, ch. 20869",
+        "s. 1, ch. 76-123."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.04",
+      "section_path": "title-45-torts/sec-0770-04.md",
+      "history": [
+        "History.—s. 1, ch. 23802, 1947; s. 1, ch. 25278, 1949."
+      ],
+      "source_citations": [
+        "s. 1, ch. 23802, 1947",
+        "s. 1, ch. 25278, 1949."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.05",
+      "section_path": "title-45-torts/sec-0770-05.md",
+      "history": [
+        "History.—s. 1, ch. 67-52."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-52."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.06",
+      "section_path": "title-45-torts/sec-0770-06.md",
+      "history": [
+        "History.—s. 2, ch. 67-52."
+      ],
+      "source_citations": [
+        "s. 2, ch. 67-52."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.07",
+      "section_path": "title-45-torts/sec-0770-07.md",
+      "history": [
+        "History.—s. 3, ch. 67-52."
+      ],
+      "source_citations": [
+        "s. 3, ch. 67-52."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "770.08",
+      "section_path": "title-45-torts/sec-0770-08.md",
+      "history": [
+        "History.—s. 4, ch. 67-52; s. 1179, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-52",
+        "s. 1179, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0770/0770.html&StatuteYear=2026",
+      "source_sha256": "e8ee052bffced4f12dfea6f645720f4300a53e7f47f8f7a586e1debda61ccda1"
+    },
+    {
+      "section": "771.01",
+      "section_path": "title-45-torts/sec-0771-01.md",
+      "history": [
+        "History.—s. 1, ch. 23138, 1945."
+      ],
+      "source_citations": [
+        "s. 1, ch. 23138, 1945."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "771.04",
+      "section_path": "title-45-torts/sec-0771-04.md",
+      "history": [
+        "History.—s. 4, ch. 23138, 1945."
+      ],
+      "source_citations": [
+        "s. 4, ch. 23138, 1945."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "771.05",
+      "section_path": "title-45-torts/sec-0771-05.md",
+      "history": [
+        "History.—s. 5, ch. 23138, 1945; s. 234, ch. 77-104."
+      ],
+      "source_citations": [
+        "s. 5, ch. 23138, 1945",
+        "s. 234, ch. 77-104."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "771.06",
+      "section_path": "title-45-torts/sec-0771-06.md",
+      "history": [
+        "History.—s. 6, ch. 23138, 1945."
+      ],
+      "source_citations": [
+        "s. 6, ch. 23138, 1945."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "771.07",
+      "section_path": "title-45-torts/sec-0771-07.md",
+      "history": [
+        "History.—s. 7, ch. 23138, 1945; s. 698, ch. 71-136."
+      ],
+      "source_citations": [
+        "s. 7, ch. 23138, 1945",
+        "s. 698, ch. 71-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "771.08",
+      "section_path": "title-45-torts/sec-0771-08.md",
+      "history": [
+        "History.—ss. 8, 9, ch. 23138, 1945."
+      ],
+      "source_citations": [
+        "ss. 8, 9, ch. 23138, 1945."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0771/0771.html&StatuteYear=2026",
+      "source_sha256": "2cf0e7f4a2b4a6eabcf6ecc590c0d5fdad736b516442309f11f15a4bf372eebd"
+    },
+    {
+      "section": "772.101",
+      "section_path": "title-45-torts/sec-0772-101.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.102",
+      "section_path": "title-45-torts/sec-0772-102.md",
+      "history": [
+        "History.—s. 3, ch. 86-277; s. 3, ch. 90-301; s. 12, ch. 91-33; s. 66, ch. 91-110; s. 4, ch. 92-125; s. 3, ch. 92-281; s. 63, ch. 92-348; s. 2, ch. 93-227; s. 104, ch. 93-415; s. 7, ch. 95-340; s. 106, ch. 96-175; s. 6, ch. 96-252; s. 4, ch. 96-260; s. 92, ch. 99-3; s. 2, ch. 99-335; s. 12, ch. 2005-228; s. 2, ch. 2006-168; s. 2, ch. 2009-22; s. 23, ch. 2009-170; ss. 4, 5, ch. 2010-29; s. 15, ch. 2012-97; s. 16, ch. 2014-160; s. 4, ch. 2016-185; s. 2, ch. 2019-45; s. 5, ch. 2025-126."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277",
+        "s. 3, ch. 90-301",
+        "s. 12, ch. 91-33",
+        "s. 66, ch. 91-110",
+        "s. 4, ch. 92-125",
+        "s. 3, ch. 92-281",
+        "s. 63, ch. 92-348",
+        "s. 2, ch. 93-227",
+        "s. 104, ch. 93-415",
+        "s. 7, ch. 95-340",
+        "s. 106, ch. 96-175",
+        "s. 6, ch. 96-252",
+        "s. 4, ch. 96-260",
+        "s. 92, ch. 99-3",
+        "s. 2, ch. 99-335",
+        "s. 12, ch. 2005-228",
+        "s. 2, ch. 2006-168",
+        "s. 2, ch. 2009-22",
+        "s. 23, ch. 2009-170",
+        "ss. 4, 5, ch. 2010-29",
+        "s. 15, ch. 2012-97",
+        "s. 16, ch. 2014-160",
+        "s. 4, ch. 2016-185",
+        "s. 2, ch. 2019-45",
+        "s. 5, ch. 2025-126."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.103",
+      "section_path": "title-45-torts/sec-0772-103.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.104",
+      "section_path": "title-45-torts/sec-0772-104.md",
+      "history": [
+        "History.—s. 3, ch. 86-277; s. 1180, ch. 97-102; s. 3, ch. 2006-168."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277",
+        "s. 1180, ch. 97-102",
+        "s. 3, ch. 2006-168."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.11",
+      "section_path": "title-45-torts/sec-0772-11.md",
+      "history": [
+        "History.—s. 3, ch. 86-277; s. 47, ch. 88-381; s. 5, ch. 89-303; s. 1181, ch. 97-102; s. 2, ch. 2002-195; s. 8, ch. 2014-200."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277",
+        "s. 47, ch. 88-381",
+        "s. 5, ch. 89-303",
+        "s. 1181, ch. 97-102",
+        "s. 2, ch. 2002-195",
+        "s. 8, ch. 2014-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.12",
+      "section_path": "title-45-torts/sec-0772-12.md",
+      "history": [
+        "History.—s. 1, ch. 97-80; s. 15, ch. 2000-320; s. 10, ch. 2005-128; s. 38, ch. 2016-105; s. 120, ch. 2019-167."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-80",
+        "s. 15, ch. 2000-320",
+        "s. 10, ch. 2005-128",
+        "s. 38, ch. 2016-105",
+        "s. 120, ch. 2019-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.13",
+      "section_path": "title-45-torts/sec-0772-13.md",
+      "history": [
+        "History.—s. 1, ch. 2017-44; ss. 1, 2, ch. 2023-267; s. 1, ch. 2025-74; s. 94, ch. 2026-174."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2017-44",
+        "ss. 1, 2, ch. 2023-267",
+        "s. 1, ch. 2025-74",
+        "s. 94, ch. 2026-174."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.14",
+      "section_path": "title-45-torts/sec-0772-14.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.15",
+      "section_path": "title-45-torts/sec-0772-15.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.17",
+      "section_path": "title-45-torts/sec-0772-17.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.18",
+      "section_path": "title-45-torts/sec-0772-18.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.185",
+      "section_path": "title-45-torts/sec-0772-185.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "772.19",
+      "section_path": "title-45-torts/sec-0772-19.md",
+      "history": [
+        "History.—s. 3, ch. 86-277."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-277."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0772/0772.html&StatuteYear=2026",
+      "source_sha256": "1e05cde5d87beab0650fe3ea6bb5ab8bb473e3c815a806cea0fa7c0735fe4266"
+    },
+    {
+      "section": "773.01",
+      "section_path": "title-45-torts/sec-0773-01.md",
+      "history": [
+        "History.—s. 88, ch. 93-169; s. 1182, ch. 97-102; s. 29, ch. 2000-354."
+      ],
+      "source_citations": [
+        "s. 88, ch. 93-169",
+        "s. 1182, ch. 97-102",
+        "s. 29, ch. 2000-354."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "773.02",
+      "section_path": "title-45-torts/sec-0773-02.md",
+      "history": [
+        "History.—s. 89, ch. 93-169; s. 93, ch. 99-3."
+      ],
+      "source_citations": [
+        "s. 89, ch. 93-169",
+        "s. 93, ch. 99-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "773.03",
+      "section_path": "title-45-torts/sec-0773-03.md",
+      "history": [
+        "History.—s. 90, ch. 93-169; s. 1183, ch. 97-102; s. 30, ch. 2000-354."
+      ],
+      "source_citations": [
+        "s. 90, ch. 93-169",
+        "s. 1183, ch. 97-102",
+        "s. 30, ch. 2000-354."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "773.04",
+      "section_path": "title-45-torts/sec-0773-04.md",
+      "history": [
+        "History.—s. 91, ch. 93-169."
+      ],
+      "source_citations": [
+        "s. 91, ch. 93-169."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "773.05",
+      "section_path": "title-45-torts/sec-0773-05.md",
+      "history": [
+        "History.—s. 92, ch. 93-169; s. 94, ch. 99-3."
+      ],
+      "source_citations": [
+        "s. 92, ch. 93-169",
+        "s. 94, ch. 99-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "773.06",
+      "section_path": "title-45-torts/sec-0773-06.md",
+      "history": [
+        "History.—s. 3, ch. 2009-105."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2009-105."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0773/0773.html&StatuteYear=2026",
+      "source_sha256": "f3461428a5b50857d675075d6b8803c091e7771a218370510e685d2b8b18c3e3"
+    },
+    {
+      "section": "774.001",
+      "section_path": "title-45-torts/sec-0774-001.md",
+      "history": [
+        "History.—s. 1, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.002",
+      "section_path": "title-45-torts/sec-0774-002.md",
+      "history": [
+        "History.—s. 2, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.003",
+      "section_path": "title-45-torts/sec-0774-003.md",
+      "history": [
+        "History.—s. 3, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.004",
+      "section_path": "title-45-torts/sec-0774-004.md",
+      "history": [
+        "History.—s. 4, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.005",
+      "section_path": "title-45-torts/sec-0774-005.md",
+      "history": [
+        "History.—s. 5, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.006",
+      "section_path": "title-45-torts/sec-0774-006.md",
+      "history": [
+        "History.—s. 6, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.007",
+      "section_path": "title-45-torts/sec-0774-007.md",
+      "history": [
+        "History.—s. 7, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.008",
+      "section_path": "title-45-torts/sec-0774-008.md",
+      "history": [
+        "History.—s. 8, ch. 2005-269."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2005-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.201",
+      "section_path": "title-45-torts/sec-0774-201.md",
+      "history": [
+        "History.—s. 1, ch. 2005-274."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2005-274."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.202",
+      "section_path": "title-45-torts/sec-0774-202.md",
+      "history": [
+        "History.—s. 2, ch. 2005-274."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2005-274."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.203",
+      "section_path": "title-45-torts/sec-0774-203.md",
+      "history": [
+        "History.—s. 3, ch. 2005-274; s. 105, ch. 2006-1; s. 164, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2005-274",
+        "s. 105, ch. 2006-1",
+        "s. 164, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.204",
+      "section_path": "title-45-torts/sec-0774-204.md",
+      "history": [
+        "History.—s. 4, ch. 2005-274; s. 106, ch. 2006-1."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2005-274",
+        "s. 106, ch. 2006-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.205",
+      "section_path": "title-45-torts/sec-0774-205.md",
+      "history": [
+        "History.—s. 5, ch. 2005-274; s. 107, ch. 2006-1."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2005-274",
+        "s. 107, ch. 2006-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.206",
+      "section_path": "title-45-torts/sec-0774-206.md",
+      "history": [
+        "History.—s. 6, ch. 2005-274."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2005-274."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.207",
+      "section_path": "title-45-torts/sec-0774-207.md",
+      "history": [
+        "History.—s. 7, ch. 2005-274."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2005-274."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.208",
+      "section_path": "title-45-torts/sec-0774-208.md",
+      "history": [
+        "History.—s. 8, ch. 2005-274; s. 108, ch. 2006-1."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2005-274",
+        "s. 108, ch. 2006-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    },
+    {
+      "section": "774.209",
+      "section_path": "title-45-torts/sec-0774-209.md",
+      "history": [
+        "History.—s. 9, ch. 2005-274."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2005-274."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0774/0774.html&StatuteYear=2026",
+      "source_sha256": "1173e4f171a96d850a9cf9fdeb9eed5f5caa3752d815756573864b5505f456da"
+    }
+  ]
+}

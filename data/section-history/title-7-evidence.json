@@ -1,0 +1,2227 @@
+{
+  "schema_version": 1,
+  "act_path": "title-7-evidence",
+  "title": "Florida Statutes, Title VII: Evidence",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VII&StatuteYear=2026",
+  "source_title_sha256": "6d0171e4cb84e7d7486445695b7ca68aa79bef7bdce4748349efe9e766f31ee4",
+  "sections": [
+    {
+      "section": "90.101",
+      "section_path": "title-7-evidence/sec-0090-101.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.102",
+      "section_path": "title-7-evidence/sec-0090-102.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.103",
+      "section_path": "title-7-evidence/sec-0090-103.md",
+      "history": [
+        "History.—ss. 1, 5, 7, ch. 76-237; s. 1, ch. 77-77; ss. 1, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 1, ch. 81-93."
+      ],
+      "source_citations": [
+        "ss. 1, 5, 7, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 1, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 1, ch. 81-93."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.104",
+      "section_path": "title-7-evidence/sec-0090-104.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 1, ch. 2003-259."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 1, ch. 2003-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.105",
+      "section_path": "title-7-evidence/sec-0090-105.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 471, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 471, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.106",
+      "section_path": "title-7-evidence/sec-0090-106.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.107",
+      "section_path": "title-7-evidence/sec-0090-107.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.108",
+      "section_path": "title-7-evidence/sec-0090-108.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 2, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 472, ch. 95-147; s. 5, ch. 95-286."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 2, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 472, ch. 95-147",
+        "s. 5, ch. 95-286."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.201",
+      "section_path": "title-7-evidence/sec-0090-201.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 21, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 21, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.202",
+      "section_path": "title-7-evidence/sec-0090-202.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; ss. 3, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "ss. 3, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.203",
+      "section_path": "title-7-evidence/sec-0090-203.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.2035",
+      "section_path": "title-7-evidence/sec-0090-2035.md",
+      "history": [
+        "History.—s. 1, ch. 2022-100."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2022-100."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.204",
+      "section_path": "title-7-evidence/sec-0090-204.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 2, ch. 2014-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 2, ch. 2014-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.205",
+      "section_path": "title-7-evidence/sec-0090-205.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.206",
+      "section_path": "title-7-evidence/sec-0090-206.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 4, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 4, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.207",
+      "section_path": "title-7-evidence/sec-0090-207.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.301",
+      "section_path": "title-7-evidence/sec-0090-301.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 5, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 5, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.302",
+      "section_path": "title-7-evidence/sec-0090-302.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.303",
+      "section_path": "title-7-evidence/sec-0090-303.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.304",
+      "section_path": "title-7-evidence/sec-0090-304.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.401",
+      "section_path": "title-7-evidence/sec-0090-401.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.402",
+      "section_path": "title-7-evidence/sec-0090-402.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.4025",
+      "section_path": "title-7-evidence/sec-0090-4025.md",
+      "history": [
+        "History.—s. 8, ch. 96-215; s. 2, ch. 96-409; s. 27, ch. 99-2."
+      ],
+      "source_citations": [
+        "s. 8, ch. 96-215",
+        "s. 2, ch. 96-409",
+        "s. 27, ch. 99-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.4026",
+      "section_path": "title-7-evidence/sec-0090-4026.md",
+      "history": [
+        "History.—s. 1, ch. 2001-132."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2001-132."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.403",
+      "section_path": "title-7-evidence/sec-0090-403.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 6, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 6, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.404",
+      "section_path": "title-7-evidence/sec-0090-404.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 2, ch. 90-40; s. 26, ch. 93-156; s. 473, ch. 95-147; s. 1, ch. 2001-221; s. 9, ch. 2008-172; s. 2, ch. 2011-220; s. 14, ch. 2012-97; s. 15, ch. 2014-160."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 2, ch. 90-40",
+        "s. 26, ch. 93-156",
+        "s. 473, ch. 95-147",
+        "s. 1, ch. 2001-221",
+        "s. 9, ch. 2008-172",
+        "s. 2, ch. 2011-220",
+        "s. 14, ch. 2012-97",
+        "s. 15, ch. 2014-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.405",
+      "section_path": "title-7-evidence/sec-0090-405.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 7, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 474, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 7, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 474, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.406",
+      "section_path": "title-7-evidence/sec-0090-406.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.407",
+      "section_path": "title-7-evidence/sec-0090-407.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 13, ch. 99-225."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 13, ch. 99-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.408",
+      "section_path": "title-7-evidence/sec-0090-408.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.409",
+      "section_path": "title-7-evidence/sec-0090-409.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.410",
+      "section_path": "title-7-evidence/sec-0090-410.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 8, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 8, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.501",
+      "section_path": "title-7-evidence/sec-0090-501.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 9, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 9, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5015",
+      "section_path": "title-7-evidence/sec-0090-5015.md",
+      "history": [
+        "History.—s. 1, ch. 98-48; s. 20, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-48",
+        "s. 20, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.502",
+      "section_path": "title-7-evidence/sec-0090-502.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 16, ch. 92-138; s. 12, ch. 94-124; s. 1378, ch. 95-147; s. 1, ch. 2000-316."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 16, ch. 92-138",
+        "s. 12, ch. 94-124",
+        "s. 1378, ch. 95-147",
+        "s. 1, ch. 2000-316."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5021",
+      "section_path": "title-7-evidence/sec-0090-5021.md",
+      "history": [
+        "History.—s. 1, ch. 2011-183; s. 2, ch. 2026-85."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2011-183",
+        "s. 2, ch. 2026-85."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.503",
+      "section_path": "title-7-evidence/sec-0090-503.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 40, ch. 90-347; s. 1, ch. 92-57; s. 19, ch. 93-39; s. 475, ch. 95-147; s. 28, ch. 99-2; s. 5, ch. 99-8; s. 1, ch. 2006-204; s. 30, ch. 2014-19; s. 7, ch. 2018-106."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 40, ch. 90-347",
+        "s. 1, ch. 92-57",
+        "s. 19, ch. 93-39",
+        "s. 475, ch. 95-147",
+        "s. 28, ch. 99-2",
+        "s. 5, ch. 99-8",
+        "s. 1, ch. 2006-204",
+        "s. 30, ch. 2014-19",
+        "s. 7, ch. 2018-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5035",
+      "section_path": "title-7-evidence/sec-0090-5035.md",
+      "history": [
+        "History.—s. 1, ch. 83-284; s. 476, ch. 95-147; s. 1, ch. 2002-246."
+      ],
+      "source_citations": [
+        "s. 1, ch. 83-284",
+        "s. 476, ch. 95-147",
+        "s. 1, ch. 2002-246."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5036",
+      "section_path": "title-7-evidence/sec-0090-5036.md",
+      "history": [
+        "History.—s. 7, ch. 95-187; s. 127, ch. 98-403."
+      ],
+      "source_citations": [
+        "s. 7, ch. 95-187",
+        "s. 127, ch. 98-403."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5037",
+      "section_path": "title-7-evidence/sec-0090-5037.md",
+      "history": [
+        "History.—s. 1, ch. 2021-189."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-189."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.504",
+      "section_path": "title-7-evidence/sec-0090-504.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 10, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 10, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.505",
+      "section_path": "title-7-evidence/sec-0090-505.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; ss. 11, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 477, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "ss. 11, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 477, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.5055",
+      "section_path": "title-7-evidence/sec-0090-5055.md",
+      "history": [
+        "History.—s. 12, ch. 78-361; s. 2, ch. 78-379; s. 478, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 12, ch. 78-361",
+        "s. 2, ch. 78-379",
+        "s. 478, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.506",
+      "section_path": "title-7-evidence/sec-0090-506.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 479, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 479, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.507",
+      "section_path": "title-7-evidence/sec-0090-507.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 13, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 480, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 13, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 480, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.508",
+      "section_path": "title-7-evidence/sec-0090-508.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.509",
+      "section_path": "title-7-evidence/sec-0090-509.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 41, ch. 81-259."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 41, ch. 81-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.510",
+      "section_path": "title-7-evidence/sec-0090-510.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.601",
+      "section_path": "title-7-evidence/sec-0090-601.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361, s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361, s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.603",
+      "section_path": "title-7-evidence/sec-0090-603.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 482, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 482, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.604",
+      "section_path": "title-7-evidence/sec-0090-604.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 483, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 483, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.605",
+      "section_path": "title-7-evidence/sec-0090-605.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 3, ch. 85-53; s. 484, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 3, ch. 85-53",
+        "s. 484, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.606",
+      "section_path": "title-7-evidence/sec-0090-606.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 2, ch. 85-53; s. 485, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 2, ch. 85-53",
+        "s. 485, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.6063",
+      "section_path": "title-7-evidence/sec-0090-6063.md",
+      "history": [
+        "History.—ss. 1, 2, 3, 4, 5, 7, 8, 9, ch. 80-155; s. 42, ch. 81-259; s. 1, ch. 90-123; s. 2, ch. 93-125; s. 486, ch. 95-147; s. 6, ch. 99-8; s. 18, ch. 2002-22."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, 4, 5, 7, 8, 9, ch. 80-155",
+        "s. 42, ch. 81-259",
+        "s. 1, ch. 90-123",
+        "s. 2, ch. 93-125",
+        "s. 486, ch. 95-147",
+        "s. 6, ch. 99-8",
+        "s. 18, ch. 2002-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.607",
+      "section_path": "title-7-evidence/sec-0090-607.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 487, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 487, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.608",
+      "section_path": "title-7-evidence/sec-0090-608.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 14, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 1, ch. 90-174; s. 488, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 14, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 1, ch. 90-174",
+        "s. 488, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.609",
+      "section_path": "title-7-evidence/sec-0090-609.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 15, 22, ch. 78-361; ss. 1, 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 15, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.610",
+      "section_path": "title-7-evidence/sec-0090-610.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 16, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 489, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 16, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 489, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.611",
+      "section_path": "title-7-evidence/sec-0090-611.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 490, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 490, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.612",
+      "section_path": "title-7-evidence/sec-0090-612.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 1, ch. 95-179; s. 2, ch. 2000-316."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 1, ch. 95-179",
+        "s. 2, ch. 2000-316."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.613",
+      "section_path": "title-7-evidence/sec-0090-613.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 491, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 491, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.614",
+      "section_path": "title-7-evidence/sec-0090-614.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 17, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 492, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 17, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 492, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.615",
+      "section_path": "title-7-evidence/sec-0090-615.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.616",
+      "section_path": "title-7-evidence/sec-0090-616.md",
+      "history": [
+        "History.—s. 2, ch. 90-174; s. 1, ch. 92-107; s. 493, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 2, ch. 90-174",
+        "s. 1, ch. 92-107",
+        "s. 493, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.701",
+      "section_path": "title-7-evidence/sec-0090-701.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 494, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 494, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.702",
+      "section_path": "title-7-evidence/sec-0090-702.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 1, ch. 2013-107."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 1, ch. 2013-107."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.703",
+      "section_path": "title-7-evidence/sec-0090-703.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.704",
+      "section_path": "title-7-evidence/sec-0090-704.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 495, ch. 95-147; s. 2, ch. 2013-107."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 495, ch. 95-147",
+        "s. 2, ch. 2013-107."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.705",
+      "section_path": "title-7-evidence/sec-0090-705.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 496, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 496, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.706",
+      "section_path": "title-7-evidence/sec-0090-706.md",
+      "history": [
+        "History.—s. 18, ch. 78-361; s. 2, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 18, ch. 78-361",
+        "s. 2, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.801",
+      "section_path": "title-7-evidence/sec-0090-801.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; ss. 19, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 2, ch. 81-93; s. 497, ch. 95-147; s. 21, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "ss. 19, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 2, ch. 81-93",
+        "s. 497, ch. 95-147",
+        "s. 21, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.802",
+      "section_path": "title-7-evidence/sec-0090-802.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.803",
+      "section_path": "title-7-evidence/sec-0090-803.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; ss. 20, 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 4, ch. 85-53; s. 11, ch. 87-224; s. 2, ch. 90-139; s. 3, ch. 90-174; s. 12, ch. 91-255; s. 498, ch. 95-147; s. 1, ch. 95-158; s. 2, ch. 96-330; s. 1, ch. 98-2; s. 2, ch. 2003-259; s. 1, ch. 2013-98; s. 1, ch. 2014-200; s. 1, ch. 2024-71."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "ss. 20, 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 4, ch. 85-53",
+        "s. 11, ch. 87-224",
+        "s. 2, ch. 90-139",
+        "s. 3, ch. 90-174",
+        "s. 12, ch. 91-255",
+        "s. 498, ch. 95-147",
+        "s. 1, ch. 95-158",
+        "s. 2, ch. 96-330",
+        "s. 1, ch. 98-2",
+        "s. 2, ch. 2003-259",
+        "s. 1, ch. 2013-98",
+        "s. 1, ch. 2014-200",
+        "s. 1, ch. 2024-71."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.804",
+      "section_path": "title-7-evidence/sec-0090-804.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 3, ch. 90-139; s. 4, ch. 90-174; s. 499, ch. 95-147; s. 2, ch. 2005-46; s. 1, ch. 2012-152."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 3, ch. 90-139",
+        "s. 4, ch. 90-174",
+        "s. 499, ch. 95-147",
+        "s. 2, ch. 2005-46",
+        "s. 1, ch. 2012-152."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.805",
+      "section_path": "title-7-evidence/sec-0090-805.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.806",
+      "section_path": "title-7-evidence/sec-0090-806.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 500, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 500, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.901",
+      "section_path": "title-7-evidence/sec-0090-901.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.902",
+      "section_path": "title-7-evidence/sec-0090-902.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 501, ch. 95-147; s. 3, ch. 2003-259; s. 8, ch. 2021-17; s. 11, ch. 2022-103."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 501, ch. 95-147",
+        "s. 3, ch. 2003-259",
+        "s. 8, ch. 2021-17",
+        "s. 11, ch. 2022-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.903",
+      "section_path": "title-7-evidence/sec-0090-903.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.91",
+      "section_path": "title-7-evidence/sec-0090-91.md",
+      "history": [
+        "History.—s. 4, ch. 84-363."
+      ],
+      "source_citations": [
+        "s. 4, ch. 84-363."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.951",
+      "section_path": "title-7-evidence/sec-0090-951.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.952",
+      "section_path": "title-7-evidence/sec-0090-952.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.953",
+      "section_path": "title-7-evidence/sec-0090-953.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 57, ch. 92-82; s. 29, ch. 99-2; s. 142, ch. 2025-92."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 57, ch. 92-82",
+        "s. 29, ch. 99-2",
+        "s. 142, ch. 2025-92."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.954",
+      "section_path": "title-7-evidence/sec-0090-954.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 77-174; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 502, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 77-174",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 502, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.955",
+      "section_path": "title-7-evidence/sec-0090-955.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.956",
+      "section_path": "title-7-evidence/sec-0090-956.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 503, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 503, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.957",
+      "section_path": "title-7-evidence/sec-0090-957.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 504, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 504, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "90.958",
+      "section_path": "title-7-evidence/sec-0090-958.md",
+      "history": [
+        "History.—s. 1, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "s. 1, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "source_sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8"
+    },
+    {
+      "section": "92.05",
+      "section_path": "title-7-evidence/sec-0092-05.md",
+      "history": [
+        "History.—s. 1, ch. 4723, 1899; GS 1522; RGS 2722; CGL 4390; s. 7, ch. 22858, 1945; s. 1, ch. 67-362; s. 15, ch. 73-334; s. 13, ch. 2008-4."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4723, 1899",
+        "GS 1522",
+        "RGS 2722",
+        "CGL 4390",
+        "s. 7, ch. 22858, 1945",
+        "s. 1, ch. 67-362",
+        "s. 15, ch. 73-334",
+        "s. 13, ch. 2008-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.06",
+      "section_path": "title-7-evidence/sec-0092-06.md",
+      "history": [
+        "History.—s. 1, ch. 14748, 1931; CGL 1936 Supp. 4391(1)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 14748, 1931",
+        "CGL 1936 Supp. 4391(1)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.07",
+      "section_path": "title-7-evidence/sec-0092-07.md",
+      "history": [
+        "History.—s. 1, ch. 10111, 1925; CGL 4391."
+      ],
+      "source_citations": [
+        "s. 1, ch. 10111, 1925",
+        "CGL 4391."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.08",
+      "section_path": "title-7-evidence/sec-0092-08.md",
+      "history": [
+        "History.—s. 2, ch. 10111, 1925; CGL 4392."
+      ],
+      "source_citations": [
+        "s. 2, ch. 10111, 1925",
+        "CGL 4392."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.09",
+      "section_path": "title-7-evidence/sec-0092-09.md",
+      "history": [
+        "History.—s. 3, ch. 10111, 1925; CGL 4393."
+      ],
+      "source_citations": [
+        "s. 3, ch. 10111, 1925",
+        "CGL 4393."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.13",
+      "section_path": "title-7-evidence/sec-0092-13.md",
+      "history": [
+        "History.—s. 2, ch. 11989, 1927; CGL 4388, 5718."
+      ],
+      "source_citations": [
+        "s. 2, ch. 11989, 1927",
+        "CGL 4388, 5718."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.14",
+      "section_path": "title-7-evidence/sec-0092-14.md",
+      "history": [
+        "History.—s. 3, ch. 8565, 1921; CGL 5716."
+      ],
+      "source_citations": [
+        "s. 3, ch. 8565, 1921",
+        "CGL 5716."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.141",
+      "section_path": "title-7-evidence/sec-0092-141.md",
+      "history": [
+        "History.—s. 1, ch. 63-508; s. 1, ch. 67-427; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 43, ch. 81-259; s. 1, ch. 84-153; s. 505, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-508",
+        "s. 1, ch. 67-427",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 43, ch. 81-259",
+        "s. 1, ch. 84-153",
+        "s. 505, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.142",
+      "section_path": "title-7-evidence/sec-0092-142.md",
+      "history": [
+        "History.—s. 5, ch. 3106, 1879; RS 1103; s. 1, ch. 4387, 1895; GS 1512; s. 2, ch. 5649, 1907; s. 1, ch. 6905, 1915; s. 1, ch. 7280, 1917; RGS 2712; CGL 4379; s. 1, ch. 29927, 1955; s. 8, ch. 65-483; s. 1, ch. 67-401; s. 15, ch. 73-334; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 1, ch. 78-175; s. 22, ch. 78-361; ss. 1, 2, ch. 78-379; s. 1, ch. 83-36; s. 506, ch. 95-147; s. 9, ch. 96-410; s. 59, ch. 2004-11; s. 36, ch. 2005-236; s. 9, ch. 2016-84."
+      ],
+      "source_citations": [
+        "s. 5, ch. 3106, 1879",
+        "RS 1103",
+        "s. 1, ch. 4387, 1895",
+        "GS 1512",
+        "s. 2, ch. 5649, 1907",
+        "s. 1, ch. 6905, 1915",
+        "s. 1, ch. 7280, 1917",
+        "RGS 2712",
+        "CGL 4379",
+        "s. 1, ch. 29927, 1955",
+        "s. 8, ch. 65-483",
+        "s. 1, ch. 67-401",
+        "s. 15, ch. 73-334",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 1, ch. 78-175",
+        "s. 22, ch. 78-361",
+        "ss. 1, 2, ch. 78-379",
+        "s. 1, ch. 83-36",
+        "s. 506, ch. 95-147",
+        "s. 9, ch. 96-410",
+        "s. 59, ch. 2004-11",
+        "s. 36, ch. 2005-236",
+        "s. 9, ch. 2016-84."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.143",
+      "section_path": "title-7-evidence/sec-0092-143.md",
+      "history": [
+        "History.—s. 66, ch. 2005-236."
+      ],
+      "source_citations": [
+        "s. 66, ch. 2005-236."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.151",
+      "section_path": "title-7-evidence/sec-0092-151.md",
+      "history": [
+        "History.—s. 41, Nov. 11, 1828; RS 1104; s. 4, ch. 4387, 1895; GS 1513; RGS 2713; CGL 4380; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 507, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 41, Nov. 11, 1828",
+        "RS 1104",
+        "s. 4, ch. 4387, 1895",
+        "GS 1513",
+        "RGS 2713",
+        "CGL 4380",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 507, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.153",
+      "section_path": "title-7-evidence/sec-0092-153.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 81-196; s. 508, ch. 95-147; s. 77, ch. 2003-402; s. 6, ch. 2022-195."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 81-196",
+        "s. 508, ch. 95-147",
+        "s. 77, ch. 2003-402",
+        "s. 6, ch. 2022-195."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.16",
+      "section_path": "title-7-evidence/sec-0092-16.md",
+      "history": [
+        "History.—s. 1, ch. 2063, 1875; RS 1112; GS 1524; s. 1, ch. 7381, 1917; RGS 2724; CGL 4395; s. 7, ch. 22858, 1945; s. 3, ch. 63-294; ss. 27, 35, ch. 69-106; s. 509, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2063, 1875",
+        "RS 1112",
+        "GS 1524",
+        "s. 1, ch. 7381, 1917",
+        "RGS 2724",
+        "CGL 4395",
+        "s. 7, ch. 22858, 1945",
+        "s. 3, ch. 63-294",
+        "ss. 27, 35, ch. 69-106",
+        "s. 509, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.17",
+      "section_path": "title-7-evidence/sec-0092-17.md",
+      "history": [
+        "History.—s. 1, ch. 3127, 1879; ss. 1, 2, ch. 3877, 1889; RS 1114; GS 1526; RGS 2726; CGL 4397; s. 4, ch. 63-294; ss. 27, 35, ch. 69-106."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3127, 1879",
+        "ss. 1, 2, ch. 3877, 1889",
+        "RS 1114",
+        "GS 1526",
+        "RGS 2726",
+        "CGL 4397",
+        "s. 4, ch. 63-294",
+        "ss. 27, 35, ch. 69-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.18",
+      "section_path": "title-7-evidence/sec-0092-18.md",
+      "history": [
+        "History.—s. 1, ch. 3250, 1881; RS 1113; GS 1525; RGS 2725; CGL 4396; s. 510, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3250, 1881",
+        "RS 1113",
+        "GS 1525",
+        "RGS 2725",
+        "CGL 4396",
+        "s. 510, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.19",
+      "section_path": "title-7-evidence/sec-0092-19.md",
+      "history": [
+        "History.—s. 1, ch. 10237, 1925; CGL 4400."
+      ],
+      "source_citations": [
+        "s. 1, ch. 10237, 1925",
+        "CGL 4400."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.20",
+      "section_path": "title-7-evidence/sec-0092-20.md",
+      "history": [
+        "History.—s. 1, ch. 13568, 1929; CGL 1936 Supp. 4400(1)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 13568, 1929",
+        "CGL 1936 Supp. 4400(1)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.21",
+      "section_path": "title-7-evidence/sec-0092-21.md",
+      "history": [
+        "History.—s. 4, ch. 4606, 1899; GS 1527; RGS 2727; CGL 4398; s. 511, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 4, ch. 4606, 1899",
+        "GS 1527",
+        "RGS 2727",
+        "CGL 4398",
+        "s. 511, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.23",
+      "section_path": "title-7-evidence/sec-0092-23.md",
+      "history": [
+        "History.—s. 2, ch. 4677, 1899; GS 1528; RGS 2728; CGL 4399."
+      ],
+      "source_citations": [
+        "s. 2, ch. 4677, 1899",
+        "GS 1528",
+        "RGS 2728",
+        "CGL 4399."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.231",
+      "section_path": "title-7-evidence/sec-0092-231.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 25090, 1949; s. 19, ch. 29737, 1955; s. 1, ch. 59-201; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 512, ch. 95-147; s. 78, ch. 2003-402; s. 37, ch. 2005-236."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 25090, 1949",
+        "s. 19, ch. 29737, 1955",
+        "s. 1, ch. 59-201",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 512, ch. 95-147",
+        "s. 78, ch. 2003-402",
+        "s. 37, ch. 2005-236."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.233",
+      "section_path": "title-7-evidence/sec-0092-233.md",
+      "history": [
+        "History.—s. 4, ch. 159, 1848; RS 2865; s. 1, ch. 5133, 1903; GS 3921; RGS 6020; CGL 8314; s. 102, ch. 70-339; s. 79, ch. 2003-402."
+      ],
+      "source_citations": [
+        "s. 4, ch. 159, 1848",
+        "RS 2865",
+        "s. 1, ch. 5133, 1903",
+        "GS 3921",
+        "RGS 6020",
+        "CGL 8314",
+        "s. 102, ch. 70-339",
+        "s. 79, ch. 2003-402."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.24",
+      "section_path": "title-7-evidence/sec-0092-24.md",
+      "history": [
+        "History.—s. 1, ch. 5150, 1903; GS 1521; RGS 2721; CGL 4389."
+      ],
+      "source_citations": [
+        "s. 1, ch. 5150, 1903",
+        "GS 1521",
+        "RGS 2721",
+        "CGL 4389."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.25",
+      "section_path": "title-7-evidence/sec-0092-25.md",
+      "history": [
+        "History.—s. 1, ch. 4951, 1901; GS 1529; RGS 2729; CGL 4401."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4951, 1901",
+        "GS 1529",
+        "RGS 2729",
+        "CGL 4401."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.251",
+      "section_path": "title-7-evidence/sec-0092-251.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 59-250; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 1, ch. 2019-13."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 59-250",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 1, ch. 2019-13."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.26",
+      "section_path": "title-7-evidence/sec-0092-26.md",
+      "history": [
+        "History.—s. 1, ch. 4951, 1901; GS 1530; RGS 2730; CGL 4402; s. 513, ch. 95-147; s. 12, ch. 95-280."
+      ],
+      "source_citations": [
+        "s. 1, ch. 4951, 1901",
+        "GS 1530",
+        "RGS 2730",
+        "CGL 4402",
+        "s. 513, ch. 95-147",
+        "s. 12, ch. 95-280."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.27",
+      "section_path": "title-7-evidence/sec-0092-27.md",
+      "history": [
+        "History.—s. 4, ch. 4951, 1901; GS 1531; RGS 2731; CGL 4403."
+      ],
+      "source_citations": [
+        "s. 4, ch. 4951, 1901",
+        "GS 1531",
+        "RGS 2731",
+        "CGL 4403."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.28",
+      "section_path": "title-7-evidence/sec-0092-28.md",
+      "history": [
+        "History.—s. 5, ch. 4951, 1901; GS 1532; RGS 2732; CGL 4404."
+      ],
+      "source_citations": [
+        "s. 5, ch. 4951, 1901",
+        "GS 1532",
+        "RGS 2732",
+        "CGL 4404."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.29",
+      "section_path": "title-7-evidence/sec-0092-29.md",
+      "history": [
+        "History.—s. 1, ch. 20866, 1941; s. 7, ch. 94-348."
+      ],
+      "source_citations": [
+        "s. 1, ch. 20866, 1941",
+        "s. 7, ch. 94-348."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.295",
+      "section_path": "title-7-evidence/sec-0092-295.md",
+      "history": [
+        "History.—s. 1, ch. 88-45; s. 7, ch. 90-315."
+      ],
+      "source_citations": [
+        "s. 1, ch. 88-45",
+        "s. 7, ch. 90-315."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.30",
+      "section_path": "title-7-evidence/sec-0092-30.md",
+      "history": [
+        "History.—s. 1, ch. 22866, 1945; s. 22, ch. 77-104; s. 514, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 22866, 1945",
+        "s. 22, ch. 77-104",
+        "s. 514, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.31",
+      "section_path": "title-7-evidence/sec-0092-31.md",
+      "history": [
+        "History.—s. 2, ch. 22866, 1945."
+      ],
+      "source_citations": [
+        "s. 2, ch. 22866, 1945."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.32",
+      "section_path": "title-7-evidence/sec-0092-32.md",
+      "history": [
+        "History.—s. 3, ch. 22866, 1945; s. 515, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 3, ch. 22866, 1945",
+        "s. 515, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.33",
+      "section_path": "title-7-evidence/sec-0092-33.md",
+      "history": [
+        "History.—s. 1, ch. 26482, 1951; s. 516, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 26482, 1951",
+        "s. 516, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.351",
+      "section_path": "title-7-evidence/sec-0092-351.md",
+      "history": [
+        "History.—s. 3, ch. 96-106."
+      ],
+      "source_citations": [
+        "s. 3, ch. 96-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.38",
+      "section_path": "title-7-evidence/sec-0092-38.md",
+      "history": [
+        "History.—s. 55, ch. 1096, 1861; RS 1121; GS 1539; RGS 2739; CGL 4411."
+      ],
+      "source_citations": [
+        "s. 55, ch. 1096, 1861",
+        "RS 1121",
+        "GS 1539",
+        "RGS 2739",
+        "CGL 4411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.39",
+      "section_path": "title-7-evidence/sec-0092-39.md",
+      "history": [
+        "History.—s. 4, Feb. 10, 1837; RS 1122; GS 1540; RGS 2740; CGL 4412; s. 517, ch. 95-147; s. 108, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 4, Feb. 10, 1837",
+        "RS 1122",
+        "GS 1540",
+        "RGS 2740",
+        "CGL 4412",
+        "s. 517, ch. 95-147",
+        "s. 108, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.40",
+      "section_path": "title-7-evidence/sec-0092-40.md",
+      "history": [
+        "History.—s. 11, ch. 73-330."
+      ],
+      "source_citations": [
+        "s. 11, ch. 73-330."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.50",
+      "section_path": "title-7-evidence/sec-0092-50.md",
+      "history": [
+        "History.—s. 1, ch. 48, 1845; RS 1299; GS 1730; RGS 2945; CGL 4669; s. 1, ch. 23156, 1945; s. 7, ch. 24337, 1947; s. 15, ch. 73-334; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 19, ch. 2019-71; s. 4, ch. 2025-163."
+      ],
+      "source_citations": [
+        "s. 1, ch. 48, 1845",
+        "RS 1299",
+        "GS 1730",
+        "RGS 2945",
+        "CGL 4669",
+        "s. 1, ch. 23156, 1945",
+        "s. 7, ch. 24337, 1947",
+        "s. 15, ch. 73-334",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 19, ch. 2019-71",
+        "s. 4, ch. 2025-163."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.51",
+      "section_path": "title-7-evidence/sec-0092-51.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 61-196; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379; s. 518, ch. 95-147; s. 2, ch. 2022-183."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 61-196",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379",
+        "s. 518, ch. 95-147",
+        "s. 2, ch. 2022-183."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.52",
+      "section_path": "title-7-evidence/sec-0092-52.md",
+      "history": [
+        "History.—RS 1300; GS 1731; RGS 2946; CGL 4670; s. 3, ch. 76-237; s. 1, ch. 77-77; s. 22, ch. 78-361; s. 1, ch. 78-379."
+      ],
+      "source_citations": [
+        "RS 1300",
+        "GS 1731",
+        "RGS 2946",
+        "CGL 4670",
+        "s. 3, ch. 76-237",
+        "s. 1, ch. 77-77",
+        "s. 22, ch. 78-361",
+        "s. 1, ch. 78-379."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.525",
+      "section_path": "title-7-evidence/sec-0092-525.md",
+      "history": [
+        "History.—s. 12, ch. 86-201; s. 1, ch. 2015-23; s. 10, ch. 2025-163."
+      ],
+      "source_citations": [
+        "s. 12, ch. 86-201",
+        "s. 1, ch. 2015-23",
+        "s. 10, ch. 2025-163."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.53",
+      "section_path": "title-7-evidence/sec-0092-53.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 79-69; s. 1, ch. 84-36; ss. 5, 9, ch. 85-53; s. 9, ch. 85-80; s. 1, ch. 93-131; s. 21, ch. 94-154; s. 1379, ch. 95-147; s. 30, ch. 99-2; s. 4, ch. 2000-338; s. 89, ch. 2004-267; s. 4, ch. 2013-162; s. 1, ch. 2016-199."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 79-69",
+        "s. 1, ch. 84-36",
+        "ss. 5, 9, ch. 85-53",
+        "s. 9, ch. 85-80",
+        "s. 1, ch. 93-131",
+        "s. 21, ch. 94-154",
+        "s. 1379, ch. 95-147",
+        "s. 30, ch. 99-2",
+        "s. 4, ch. 2000-338",
+        "s. 89, ch. 2004-267",
+        "s. 4, ch. 2013-162",
+        "s. 1, ch. 2016-199."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.54",
+      "section_path": "title-7-evidence/sec-0092-54.md",
+      "history": [
+        "History.—s. 6, ch. 85-53; s. 12, ch. 87-224; s. 2, ch. 93-131; s. 22, ch. 94-154; s. 1380, ch. 95-147; s. 5, ch. 2013-162; s. 2, ch. 2016-199; s. 8, ch. 2023-302."
+      ],
+      "source_citations": [
+        "s. 6, ch. 85-53",
+        "s. 12, ch. 87-224",
+        "s. 2, ch. 93-131",
+        "s. 22, ch. 94-154",
+        "s. 1380, ch. 95-147",
+        "s. 5, ch. 2013-162",
+        "s. 2, ch. 2016-199",
+        "s. 8, ch. 2023-302."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.55",
+      "section_path": "title-7-evidence/sec-0092-55.md",
+      "history": [
+        "History.—s. 7, ch. 85-53; s. 3, ch. 93-131; s. 23, ch. 94-154; s. 8, ch. 2000-336; s. 3, ch. 2011-220; s. 6, ch. 2013-162; s. 1, ch. 2014-4; s. 64, ch. 2016-24; s. 9, ch. 2016-104; s. 3, ch. 2016-199; s. 1, ch. 2017-13; s. 1, ch. 2023-148; s. 11, ch. 2024-71; ss. 25, 56, ch. 2025-156."
+      ],
+      "source_citations": [
+        "s. 7, ch. 85-53",
+        "s. 3, ch. 93-131",
+        "s. 23, ch. 94-154",
+        "s. 8, ch. 2000-336",
+        "s. 3, ch. 2011-220",
+        "s. 6, ch. 2013-162",
+        "s. 1, ch. 2014-4",
+        "s. 64, ch. 2016-24",
+        "s. 9, ch. 2016-104",
+        "s. 3, ch. 2016-199",
+        "s. 1, ch. 2017-13",
+        "s. 1, ch. 2023-148",
+        "s. 11, ch. 2024-71",
+        "ss. 25, 56, ch. 2025-156."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.56",
+      "section_path": "title-7-evidence/sec-0092-56.md",
+      "history": [
+        "History.—s. 3, ch. 95-207; s. 1, ch. 2008-172; s. 4, ch. 2008-234; s. 3, ch. 2011-83; s. 1, ch. 2014-160; s. 3, ch. 2026-18; s. 2, ch. 2026-20."
+      ],
+      "source_citations": [
+        "s. 3, ch. 95-207",
+        "s. 1, ch. 2008-172",
+        "s. 4, ch. 2008-234",
+        "s. 3, ch. 2011-83",
+        "s. 1, ch. 2014-160",
+        "s. 3, ch. 2026-18",
+        "s. 2, ch. 2026-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.561",
+      "section_path": "title-7-evidence/sec-0092-561.md",
+      "history": [
+        "History.—s. 4, ch. 2011-220; s. 3, ch. 2024-118; s. 4, ch. 2026-18; s. 3, ch. 2026-20."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2011-220",
+        "s. 3, ch. 2024-118",
+        "s. 4, ch. 2026-18",
+        "s. 3, ch. 2026-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.565",
+      "section_path": "title-7-evidence/sec-0092-565.md",
+      "history": [
+        "History.—s. 1, ch. 2000-204; s. 10, ch. 2008-172; s. 2, ch. 2017-23; s. 1, ch. 2025-156."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-204",
+        "s. 10, ch. 2008-172",
+        "s. 2, ch. 2017-23",
+        "s. 1, ch. 2025-156."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.57",
+      "section_path": "title-7-evidence/sec-0092-57.md",
+      "history": [
+        "History.—s. 1, ch. 90-185."
+      ],
+      "source_citations": [
+        "s. 1, ch. 90-185."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.60",
+      "section_path": "title-7-evidence/sec-0092-60.md",
+      "history": [
+        "History.—s. 17, ch. 88-381; s. 1, ch. 97-189."
+      ],
+      "source_citations": [
+        "s. 17, ch. 88-381",
+        "s. 1, ch. 97-189."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.605",
+      "section_path": "title-7-evidence/sec-0092-605.md",
+      "history": [
+        "History.—s. 3, ch. 2003-71; s. 1, ch. 2020-43."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2003-71",
+        "s. 1, ch. 2020-43."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    },
+    {
+      "section": "92.70",
+      "section_path": "title-7-evidence/sec-0092-70.md",
+      "history": [
+        "History.—s. 1, ch. 2017-91."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2017-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "source_sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f"
+    }
+  ]
+}

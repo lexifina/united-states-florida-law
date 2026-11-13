@@ -1,0 +1,3931 @@
+{
+  "schema_version": 1,
+  "act_path": "title-34-alcoholic-beverages-and-tobacco",
+  "title": "Florida Statutes, Title XXXIV: Alcoholic Beverages and Tobacco",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV&StatuteYear=2026",
+  "source_title_sha256": "9d6d6e5bf7f49b62a7d152e60b70b6b828e3733f9ca11bc50a4c900529a3ee8c",
+  "sections": [
+    {
+      "section": "561.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-01.md",
+      "history": [
+        "History.—s. 13, ch. 16774, 1935; CGL 1936 Supp. 4151(239); s. 1, ch. 18015, 1937; ss. 1, 3A, ch. 19301, 1939; CGL 1940 Supp. 4151(271a,n); s. 1, ch. 21839, 1943; s. 1, ch. 25359, 1949; s. 4, ch. 28149, 1953; s. 1, ch. 29786, 1955; s. 1, ch. 57-420; s. 1, ch. 63-32; s. 1, ch. 67-73; ss. 16, 35, ch. 69-106; s. 213, ch. 71-377; s. 1, ch. 72-230; s. 4, ch. 77-421; s. 1, ch. 78-133; s. 27, ch. 79-4; s. 1, ch. 80-339; s. 2, ch. 80-365; s. 1, ch. 81-158; s. 1, ch. 86-269; s. 1, ch. 90-233; s. 5, ch. 91-60; s. 1, ch. 92-176; s. 1, ch. 92-205; s. 7, ch. 93-220; s. 1, ch. 97-165; s. 7, ch. 97-213; s. 1, ch. 99-216; s. 1, ch. 99-362; s. 3, ch. 2000-191; s. 2, ch. 2016-190; s. 13, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 13, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(239)",
+        "s. 1, ch. 18015, 1937",
+        "ss. 1, 3A, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271a,n)",
+        "s. 1, ch. 21839, 1943",
+        "s. 1, ch. 25359, 1949",
+        "s. 4, ch. 28149, 1953",
+        "s. 1, ch. 29786, 1955",
+        "s. 1, ch. 57-420",
+        "s. 1, ch. 63-32",
+        "s. 1, ch. 67-73",
+        "ss. 16, 35, ch. 69-106",
+        "s. 213, ch. 71-377",
+        "s. 1, ch. 72-230",
+        "s. 4, ch. 77-421",
+        "s. 1, ch. 78-133",
+        "s. 27, ch. 79-4",
+        "s. 1, ch. 80-339",
+        "s. 2, ch. 80-365",
+        "s. 1, ch. 81-158",
+        "s. 1, ch. 86-269",
+        "s. 1, ch. 90-233",
+        "s. 5, ch. 91-60",
+        "s. 1, ch. 92-176",
+        "s. 1, ch. 92-205",
+        "s. 7, ch. 93-220",
+        "s. 1, ch. 97-165",
+        "s. 7, ch. 97-213",
+        "s. 1, ch. 99-216",
+        "s. 1, ch. 99-362",
+        "s. 3, ch. 2000-191",
+        "s. 2, ch. 2016-190",
+        "s. 13, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-02.md",
+      "history": [
+        "History.—s. 1, ch. 16774, 1935; CGL 1936 Supp. 4151(227); s. 1A, ch. 19301, 1939; s. 2, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 5, ch. 77-421; s. 212, ch. 94-218; s. 2, ch. 97-165."
+      ],
+      "source_citations": [
+        "s. 1, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(227)",
+        "s. 1A, ch. 19301, 1939",
+        "s. 2, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 5, ch. 77-421",
+        "s. 212, ch. 94-218",
+        "s. 2, ch. 97-165."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.025",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-025.md",
+      "history": [
+        "History.—s. 21, ch. 86-269; s. 3, ch. 89-293; s. 3, ch. 90-233; s. 10, ch. 92-285; s. 1, ch. 93-134; s. 213, ch. 94-218; s. 20, ch. 94-353; s. 70, ch. 97-190; s. 2, ch. 97-213; s. 6, ch. 2006-162."
+      ],
+      "source_citations": [
+        "s. 21, ch. 86-269",
+        "s. 3, ch. 89-293",
+        "s. 3, ch. 90-233",
+        "s. 10, ch. 92-285",
+        "s. 1, ch. 93-134",
+        "s. 213, ch. 94-218",
+        "s. 20, ch. 94-353",
+        "s. 70, ch. 97-190",
+        "s. 2, ch. 97-213",
+        "s. 6, ch. 2006-162."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.027",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-027.md",
+      "history": [
+        "History.—s. 1, ch. 98-392; s. 2, ch. 2002-157."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-392",
+        "s. 2, ch. 2002-157."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.051",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-051.md",
+      "history": [
+        "History.—s. 1, ch. 72-230; s. 15, ch. 79-11; s. 839, ch. 97-103; s. 40, ch. 98-34; s. 731, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-230",
+        "s. 15, ch. 79-11",
+        "s. 839, ch. 97-103",
+        "s. 40, ch. 98-34",
+        "s. 731, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-08.md",
+      "history": [
+        "History.—s. 1, ch. 16774, 1935; CGL 1936 Supp. 4151(227); s. 1A, ch. 19301, 1939; s. 7, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 1, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(227)",
+        "s. 1A, ch. 19301, 1939",
+        "s. 7, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-11.md",
+      "history": [
+        "History.—s. 1, ch. 16774, 1935; CGL 1936 Supp. 4151(227); s. 2, ch. 18015, 1937; s. 1A, ch. 19301, 1939; CGL 1940 Supp. 4151(271b); s. 4, ch. 22663, 1945; s. 132, ch. 26869, 1951; s. 9, ch. 57-420; s. 1, ch. 63-26; s. 1, ch. 67-366; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 9, ch. 78-95; s. 16, ch. 79-11; s. 186, ch. 98-200; s. 1, ch. 2017-137."
+      ],
+      "source_citations": [
+        "s. 1, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(227)",
+        "s. 2, ch. 18015, 1937",
+        "s. 1A, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271b)",
+        "s. 4, ch. 22663, 1945",
+        "s. 132, ch. 26869, 1951",
+        "s. 9, ch. 57-420",
+        "s. 1, ch. 63-26",
+        "s. 1, ch. 67-366",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 9, ch. 78-95",
+        "s. 16, ch. 79-11",
+        "s. 186, ch. 98-200",
+        "s. 1, ch. 2017-137."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1105",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1105.md",
+      "history": [
+        "History.—s. 20, ch. 94-314; s. 5, ch. 95-416; s. 67, ch. 2000-154; s. 12, ch. 2002-48."
+      ],
+      "source_citations": [
+        "s. 20, ch. 94-314",
+        "s. 5, ch. 95-416",
+        "s. 67, ch. 2000-154",
+        "s. 12, ch. 2002-48."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.111",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-111.md",
+      "history": [
+        "History.—s. 6, ch. 89-153; s. 30, ch. 89-356; s. 214, ch. 94-218; s. 840, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 6, ch. 89-153",
+        "s. 30, ch. 89-356",
+        "s. 214, ch. 94-218",
+        "s. 840, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.121",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-121.md",
+      "history": [
+        "History.—s. 21, ch. 94-353; s. 3, ch. 97-213; s. 250, ch. 99-8; s. 15, ch. 99-239; s. 2, ch. 2000-354; s. 4, ch. 2001-380; ss. 15, 79, ch. 2002-402; s. 23, ch. 2003-399; s. 3, ch. 2004-2; s. 5, ch. 2004-269; s. 17, ch. 2006-2; ss. 1, 2, ch. 2006-162; s. 11, ch. 2006-182; s. 16, ch. 2009-20; s. 20, ch. 2016-220; s. 48, ch. 2024-158; s. 84, ch. 2025-208."
+      ],
+      "source_citations": [
+        "s. 21, ch. 94-353",
+        "s. 3, ch. 97-213",
+        "s. 250, ch. 99-8",
+        "s. 15, ch. 99-239",
+        "s. 2, ch. 2000-354",
+        "s. 4, ch. 2001-380",
+        "ss. 15, 79, ch. 2002-402",
+        "s. 23, ch. 2003-399",
+        "s. 3, ch. 2004-2",
+        "s. 5, ch. 2004-269",
+        "s. 17, ch. 2006-2",
+        "ss. 1, 2, ch. 2006-162",
+        "s. 11, ch. 2006-182",
+        "s. 16, ch. 2009-20",
+        "s. 20, ch. 2016-220",
+        "s. 48, ch. 2024-158",
+        "s. 84, ch. 2025-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1211",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1211.md",
+      "history": [
+        "History.—s. 10, ch. 2010-24."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2010-24."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1212",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1212.md",
+      "history": [
+        "History.—s. 8, ch. 2021-193."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2021-193."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1213",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1213.md",
+      "history": [
+        "History.—s. 40, ch. 2021-31."
+      ],
+      "source_citations": [
+        "s. 40, ch. 2021-31."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.12135",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-12135.md",
+      "history": [
+        "History.—s. 85, ch. 2025-208."
+      ],
+      "source_citations": [
+        "s. 85, ch. 2025-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1214",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1214.md",
+      "history": [
+        "History.—s. 49, ch. 2024-158."
+      ],
+      "source_citations": [
+        "s. 49, ch. 2024-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.1215",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-1215.md",
+      "history": [
+        "History.—s. 1, ch. 2026-41."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2026-41."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.14",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-14.md",
+      "history": [
+        "History.—s. 4, ch. 16774, 1935; CGL 1936 Supp. 4151(230); s. 1, ch. 19499, 1939; s. 2, ch. 25359, 1949; s. 10, ch. 26484, 1951; s. 11, ch. 57-420; s. 1, ch. 63-562; s. 1, ch. 72-230; s. 1, ch. 72-272; s. 5, ch. 79-163; s. 14, ch. 81-158; s. 3, ch. 83-79; s. 1, ch. 85-62; s. 4, ch. 89-361; s. 2, ch. 90-233; s. 6, ch. 91-60; s. 3, ch. 95-346; s. 3, ch. 2013-157."
+      ],
+      "source_citations": [
+        "s. 4, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(230)",
+        "s. 1, ch. 19499, 1939",
+        "s. 2, ch. 25359, 1949",
+        "s. 10, ch. 26484, 1951",
+        "s. 11, ch. 57-420",
+        "s. 1, ch. 63-562",
+        "s. 1, ch. 72-230",
+        "s. 1, ch. 72-272",
+        "s. 5, ch. 79-163",
+        "s. 14, ch. 81-158",
+        "s. 3, ch. 83-79",
+        "s. 1, ch. 85-62",
+        "s. 4, ch. 89-361",
+        "s. 2, ch. 90-233",
+        "s. 6, ch. 91-60",
+        "s. 3, ch. 95-346",
+        "s. 3, ch. 2013-157."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.15",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-15.md",
+      "history": [
+        "History.—s. 3, ch. 16774, 1935; CGL 1936 Supp. 4151(229); s. 12, ch. 57-420; s. 1, ch. 61-219; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 48, ch. 77-121; s. 3, ch. 77-471; s. 1, ch. 80-74; s. 1, ch. 81-166; s. 1, ch. 84-262; s. 2, ch. 85-62; ss. 1, 6, 8, ch. 85-285; s. 1, ch. 89-309; s. 255, ch. 96-410; s. 1178, ch. 97-103; s. 1, ch. 2011-150; s. 18, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 3, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(229)",
+        "s. 12, ch. 57-420",
+        "s. 1, ch. 61-219",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 48, ch. 77-121",
+        "s. 3, ch. 77-471",
+        "s. 1, ch. 80-74",
+        "s. 1, ch. 81-166",
+        "s. 1, ch. 84-262",
+        "s. 2, ch. 85-62",
+        "ss. 1, 6, 8, ch. 85-285",
+        "s. 1, ch. 89-309",
+        "s. 255, ch. 96-410",
+        "s. 1178, ch. 97-103",
+        "s. 1, ch. 2011-150",
+        "s. 18, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.17",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-17.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 5, ch. 22663, 1945; s. 4, ch. 25359, 1949; s. 3, ch. 29786, 1955; s. 14, ch. 57-420; s. 1, ch. 59-316; ss. 16, 19, 35, ch. 69-106; s. 1, ch. 72-230; s. 459, ch. 77-147; s. 2, ch. 77-192; s. 2, ch. 81-166; s. 3, ch. 90-17; s. 7, ch. 91-60; s. 215, ch. 94-218; s. 4, ch. 95-346; s. 841, ch. 97-103; s. 251, ch. 99-8; s. 4, ch. 2000-191; s. 41, ch. 2010-106; s. 2, ch. 2011-150; s. 2, ch. 2017-137; s. 14, ch. 2021-135; s. 19, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 5, ch. 22663, 1945",
+        "s. 4, ch. 25359, 1949",
+        "s. 3, ch. 29786, 1955",
+        "s. 14, ch. 57-420",
+        "s. 1, ch. 59-316",
+        "ss. 16, 19, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 459, ch. 77-147",
+        "s. 2, ch. 77-192",
+        "s. 2, ch. 81-166",
+        "s. 3, ch. 90-17",
+        "s. 7, ch. 91-60",
+        "s. 215, ch. 94-218",
+        "s. 4, ch. 95-346",
+        "s. 841, ch. 97-103",
+        "s. 251, ch. 99-8",
+        "s. 4, ch. 2000-191",
+        "s. 41, ch. 2010-106",
+        "s. 2, ch. 2011-150",
+        "s. 2, ch. 2017-137",
+        "s. 14, ch. 2021-135",
+        "s. 19, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.18",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-18.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 5, ch. 25359, 1949; s. 15, ch. 57-420; s. 2, ch. 59-316; s. 1, ch. 72-230; s. 2, ch. 81-158."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 5, ch. 25359, 1949",
+        "s. 15, ch. 57-420",
+        "s. 2, ch. 59-316",
+        "s. 1, ch. 72-230",
+        "s. 2, ch. 81-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.181",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-181.md",
+      "history": [
+        "History.—s. 2, ch. 84-262; s. 5, ch. 95-346; s. 5, ch. 2000-191."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-262",
+        "s. 5, ch. 95-346",
+        "s. 5, ch. 2000-191."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.19",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-19.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 6, ch. 25359, 1949; s. 16, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 9, ch. 78-95; s. 28, ch. 79-4; s. 3, ch. 81-158; s. 3, ch. 84-262; s. 3, ch. 88-308; s. 4, ch. 89-293; s. 1, ch. 92-91; s. 2, ch. 92-176; s. 2, ch. 93-134; s. 6, ch. 95-346; s. 346, ch. 96-406; s. 256, ch. 96-410; s. 1179, ch. 97-103; s. 252, ch. 99-8; s. 1, ch. 2003-20; s. 50, ch. 2013-14; s. 277, ch. 2014-19; s. 15, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 6, ch. 25359, 1949",
+        "s. 16, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 9, ch. 78-95",
+        "s. 28, ch. 79-4",
+        "s. 3, ch. 81-158",
+        "s. 3, ch. 84-262",
+        "s. 3, ch. 88-308",
+        "s. 4, ch. 89-293",
+        "s. 1, ch. 92-91",
+        "s. 2, ch. 92-176",
+        "s. 2, ch. 93-134",
+        "s. 6, ch. 95-346",
+        "s. 346, ch. 96-406",
+        "s. 256, ch. 96-410",
+        "s. 1179, ch. 97-103",
+        "s. 252, ch. 99-8",
+        "s. 1, ch. 2003-20",
+        "s. 50, ch. 2013-14",
+        "s. 277, ch. 2014-19",
+        "s. 15, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.20",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-20.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 2, ch. 23746, 1947; s. 7, ch. 25359, 1949; s. 1, ch. 28113, s. 1, ch. 28117, 1953; s. 4, ch. 29786, s. 1, ch. 29829, s. 1, ch. 29978, 1955; s. 24, ch. 57-1; s. 1, ch. 57-299; s. 17, ch. 57-420; ss. 1, 2, ch. 57-773; s. 1, ch. 57-837; s. 1, ch. 57-1991; s. 1, ch. 59-370; s. 2, ch. 61-219; ss. 1, 2, 4, ch. 61-300; s. 1, ch. 61-439; s. 1, ch. 67-173; ss. 16, 35, ch. 69-106; s. 1, ch. 71-238; s. 1, ch. 72-61; s. 1, ch. 72-83; s. 1, ch. 72-230; s. 1, ch. 72-260; s. 1, ch. 73-366; s. 1, ch. 73-367; ss. 1, 2, 3, ch. 76-2; s. 1, ch. 76-242; s. 5, ch. 77-471; s. 1, ch. 77-474; s. 1, ch. 78-103; s. 1, ch. 80-232; s. 2, ch. 80-339; s. 4, ch. 81-158; s. 1, ch. 84-95; ss. 1, 3, ch. 84-286; s. 6, ch. 85-161; s. 69, ch. 86-163; s. 2, ch. 86-228; ss. 29, 30, ch. 86-269; s. 3, ch. 87-63; s. 13, ch. 88-308; s. 1, ch. 88-404; s. 1, ch. 89-230; s. 1, ch. 89-248; s. 2, ch. 89-361; s. 9, ch. 90-17; ss. 1, 8, ch. 91-60; s. 3, ch. 92-176; s. 2, ch. 92-205; s. 3, ch. 93-134; s. 842, ch. 97-103; s. 2, ch. 99-216; s. 68, ch. 2000-154; s. 6, ch. 2000-191; s. 278, ch. 2014-19; s. 3, ch. 2016-120; s. 3, ch. 2016-190; s. 3, ch. 2017-137; s. 1, ch. 2021-30; s. 16, ch. 2021-135; s. 1, ch. 2023-65."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 2, ch. 23746, 1947",
+        "s. 7, ch. 25359, 1949",
+        "s. 1, ch. 28113, s. 1, ch. 28117, 1953",
+        "s. 4, ch. 29786, s. 1, ch. 29829, s. 1, ch. 29978, 1955",
+        "s. 24, ch. 57-1",
+        "s. 1, ch. 57-299",
+        "s. 17, ch. 57-420",
+        "ss. 1, 2, ch. 57-773",
+        "s. 1, ch. 57-837",
+        "s. 1, ch. 57-1991",
+        "s. 1, ch. 59-370",
+        "s. 2, ch. 61-219",
+        "ss. 1, 2, 4, ch. 61-300",
+        "s. 1, ch. 61-439",
+        "s. 1, ch. 67-173",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 71-238",
+        "s. 1, ch. 72-61",
+        "s. 1, ch. 72-83",
+        "s. 1, ch. 72-230",
+        "s. 1, ch. 72-260",
+        "s. 1, ch. 73-366",
+        "s. 1, ch. 73-367",
+        "ss. 1, 2, 3, ch. 76-2",
+        "s. 1, ch. 76-242",
+        "s. 5, ch. 77-471",
+        "s. 1, ch. 77-474",
+        "s. 1, ch. 78-103",
+        "s. 1, ch. 80-232",
+        "s. 2, ch. 80-339",
+        "s. 4, ch. 81-158",
+        "s. 1, ch. 84-95",
+        "ss. 1, 3, ch. 84-286",
+        "s. 6, ch. 85-161",
+        "s. 69, ch. 86-163",
+        "s. 2, ch. 86-228",
+        "ss. 29, 30, ch. 86-269",
+        "s. 3, ch. 87-63",
+        "s. 13, ch. 88-308",
+        "s. 1, ch. 88-404",
+        "s. 1, ch. 89-230",
+        "s. 1, ch. 89-248",
+        "s. 2, ch. 89-361",
+        "s. 9, ch. 90-17",
+        "ss. 1, 8, ch. 91-60",
+        "s. 3, ch. 92-176",
+        "s. 2, ch. 92-205",
+        "s. 3, ch. 93-134",
+        "s. 842, ch. 97-103",
+        "s. 2, ch. 99-216",
+        "s. 68, ch. 2000-154",
+        "s. 6, ch. 2000-191",
+        "s. 278, ch. 2014-19",
+        "s. 3, ch. 2016-120",
+        "s. 3, ch. 2016-190",
+        "s. 3, ch. 2017-137",
+        "s. 1, ch. 2021-30",
+        "s. 16, ch. 2021-135",
+        "s. 1, ch. 2023-65."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.22",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-22.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 8, ch. 25359, 1949; s. 2, ch. 63-562; s. 1, ch. 72-230; s. 1, ch. 76-288; s. 9, ch. 91-60; s. 843, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 8, ch. 25359, 1949",
+        "s. 2, ch. 63-562",
+        "s. 1, ch. 72-230",
+        "s. 1, ch. 76-288",
+        "s. 9, ch. 91-60",
+        "s. 843, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.221",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-221.md",
+      "history": [
+        "History.—s. 1, ch. 63-11; s. 1, ch. 67-511; s. 1, ch. 72-230; s. 1, ch. 78-187; s. 1, ch. 79-54; s. 1, ch. 84-142; s. 1, ch. 87-63; s. 8, ch. 92-151; s. 1, ch. 94-296; s. 2, ch. 2015-12."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-11",
+        "s. 1, ch. 67-511",
+        "s. 1, ch. 72-230",
+        "s. 1, ch. 78-187",
+        "s. 1, ch. 79-54",
+        "s. 1, ch. 84-142",
+        "s. 1, ch. 87-63",
+        "s. 8, ch. 92-151",
+        "s. 1, ch. 94-296",
+        "s. 2, ch. 2015-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.23",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-23.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 9, ch. 25359, 1949; ss. 18, 19, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 4, ch. 93-134; s. 15, ch. 2012-208."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 9, ch. 25359, 1949",
+        "ss. 18, 19, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 4, ch. 93-134",
+        "s. 15, ch. 2012-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.24",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-24.md",
+      "history": [
+        "History.—s. 2, ch. 16774, 1935; CGL 1936 Supp. 4151(228); s. 1, ch. 23899, 1947; s. 3, ch. 63-562; ss. 16, 35, ch. 69-106; s. 559, ch. 71-136; s. 1, ch. 72-230; s. 5, ch. 81-158; s. 1, ch. 85-203; s. 10, ch. 91-60; s. 4, ch. 97-213; s. 11, ch. 2012-83."
+      ],
+      "source_citations": [
+        "s. 2, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(228)",
+        "s. 1, ch. 23899, 1947",
+        "s. 3, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 559, ch. 71-136",
+        "s. 1, ch. 72-230",
+        "s. 5, ch. 81-158",
+        "s. 1, ch. 85-203",
+        "s. 10, ch. 91-60",
+        "s. 4, ch. 97-213",
+        "s. 11, ch. 2012-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.25",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-25.md",
+      "history": [
+        "History.—s. 3, ch. 16774, 1935; CGL 1936 Supp. 4151(229), 7648(4); s. 6, ch. 22663, 1945; s. 20, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 70-346; s. 560, ch. 71-136; s. 1, ch. 72-93; s. 1, ch. 72-230; s. 144, ch. 73-333; s. 1, ch. 77-471; s. 1, ch. 79-349; s. 2, ch. 88-404; s. 148, ch. 91-224."
+      ],
+      "source_citations": [
+        "s. 3, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(229), 7648(4)",
+        "s. 6, ch. 22663, 1945",
+        "s. 20, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 70-346",
+        "s. 560, ch. 71-136",
+        "s. 1, ch. 72-93",
+        "s. 1, ch. 72-230",
+        "s. 144, ch. 73-333",
+        "s. 1, ch. 77-471",
+        "s. 1, ch. 79-349",
+        "s. 2, ch. 88-404",
+        "s. 148, ch. 91-224."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.26",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-26.md",
+      "history": [
+        "History.—s. 5, ch. 16774, 1935; CGL 1936 Supp. 4151(231); s. 10, ch. 25359, 1949; s. 21, ch. 57-420; s. 1, ch. 67-127; s. 3, ch. 71-361; s. 1, ch. 72-230; s. 6, ch. 81-158; s. 46, ch. 91-220; s. 4, ch. 96-419."
+      ],
+      "source_citations": [
+        "s. 5, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(231)",
+        "s. 10, ch. 25359, 1949",
+        "s. 21, ch. 57-420",
+        "s. 1, ch. 67-127",
+        "s. 3, ch. 71-361",
+        "s. 1, ch. 72-230",
+        "s. 6, ch. 81-158",
+        "s. 46, ch. 91-220",
+        "s. 4, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.27",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-27.md",
+      "history": [
+        "History.—s. 9, ch. 18015, 1937; CGL 1940 Supp. 4151(271i); s. 11, ch. 25359, 1949; s. 22, ch. 57-420; s. 3, ch. 59-316; s. 4, ch. 61-219; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 7, ch. 81-158; s. 7, ch. 95-346; s. 844, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 9, ch. 18015, 1937",
+        "CGL 1940 Supp. 4151(271i)",
+        "s. 11, ch. 25359, 1949",
+        "s. 22, ch. 57-420",
+        "s. 3, ch. 59-316",
+        "s. 4, ch. 61-219",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 7, ch. 81-158",
+        "s. 7, ch. 95-346",
+        "s. 844, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.29",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-29.md",
+      "history": [
+        "History.—s. 1, ch. 16774, 1935; CGL 1936 Supp. 4151(227); s. 1A, ch. 19301, 1939; s. 4, ch. 21839, 1943; s. 7, ch. 22663, 1945; s. 3, ch. 23746, 1947; s. 5, ch. 29786, 1955; s. 23, ch. 57-420; s. 5, ch. 61-219; s. 1, ch. 61-397; ss. 16, 19, 35, ch. 69-106; s. 1, ch. 69-267; s. 207, ch. 71-377; s. 1, ch. 72-230; s. 460, ch. 77-147; s. 4, ch. 77-471; s. 9, ch. 78-95; s. 29, ch. 79-4; s. 17, ch. 79-11; s. 8, ch. 81-158; s. 3, ch. 81-166; s. 4, ch. 88-308; s. 2, ch. 89-309; s. 216, ch. 94-218; s. 8, ch. 95-346; s. 845, ch. 97-103; s. 253, ch. 99-8; s. 7, ch. 2000-191; s. 4, ch. 2016-190; s. 3, ch. 2023-94."
+      ],
+      "source_citations": [
+        "s. 1, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(227)",
+        "s. 1A, ch. 19301, 1939",
+        "s. 4, ch. 21839, 1943",
+        "s. 7, ch. 22663, 1945",
+        "s. 3, ch. 23746, 1947",
+        "s. 5, ch. 29786, 1955",
+        "s. 23, ch. 57-420",
+        "s. 5, ch. 61-219",
+        "s. 1, ch. 61-397",
+        "ss. 16, 19, 35, ch. 69-106",
+        "s. 1, ch. 69-267",
+        "s. 207, ch. 71-377",
+        "s. 1, ch. 72-230",
+        "s. 460, ch. 77-147",
+        "s. 4, ch. 77-471",
+        "s. 9, ch. 78-95",
+        "s. 29, ch. 79-4",
+        "s. 17, ch. 79-11",
+        "s. 8, ch. 81-158",
+        "s. 3, ch. 81-166",
+        "s. 4, ch. 88-308",
+        "s. 2, ch. 89-309",
+        "s. 216, ch. 94-218",
+        "s. 8, ch. 95-346",
+        "s. 845, ch. 97-103",
+        "s. 253, ch. 99-8",
+        "s. 7, ch. 2000-191",
+        "s. 4, ch. 2016-190",
+        "s. 3, ch. 2023-94."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.32",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-32.md",
+      "history": [
+        "History.—s. 6, ch. 18015, 1937; CGL 1940 Supp. 4151(271f); s. 4, ch. 23746, 1947; s. 12, ch. 25359, 1949; s. 1, ch. 28123, 1953; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 3, ch. 76-288; s. 1, ch. 77-192; s. 9, ch. 81-158; s. 4, ch. 81-166; s. 45, ch. 83-216; s. 5, ch. 89-293; s. 3, ch. 89-361; s. 11, ch. 91-60; s. 9, ch. 95-346; s. 846, ch. 97-103; s. 8, ch. 2000-191; s. 2, ch. 2001-257."
+      ],
+      "source_citations": [
+        "s. 6, ch. 18015, 1937",
+        "CGL 1940 Supp. 4151(271f)",
+        "s. 4, ch. 23746, 1947",
+        "s. 12, ch. 25359, 1949",
+        "s. 1, ch. 28123, 1953",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 3, ch. 76-288",
+        "s. 1, ch. 77-192",
+        "s. 9, ch. 81-158",
+        "s. 4, ch. 81-166",
+        "s. 45, ch. 83-216",
+        "s. 5, ch. 89-293",
+        "s. 3, ch. 89-361",
+        "s. 11, ch. 91-60",
+        "s. 9, ch. 95-346",
+        "s. 846, ch. 97-103",
+        "s. 8, ch. 2000-191",
+        "s. 2, ch. 2001-257."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.33",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-33.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 13, ch. 25359, 1949; s. 24, ch. 57-420; s. 6, ch. 61-219; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 2, ch. 72-260; s. 10, ch. 81-158; s. 46, ch. 83-216; s. 5, ch. 93-134; s. 847, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 13, ch. 25359, 1949",
+        "s. 24, ch. 57-420",
+        "s. 6, ch. 61-219",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 2, ch. 72-260",
+        "s. 10, ch. 81-158",
+        "s. 46, ch. 83-216",
+        "s. 5, ch. 93-134",
+        "s. 847, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.331",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-331.md",
+      "history": [
+        "History.—s. 1, ch. 71-229; s. 1, ch. 72-230; s. 5, ch. 81-166; s. 1, ch. 83-180; s. 4, ch. 84-262; s. 4, ch. 90-17; s. 12, ch. 91-60; s. 10, ch. 95-346; s. 9, ch. 2000-191; s. 4, ch. 2017-137."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-229",
+        "s. 1, ch. 72-230",
+        "s. 5, ch. 81-166",
+        "s. 1, ch. 83-180",
+        "s. 4, ch. 84-262",
+        "s. 4, ch. 90-17",
+        "s. 12, ch. 91-60",
+        "s. 10, ch. 95-346",
+        "s. 9, ch. 2000-191",
+        "s. 4, ch. 2017-137."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.342",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-342.md",
+      "history": [
+        "History.—s. 6, ch. 71-361; s. 1, ch. 72-230; s. 15, ch. 81-158; s. 4, ch. 90-233."
+      ],
+      "source_citations": [
+        "s. 6, ch. 71-361",
+        "s. 1, ch. 72-230",
+        "s. 15, ch. 81-158",
+        "s. 4, ch. 90-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.351",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-351.md",
+      "history": [
+        "History.—s. 1, ch. 72-230; ss. 11, 16, ch. 81-158; s. 5, ch. 96-419."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-230",
+        "ss. 11, 16, ch. 81-158",
+        "s. 5, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.37",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-37.md",
+      "history": [
+        "History.—s. 5, ch. 16774, 1935; CGL 1936 Supp. 4151(231); s. 2, ch. 19301, 1939; s. 6, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 2, ch. 86-269; s. 13, ch. 91-60; s. 848, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 5, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(231)",
+        "s. 2, ch. 19301, 1939",
+        "s. 6, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 2, ch. 86-269",
+        "s. 13, ch. 91-60",
+        "s. 848, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.371",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-371.md",
+      "history": [
+        "History.—s. 4, ch. 69-49; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 4, ch. 69-49",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.38",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-38.md",
+      "history": [
+        "History.—s. 5, ch. 18774, 1935; CGL 1936 Supp. 4151(231); s. 2, ch. 19301, 1939; s. 7, ch. 61-219; s. 7, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 14, ch. 91-60."
+      ],
+      "source_citations": [
+        "s. 5, ch. 18774, 1935",
+        "CGL 1936 Supp. 4151(231)",
+        "s. 2, ch. 19301, 1939",
+        "s. 7, ch. 61-219",
+        "s. 7, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 14, ch. 91-60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.41",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-41.md",
+      "history": [
+        "History.—s. 4, ch. 16774, 1935; CGL 1936 Supp. 4151(230); s. 27, ch. 57-420; s. 8, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 15, ch. 91-60; s. 82, ch. 2013-18."
+      ],
+      "source_citations": [
+        "s. 4, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(230)",
+        "s. 27, ch. 57-420",
+        "s. 8, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 15, ch. 91-60",
+        "s. 82, ch. 2013-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.411",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-411.md",
+      "history": [
+        "History.—s. 6, ch. 96-419."
+      ],
+      "source_citations": [
+        "s. 6, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.42",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-42.md",
+      "history": [
+        "History.—s. 4, ch. 16774, 1935; CGL 1936 Supp. 4151(230); s. 1, ch. 22078, 1943; s. 6, ch. 23746, 1947; s. 1, ch. 25260, 1949; s. 1, ch. 25340, 1949; s. 10, ch. 26484, 1951; s. 28, ch. 57-420; ss. 16, 35, ch. 69-106; s. 208, ch. 71-377; s. 1, ch. 72-230; s. 1, ch. 75-97; s. 9, ch. 78-95; s. 30, ch. 79-4; s. 3, ch. 84-142; s. 10, ch. 84-262; s. 1, ch. 85-166; s. 1, ch. 87-226; s. 217, ch. 94-218; s. 34, ch. 97-98; s. 849, ch. 97-103; s. 1, ch. 2008-226; s. 1, ch. 2013-145; s. 3, ch. 2015-12; s. 70, ch. 2016-10; s. 1, ch. 2018-135; s. 17, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 4, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(230)",
+        "s. 1, ch. 22078, 1943",
+        "s. 6, ch. 23746, 1947",
+        "s. 1, ch. 25260, 1949",
+        "s. 1, ch. 25340, 1949",
+        "s. 10, ch. 26484, 1951",
+        "s. 28, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 208, ch. 71-377",
+        "s. 1, ch. 72-230",
+        "s. 1, ch. 75-97",
+        "s. 9, ch. 78-95",
+        "s. 30, ch. 79-4",
+        "s. 3, ch. 84-142",
+        "s. 10, ch. 84-262",
+        "s. 1, ch. 85-166",
+        "s. 1, ch. 87-226",
+        "s. 217, ch. 94-218",
+        "s. 34, ch. 97-98",
+        "s. 849, ch. 97-103",
+        "s. 1, ch. 2008-226",
+        "s. 1, ch. 2013-145",
+        "s. 3, ch. 2015-12",
+        "s. 70, ch. 2016-10",
+        "s. 1, ch. 2018-135",
+        "s. 17, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.4205",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-4205.md",
+      "history": [
+        "History.—s. 5, ch. 2016-190."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2016-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.421",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-421.md",
+      "history": [
+        "History.—s. 1, ch. 71-100; s. 1, ch. 72-230; s. 850, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-100",
+        "s. 1, ch. 72-230",
+        "s. 850, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.422",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-422.md",
+      "history": [
+        "History.—s. 1, ch. 72-380; s. 1, ch. 83-79; s. 5, ch. 84-262; s. 2, ch. 2003-20; s. 6, ch. 2016-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-380",
+        "s. 1, ch. 83-79",
+        "s. 5, ch. 84-262",
+        "s. 2, ch. 2003-20",
+        "s. 6, ch. 2016-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.423",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-423.md",
+      "history": [
+        "History.—s. 1, ch. 75-143; s. 2, ch. 85-166."
+      ],
+      "source_citations": [
+        "s. 1, ch. 75-143",
+        "s. 2, ch. 85-166."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.424",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-424.md",
+      "history": [
+        "History.—s. 3, ch. 77-192; s. 1, ch. 2024-81."
+      ],
+      "source_citations": [
+        "s. 3, ch. 77-192",
+        "s. 1, ch. 2024-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.425",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-425.md",
+      "history": [
+        "History.—s. 2, ch. 2024-81."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2024-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.43",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-43.md",
+      "history": [
+        "History.—s. 5, ch. 16774, 1935; CGL 1936 Supp. 4151(231); s. 2, ch. 19301, 1939; s. 8, ch. 22663, 1945; s. 7, ch. 23746, 1947; s. 1, ch. 57-1969; s. 1, ch. 61-438; s. 9, ch. 63-562; s. 1, ch. 72-230; s. 16, ch. 91-60."
+      ],
+      "source_citations": [
+        "s. 5, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(231)",
+        "s. 2, ch. 19301, 1939",
+        "s. 8, ch. 22663, 1945",
+        "s. 7, ch. 23746, 1947",
+        "s. 1, ch. 57-1969",
+        "s. 1, ch. 61-438",
+        "s. 9, ch. 63-562",
+        "s. 1, ch. 72-230",
+        "s. 16, ch. 91-60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.49",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-49.md",
+      "history": [
+        "History.—s. 9, ch. 16774, 1935; s. 10, ch. 18015, 1937; CGL 1936 Supp. 4151(235); s. 2, ch. 20830, 1941; s. 10, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 9, ch. 16774, 1935",
+        "s. 10, ch. 18015, 1937",
+        "CGL 1936 Supp. 4151(235)",
+        "s. 2, ch. 20830, 1941",
+        "s. 10, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.495",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-495.md",
+      "history": [
+        "History.—s. 9, ch. 88-308."
+      ],
+      "source_citations": [
+        "s. 9, ch. 88-308."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.50",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-50.md",
+      "history": [
+        "History.—s. 9, ch. 16774, 1935; CGL 1936 Supp. 4151(235); s. 10, ch. 18015, 1937; s. 2, ch. 20830, 1941; s. 30, ch. 57-420; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 20, ch. 81-158; s. 5, ch. 88-308."
+      ],
+      "source_citations": [
+        "s. 9, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(235)",
+        "s. 10, ch. 18015, 1937",
+        "s. 2, ch. 20830, 1941",
+        "s. 30, ch. 57-420",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 20, ch. 81-158",
+        "s. 5, ch. 88-308."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.5101",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-5101.md",
+      "history": [
+        "History.—s. 6, ch. 97-213; s. 4, ch. 2015-12."
+      ],
+      "source_citations": [
+        "s. 6, ch. 97-213",
+        "s. 4, ch. 2015-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.54",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-54.md",
+      "history": [
+        "History.—s. 5, ch. 20830, 1941; s. 11, ch. 22663, 1945; s. 11, ch. 23746, 1947; s. 11, ch. 25035, 1949; s. 11, ch. 29786, 1955; s. 11, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 47, ch. 83-216; s. 3, ch. 86-269; s. 8, ch. 97-213."
+      ],
+      "source_citations": [
+        "s. 5, ch. 20830, 1941",
+        "s. 11, ch. 22663, 1945",
+        "s. 11, ch. 23746, 1947",
+        "s. 11, ch. 25035, 1949",
+        "s. 11, ch. 29786, 1955",
+        "s. 11, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 47, ch. 83-216",
+        "s. 3, ch. 86-269",
+        "s. 8, ch. 97-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.545",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-545.md",
+      "history": [
+        "History.—s. 9, ch. 97-213."
+      ],
+      "source_citations": [
+        "s. 9, ch. 97-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.55",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-55.md",
+      "history": [
+        "History.—s. 4, ch. 16774, 1935; CGL 1936 Supp. 4151(230); s. 31, ch. 57-420; s. 3, ch. 61-219; s. 12, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 17, ch. 81-158; s. 17, ch. 91-60; s. 18, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 4, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(230)",
+        "s. 31, ch. 57-420",
+        "s. 3, ch. 61-219",
+        "s. 12, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 17, ch. 81-158",
+        "s. 17, ch. 91-60",
+        "s. 18, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.56",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-56.md",
+      "history": [
+        "History.—s. 4, ch. 16774, 1935; CGL 1936 Supp. 4151(230); s. 13, ch. 63-562; s. 1, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 4, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(230)",
+        "s. 13, ch. 63-562",
+        "s. 1, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.57",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-57.md",
+      "history": [
+        "History.—s. 11(c), ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 17, ch. 25359, 1949; s. 32, ch. 57-420; s. 14, ch. 63-562; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 6, ch. 88-308; s. 851, ch. 97-103; s. 1, ch. 2013-170; s. 5, ch. 2015-12; s. 71, ch. 2016-10; s. 1, ch. 2018-133."
+      ],
+      "source_citations": [
+        "s. 11(c), ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 17, ch. 25359, 1949",
+        "s. 32, ch. 57-420",
+        "s. 14, ch. 63-562",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 6, ch. 88-308",
+        "s. 851, ch. 97-103",
+        "s. 1, ch. 2013-170",
+        "s. 5, ch. 2015-12",
+        "s. 71, ch. 2016-10",
+        "s. 1, ch. 2018-133."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.58",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-58.md",
+      "history": [
+        "History.—s. 7, ch. 20830, 1941; s. 18, ch. 25359, 1949; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 12, ch. 81-158."
+      ],
+      "source_citations": [
+        "s. 7, ch. 20830, 1941",
+        "s. 18, ch. 25359, 1949",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 12, ch. 81-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.65",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-65.md",
+      "history": [
+        "History.—s. 1, ch. 69-115; ss. 16, 35, ch. 69-106; s. 1, ch. 72-230; s. 18, ch. 79-11; s. 21, ch. 81-158; s. 6, ch. 84-262; s. 11, ch. 95-346; s. 852, ch. 97-103; s. 3, ch. 2003-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 69-115",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-230",
+        "s. 18, ch. 79-11",
+        "s. 21, ch. 81-158",
+        "s. 6, ch. 84-262",
+        "s. 11, ch. 95-346",
+        "s. 852, ch. 97-103",
+        "s. 3, ch. 2003-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.66",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-66.md",
+      "history": [
+        "History.—s. 1, ch. 79-405."
+      ],
+      "source_citations": [
+        "s. 1, ch. 79-405."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.665",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-665.md",
+      "history": [
+        "History.—s. 1, ch. 89-204."
+      ],
+      "source_citations": [
+        "s. 1, ch. 89-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.67",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-67.md",
+      "history": [
+        "History.—s. 1, ch. 86-228; s. 2, ch. 92-91; s. 347, ch. 96-406."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-228",
+        "s. 2, ch. 92-91",
+        "s. 347, ch. 96-406."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.68",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-68.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 86-268; s. 47, ch. 91-220; s. 218, ch. 94-218; s. 853, ch. 97-103; s. 10, ch. 97-213."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 86-268",
+        "s. 47, ch. 91-220",
+        "s. 218, ch. 94-218",
+        "s. 853, ch. 97-103",
+        "s. 10, ch. 97-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.695",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-695.md",
+      "history": [
+        "History.—s. 14, ch. 2003-398; s. 1, ch. 2006-130; s. 14, ch. 2019-14."
+      ],
+      "source_citations": [
+        "s. 14, ch. 2003-398",
+        "s. 1, ch. 2006-130",
+        "s. 14, ch. 2019-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.701",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-701.md",
+      "history": [
+        "History.—s. 1, ch. 89-107."
+      ],
+      "source_citations": [
+        "s. 1, ch. 89-107."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.702",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-702.md",
+      "history": [
+        "History.—s. 2, ch. 89-107; s. 1, ch. 96-419."
+      ],
+      "source_citations": [
+        "s. 2, ch. 89-107",
+        "s. 1, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.703",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-703.md",
+      "history": [
+        "History.—s. 3, ch. 89-107; s. 18, ch. 91-60; s. 219, ch. 94-218."
+      ],
+      "source_citations": [
+        "s. 3, ch. 89-107",
+        "s. 18, ch. 91-60",
+        "s. 219, ch. 94-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.705",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-705.md",
+      "history": [
+        "History.—s. 5, ch. 89-107; s. 19, ch. 91-60; s. 2, ch. 96-419; s. 1180, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 5, ch. 89-107",
+        "s. 19, ch. 91-60",
+        "s. 2, ch. 96-419",
+        "s. 1180, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "561.706",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0561-706.md",
+      "history": [
+        "History.—s. 6, ch. 89-107; s. 20, ch. 91-60; s. 3, ch. 96-419; s. 1181, ch. 97-103; s. 5, ch. 2003-20."
+      ],
+      "source_citations": [
+        "s. 6, ch. 89-107",
+        "s. 20, ch. 91-60",
+        "s. 3, ch. 96-419",
+        "s. 1181, ch. 97-103",
+        "s. 5, ch. 2003-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "source_sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02"
+    },
+    {
+      "section": "562.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-01.md",
+      "history": [
+        "History.—s. 9, ch. 16774, 1935; CGL 1936 Supp. 4151(235); s. 10, ch. 18015, 1937; s. 2, ch. 20830, 1941; s. 1, ch. 57-327; s. 147, ch. 71-355; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 9, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(235)",
+        "s. 10, ch. 18015, 1937",
+        "s. 2, ch. 20830, 1941",
+        "s. 1, ch. 57-327",
+        "s. 147, ch. 71-355",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-02.md",
+      "history": [
+        "History.—s. 7, ch. 18015, 1937; s. 4, ch. 19301, 1939; CGL 1940 Supp. 4151(271g); s. 12, ch. 23746, 1947; s. 2, ch. 72-230; s. 854, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 7, ch. 18015, 1937",
+        "s. 4, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271g)",
+        "s. 12, ch. 23746, 1947",
+        "s. 2, ch. 72-230",
+        "s. 854, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.025",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-025.md",
+      "history": [
+        "History.—s. 1, ch. 79-70."
+      ],
+      "source_citations": [
+        "s. 1, ch. 79-70."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-03.md",
+      "history": [
+        "History.—s. 6, ch. 16774, 1935; CGL 1936 Supp. 4151(232); s. 1, ch. 57-327; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 855, ch. 97-103; s. 19, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 6, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(232)",
+        "s. 1, ch. 57-327",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 855, ch. 97-103",
+        "s. 19, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-06.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 1, ch. 57-327; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 1, ch. 57-327",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.061",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-061.md",
+      "history": [
+        "History.—s. 2, ch. 57-327; s. 2, ch. 72-230; s. 856, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 2, ch. 57-327",
+        "s. 2, ch. 72-230",
+        "s. 856, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-07.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 2, ch. 72-230; s. 7, ch. 88-308; s. 857, ch. 97-103; s. 2, ch. 2013-170; s. 6, ch. 2015-12."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 2, ch. 72-230",
+        "s. 7, ch. 88-308",
+        "s. 857, ch. 97-103",
+        "s. 2, ch. 2013-170",
+        "s. 6, ch. 2015-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-11.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 15, ch. 23746, 1947; s. 20, ch. 25359, 1949; s. 1, ch. 57-327; s. 1, ch. 67-355; ss. 16, 35, ch. 69-106; s. 563, ch. 71-136; s. 2, ch. 72-230; s. 26, ch. 73-334; s. 49, ch. 77-121; s. 1, ch. 78-134; s. 19, ch. 79-11; s. 2, ch. 80-74; s. 413, ch. 81-259; s. 12, ch. 84-359; s. 2, ch. 85-285; s. 3, ch. 90-265; s. 22, ch. 91-60; s. 5, ch. 92-176; s. 858, ch. 97-103; s. 1, ch. 99-156; s. 1, ch. 2002-7; s. 67, ch. 2003-1; s. 4, ch. 2003-20; s. 1, ch. 2006-203; s. 1, ch. 2010-47; s. 41, ch. 2014-216; s. 23, ch. 2019-167."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 15, ch. 23746, 1947",
+        "s. 20, ch. 25359, 1949",
+        "s. 1, ch. 57-327",
+        "s. 1, ch. 67-355",
+        "ss. 16, 35, ch. 69-106",
+        "s. 563, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 26, ch. 73-334",
+        "s. 49, ch. 77-121",
+        "s. 1, ch. 78-134",
+        "s. 19, ch. 79-11",
+        "s. 2, ch. 80-74",
+        "s. 413, ch. 81-259",
+        "s. 12, ch. 84-359",
+        "s. 2, ch. 85-285",
+        "s. 3, ch. 90-265",
+        "s. 22, ch. 91-60",
+        "s. 5, ch. 92-176",
+        "s. 858, ch. 97-103",
+        "s. 1, ch. 99-156",
+        "s. 1, ch. 2002-7",
+        "s. 67, ch. 2003-1",
+        "s. 4, ch. 2003-20",
+        "s. 1, ch. 2006-203",
+        "s. 1, ch. 2010-47",
+        "s. 41, ch. 2014-216",
+        "s. 23, ch. 2019-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.111",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-111.md",
+      "history": [
+        "History.—s. 2, ch. 57-327; s. 2, ch. 72-230; s. 50, ch. 77-121; s. 3, ch. 80-74; s. 3, ch. 85-285; s. 4, ch. 90-265; s. 859, ch. 97-103; s. 2, ch. 2002-7; s. 68, ch. 2003-1; s. 24, ch. 2019-167."
+      ],
+      "source_citations": [
+        "s. 2, ch. 57-327",
+        "s. 2, ch. 72-230",
+        "s. 50, ch. 77-121",
+        "s. 3, ch. 80-74",
+        "s. 3, ch. 85-285",
+        "s. 4, ch. 90-265",
+        "s. 859, ch. 97-103",
+        "s. 2, ch. 2002-7",
+        "s. 68, ch. 2003-1",
+        "s. 24, ch. 2019-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.112",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-112.md",
+      "history": [
+        "History.—s. 1, ch. 2019-81."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2019-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.12",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-12.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 1, ch. 28069, 1953; s. 1, ch. 61-218; ss. 16, 35, ch. 69-106; s. 564, ch. 71-136; s. 2, ch. 72-230; s. 20, ch. 79-11; s. 23, ch. 91-60; s. 860, ch. 97-103; s. 1, ch. 2024-77."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 1, ch. 28069, 1953",
+        "s. 1, ch. 61-218",
+        "ss. 16, 35, ch. 69-106",
+        "s. 564, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 20, ch. 79-11",
+        "s. 23, ch. 91-60",
+        "s. 860, ch. 97-103",
+        "s. 1, ch. 2024-77."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.121",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-121.md",
+      "history": [
+        "History.—s. 5, ch. 90-233."
+      ],
+      "source_citations": [
+        "s. 5, ch. 90-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.13",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-13.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 1, ch. 22669, 1945; s. 21, ch. 25359, 1949; s. 2, ch. 29964, 1955; s. 1, ch. 57-327; s. 1, ch. 61-429; s. 1, ch. 65-534; s. 1, ch. 67-2208; ss. 16, 35, ch. 69-106; s. 1, ch. 72-183; s. 2, ch. 72-230; s. 1, ch. 73-358; s. 1, ch. 73-365; s. 2, ch. 76-288; s. 1, ch. 77-174; s. 2, ch. 91-60; s. 6, ch. 92-176; s. 52, ch. 95-144; s. 1, ch. 97-44; s. 861, ch. 97-103; s. 5, ch. 2017-137; s. 6, ch. 2024-184."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 1, ch. 22669, 1945",
+        "s. 21, ch. 25359, 1949",
+        "s. 2, ch. 29964, 1955",
+        "s. 1, ch. 57-327",
+        "s. 1, ch. 61-429",
+        "s. 1, ch. 65-534",
+        "s. 1, ch. 67-2208",
+        "ss. 16, 35, ch. 69-106",
+        "s. 1, ch. 72-183",
+        "s. 2, ch. 72-230",
+        "s. 1, ch. 73-358",
+        "s. 1, ch. 73-365",
+        "s. 2, ch. 76-288",
+        "s. 1, ch. 77-174",
+        "s. 2, ch. 91-60",
+        "s. 6, ch. 92-176",
+        "s. 52, ch. 95-144",
+        "s. 1, ch. 97-44",
+        "s. 861, ch. 97-103",
+        "s. 5, ch. 2017-137",
+        "s. 6, ch. 2024-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.131",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-131.md",
+      "history": [
+        "History.—ss. 1-3, ch. 61-234; s. 1, ch. 65-111; s. 565, ch. 71-136; s. 2, ch. 72-230; s. 862, ch. 97-103."
+      ],
+      "source_citations": [
+        "ss. 1-3, ch. 61-234",
+        "s. 1, ch. 65-111",
+        "s. 565, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 862, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.14",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-14.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; ss. 1-4, ch. 21944, 1943; s. 1, ch. 22605, 1945; s. 16, ch. 23746, 1947; s. 1, ch. 57-327; ss. 16, 35, ch. 69-106; s. 566, ch. 71-136; s. 2, ch. 72-230; s. 21, ch. 79-11; s. 3, ch. 97-165."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "ss. 1-4, ch. 21944, 1943",
+        "s. 1, ch. 22605, 1945",
+        "s. 16, ch. 23746, 1947",
+        "s. 1, ch. 57-327",
+        "ss. 16, 35, ch. 69-106",
+        "s. 566, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 21, ch. 79-11",
+        "s. 3, ch. 97-165."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.15",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-15.md",
+      "history": [
+        "History.—s. 5, ch. 18015, 1937; s. 5, ch. 19301, 1939; CGL 1940 Supp. 4151(271e); s. 2, ch. 22669, 1945; s. 147, ch. 71-355; s. 2, ch. 72-230; s. 4, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 5, ch. 18015, 1937",
+        "s. 5, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271e)",
+        "s. 2, ch. 22669, 1945",
+        "s. 147, ch. 71-355",
+        "s. 2, ch. 72-230",
+        "s. 4, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.16",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-16.md",
+      "history": [
+        "History.—s. 5, ch. 18015, 1937; s. 5, ch. 19301, 1939; CGL 1940 Supp. 4151(271e); s. 3, ch. 22669, 1945; s. 1, ch. 57-327; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 863, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 5, ch. 18015, 1937",
+        "s. 5, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271e)",
+        "s. 3, ch. 22669, 1945",
+        "s. 1, ch. 57-327",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 863, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.165",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-165.md",
+      "history": [
+        "History.—s. 1, ch. 80-365; s. 48, ch. 83-216."
+      ],
+      "source_citations": [
+        "s. 1, ch. 80-365",
+        "s. 48, ch. 83-216."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.17",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-17.md",
+      "history": [
+        "History.—s. 5, ch. 18015, 1937; s. 5, ch. 19301, 1939; CGL 1940 Supp. 4151(271e); s. 22, ch. 25359, 1949; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 5, ch. 18015, 1937",
+        "s. 5, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271e)",
+        "s. 22, ch. 25359, 1949",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.18",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-18.md",
+      "history": [
+        "History.—s. 4, ch. 18015, 1937; CGL 1940 Supp. 4151(271d); s. 2, ch. 72-230; s. 864, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 4, ch. 18015, 1937",
+        "CGL 1940 Supp. 4151(271d)",
+        "s. 2, ch. 72-230",
+        "s. 864, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.20",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-20.md",
+      "history": [
+        "History.—s. 12, ch. 16774, 1935; CGL 1936 Supp. 4151(238); s. 1, ch. 21840, 1943; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 22, ch. 79-11."
+      ],
+      "source_citations": [
+        "s. 12, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(238)",
+        "s. 1, ch. 21840, 1943",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 22, ch. 79-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.23",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-23.md",
+      "history": [
+        "History.—s. 6, ch. 19301, 1939; CGL 1940 Supp. 7648(26); s. 3, ch. 29964, 1955; s. 568, ch. 71-136; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 6, ch. 19301, 1939",
+        "CGL 1940 Supp. 7648(26)",
+        "s. 3, ch. 29964, 1955",
+        "s. 568, ch. 71-136",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.24",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-24.md",
+      "history": [
+        "History.—s. 7, ch. 19301, 1939; CGL 1940 Supp. 4151(271-o); ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 23, ch. 79-11."
+      ],
+      "source_citations": [
+        "s. 7, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271-o)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 23, ch. 79-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.25",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-25.md",
+      "history": [
+        "History.—s. 8, ch. 19301, 1939; CGL 1940 Supp. 4151(271p); s. 24, ch. 57-1; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 8, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271p)",
+        "s. 24, ch. 57-1",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.26",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-26.md",
+      "history": [
+        "History.—s. 8, ch. 19301, 1939; CGL 1940 Supp. 4151(271p); s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 8, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271p)",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.27",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-27.md",
+      "history": [
+        "History.—s. 9, ch. 19301, 1939; CGL 1940 Supp. 4151(271q); s. 4, ch. 22669, 1945; s. 1, ch. 28073, 1953; s. 1, ch. 29804, 1955; s. 2, ch. 61-218; ss. 16, 35, ch. 69-106; s. 569, ch. 71-136; s. 2, ch. 72-230; s. 26, ch. 73-334; s. 6, ch. 74-385; s. 24, ch. 79-11; s. 6, ch. 80-68; s. 865, ch. 97-103; s. 25, ch. 2019-167."
+      ],
+      "source_citations": [
+        "s. 9, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271q)",
+        "s. 4, ch. 22669, 1945",
+        "s. 1, ch. 28073, 1953",
+        "s. 1, ch. 29804, 1955",
+        "s. 2, ch. 61-218",
+        "ss. 16, 35, ch. 69-106",
+        "s. 569, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 26, ch. 73-334",
+        "s. 6, ch. 74-385",
+        "s. 24, ch. 79-11",
+        "s. 6, ch. 80-68",
+        "s. 865, ch. 97-103",
+        "s. 25, ch. 2019-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.28",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-28.md",
+      "history": [
+        "History.—s. 10, ch. 19301, 1939; CGL 1940 Supp. 4151(271r); ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 866, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 10, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271r)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 866, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.29",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-29.md",
+      "history": [
+        "History.—s. 10, ch. 19301, 1939; CGL 1940 Supp. 4151(271r); ss. 16, 35, ch. 69-106; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 10, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271r)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.30",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-30.md",
+      "history": [
+        "History.—s. 10, ch. 19301, 1939; CGL 1940 Supp. 4151(271r); s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 10, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271r)",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.31",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-31.md",
+      "history": [
+        "History.—s. 10, ch. 19301, 1939; CGL 1940 Supp. 4151(271r); s. 5, ch. 22669, 1945; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 10, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271r)",
+        "s. 5, ch. 22669, 1945",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.32",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-32.md",
+      "history": [
+        "History.—s. 11, ch. 19301, 1939; CGL 1940 Supp. 7648(27); s. 570, ch. 71-136; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 11, ch. 19301, 1939",
+        "CGL 1940 Supp. 7648(27)",
+        "s. 570, ch. 71-136",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.33",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-33.md",
+      "history": [
+        "History.—s. 11, ch. 19301, 1939; CGL 1940 Supp. 4151(271s); ss. 16, 35, ch. 69-106; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 11, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271s)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.34",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-34.md",
+      "history": [
+        "History.—s. 11, ch. 19301, 1939; CGL 1940 Supp. 4151(271s); s. 3, ch. 61-218; ss. 16, 35, ch. 69-106; s. 571, ch. 71-136; s. 2, ch. 72-230; s. 25, ch. 79-11; s. 5, ch. 86-269; s. 867, ch. 97-103; s. 7, ch. 2015-12."
+      ],
+      "source_citations": [
+        "s. 11, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271s)",
+        "s. 3, ch. 61-218",
+        "ss. 16, 35, ch. 69-106",
+        "s. 571, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 25, ch. 79-11",
+        "s. 5, ch. 86-269",
+        "s. 867, ch. 97-103",
+        "s. 7, ch. 2015-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.35",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-35.md",
+      "history": [
+        "History.—s. 11, ch. 19301, 1939; CGL 1940 Supp. 4151(271s); s. 2, ch. 28073, 1953; s. 2, ch. 72-230; s. 7, ch. 74-385; s. 7, ch. 80-68."
+      ],
+      "source_citations": [
+        "s. 11, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271s)",
+        "s. 2, ch. 28073, 1953",
+        "s. 2, ch. 72-230",
+        "s. 7, ch. 74-385",
+        "s. 7, ch. 80-68."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.36",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-36.md",
+      "history": [
+        "History.—s. 11, ch. 19301, 1939; CGL 1940 Supp. 4151(271s); s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 11, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271s)",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.38",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-38.md",
+      "history": [
+        "History.—s. 12, ch. 19301, 1939; CGL 1940 Supp. 4151(271u); s. 25, ch. 25359, 1949; s. 3, ch. 28073, 1953; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 26, ch. 73-334; s. 27, ch. 79-11."
+      ],
+      "source_citations": [
+        "s. 12, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271u)",
+        "s. 25, ch. 25359, 1949",
+        "s. 3, ch. 28073, 1953",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 26, ch. 73-334",
+        "s. 27, ch. 79-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.408",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-408.md",
+      "history": [
+        "History.—s. 13, ch. 28073, 1953; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 13, ch. 28073, 1953",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.41",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-41.md",
+      "history": [
+        "History.—s. 15, ch. 19301, 1939; CGL 1940 Supp. 4151(271x), 7648(28), (29); ss. 1, 2, ch. 57-327; ss. 16, 35, ch. 69-106; s. 572, ch. 71-136; s. 2, ch. 72-230; s. 28, ch. 79-11; s. 6, ch. 86-269; s. 868, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 15, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271x), 7648(28), (29)",
+        "ss. 1, 2, ch. 57-327",
+        "ss. 16, 35, ch. 69-106",
+        "s. 572, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 28, ch. 79-11",
+        "s. 6, ch. 86-269",
+        "s. 868, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.42",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-42.md",
+      "history": [
+        "History.—s. 16, ch. 19301, 1939; CGL 1940 Supp. 4151(271y); ss. 16, 35, ch. 69-106; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 16, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271y)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.44",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-44.md",
+      "history": [
+        "History.—s. 18, ch. 19301, 1939; CGL 1940 Supp. 4151(271aa); s. 8, ch. 22669, 1945; s. 1, ch. 57-327; ss. 16, 35, ch. 69-106; s. 2, ch. 72-230; s. 31, ch. 79-4; s. 220, ch. 94-218; s. 732, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 18, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(271aa)",
+        "s. 8, ch. 22669, 1945",
+        "s. 1, ch. 57-327",
+        "ss. 16, 35, ch. 69-106",
+        "s. 2, ch. 72-230",
+        "s. 31, ch. 79-4",
+        "s. 220, ch. 94-218",
+        "s. 732, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.45",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-45.md",
+      "history": [
+        "History.—s. 15, ch. 16774, 1935; s. 3, ch. 19301, 1939; CGL 1940 Supp. 4151(240), 7648(6); s. 4, ch. 29964, 1955; s. 1, ch. 57-327; s. 573, ch. 71-136; s. 2, ch. 72-230; s. 1, ch. 87-365; s. 24, ch. 91-60; s. 4, ch. 97-165; s. 2, ch. 99-156; s. 128, ch. 2014-17; s. 13, ch. 2023-309."
+      ],
+      "source_citations": [
+        "s. 15, ch. 16774, 1935",
+        "s. 3, ch. 19301, 1939",
+        "CGL 1940 Supp. 4151(240), 7648(6)",
+        "s. 4, ch. 29964, 1955",
+        "s. 1, ch. 57-327",
+        "s. 573, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 1, ch. 87-365",
+        "s. 24, ch. 91-60",
+        "s. 4, ch. 97-165",
+        "s. 2, ch. 99-156",
+        "s. 128, ch. 2014-17",
+        "s. 13, ch. 2023-309."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.451",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-451.md",
+      "history": [
+        "History.—s. 9, ch. 22669, 1945; s. 17, ch. 23746, 1947; s. 5, ch. 29964, 1955; s. 1, ch. 59-435; s. 574, ch. 71-136; s. 2, ch. 72-230; s. 869, ch. 97-103; s. 26, ch. 2019-167."
+      ],
+      "source_citations": [
+        "s. 9, ch. 22669, 1945",
+        "s. 17, ch. 23746, 1947",
+        "s. 5, ch. 29964, 1955",
+        "s. 1, ch. 59-435",
+        "s. 574, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 869, ch. 97-103",
+        "s. 26, ch. 2019-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.452",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-452.md",
+      "history": [
+        "History.—s. 1, ch. 19437, 1939; CGL 1940 Supp. 7648(30); s. 7, ch. 22858, 1945; s. 2, ch. 72-230; s. 1, ch. 75-278; s. 8, ch. 90-17."
+      ],
+      "source_citations": [
+        "s. 1, ch. 19437, 1939",
+        "CGL 1940 Supp. 7648(30)",
+        "s. 7, ch. 22858, 1945",
+        "s. 2, ch. 72-230",
+        "s. 1, ch. 75-278",
+        "s. 8, ch. 90-17."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.453",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-453.md",
+      "history": [
+        "History.—s. 2, ch. 19437, 1939; CGL 1940 Supp. 7648(31); s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 2, ch. 19437, 1939",
+        "CGL 1940 Supp. 7648(31)",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.454",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-454.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 4033, 1891; GS 3244, 3245; CGL 1936 Supp. 7179(1), (2); ss. 581, 582, ch. 71-136; s. 2, ch. 72-230; s. 870, ch. 97-103."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 4033, 1891",
+        "GS 3244, 3245",
+        "CGL 1936 Supp. 7179(1), (2)",
+        "ss. 581, 582, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 870, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.455",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-455.md",
+      "history": [
+        "History.—s. 4, ch. 1637, 1868; RS 2664; GS 3593; RGS 5522; CGL 7687; s. 583, ch. 71-136; s. 2, ch. 72-230; s. 20, ch. 2021-135."
+      ],
+      "source_citations": [
+        "s. 4, ch. 1637, 1868",
+        "RS 2664",
+        "GS 3593",
+        "RGS 5522",
+        "CGL 7687",
+        "s. 583, ch. 71-136",
+        "s. 2, ch. 72-230",
+        "s. 20, ch. 2021-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.46",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-46.md",
+      "history": [
+        "History.—s. 17, 16774, 1935; CGL 1936 Supp. 4151(243); s. 2, ch. 72-230; s. 7, ch. 85-161."
+      ],
+      "source_citations": [
+        "s. 17, 16774, 1935",
+        "CGL 1936 Supp. 4151(243)",
+        "s. 2, ch. 72-230",
+        "s. 7, ch. 85-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.47",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-47.md",
+      "history": [
+        "History.—s. 1, ch. 20744, 1941; s. 2, ch. 72-230; s. 1, ch. 85-44; s. 7, ch. 86-269; s. 25, ch. 91-60; s. 871, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 1, ch. 20744, 1941",
+        "s. 2, ch. 72-230",
+        "s. 1, ch. 85-44",
+        "s. 7, ch. 86-269",
+        "s. 25, ch. 91-60",
+        "s. 871, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.48",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-48.md",
+      "history": [
+        "History.—s. 1, ch. 20838, 1941; s. 1, ch. 28291, 1953; s. 575, ch. 71-136; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 1, ch. 20838, 1941",
+        "s. 1, ch. 28291, 1953",
+        "s. 575, ch. 71-136",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.50",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-50.md",
+      "history": [
+        "History.—s. 1, ch. 22633, 1945; s. 576, ch. 71-136; s. 2, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 1, ch. 22633, 1945",
+        "s. 576, ch. 71-136",
+        "s. 2, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.51",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-51.md",
+      "history": [
+        "History.—s. 4, ch. 85-285; s. 1, ch. 2007-135."
+      ],
+      "source_citations": [
+        "s. 4, ch. 85-285",
+        "s. 1, ch. 2007-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "562.61",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0562-61.md",
+      "history": [
+        "History.—s. 1, ch. 2006-128."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-128."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "source_sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98"
+    },
+    {
+      "section": "563.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-01.md",
+      "history": [
+        "History.—s. 3, ch. 72-230; s. 47, ch. 2017-36."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-230",
+        "s. 47, ch. 2017-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-02.md",
+      "history": [
+        "History.—s. 3, ch. 72-230; s. 8, ch. 86-269; s. 2, ch. 87-63; s. 7, ch. 92-176; s. 872, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-230",
+        "s. 8, ch. 86-269",
+        "s. 2, ch. 87-63",
+        "s. 7, ch. 92-176",
+        "s. 872, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.021",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-021.md",
+      "history": [
+        "History.—s. 14, ch. 88-308."
+      ],
+      "source_citations": [
+        "s. 14, ch. 88-308."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.022",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-022.md",
+      "history": [
+        "History.—s. 4, ch. 87-63; s. 1, ch. 88-21; s. 48, ch. 91-220; s. 873, ch. 97-103; s. 21, ch. 2007-134; s. 4, ch. 2023-80; s. 138, ch. 2025-92."
+      ],
+      "source_citations": [
+        "s. 4, ch. 87-63",
+        "s. 1, ch. 88-21",
+        "s. 48, ch. 91-220",
+        "s. 873, ch. 97-103",
+        "s. 21, ch. 2007-134",
+        "s. 4, ch. 2023-80",
+        "s. 138, ch. 2025-92."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.025",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-025.md",
+      "history": [
+        "History.—s. 23, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 23, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-03.md",
+      "history": [
+        "History.—s. 9, ch. 20830, 1941; s. 18, ch. 57-1; s. 3, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 9, ch. 20830, 1941",
+        "s. 18, ch. 57-1",
+        "s. 3, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.045",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-045.md",
+      "history": [
+        "History.—s. 24, ch. 86-269; s. 1, ch. 2023-294."
+      ],
+      "source_citations": [
+        "s. 24, ch. 86-269",
+        "s. 1, ch. 2023-294."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.05",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-05.md",
+      "history": [
+        "History.—s. 3, ch. 72-230; s. 1, ch. 77-407; s. 12, ch. 83-349; s. 7, ch. 84-262; s. 9, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-230",
+        "s. 1, ch. 77-407",
+        "s. 12, ch. 83-349",
+        "s. 7, ch. 84-262",
+        "s. 9, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-06.md",
+      "history": [
+        "History.—ss. 1-5, ch. 25261, 1949; s. 9, ch. 29786, 1955; s. 1, ch. 59-143; s. 8, ch. 61-219; s. 1, ch. 65-246; ss. 16, 35, ch. 69-106; s. 561, ch. 71-136; s. 3, ch. 72-230; s. 31, ch. 86-269; s. 8, ch. 88-308; s. 1, ch. 88-413; s. 12, ch. 95-346; s. 8, ch. 96-419; s. 1, ch. 2001-78; s. 8, ch. 2015-12; s. 7, ch. 2016-190; s. 133, ch. 2020-2."
+      ],
+      "source_citations": [
+        "ss. 1-5, ch. 25261, 1949",
+        "s. 9, ch. 29786, 1955",
+        "s. 1, ch. 59-143",
+        "s. 8, ch. 61-219",
+        "s. 1, ch. 65-246",
+        "ss. 16, 35, ch. 69-106",
+        "s. 561, ch. 71-136",
+        "s. 3, ch. 72-230",
+        "s. 31, ch. 86-269",
+        "s. 8, ch. 88-308",
+        "s. 1, ch. 88-413",
+        "s. 12, ch. 95-346",
+        "s. 8, ch. 96-419",
+        "s. 1, ch. 2001-78",
+        "s. 8, ch. 2015-12",
+        "s. 7, ch. 2016-190",
+        "s. 133, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.065",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-065.md",
+      "history": [
+        "History.—s. 2, ch. 99-362."
+      ],
+      "source_citations": [
+        "s. 2, ch. 99-362."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-07.md",
+      "history": [
+        "History.—s. 3, ch. 72-230; s. 13, ch. 83-349."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-230",
+        "s. 13, ch. 83-349."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-08.md",
+      "history": [
+        "History.—s. 1, ch. 19570, 1939; CGL 1940 Supp. 4151(271dd); s. 24, ch. 25359, 1949; s. 3, ch. 72-230."
+      ],
+      "source_citations": [
+        "s. 1, ch. 19570, 1939",
+        "CGL 1940 Supp. 4151(271dd)",
+        "s. 24, ch. 25359, 1949",
+        "s. 3, ch. 72-230."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.09",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-09.md",
+      "history": [
+        "History.—s. 9, ch. 2015-12."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2015-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "563.13",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0563-13.md",
+      "history": [
+        "History.—s. 53, ch. 2016-239."
+      ],
+      "source_citations": [
+        "s. 53, ch. 2016-239."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "source_sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa"
+    },
+    {
+      "section": "564.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-01.md",
+      "history": [
+        "History.—s. 4, ch. 72-230; s. 10, ch. 86-269; s. 6, ch. 2017-137."
+      ],
+      "source_citations": [
+        "s. 4, ch. 72-230",
+        "s. 10, ch. 86-269",
+        "s. 6, ch. 2017-137."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-02.md",
+      "history": [
+        "History.—s. 4, ch. 72-230; s. 1, ch. 79-305; s. 4, ch. 83-79; s. 2, ch. 85-204; s. 11, ch. 86-269; s. 30, ch. 87-6; s. 8, ch. 92-176; s. 874, ch. 97-103; s. 9, ch. 2000-228."
+      ],
+      "source_citations": [
+        "s. 4, ch. 72-230",
+        "s. 1, ch. 79-305",
+        "s. 4, ch. 83-79",
+        "s. 2, ch. 85-204",
+        "s. 11, ch. 86-269",
+        "s. 30, ch. 87-6",
+        "s. 8, ch. 92-176",
+        "s. 874, ch. 97-103",
+        "s. 9, ch. 2000-228."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.025",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-025.md",
+      "history": [
+        "History.—s. 25, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 25, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-03.md",
+      "history": [
+        "History.—ss. 1, 2, 3, 4, 5, ch. 20978, 1941; s. 7, ch. 29964, 1955; ss. 16, 35, ch. 69-106; s. 4, ch. 72-230; s. 29, ch. 79-11."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, 4, 5, ch. 20978, 1941",
+        "s. 7, ch. 29964, 1955",
+        "ss. 16, 35, ch. 69-106",
+        "s. 4, ch. 72-230",
+        "s. 29, ch. 79-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.045",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-045.md",
+      "history": [
+        "History.—ss. 1, 3, ch. 78-135; s. 1, ch. 85-58; s. 10, ch. 96-419."
+      ],
+      "source_citations": [
+        "ss. 1, 3, ch. 78-135",
+        "s. 1, ch. 85-58",
+        "s. 10, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.05",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-05.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 19498, 1939; CGL 1940 Supp. 7648(33); s. 7, ch. 22858, 1945; s. 580, ch. 71-136; s. 4, ch. 72-230; s. 1, ch. 2013-199; s. 1, ch. 2024-45; s. 1, ch. 2025-24."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 19498, 1939",
+        "CGL 1940 Supp. 7648(33)",
+        "s. 7, ch. 22858, 1945",
+        "s. 580, ch. 71-136",
+        "s. 4, ch. 72-230",
+        "s. 1, ch. 2013-199",
+        "s. 1, ch. 2024-45",
+        "s. 1, ch. 2025-24."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.055",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-055.md",
+      "history": [
+        "History.—s. 2, ch. 2001-78."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2001-78."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-06.md",
+      "history": [
+        "History.—s. 4, ch. 72-230; s. 2, ch. 77-407; ss. 1, 2, ch. 79-304; s. 414, ch. 81-259; s. 14, ch. 83-349; s. 8, ch. 84-262; s. 1, ch. 85-204; s. 13, ch. 86-269; s. 2, ch. 87-226; ss. 10, 18, ch. 88-308; s. 6, ch. 90-233; s. 3, ch. 91-60; s. 2, ch. 94-296; s. 7, ch. 96-419; s. 127, ch. 2013-18; s. 21, ch. 2016-220; s. 59, ch. 2025-22."
+      ],
+      "source_citations": [
+        "s. 4, ch. 72-230",
+        "s. 2, ch. 77-407",
+        "ss. 1, 2, ch. 79-304",
+        "s. 414, ch. 81-259",
+        "s. 14, ch. 83-349",
+        "s. 8, ch. 84-262",
+        "s. 1, ch. 85-204",
+        "s. 13, ch. 86-269",
+        "s. 2, ch. 87-226",
+        "ss. 10, 18, ch. 88-308",
+        "s. 6, ch. 90-233",
+        "s. 3, ch. 91-60",
+        "s. 2, ch. 94-296",
+        "s. 7, ch. 96-419",
+        "s. 127, ch. 2013-18",
+        "s. 21, ch. 2016-220",
+        "s. 59, ch. 2025-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-07.md",
+      "history": [
+        "History.—s. 1, ch. 81-159."
+      ],
+      "source_citations": [
+        "s. 1, ch. 81-159."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-08.md",
+      "history": [
+        "History.—s. 1, ch. 81-160."
+      ],
+      "source_citations": [
+        "s. 1, ch. 81-160."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "564.09",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0564-09.md",
+      "history": [
+        "History.—s. 1, ch. 2005-250; s. 2, ch. 2021-30."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2005-250",
+        "s. 2, ch. 2021-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "source_sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6"
+    },
+    {
+      "section": "565.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-01.md",
+      "history": [
+        "History.—s. 5, ch. 72-230; s. 14, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-230",
+        "s. 14, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-02.md",
+      "history": [
+        "History.—s. 1, ch. 72-42; s. 5, ch. 72-230; s. 2, ch. 72-272; s. 1, ch. 74-96; s. 2, ch. 75-278; s. 1, ch. 80-100; ss. 13, 22, ch. 81-158; s. 2, ch. 83-79; s. 2, ch. 84-142; ss. 2, 3, ch. 84-286; s. 5, ch. 85-161; s. 1, ch. 87-348; s. 1, ch. 89-361; s. 9, ch. 92-176; s. 221, ch. 94-218; s. 13, ch. 95-346; s. 875, ch. 97-103; s. 69, ch. 2000-258; s. 96, ch. 2004-5; s. 8, ch. 2016-190; s. 22, ch. 2016-220; s. 1, ch. 2018-138; s. 1, ch. 2021-166; s. 33, ch. 2021-271; s. 63, ch. 2022-7."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-42",
+        "s. 5, ch. 72-230",
+        "s. 2, ch. 72-272",
+        "s. 1, ch. 74-96",
+        "s. 2, ch. 75-278",
+        "s. 1, ch. 80-100",
+        "ss. 13, 22, ch. 81-158",
+        "s. 2, ch. 83-79",
+        "s. 2, ch. 84-142",
+        "ss. 2, 3, ch. 84-286",
+        "s. 5, ch. 85-161",
+        "s. 1, ch. 87-348",
+        "s. 1, ch. 89-361",
+        "s. 9, ch. 92-176",
+        "s. 221, ch. 94-218",
+        "s. 13, ch. 95-346",
+        "s. 875, ch. 97-103",
+        "s. 69, ch. 2000-258",
+        "s. 96, ch. 2004-5",
+        "s. 8, ch. 2016-190",
+        "s. 22, ch. 2016-220",
+        "s. 1, ch. 2018-138",
+        "s. 1, ch. 2021-166",
+        "s. 33, ch. 2021-271",
+        "s. 63, ch. 2022-7."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-03.md",
+      "history": [
+        "History.—s. 5, ch. 72-230; s. 18, ch. 81-158; s. 876, ch. 97-103; s. 1, ch. 2013-157; s. 129, ch. 2014-17; s. 10, ch. 2015-12; s. 1, ch. 2015-52; s. 1, ch. 2017-46; s. 7, ch. 2017-137; s. 2, ch. 2021-166."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-230",
+        "s. 18, ch. 81-158",
+        "s. 876, ch. 97-103",
+        "s. 1, ch. 2013-157",
+        "s. 129, ch. 2014-17",
+        "s. 10, ch. 2015-12",
+        "s. 1, ch. 2015-52",
+        "s. 1, ch. 2017-46",
+        "s. 7, ch. 2017-137",
+        "s. 2, ch. 2021-166."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.04",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-04.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 13, ch. 23746, 1947; s. 1, ch. 29964, 1955; s. 1, ch. 57-327; s. 1, ch. 65-143; s. 1, ch. 67-257; s. 5, ch. 72-230; s. 9, ch. 2016-190; s. 9, ch. 2023-211; s. 48, ch. 2024-2."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 13, ch. 23746, 1947",
+        "s. 1, ch. 29964, 1955",
+        "s. 1, ch. 57-327",
+        "s. 1, ch. 65-143",
+        "s. 1, ch. 67-257",
+        "s. 5, ch. 72-230",
+        "s. 9, ch. 2016-190",
+        "s. 9, ch. 2023-211",
+        "s. 48, ch. 2024-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.045",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-045.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 14, ch. 23746, 1947; s. 1, ch. 67-256; s. 2, ch. 72-230; s. 2, ch. 77-471; s. 2, ch. 87-52; s. 3, ch. 2021-30."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 14, ch. 23746, 1947",
+        "s. 1, ch. 67-256",
+        "s. 2, ch. 72-230",
+        "s. 2, ch. 77-471",
+        "s. 2, ch. 87-52",
+        "s. 3, ch. 2021-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.05",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-05.md",
+      "history": [
+        "History.—s. 1, ch. 19500, 1939; CGL 1940 Supp. 7648(34); s. 5, ch. 72-230; s. 3, ch. 72-272; s. 1, ch. 75-96; s. 200, ch. 77-104; s. 1, ch. 79-143; s. 9, ch. 96-419; s. 10, ch. 2000-191."
+      ],
+      "source_citations": [
+        "s. 1, ch. 19500, 1939",
+        "CGL 1940 Supp. 7648(34)",
+        "s. 5, ch. 72-230",
+        "s. 3, ch. 72-272",
+        "s. 1, ch. 75-96",
+        "s. 200, ch. 77-104",
+        "s. 1, ch. 79-143",
+        "s. 9, ch. 96-419",
+        "s. 10, ch. 2000-191."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-06.md",
+      "history": [
+        "History.—s. 2, ch. 19500, 1939; CGL 1940 Supp. 7648(35); s. 5, ch. 72-230; s. 11, ch. 2000-191."
+      ],
+      "source_citations": [
+        "s. 2, ch. 19500, 1939",
+        "CGL 1940 Supp. 7648(35)",
+        "s. 5, ch. 72-230",
+        "s. 11, ch. 2000-191."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-07.md",
+      "history": [
+        "History.—s. 3, ch. 85-203; s. 21, ch. 2012-32; s. 35, ch. 2012-61; s. 16, ch. 2012-208."
+      ],
+      "source_citations": [
+        "s. 3, ch. 85-203",
+        "s. 21, ch. 2012-32",
+        "s. 35, ch. 2012-61",
+        "s. 16, ch. 2012-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-08.md",
+      "history": [
+        "History.—s. 5, ch. 72-230; s. 15, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-230",
+        "s. 15, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.095",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-095.md",
+      "history": [
+        "History.—ss. 2, 3, ch. 78-135; s. 2, ch. 85-58; s. 11, ch. 96-419."
+      ],
+      "source_citations": [
+        "ss. 2, 3, ch. 78-135",
+        "s. 2, ch. 85-58",
+        "s. 11, ch. 96-419."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.10",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-10.md",
+      "history": [
+        "History.—s. 11, ch. 16774, 1935; CGL 1936 Supp. 4151(237); s. 1, ch. 20830, 1941; s. 1, ch. 57-327; s. 1, ch. 61-447; s. 1, ch. 65-142; s. 1, ch. 67-524; s. 148, ch. 71-355; s. 5, ch. 72-230; s. 1, ch. 73-328; s. 2, ch. 75-96; s. 2, ch. 79-143."
+      ],
+      "source_citations": [
+        "s. 11, ch. 16774, 1935",
+        "CGL 1936 Supp. 4151(237)",
+        "s. 1, ch. 20830, 1941",
+        "s. 1, ch. 57-327",
+        "s. 1, ch. 61-447",
+        "s. 1, ch. 65-142",
+        "s. 1, ch. 67-524",
+        "s. 148, ch. 71-355",
+        "s. 5, ch. 72-230",
+        "s. 1, ch. 73-328",
+        "s. 2, ch. 75-96",
+        "s. 2, ch. 79-143."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-11.md",
+      "history": [
+        "History.—s. 5, ch. 72-230; s. 877, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-230",
+        "s. 877, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.12",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-12.md",
+      "history": [
+        "History.—s. 5, ch. 72-230; s. 3, ch. 77-407; s. 15, ch. 83-349; s. 9, ch. 84-262; s. 2, ch. 85-203; s. 16, ch. 86-269; s. 11, ch. 88-308; s. 4, ch. 91-60."
+      ],
+      "source_citations": [
+        "s. 5, ch. 72-230",
+        "s. 3, ch. 77-407",
+        "s. 15, ch. 83-349",
+        "s. 9, ch. 84-262",
+        "s. 2, ch. 85-203",
+        "s. 16, ch. 86-269",
+        "s. 11, ch. 88-308",
+        "s. 4, ch. 91-60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.13",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-13.md",
+      "history": [
+        "History.—s. 1, ch. 69-49; ss. 16, 35, ch. 69-106; s. 5, ch. 72-230; s. 16, ch. 83-349."
+      ],
+      "source_citations": [
+        "s. 1, ch. 69-49",
+        "ss. 16, 35, ch. 69-106",
+        "s. 5, ch. 72-230",
+        "s. 16, ch. 83-349."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.16",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-16.md",
+      "history": [
+        "History.—s. 2, ch. 81-159."
+      ],
+      "source_citations": [
+        "s. 2, ch. 81-159."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "565.17",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0565-17.md",
+      "history": [
+        "History.—s. 2, ch. 81-160; s. 3, ch. 2021-166."
+      ],
+      "source_citations": [
+        "s. 2, ch. 81-160",
+        "s. 3, ch. 2021-166."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "source_sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc"
+    },
+    {
+      "section": "567.001",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-001.md",
+      "history": [
+        "History.—s. 2, ch. 84-299; s. 17, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-299",
+        "s. 17, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-01.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 857; GS 1209; s. 1, ch. 6180, 1911; CGL 1936 Supp. 4151(196); s. 1, ch. 23747, 1947; s. 1, ch. 57-119; s. 1, ch. 85-161; s. 1, ch. 99-380; s. 2, ch. 2013-157."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 857",
+        "GS 1209",
+        "s. 1, ch. 6180, 1911",
+        "CGL 1936 Supp. 4151(196)",
+        "s. 1, ch. 23747, 1947",
+        "s. 1, ch. 57-119",
+        "s. 1, ch. 85-161",
+        "s. 1, ch. 99-380",
+        "s. 2, ch. 2013-157."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-02.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 858; GS 1210; CGL 1936 Supp. 4151(197)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 858",
+        "GS 1210",
+        "CGL 1936 Supp. 4151(197)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-03.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 859; GS 1211; CGL 1936 Supp. 4151(198)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 859",
+        "GS 1211",
+        "CGL 1936 Supp. 4151(198)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.04",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-04.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 860; GS 1212; CGL 1936 Supp. 4151(199)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 860",
+        "GS 1212",
+        "CGL 1936 Supp. 4151(199)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.05",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-05.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 861; GS 1213; CGL 1936 Supp. 4151(200)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 861",
+        "GS 1213",
+        "CGL 1936 Supp. 4151(200)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-06.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 862; GS 1214; CGL 1936 Supp. 4151(201); s. 2, ch. 23747, 1947; s. 2, ch. 85-161; s. 8, ch. 93-134; s. 2, ch. 99-380; s. 4, ch. 2013-157."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 862",
+        "GS 1214",
+        "CGL 1936 Supp. 4151(201)",
+        "s. 2, ch. 23747, 1947",
+        "s. 2, ch. 85-161",
+        "s. 8, ch. 93-134",
+        "s. 2, ch. 99-380",
+        "s. 4, ch. 2013-157."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-07.md",
+      "history": [
+        "History.—s. 1, ch. 3700, 1887; RS 863; GS 1215; CGL 1936 Supp. 4151(202); s. 3, ch. 23747, 1947; s. 11, ch. 25035, 1949; s. 3, ch. 85-161; s. 3, ch. 99-380; s. 69, ch. 2000-154; s. 5, ch. 2013-157."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3700, 1887",
+        "RS 863",
+        "GS 1215",
+        "CGL 1936 Supp. 4151(202)",
+        "s. 3, ch. 23747, 1947",
+        "s. 11, ch. 25035, 1949",
+        "s. 3, ch. 85-161",
+        "s. 3, ch. 99-380",
+        "s. 69, ch. 2000-154",
+        "s. 5, ch. 2013-157."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-08.md",
+      "history": [
+        "History.—s. 1, ch. 5479, 1905; CGL 1936 Supp. 4151(203); s. 733, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 1, ch. 5479, 1905",
+        "CGL 1936 Supp. 4151(203)",
+        "s. 733, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.09",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-09.md",
+      "history": [
+        "History.—s. 2, ch. 5479, 1905; CGL 1936 Supp. 4151(204); s. 878, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 2, ch. 5479, 1905",
+        "CGL 1936 Supp. 4151(204)",
+        "s. 878, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.10",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-10.md",
+      "history": [
+        "History.—s. 3, ch. 19140, 1939; s. 1, ch. 20719, 1941; s. 879, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 3, ch. 19140, 1939",
+        "s. 1, ch. 20719, 1941",
+        "s. 879, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-11.md",
+      "history": [
+        "History.—s. 7, ch. 4930, 1901; GS 3559; s. 1, ch. 7289, 1917; CGL 1936 Supp. 7600(1)."
+      ],
+      "source_citations": [
+        "s. 7, ch. 4930, 1901",
+        "GS 3559",
+        "s. 1, ch. 7289, 1917",
+        "CGL 1936 Supp. 7600(1)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.12",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-12.md",
+      "history": [
+        "History.—s. 1, ch. 5247, 1903; GS 1216; CGL 1936 Supp. 4151(205); s. 4, ch. 23747, 1947; s. 2, ch. 29737, 1955."
+      ],
+      "source_citations": [
+        "s. 1, ch. 5247, 1903",
+        "GS 1216",
+        "CGL 1936 Supp. 4151(205)",
+        "s. 4, ch. 23747, 1947",
+        "s. 2, ch. 29737, 1955."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.13",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-13.md",
+      "history": [
+        "History.—s. 5, ch. 23747, 1947; s. 4, ch. 85-161."
+      ],
+      "source_citations": [
+        "s. 5, ch. 23747, 1947",
+        "s. 4, ch. 85-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "567.14",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0567-14.md",
+      "history": [
+        "History.—s. 6, ch. 23747, 1947; s. 577, ch. 71-136."
+      ],
+      "source_citations": [
+        "s. 6, ch. 23747, 1947",
+        "s. 577, ch. 71-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "source_sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3"
+    },
+    {
+      "section": "568.01",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-01.md",
+      "history": [
+        "History.—s. 5, ch. 18016, 1937; CGL 1940 Supp. 7648(14); s. 1, ch. 84-299; s. 18, ch. 86-269."
+      ],
+      "source_citations": [
+        "s. 5, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(14)",
+        "s. 1, ch. 84-299",
+        "s. 18, ch. 86-269."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.02",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-02.md",
+      "history": [
+        "History.—s. 1, ch. 18016, 1937; CGL 1940 Supp. 7648(10)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(10)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.03",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-03.md",
+      "history": [
+        "History.—s. 2, ch. 18016, 1937; CGL 1940 Supp. 7648(11)."
+      ],
+      "source_citations": [
+        "s. 2, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(11)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.04",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-04.md",
+      "history": [
+        "History.—s. 3, ch. 18016, 1937; CGL 1940 Supp. 7648(12)."
+      ],
+      "source_citations": [
+        "s. 3, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(12)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.05",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-05.md",
+      "history": [
+        "History.—s. 4, ch. 18016, 1937; CGL 1940 Supp. 7648(13); s. 578, ch. 71-136."
+      ],
+      "source_citations": [
+        "s. 4, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(13)",
+        "s. 578, ch. 71-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.06",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-06.md",
+      "history": [
+        "History.—s. 6, ch. 18016, 1937; CGL 1940 Supp. 7648(15); s. 880, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 6, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(15)",
+        "s. 880, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.07",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-07.md",
+      "history": [
+        "History.—s. 7, ch. 18016, 1937; CGL 1940 Supp. 7648(16); s. 3, ch. 84-299; s. 19, ch. 86-269; s. 49, ch. 91-220; s. 100, ch. 92-291; s. 881, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 7, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(16)",
+        "s. 3, ch. 84-299",
+        "s. 19, ch. 86-269",
+        "s. 49, ch. 91-220",
+        "s. 100, ch. 92-291",
+        "s. 881, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.08",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-08.md",
+      "history": [
+        "History.—s. 8, ch. 18016, 1937; CGL 1940 Supp. 7648(17); s. 26, ch. 73-334; s. 882, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 8, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(17)",
+        "s. 26, ch. 73-334",
+        "s. 882, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.09",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-09.md",
+      "history": [
+        "History.—s. 9, ch. 18016, 1937; CGL 1940 Supp. 7648(18)."
+      ],
+      "source_citations": [
+        "s. 9, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(18)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.10",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-10.md",
+      "history": [
+        "History.—s. 10, ch. 18016, 1937; CGL 1940 Supp. 7648(19); s. 1, ch. 22024, 1943; s. 1, ch. 61-259; ss. 16, 35, ch. 69-106; s. 31, ch. 79-11; s. 883, ch. 97-103."
+      ],
+      "source_citations": [
+        "s. 10, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(19)",
+        "s. 1, ch. 22024, 1943",
+        "s. 1, ch. 61-259",
+        "ss. 16, 35, ch. 69-106",
+        "s. 31, ch. 79-11",
+        "s. 883, ch. 97-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-11.md",
+      "history": [
+        "History.—s. 11, ch. 18016, 1937; CGL 1940 Supp. 7648(20)."
+      ],
+      "source_citations": [
+        "s. 11, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(20)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.12",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-12.md",
+      "history": [
+        "History.—s. 12, ch. 18016, 1937; CGL 1940 Supp. 7648(21)."
+      ],
+      "source_citations": [
+        "s. 12, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(21)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.13",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-13.md",
+      "history": [
+        "History.—s. 13, ch. 18016, 1937; CGL 1940 Supp. 7648(22); s. 26, ch. 99-6."
+      ],
+      "source_citations": [
+        "s. 13, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(22)",
+        "s. 26, ch. 99-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "568.14",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0568-14.md",
+      "history": [
+        "History.—s. 13A, ch. 18016, 1937; CGL 1940 Supp. 7648(23); ss. 16, 35, ch. 69-106; s. 32, ch. 79-11."
+      ],
+      "source_citations": [
+        "s. 13A, ch. 18016, 1937",
+        "CGL 1940 Supp. 7648(23)",
+        "ss. 16, 35, ch. 69-106",
+        "s. 32, ch. 79-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "source_sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030"
+    },
+    {
+      "section": "569.002",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-002.md",
+      "history": [
+        "History.—s. 2, ch. 92-285; s. 222, ch. 94-218; s. 4, ch. 97-162; s. 1, ch. 98-172; s. 6, ch. 2021-14; s. 7, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-285",
+        "s. 222, ch. 94-218",
+        "s. 4, ch. 97-162",
+        "s. 1, ch. 98-172",
+        "s. 6, ch. 2021-14",
+        "s. 7, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.0025",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-0025.md",
+      "history": [
+        "History.—s. 7, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.00256",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-00256.md",
+      "history": [
+        "History.—s. 20, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 20, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.003",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-003.md",
+      "history": [
+        "History.—s. 3, ch. 92-285; s. 884, ch. 97-103; s. 7, ch. 97-162; s. 8, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 3, ch. 92-285",
+        "s. 884, ch. 97-103",
+        "s. 7, ch. 97-162",
+        "s. 8, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.004",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-004.md",
+      "history": [
+        "History.—s. 4, ch. 92-285; s. 8, ch. 97-162; s. 9, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 4, ch. 92-285",
+        "s. 8, ch. 97-162",
+        "s. 9, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.005",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-005.md",
+      "history": [
+        "History.—s. 5, ch. 92-285."
+      ],
+      "source_citations": [
+        "s. 5, ch. 92-285."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.006",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-006.md",
+      "history": [
+        "History.—s. 6, ch. 92-285; s. 9, ch. 97-162; s. 10, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 6, ch. 92-285",
+        "s. 9, ch. 97-162",
+        "s. 10, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.007",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-007.md",
+      "history": [
+        "History.—s. 7, ch. 92-285; s. 53, ch. 95-144; s. 11, ch. 97-162; s. 11, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 7, ch. 92-285",
+        "s. 53, ch. 95-144",
+        "s. 11, ch. 97-162",
+        "s. 11, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.0073",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-0073.md",
+      "history": [
+        "History.—s. 1, ch. 2010-118."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2010-118."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.0075",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-0075.md",
+      "history": [
+        "History.—s. 12, ch. 97-162; s. 12, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 12, ch. 97-162",
+        "s. 12, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.008",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-008.md",
+      "history": [
+        "History.—s. 8, ch. 92-285; s. 13, ch. 97-162; s. 13, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 8, ch. 92-285",
+        "s. 13, ch. 97-162",
+        "s. 13, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.009",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-009.md",
+      "history": [
+        "History.—s. 9, ch. 92-285; s. 14, ch. 97-162; s. 14, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 9, ch. 92-285",
+        "s. 14, ch. 97-162",
+        "s. 14, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.101",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-101.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 5716, 1907; RGS 5530; CGL 7696; s. 1083, ch. 71-136; s. 1, ch. 85-100; s. 218, ch. 91-224; s. 11, ch. 92-285; s. 1388, ch. 97-102; s. 3, ch. 97-162; s. 15, ch. 2021-14."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 5716, 1907",
+        "RGS 5530",
+        "CGL 7696",
+        "s. 1083, ch. 71-136",
+        "s. 1, ch. 85-100",
+        "s. 218, ch. 91-224",
+        "s. 11, ch. 92-285",
+        "s. 1388, ch. 97-102",
+        "s. 3, ch. 97-162",
+        "s. 15, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.11",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-11.md",
+      "history": [
+        "History.—s. 5, ch. 97-162; s. 3, ch. 99-156; s. 9, ch. 99-259; s. 34, ch. 2001-63; s. 30, ch. 2001-122; s. 27, ch. 2019-167; s. 16, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 5, ch. 97-162",
+        "s. 3, ch. 99-156",
+        "s. 9, ch. 99-259",
+        "s. 34, ch. 2001-63",
+        "s. 30, ch. 2001-122",
+        "s. 27, ch. 2019-167",
+        "s. 16, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.12",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-12.md",
+      "history": [
+        "History.—s. 6, ch. 97-162; s. 17, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 6, ch. 97-162",
+        "s. 17, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.14",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-14.md",
+      "history": [
+        "History.—s. 1, ch. 89-259; s. 12, ch. 92-285; s. 252, ch. 94-218; s. 10, ch. 97-162; s. 1, ch. 2014-65; s. 18, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 1, ch. 89-259",
+        "s. 12, ch. 92-285",
+        "s. 252, ch. 94-218",
+        "s. 10, ch. 97-162",
+        "s. 1, ch. 2014-65",
+        "s. 18, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.19",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-19.md",
+      "history": [
+        "History.—s. 16, ch. 97-162; s. 116, ch. 2010-5; s. 19, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 16, ch. 97-162",
+        "s. 116, ch. 2010-5",
+        "s. 19, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.21",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-21.md",
+      "history": [
+        "History.—s. 2, ch. 98-63."
+      ],
+      "source_citations": [
+        "s. 2, ch. 98-63."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.215",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-215.md",
+      "history": [
+        "History.—s. 1, ch. 2001-136; s. 735, ch. 2003-261; s. 1, ch. 2006-160; s. 16, ch. 2026-52."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2001-136",
+        "s. 735, ch. 2003-261",
+        "s. 1, ch. 2006-160",
+        "s. 16, ch. 2026-52."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.216",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-216.md",
+      "history": [
+        "History.—s. 2, ch. 2026-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2026-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.23",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-23.md",
+      "history": [
+        "History.—s. 1, ch. 2003-133; s. 1, ch. 2009-188; s. 16, ch. 2011-61; s. 24, ch. 2021-116."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2003-133",
+        "s. 1, ch. 2009-188",
+        "s. 16, ch. 2011-61",
+        "s. 24, ch. 2021-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.31",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-31.md",
+      "history": [
+        "History.—s. 20, ch. 2021-14; s. 1, ch. 2024-127; s. 62, ch. 2025-6."
+      ],
+      "source_citations": [
+        "s. 20, ch. 2021-14",
+        "s. 1, ch. 2024-127",
+        "s. 62, ch. 2025-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.311",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-311.md",
+      "history": [
+        "History.—s. 2, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.312",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-312.md",
+      "history": [
+        "History.—s. 3, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.315",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-315.md",
+      "history": [
+        "History.—s. 21, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 21, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.3156",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-3156.md",
+      "history": [
+        "History.—s. 21, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 21, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.32",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-32.md",
+      "history": [
+        "History.—s. 22, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 22, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.33",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-33.md",
+      "history": [
+        "History.—s. 23, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 23, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.34",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-34.md",
+      "history": [
+        "History.—s. 24, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 24, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.345",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-345.md",
+      "history": [
+        "History.—s. 4, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.346",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-346.md",
+      "history": [
+        "History.—s. 5, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.35",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-35.md",
+      "history": [
+        "History.—s. 25, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 25, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.37",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-37.md",
+      "history": [
+        "History.—s. 26, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 26, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.38",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-38.md",
+      "history": [
+        "History.—s. 27, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 27, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.381",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-381.md",
+      "history": [
+        "History.—s. 28, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 28, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.39",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-39.md",
+      "history": [
+        "History.—s. 29, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 29, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.41",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-41.md",
+      "history": [
+        "History.—s. 30, ch. 2021-14; s. 6, ch. 2024-127."
+      ],
+      "source_citations": [
+        "s. 30, ch. 2021-14",
+        "s. 6, ch. 2024-127."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.42",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-42.md",
+      "history": [
+        "History.—s. 31, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 31, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.43",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-43.md",
+      "history": [
+        "History.—s. 32, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 32, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.44",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-44.md",
+      "history": [
+        "History.—s. 33, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 33, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    },
+    {
+      "section": "569.45",
+      "section_path": "title-34-alcoholic-beverages-and-tobacco/sec-0569-45.md",
+      "history": [
+        "History.—s. 34, ch. 2021-14."
+      ],
+      "source_citations": [
+        "s. 34, ch. 2021-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "source_sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4"
+    }
+  ]
+}

@@ -1,0 +1,4247 @@
+{
+  "schema_version": 1,
+  "act_path": "title-43-domestic-relations",
+  "title": "Florida Statutes, Title XLIII: Domestic Relations",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII&StatuteYear=2026",
+  "source_title_sha256": "1a50726dc313d96313a95c78c033f3a573952a6da2184fbc64ceb385f650af97",
+  "sections": [
+    {
+      "section": "741.01",
+      "section_path": "title-43-domestic-relations/sec-0741-01.md",
+      "history": [
+        "History.—s. 2, Nov. 2, 1829; s. 2, ch. 3720, 1887; s. 1, ch. 3890, 1889; RS 2055; GS 2574; RGS 3933; CGL 5848; s. 28, ch. 73-334; s. 1, ch. 74-3; s. 1, ch. 74-372; s. 8, ch. 78-281; s. 143, ch. 79-190; s. 7, ch. 79-402; s. 3, ch. 82-135; s. 3, ch. 82-192; s. 9, ch. 84-343; s. 50, ch. 86-220; s. 3, ch. 86-264; s. 3, ch. 88-181; s. 1, ch. 91-240; s. 2, ch. 94-222; s. 53, ch. 96-418; s. 1779, ch. 97-102; s. 4, ch. 98-403; s. 80, ch. 99-3; s. 278, ch. 99-8; s. 7, ch. 99-243; s. 7, ch. 2001-50; s. 17, ch. 2001-122; s. 4, ch. 2004-251; s. 75, ch. 2004-265; s. 15, ch. 2010-187; s. 285, ch. 2014-19; s. 11, ch. 2017-233; s. 52, ch. 2018-118; s. 12, ch. 2019-42."
+      ],
+      "source_citations": [
+        "s. 2, Nov. 2, 1829",
+        "s. 2, ch. 3720, 1887",
+        "s. 1, ch. 3890, 1889",
+        "RS 2055",
+        "GS 2574",
+        "RGS 3933",
+        "CGL 5848",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-3",
+        "s. 1, ch. 74-372",
+        "s. 8, ch. 78-281",
+        "s. 143, ch. 79-190",
+        "s. 7, ch. 79-402",
+        "s. 3, ch. 82-135",
+        "s. 3, ch. 82-192",
+        "s. 9, ch. 84-343",
+        "s. 50, ch. 86-220",
+        "s. 3, ch. 86-264",
+        "s. 3, ch. 88-181",
+        "s. 1, ch. 91-240",
+        "s. 2, ch. 94-222",
+        "s. 53, ch. 96-418",
+        "s. 1779, ch. 97-102",
+        "s. 4, ch. 98-403",
+        "s. 80, ch. 99-3",
+        "s. 278, ch. 99-8",
+        "s. 7, ch. 99-243",
+        "s. 7, ch. 2001-50",
+        "s. 17, ch. 2001-122",
+        "s. 4, ch. 2004-251",
+        "s. 75, ch. 2004-265",
+        "s. 15, ch. 2010-187",
+        "s. 285, ch. 2014-19",
+        "s. 11, ch. 2017-233",
+        "s. 52, ch. 2018-118",
+        "s. 12, ch. 2019-42."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.011",
+      "section_path": "title-43-domestic-relations/sec-0741-011.md",
+      "history": [
+        "History.—s. 3, ch. 94-222; s. 12, ch. 2017-233."
+      ],
+      "source_citations": [
+        "s. 3, ch. 94-222",
+        "s. 12, ch. 2017-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.02",
+      "section_path": "title-43-domestic-relations/sec-0741-02.md",
+      "history": [
+        "History.—s. 1, ch. 11869, 1927; CGL 5851; s. 7, ch. 22000, 1943; s. 1, ch. 67-520; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 31, ch. 87-387; s. 6, ch. 88-98."
+      ],
+      "source_citations": [
+        "s. 1, ch. 11869, 1927",
+        "CGL 5851",
+        "s. 7, ch. 22000, 1943",
+        "s. 1, ch. 67-520",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 31, ch. 87-387",
+        "s. 6, ch. 88-98."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.03",
+      "section_path": "title-43-domestic-relations/sec-0741-03.md",
+      "history": [
+        "History.—s. 1, ch. 7828, 1919; CGL 5849; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 1056, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 7828, 1919",
+        "CGL 5849",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 1056, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.0305",
+      "section_path": "title-43-domestic-relations/sec-0741-0305.md",
+      "history": [
+        "History.—s. 5, ch. 98-403; s. 16, ch. 99-307; s. 21, ch. 2014-122; s. 76, ch. 2025-22."
+      ],
+      "source_citations": [
+        "s. 5, ch. 98-403",
+        "s. 16, ch. 99-307",
+        "s. 21, ch. 2014-122",
+        "s. 76, ch. 2025-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.0306",
+      "section_path": "title-43-domestic-relations/sec-0741-0306.md",
+      "history": [
+        "History.—s. 7, ch. 98-403; s. 2, ch. 2008-46; s. 34, ch. 2008-61; s. 88, ch. 2018-110; s. 4, ch. 2023-315."
+      ],
+      "source_citations": [
+        "s. 7, ch. 98-403",
+        "s. 2, ch. 2008-46",
+        "s. 34, ch. 2008-61",
+        "s. 88, ch. 2018-110",
+        "s. 4, ch. 2023-315."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.04",
+      "section_path": "title-43-domestic-relations/sec-0741-04.md",
+      "history": [
+        "History.—s. 2, Nov. 2, 1829; s. 2, ch. 3720, 1887; s. 1, ch. 3890, 1889; RS 2055; GS 2574; s. 2, ch. 7828, 1919; RGS 3933; CGL 5850; s. 1, ch. 22643, 1945; s. 1, ch. 28103, 1953; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 1, ch. 77-19; s. 64, ch. 77-121; s. 1, ch. 77-139; s. 1, ch. 78-266; s. 8, ch. 83-230; s. 1057, ch. 97-102; s. 67, ch. 97-170; s. 38, ch. 98-397; s. 8, ch. 98-403; s. 18, ch. 99-375; s. 152, ch. 2004-5; s. 1, ch. 2018-81."
+      ],
+      "source_citations": [
+        "s. 2, Nov. 2, 1829",
+        "s. 2, ch. 3720, 1887",
+        "s. 1, ch. 3890, 1889",
+        "RS 2055",
+        "GS 2574",
+        "s. 2, ch. 7828, 1919",
+        "RGS 3933",
+        "CGL 5850",
+        "s. 1, ch. 22643, 1945",
+        "s. 1, ch. 28103, 1953",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 1, ch. 77-19",
+        "s. 64, ch. 77-121",
+        "s. 1, ch. 77-139",
+        "s. 1, ch. 78-266",
+        "s. 8, ch. 83-230",
+        "s. 1057, ch. 97-102",
+        "s. 67, ch. 97-170",
+        "s. 38, ch. 98-397",
+        "s. 8, ch. 98-403",
+        "s. 18, ch. 99-375",
+        "s. 152, ch. 2004-5",
+        "s. 1, ch. 2018-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.041",
+      "section_path": "title-43-domestic-relations/sec-0741-041.md",
+      "history": [
+        "History.—s. 2, ch. 77-139; s. 279, ch. 79-400; s. 113, ch. 97-237."
+      ],
+      "source_citations": [
+        "s. 2, ch. 77-139",
+        "s. 279, ch. 79-400",
+        "s. 113, ch. 97-237."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.05",
+      "section_path": "title-43-domestic-relations/sec-0741-05.md",
+      "history": [
+        "History.—s. 3, ch. 7828, 1919; CGL 7517; s. 692, ch. 71-136; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 10, ch. 98-403; s. 3, ch. 2018-81."
+      ],
+      "source_citations": [
+        "s. 3, ch. 7828, 1919",
+        "CGL 7517",
+        "s. 692, ch. 71-136",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 10, ch. 98-403",
+        "s. 3, ch. 2018-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.07",
+      "section_path": "title-43-domestic-relations/sec-0741-07.md",
+      "history": [
+        "History.—s. 1, Nov. 2, 1829; s. 2, ch. 1127, 1861; RS 2056; GS 2575; RGS 3934; CGL 5853; s. 1, ch. 28104, 1953; s. 1, ch. 74-372; s. 1, ch. 78-15; s. 34, ch. 95-401."
+      ],
+      "source_citations": [
+        "s. 1, Nov. 2, 1829",
+        "s. 2, ch. 1127, 1861",
+        "RS 2056",
+        "GS 2575",
+        "RGS 3934",
+        "CGL 5853",
+        "s. 1, ch. 28104, 1953",
+        "s. 1, ch. 74-372",
+        "s. 1, ch. 78-15",
+        "s. 34, ch. 95-401."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.08",
+      "section_path": "title-43-domestic-relations/sec-0741-08.md",
+      "history": [
+        "History.—ss. 2, 3, Nov. 2, 1829; s. 1, ch. 3890, 1889; RS 2057; GS 2576; RGS 3935; CGL 5854; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 1059, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 2, 3, Nov. 2, 1829",
+        "s. 1, ch. 3890, 1889",
+        "RS 2057",
+        "GS 2576",
+        "RGS 3935",
+        "CGL 5854",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 1059, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.09",
+      "section_path": "title-43-domestic-relations/sec-0741-09.md",
+      "history": [
+        "History.—s. 3, Nov. 2, 1829; s. 1, ch. 3890, 1889; RS 2058; GS 2577; RGS 3936; CGL 5855; s. 28, ch. 73-334; s. 1, ch. 74-372; s. 10, ch. 99-259."
+      ],
+      "source_citations": [
+        "s. 3, Nov. 2, 1829",
+        "s. 1, ch. 3890, 1889",
+        "RS 2058",
+        "GS 2577",
+        "RGS 3936",
+        "CGL 5855",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372",
+        "s. 10, ch. 99-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.10",
+      "section_path": "title-43-domestic-relations/sec-0741-10.md",
+      "history": [
+        "History.—s. 1, ch. 3126, 1879; RS 2059; GS 2578; RGS 3937; CGL 5856; s. 28, ch. 73-334; s. 1, ch. 74-372."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3126, 1879",
+        "RS 2059",
+        "GS 2578",
+        "RGS 3937",
+        "CGL 5856",
+        "s. 28, ch. 73-334",
+        "s. 1, ch. 74-372."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.21",
+      "section_path": "title-43-domestic-relations/sec-0741-21.md",
+      "history": [
+        "History.—RS 2602; GS 3525; RGS 5415; CGL 7558."
+      ],
+      "source_citations": [
+        "RS 2602",
+        "GS 3525",
+        "RGS 5415",
+        "CGL 7558."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.211",
+      "section_path": "title-43-domestic-relations/sec-0741-211.md",
+      "history": [
+        "History.—s. 1, ch. 67-571."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-571."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.212",
+      "section_path": "title-43-domestic-relations/sec-0741-212.md",
+      "history": [
+        "History.—s. 1, ch. 97-268."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.23",
+      "section_path": "title-43-domestic-relations/sec-0741-23.md",
+      "history": [
+        "History.—s. 1, ch. 26829, 1951."
+      ],
+      "source_citations": [
+        "s. 1, ch. 26829, 1951."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.235",
+      "section_path": "title-43-domestic-relations/sec-0741-235.md",
+      "history": [
+        "History.—s. 1, ch. 85-328."
+      ],
+      "source_citations": [
+        "s. 1, ch. 85-328."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.24",
+      "section_path": "title-43-domestic-relations/sec-0741-24.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 31400, 1956; s. 40, ch. 67-254; s. 1, ch. 67-404; s. 1, ch. 77-366; s. 280, ch. 79-400; s. 36, ch. 88-381."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 31400, 1956",
+        "s. 40, ch. 67-254",
+        "s. 1, ch. 67-404",
+        "s. 1, ch. 77-366",
+        "s. 280, ch. 79-400",
+        "s. 36, ch. 88-381."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.28",
+      "section_path": "title-43-domestic-relations/sec-0741-28.md",
+      "history": [
+        "History.—s. 1, ch. 94-134; s. 1, ch. 94-135; s. 1, ch. 95-195; s. 4, ch. 97-155; s. 9, ch. 2002-55; s. 1, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 94-134",
+        "s. 1, ch. 94-135",
+        "s. 1, ch. 95-195",
+        "s. 4, ch. 97-155",
+        "s. 9, ch. 2002-55",
+        "s. 1, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.2801",
+      "section_path": "title-43-domestic-relations/sec-0741-2801.md",
+      "history": [
+        "History.—s. 2, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.281",
+      "section_path": "title-43-domestic-relations/sec-0741-281.md",
+      "history": [
+        "History.—s. 19, ch. 95-195; s. 2, ch. 96-392; s. 8, ch. 2001-50; s. 10, ch. 2002-55; s. 8, ch. 2012-147; s. 1, ch. 2017-156."
+      ],
+      "source_citations": [
+        "s. 19, ch. 95-195",
+        "s. 2, ch. 96-392",
+        "s. 8, ch. 2001-50",
+        "s. 10, ch. 2002-55",
+        "s. 8, ch. 2012-147",
+        "s. 1, ch. 2017-156."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.283",
+      "section_path": "title-43-domestic-relations/sec-0741-283.md",
+      "history": [
+        "History.—s. 3, ch. 2001-50; s. 2, ch. 2017-156."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2001-50",
+        "s. 2, ch. 2017-156."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.29",
+      "section_path": "title-43-domestic-relations/sec-0741-29.md",
+      "history": [
+        "History.—s. 12, ch. 84-343; s. 3, ch. 91-210; s. 5, ch. 94-90; s. 2, ch. 94-134; s. 2, ch. 94-135; s. 2, ch. 95-195; s. 1, ch. 97-298; s. 279, ch. 99-8; s. 7, ch. 2000-155; s. 286, ch. 2014-19; s. 2, ch. 2015-17; s. 59, ch. 2024-70; s. 1, ch. 2025-89."
+      ],
+      "source_citations": [
+        "s. 12, ch. 84-343",
+        "s. 3, ch. 91-210",
+        "s. 5, ch. 94-90",
+        "s. 2, ch. 94-134",
+        "s. 2, ch. 94-135",
+        "s. 2, ch. 95-195",
+        "s. 1, ch. 97-298",
+        "s. 279, ch. 99-8",
+        "s. 7, ch. 2000-155",
+        "s. 286, ch. 2014-19",
+        "s. 2, ch. 2015-17",
+        "s. 59, ch. 2024-70",
+        "s. 1, ch. 2025-89."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.2901",
+      "section_path": "title-43-domestic-relations/sec-0741-2901.md",
+      "history": [
+        "History.—s. 4, ch. 91-210; s. 3, ch. 94-134; s. 3, ch. 94-135; s. 3, ch. 95-195."
+      ],
+      "source_citations": [
+        "s. 4, ch. 91-210",
+        "s. 3, ch. 94-134",
+        "s. 3, ch. 94-135",
+        "s. 3, ch. 95-195."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.2902",
+      "section_path": "title-43-domestic-relations/sec-0741-2902.md",
+      "history": [
+        "History.—s. 5, ch. 91-210; s. 4, ch. 94-134; s. 4, ch. 94-135; s. 13, ch. 94-170; s. 4, ch. 95-195; s. 11, ch. 2002-55; s. 9, ch. 2012-147."
+      ],
+      "source_citations": [
+        "s. 5, ch. 91-210",
+        "s. 4, ch. 94-134",
+        "s. 4, ch. 94-135",
+        "s. 13, ch. 94-170",
+        "s. 4, ch. 95-195",
+        "s. 11, ch. 2002-55",
+        "s. 9, ch. 2012-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.2905",
+      "section_path": "title-43-domestic-relations/sec-0741-2905.md",
+      "history": [
+        "History.—s. 3, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.2906",
+      "section_path": "title-43-domestic-relations/sec-0741-2906.md",
+      "history": [
+        "History.—s. 4, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.30",
+      "section_path": "title-43-domestic-relations/sec-0741-30.md",
+      "history": [
+        "History.—s. 1, ch. 79-402; s. 481, ch. 81-259; s. 4, ch. 82-135; s. 10, ch. 84-343; s. 1, ch. 85-216; s. 1, ch. 86-264; s. 21, ch. 87-95; s. 1, ch. 87-395; s. 6, ch. 91-210; s. 3, ch. 91-306; s. 1, ch. 92-42; s. 5, ch. 94-134; s. 5, ch. 94-135; s. 5, ch. 95-195; s. 3, ch. 96-392; s. 56, ch. 96-418; s. 5, ch. 97-155; s. 2, ch. 98-284; s. 158, ch. 98-403; ss. 12, 13, ch. 2002-55; s. 6, ch. 2002-65; s. 113, ch. 2003-402; s. 9, ch. 2005-239; s. 35, ch. 2008-61; s. 8, ch. 2009-180; s. 7, ch. 2009-215; s. 1, ch. 2011-187; s. 10, ch. 2012-147; s. 1, ch. 2012-154; s. 4, ch. 2014-35; s. 4, ch. 2016-187; s. 1, ch. 2017-65; s. 3, ch. 2017-156; s. 8, ch. 2019-4; s. 29, ch. 2019-167; s. 1, ch. 2020-37; s. 6, ch. 2021-152; s. 1, ch. 2022-173; s. 3, ch. 2023-112; s. 2, ch. 2024-109; s. 1, ch. 2024-152; s. 5, ch. 2024-226; s. 5, ch. 2025-163; s. 5, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 79-402",
+        "s. 481, ch. 81-259",
+        "s. 4, ch. 82-135",
+        "s. 10, ch. 84-343",
+        "s. 1, ch. 85-216",
+        "s. 1, ch. 86-264",
+        "s. 21, ch. 87-95",
+        "s. 1, ch. 87-395",
+        "s. 6, ch. 91-210",
+        "s. 3, ch. 91-306",
+        "s. 1, ch. 92-42",
+        "s. 5, ch. 94-134",
+        "s. 5, ch. 94-135",
+        "s. 5, ch. 95-195",
+        "s. 3, ch. 96-392",
+        "s. 56, ch. 96-418",
+        "s. 5, ch. 97-155",
+        "s. 2, ch. 98-284",
+        "s. 158, ch. 98-403",
+        "ss. 12, 13, ch. 2002-55",
+        "s. 6, ch. 2002-65",
+        "s. 113, ch. 2003-402",
+        "s. 9, ch. 2005-239",
+        "s. 35, ch. 2008-61",
+        "s. 8, ch. 2009-180",
+        "s. 7, ch. 2009-215",
+        "s. 1, ch. 2011-187",
+        "s. 10, ch. 2012-147",
+        "s. 1, ch. 2012-154",
+        "s. 4, ch. 2014-35",
+        "s. 4, ch. 2016-187",
+        "s. 1, ch. 2017-65",
+        "s. 3, ch. 2017-156",
+        "s. 8, ch. 2019-4",
+        "s. 29, ch. 2019-167",
+        "s. 1, ch. 2020-37",
+        "s. 6, ch. 2021-152",
+        "s. 1, ch. 2022-173",
+        "s. 3, ch. 2023-112",
+        "s. 2, ch. 2024-109",
+        "s. 1, ch. 2024-152",
+        "s. 5, ch. 2024-226",
+        "s. 5, ch. 2025-163",
+        "s. 5, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.31",
+      "section_path": "title-43-domestic-relations/sec-0741-31.md",
+      "history": [
+        "History.—s. 2, ch. 86-264; s. 169, ch. 91-224; s. 6, ch. 94-134; s. 6, ch. 94-135; s. 8, ch. 95-182; s. 36, ch. 95-184; s. 6, ch. 95-195; s. 4, ch. 96-392; s. 19, ch. 96-402; s. 6, ch. 97-155; s. 3, ch. 98-284; s. 73, ch. 99-5; s. 14, ch. 2002-55; s. 1, ch. 2016-187; s. 13, ch. 2026-16; s. 6, ch. 2026-86."
+      ],
+      "source_citations": [
+        "s. 2, ch. 86-264",
+        "s. 169, ch. 91-224",
+        "s. 6, ch. 94-134",
+        "s. 6, ch. 94-135",
+        "s. 8, ch. 95-182",
+        "s. 36, ch. 95-184",
+        "s. 6, ch. 95-195",
+        "s. 4, ch. 96-392",
+        "s. 19, ch. 96-402",
+        "s. 6, ch. 97-155",
+        "s. 3, ch. 98-284",
+        "s. 73, ch. 99-5",
+        "s. 14, ch. 2002-55",
+        "s. 1, ch. 2016-187",
+        "s. 13, ch. 2026-16",
+        "s. 6, ch. 2026-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.311",
+      "section_path": "title-43-domestic-relations/sec-0741-311.md",
+      "history": [
+        "History.—s. 1, ch. 2024-109."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2024-109."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.313",
+      "section_path": "title-43-domestic-relations/sec-0741-313.md",
+      "history": [
+        "History.—s. 1, ch. 2007-107; s. 1, ch. 2007-108; s. 1, ch. 2008-253; s. 1, ch. 2008-254; s. 1, ch. 2013-215; s. 122, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2007-107",
+        "s. 1, ch. 2007-108",
+        "s. 1, ch. 2008-253",
+        "s. 1, ch. 2008-254",
+        "s. 1, ch. 2013-215",
+        "s. 122, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.315",
+      "section_path": "title-43-domestic-relations/sec-0741-315.md",
+      "history": [
+        "History.—s. 7, ch. 97-155; s. 1, ch. 2012-153; s. 5, ch. 2016-187."
+      ],
+      "source_citations": [
+        "s. 7, ch. 97-155",
+        "s. 1, ch. 2012-153",
+        "s. 5, ch. 2016-187."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.316",
+      "section_path": "title-43-domestic-relations/sec-0741-316.md",
+      "history": [
+        "History.—s. 1, ch. 2000-220; s. 2, ch. 2008-112; s. 1, ch. 2010-36; s. 11, ch. 2012-147; s. 12, ch. 2020-6."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-220",
+        "s. 2, ch. 2008-112",
+        "s. 1, ch. 2010-36",
+        "s. 11, ch. 2012-147",
+        "s. 12, ch. 2020-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.3165",
+      "section_path": "title-43-domestic-relations/sec-0741-3165.md",
+      "history": [
+        "History.—s. 1, ch. 2000-219; s. 1, ch. 2005-212; s. 160, ch. 2008-4; s. 1, ch. 2010-43."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-219",
+        "s. 1, ch. 2005-212",
+        "s. 160, ch. 2008-4",
+        "s. 1, ch. 2010-43."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.32",
+      "section_path": "title-43-domestic-relations/sec-0741-32.md",
+      "history": [
+        "History.—s. 16, ch. 95-195; s. 37, ch. 96-312; s. 280, ch. 99-8; s. 2, ch. 2001-183; s. 12, ch. 2012-147; s. 3, ch. 2021-152."
+      ],
+      "source_citations": [
+        "s. 16, ch. 95-195",
+        "s. 37, ch. 96-312",
+        "s. 280, ch. 99-8",
+        "s. 2, ch. 2001-183",
+        "s. 12, ch. 2012-147",
+        "s. 3, ch. 2021-152."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.325",
+      "section_path": "title-43-domestic-relations/sec-0741-325.md",
+      "history": [
+        "History.—s. 17, ch. 95-195; s. 3, ch. 2001-183; s. 13, ch. 2012-147; s. 4, ch. 2021-152; s. 1, ch. 2026-71."
+      ],
+      "source_citations": [
+        "s. 17, ch. 95-195",
+        "s. 3, ch. 2001-183",
+        "s. 13, ch. 2012-147",
+        "s. 4, ch. 2021-152",
+        "s. 1, ch. 2026-71."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.327",
+      "section_path": "title-43-domestic-relations/sec-0741-327.md",
+      "history": [
+        "History.—s. 38, ch. 96-312; s. 6, ch. 98-388; s. 5, ch. 2001-183; s. 14, ch. 2012-147; s. 5, ch. 2021-152."
+      ],
+      "source_citations": [
+        "s. 38, ch. 96-312",
+        "s. 6, ch. 98-388",
+        "s. 5, ch. 2001-183",
+        "s. 14, ch. 2012-147",
+        "s. 5, ch. 2021-152."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.401",
+      "section_path": "title-43-domestic-relations/sec-0741-401.md",
+      "history": [
+        "History.—s. 1, ch. 98-404; s. 2, ch. 2026-91."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-404",
+        "s. 2, ch. 2026-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.402",
+      "section_path": "title-43-domestic-relations/sec-0741-402.md",
+      "history": [
+        "History.—s. 2, ch. 98-404; s. 3, ch. 2026-91."
+      ],
+      "source_citations": [
+        "s. 2, ch. 98-404",
+        "s. 3, ch. 2026-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.403",
+      "section_path": "title-43-domestic-relations/sec-0741-403.md",
+      "history": [
+        "History.—s. 3, ch. 98-404; s. 4, ch. 2026-91."
+      ],
+      "source_citations": [
+        "s. 3, ch. 98-404",
+        "s. 4, ch. 2026-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.404",
+      "section_path": "title-43-domestic-relations/sec-0741-404.md",
+      "history": [
+        "History.—s. 4, ch. 98-404."
+      ],
+      "source_citations": [
+        "s. 4, ch. 98-404."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.405",
+      "section_path": "title-43-domestic-relations/sec-0741-405.md",
+      "history": [
+        "History.—s. 5, ch. 98-404."
+      ],
+      "source_citations": [
+        "s. 5, ch. 98-404."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.406",
+      "section_path": "title-43-domestic-relations/sec-0741-406.md",
+      "history": [
+        "History.—s. 6, ch. 98-404; s. 1, ch. 2003-185; s. 42, ch. 2016-37."
+      ],
+      "source_citations": [
+        "s. 6, ch. 98-404",
+        "s. 1, ch. 2003-185",
+        "s. 42, ch. 2016-37."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.408",
+      "section_path": "title-43-domestic-relations/sec-0741-408.md",
+      "history": [
+        "History.—s. 8, ch. 98-404; s. 5, ch. 2026-91."
+      ],
+      "source_citations": [
+        "s. 8, ch. 98-404",
+        "s. 5, ch. 2026-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.409",
+      "section_path": "title-43-domestic-relations/sec-0741-409.md",
+      "history": [
+        "History.—s. 9, ch. 98-404."
+      ],
+      "source_citations": [
+        "s. 9, ch. 98-404."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.465",
+      "section_path": "title-43-domestic-relations/sec-0741-465.md",
+      "history": [
+        "History.—s. 1, ch. 98-405; ss. 3, 4, ch. 2003-185; ss. 2, 3, ch. 2005-279; s. 1, ch. 2010-42; s. 2, ch. 2010-115; s. 1, ch. 2026-138."
+      ],
+      "source_citations": [
+        "s. 1, ch. 98-405",
+        "ss. 3, 4, ch. 2003-185",
+        "ss. 2, 3, ch. 2005-279",
+        "s. 1, ch. 2010-42",
+        "s. 2, ch. 2010-115",
+        "s. 1, ch. 2026-138."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "741.4651",
+      "section_path": "title-43-domestic-relations/sec-0741-4651.md",
+      "history": [
+        "History.—s. 1, ch. 2010-115; s. 11, ch. 2013-15; s. 1, ch. 2015-78; s. 6, ch. 2026-91."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2010-115",
+        "s. 11, ch. 2013-15",
+        "s. 1, ch. 2015-78",
+        "s. 6, ch. 2026-91."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "source_sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea"
+    },
+    {
+      "section": "742.011",
+      "section_path": "title-43-domestic-relations/sec-0742-011.md",
+      "history": [
+        "History.—s. 1, ch. 26949, 1951; s. 5, ch. 75-166; s. 13, ch. 83-214; s. 150, ch. 86-220; s. 1, ch. 2023-209."
+      ],
+      "source_citations": [
+        "s. 1, ch. 26949, 1951",
+        "s. 5, ch. 75-166",
+        "s. 13, ch. 83-214",
+        "s. 150, ch. 86-220",
+        "s. 1, ch. 2023-209."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.021",
+      "section_path": "title-43-domestic-relations/sec-0742-021.md",
+      "history": [
+        "History.—s. 2, ch. 26949, 1951; s. 151, ch. 86-220; s. 24, ch. 2008-151."
+      ],
+      "source_citations": [
+        "s. 2, ch. 26949, 1951",
+        "s. 151, ch. 86-220",
+        "s. 24, ch. 2008-151."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.031",
+      "section_path": "title-43-domestic-relations/sec-0742-031.md",
+      "history": [
+        "History.—s. 3, ch. 26949, 1951; s. 1, ch. 59-45; s. 152, ch. 86-220; s. 18, ch. 88-176; s. 6, ch. 91-246; s. 1060, ch. 97-102; s. 68, ch. 97-170; s. 2, ch. 2004-47; s. 36, ch. 2008-61; s. 7, ch. 2023-213."
+      ],
+      "source_citations": [
+        "s. 3, ch. 26949, 1951",
+        "s. 1, ch. 59-45",
+        "s. 152, ch. 86-220",
+        "s. 18, ch. 88-176",
+        "s. 6, ch. 91-246",
+        "s. 1060, ch. 97-102",
+        "s. 68, ch. 97-170",
+        "s. 2, ch. 2004-47",
+        "s. 36, ch. 2008-61",
+        "s. 7, ch. 2023-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.032",
+      "section_path": "title-43-domestic-relations/sec-0742-032.md",
+      "history": [
+        "History.—s. 69, ch. 97-170; s. 39, ch. 98-397."
+      ],
+      "source_citations": [
+        "s. 69, ch. 97-170",
+        "s. 39, ch. 98-397."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.045",
+      "section_path": "title-43-domestic-relations/sec-0742-045.md",
+      "history": [
+        "History.—s. 7, ch. 91-246; s. 7, ch. 93-188; s. 17, ch. 93-208; s. 1, ch. 95-151; s. 1061, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 7, ch. 91-246",
+        "s. 7, ch. 93-188",
+        "s. 17, ch. 93-208",
+        "s. 1, ch. 95-151",
+        "s. 1061, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.06",
+      "section_path": "title-43-domestic-relations/sec-0742-06.md",
+      "history": [
+        "History.—s. 5, ch. 26949, 1951; s. 8, ch. 2023-213."
+      ],
+      "source_citations": [
+        "s. 5, ch. 26949, 1951",
+        "s. 8, ch. 2023-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.07",
+      "section_path": "title-43-domestic-relations/sec-0742-07.md",
+      "history": [
+        "History.—s. 6, ch. 26949, 1951."
+      ],
+      "source_citations": [
+        "s. 6, ch. 26949, 1951."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.08",
+      "section_path": "title-43-domestic-relations/sec-0742-08.md",
+      "history": [
+        "History.—s. 7, ch. 26949, 1951; s. 27, ch. 92-138; s. 18, ch. 93-208; s. 1062, ch. 97-102; s. 281, ch. 99-8."
+      ],
+      "source_citations": [
+        "s. 7, ch. 26949, 1951",
+        "s. 27, ch. 92-138",
+        "s. 18, ch. 93-208",
+        "s. 1062, ch. 97-102",
+        "s. 281, ch. 99-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.09",
+      "section_path": "title-43-domestic-relations/sec-0742-09.md",
+      "history": [
+        "History.—s. 8, ch. 26949, 1951; s. 697, ch. 71-136; s. 8, ch. 2007-85."
+      ],
+      "source_citations": [
+        "s. 8, ch. 26949, 1951",
+        "s. 697, ch. 71-136",
+        "s. 8, ch. 2007-85."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.091",
+      "section_path": "title-43-domestic-relations/sec-0742-091.md",
+      "history": [
+        "History.—s. 1, ch. 57-267; s. 6, ch. 75-166; s. 4, ch. 90-139."
+      ],
+      "source_citations": [
+        "s. 1, ch. 57-267",
+        "s. 6, ch. 75-166",
+        "s. 4, ch. 90-139."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.10",
+      "section_path": "title-43-domestic-relations/sec-0742-10.md",
+      "history": [
+        "History.—s. 9, ch. 26949, 1951; s. 10, ch. 27991, 1953; s. 7, ch. 75-166; s. 153, ch. 86-220; s. 28, ch. 92-138; s. 21, ch. 93-208; s. 8, ch. 94-318; s. 70, ch. 97-170; s. 114, ch. 97-237; s. 41, ch. 99-397; s. 22, ch. 2001-53; s. 19, ch. 2004-334; s. 39, ch. 2005-39; s. 25, ch. 2008-151; s. 2, ch. 2023-209."
+      ],
+      "source_citations": [
+        "s. 9, ch. 26949, 1951",
+        "s. 10, ch. 27991, 1953",
+        "s. 7, ch. 75-166",
+        "s. 153, ch. 86-220",
+        "s. 28, ch. 92-138",
+        "s. 21, ch. 93-208",
+        "s. 8, ch. 94-318",
+        "s. 70, ch. 97-170",
+        "s. 114, ch. 97-237",
+        "s. 41, ch. 99-397",
+        "s. 22, ch. 2001-53",
+        "s. 19, ch. 2004-334",
+        "s. 39, ch. 2005-39",
+        "s. 25, ch. 2008-151",
+        "s. 2, ch. 2023-209."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.105",
+      "section_path": "title-43-domestic-relations/sec-0742-105.md",
+      "history": [
+        "History.—s. 9, ch. 94-318; s. 71, ch. 97-170."
+      ],
+      "source_citations": [
+        "s. 9, ch. 94-318",
+        "s. 71, ch. 97-170."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.107",
+      "section_path": "title-43-domestic-relations/sec-0742-107.md",
+      "history": [
+        "History.—s. 5, ch. 96-215; s. 81, ch. 99-3; s. 282, ch. 99-8; s. 287, ch. 2014-19."
+      ],
+      "source_citations": [
+        "s. 5, ch. 96-215",
+        "s. 81, ch. 99-3",
+        "s. 282, ch. 99-8",
+        "s. 287, ch. 2014-19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.108",
+      "section_path": "title-43-domestic-relations/sec-0742-108.md",
+      "history": [
+        "History.—s. 6, ch. 96-215."
+      ],
+      "source_citations": [
+        "s. 6, ch. 96-215."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.11",
+      "section_path": "title-43-domestic-relations/sec-0742-11.md",
+      "history": [
+        "History.—s. 1, ch. 73-104; s. 5, ch. 90-139; s. 1, ch. 93-237."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-104",
+        "s. 5, ch. 90-139",
+        "s. 1, ch. 93-237."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.12",
+      "section_path": "title-43-domestic-relations/sec-0742-12.md",
+      "history": [
+        "History.—s. 154, ch. 86-220; s. 10, ch. 89-183; s. 10, ch. 94-318; s. 72, ch. 97-170; s. 54, ch. 2001-158."
+      ],
+      "source_citations": [
+        "s. 154, ch. 86-220",
+        "s. 10, ch. 89-183",
+        "s. 10, ch. 94-318",
+        "s. 72, ch. 97-170",
+        "s. 54, ch. 2001-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.13",
+      "section_path": "title-43-domestic-relations/sec-0742-13.md",
+      "history": [
+        "History.—s. 2, ch. 93-237."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-237."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.14",
+      "section_path": "title-43-domestic-relations/sec-0742-14.md",
+      "history": [
+        "History.—s. 2, ch. 93-237; s. 83, ch. 2016-10."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-237",
+        "s. 83, ch. 2016-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.15",
+      "section_path": "title-43-domestic-relations/sec-0742-15.md",
+      "history": [
+        "History.—s. 2, ch. 93-237; s. 15, ch. 2026-66."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-237",
+        "s. 15, ch. 2026-66."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.16",
+      "section_path": "title-43-domestic-relations/sec-0742-16.md",
+      "history": [
+        "History.—s. 2, ch. 93-237; s. 416, ch. 96-406; s. 115, ch. 97-237."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-237",
+        "s. 416, ch. 96-406",
+        "s. 115, ch. 97-237."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.17",
+      "section_path": "title-43-domestic-relations/sec-0742-17.md",
+      "history": [
+        "History.—s. 2, ch. 93-237."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-237."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "742.18",
+      "section_path": "title-43-domestic-relations/sec-0742-18.md",
+      "history": [
+        "History.—s. 1, ch. 2006-265."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-265."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "source_sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0"
+    },
+    {
+      "section": "743.01",
+      "section_path": "title-43-domestic-relations/sec-0743-01.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 7364, 1917; RGS 3962, 3963; s. 1, ch. 9286, 1923; CGL 5881, 5882, 5883; s. 1, ch. 22750, 1945; s. 1, ch. 71-147; s. 1, ch. 73-300; s. 1063, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 7364, 1917",
+        "RGS 3962, 3963",
+        "s. 1, ch. 9286, 1923",
+        "CGL 5881, 5882, 5883",
+        "s. 1, ch. 22750, 1945",
+        "s. 1, ch. 71-147",
+        "s. 1, ch. 73-300",
+        "s. 1063, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.015",
+      "section_path": "title-43-domestic-relations/sec-0743-015.md",
+      "history": [
+        "History.—s. 25, ch. 92-287; s. 5, ch. 93-230; s. 1064, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 25, ch. 92-287",
+        "s. 5, ch. 93-230",
+        "s. 1064, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.04",
+      "section_path": "title-43-domestic-relations/sec-0743-04.md",
+      "history": [
+        "History.—s. 1, ch. 23873, 1947; s. 24, ch. 69-353; s. 2, ch. 71-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 23873, 1947",
+        "s. 24, ch. 69-353",
+        "s. 2, ch. 71-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.044",
+      "section_path": "title-43-domestic-relations/sec-0743-044.md",
+      "history": [
+        "History.—s. 4, ch. 2007-147."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2007-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.045",
+      "section_path": "title-43-domestic-relations/sec-0743-045.md",
+      "history": [
+        "History.—s. 14, ch. 2006-194; s. 288, ch. 2014-19."
+      ],
+      "source_citations": [
+        "s. 14, ch. 2006-194",
+        "s. 288, ch. 2014-19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.046",
+      "section_path": "title-43-domestic-relations/sec-0743-046.md",
+      "history": [
+        "History.—s. 2, ch. 2008-122; s. 289, ch. 2014-19."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2008-122",
+        "s. 289, ch. 2014-19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.047",
+      "section_path": "title-43-domestic-relations/sec-0743-047.md",
+      "history": [
+        "History.—s. 3, ch. 2014-166."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2014-166."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.05",
+      "section_path": "title-43-domestic-relations/sec-0743-05.md",
+      "history": [
+        "History.—s. 1, ch. 59-268; s. 1, ch. 69-105; s. 2, ch. 71-147; s. 28, ch. 83-291."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-268",
+        "s. 1, ch. 69-105",
+        "s. 2, ch. 71-147",
+        "s. 28, ch. 83-291."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.06",
+      "section_path": "title-43-domestic-relations/sec-0743-06.md",
+      "history": [
+        "History.—s. 1, ch. 70-430; s. 1, ch. 76-13; s. 1065, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 70-430",
+        "s. 1, ch. 76-13",
+        "s. 1065, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.064",
+      "section_path": "title-43-domestic-relations/sec-0743-064.md",
+      "history": [
+        "History.—s. 1, ch. 79-302; s. 66, ch. 86-220; s. 1, ch. 90-42; s. 1066, ch. 97-102; s. 1, ch. 2022-53."
+      ],
+      "source_citations": [
+        "s. 1, ch. 79-302",
+        "s. 66, ch. 86-220",
+        "s. 1, ch. 90-42",
+        "s. 1066, ch. 97-102",
+        "s. 1, ch. 2022-53."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.0645",
+      "section_path": "title-43-domestic-relations/sec-0743-0645.md",
+      "history": [
+        "History.—s. 2, ch. 90-42; s. 10, ch. 93-230; s. 155, ch. 97-101; s. 47, ch. 98-280; s. 82, ch. 99-3; s. 23, ch. 2001-53; s. 4, ch. 2005-65; s. 290, ch. 2014-19; s. 1, ch. 2015-153."
+      ],
+      "source_citations": [
+        "s. 2, ch. 90-42",
+        "s. 10, ch. 93-230",
+        "s. 155, ch. 97-101",
+        "s. 47, ch. 98-280",
+        "s. 82, ch. 99-3",
+        "s. 23, ch. 2001-53",
+        "s. 4, ch. 2005-65",
+        "s. 290, ch. 2014-19",
+        "s. 1, ch. 2015-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.065",
+      "section_path": "title-43-domestic-relations/sec-0743-065.md",
+      "history": [
+        "History.—s. 1, ch. 79-302; s. 83, ch. 99-3; s. 4, ch. 2020-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 79-302",
+        "s. 83, ch. 99-3",
+        "s. 4, ch. 2020-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.066",
+      "section_path": "title-43-domestic-relations/sec-0743-066.md",
+      "history": [
+        "History.—s. 1, ch. 81-90."
+      ],
+      "source_citations": [
+        "s. 1, ch. 81-90."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.067",
+      "section_path": "title-43-domestic-relations/sec-0743-067.md",
+      "history": [
+        "History.—s. 4, ch. 2012-186; s. 1, ch. 2014-173; s. 36, ch. 2017-151; s. 4, ch. 2022-65."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2012-186",
+        "s. 1, ch. 2014-173",
+        "s. 36, ch. 2017-151",
+        "s. 4, ch. 2022-65."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.07",
+      "section_path": "title-43-domestic-relations/sec-0743-07.md",
+      "history": [
+        "History.—ss. 2, 3, ch. 73-21; s. 5, ch. 80-74; s. 22, ch. 88-176; s. 8, ch. 91-246; s. 84, ch. 99-3."
+      ],
+      "source_citations": [
+        "ss. 2, 3, ch. 73-21",
+        "s. 5, ch. 80-74",
+        "s. 22, ch. 88-176",
+        "s. 8, ch. 91-246",
+        "s. 84, ch. 99-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.08",
+      "section_path": "title-43-domestic-relations/sec-0743-08.md",
+      "history": [
+        "History.—s. 38, ch. 95-401."
+      ],
+      "source_citations": [
+        "s. 38, ch. 95-401."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.09",
+      "section_path": "title-43-domestic-relations/sec-0743-09.md",
+      "history": [
+        "History.—s. 39, ch. 95-401; s. 149, ch. 2007-5."
+      ],
+      "source_citations": [
+        "s. 39, ch. 95-401",
+        "s. 149, ch. 2007-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "743.095",
+      "section_path": "title-43-domestic-relations/sec-0743-095.md",
+      "history": [
+        "History.—s. 40, ch. 95-401."
+      ],
+      "source_citations": [
+        "s. 40, ch. 95-401."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "source_sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef"
+    },
+    {
+      "section": "744.101",
+      "section_path": "title-43-domestic-relations/sec-0744-101.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 1, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 1, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1012",
+      "section_path": "title-43-domestic-relations/sec-0744-1012.md",
+      "history": [
+        "History.—s. 3, ch. 89-96; s. 1, ch. 90-271; s. 1067, ch. 97-102; s. 4, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 3, ch. 89-96",
+        "s. 1, ch. 90-271",
+        "s. 1067, ch. 97-102",
+        "s. 4, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.102",
+      "section_path": "title-43-domestic-relations/sec-0744-102.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 2, ch. 75-222; s. 231, ch. 77-104; s. 1, ch. 79-221; s. 3, ch. 80-171; s. 4, ch. 89-96; s. 2, ch. 90-271; s. 1, ch. 96-354; s. 1780, ch. 97-102; s. 6, ch. 2003-57; s. 9, ch. 2004-260; s. 1, ch. 2006-178; s. 1, ch. 2014-124."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 2, ch. 75-222",
+        "s. 231, ch. 77-104",
+        "s. 1, ch. 79-221",
+        "s. 3, ch. 80-171",
+        "s. 4, ch. 89-96",
+        "s. 2, ch. 90-271",
+        "s. 1, ch. 96-354",
+        "s. 1780, ch. 97-102",
+        "s. 6, ch. 2003-57",
+        "s. 9, ch. 2004-260",
+        "s. 1, ch. 2006-178",
+        "s. 1, ch. 2014-124."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1025",
+      "section_path": "title-43-domestic-relations/sec-0744-1025.md",
+      "history": [
+        "History.—s. 2, ch. 79-221; s. 5, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 2, ch. 79-221",
+        "s. 5, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.104",
+      "section_path": "title-43-domestic-relations/sec-0744-104.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 2, ch. 75-222; s. 7, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 2, ch. 75-222",
+        "s. 7, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.105",
+      "section_path": "title-43-domestic-relations/sec-0744-105.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 8, ch. 89-96; s. 3, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 8, ch. 89-96",
+        "s. 3, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.106",
+      "section_path": "title-43-domestic-relations/sec-0744-106.md",
+      "history": [
+        "History.—s. 4, ch. 75-222; s. 9, ch. 89-96; s. 65, ch. 95-211."
+      ],
+      "source_citations": [
+        "s. 4, ch. 75-222",
+        "s. 9, ch. 89-96",
+        "s. 65, ch. 95-211."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.107",
+      "section_path": "title-43-domestic-relations/sec-0744-107.md",
+      "history": [
+        "History.—ss. 18, 26, ch. 75-222; s. 10, ch. 89-96; s. 4, ch. 90-271; s. 1068, ch. 97-102; s. 2, ch. 2006-77; s. 2, ch. 2015-83."
+      ],
+      "source_citations": [
+        "ss. 18, 26, ch. 75-222",
+        "s. 10, ch. 89-96",
+        "s. 4, ch. 90-271",
+        "s. 1068, ch. 97-102",
+        "s. 2, ch. 2006-77",
+        "s. 2, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1075",
+      "section_path": "title-43-domestic-relations/sec-0744-1075.md",
+      "history": [
+        "History.—s. 3, ch. 2006-77; s. 291, ch. 2014-19; s. 3, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2006-77",
+        "s. 291, ch. 2014-19",
+        "s. 3, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1076",
+      "section_path": "title-43-domestic-relations/sec-0744-1076.md",
+      "history": [
+        "History.—s. 1, ch. 2006-129; s. 161, ch. 2008-4; s. 1, ch. 2011-204."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-129",
+        "s. 161, ch. 2008-4",
+        "s. 1, ch. 2011-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.108",
+      "section_path": "title-43-domestic-relations/sec-0744-108.md",
+      "history": [
+        "History.—ss. 18, 26, ch. 75-222; s. 11, ch. 89-96; s. 5, ch. 90-271; s. 2, ch. 96-354; s. 7, ch. 2003-57; s. 4, ch. 2015-83."
+      ],
+      "source_citations": [
+        "ss. 18, 26, ch. 75-222",
+        "s. 11, ch. 89-96",
+        "s. 5, ch. 90-271",
+        "s. 2, ch. 96-354",
+        "s. 7, ch. 2003-57",
+        "s. 4, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.109",
+      "section_path": "title-43-domestic-relations/sec-0744-109.md",
+      "history": [
+        "History.—s. 12, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 12, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1095",
+      "section_path": "title-43-domestic-relations/sec-0744-1095.md",
+      "history": [
+        "History.—s. 13, ch. 89-96; s. 6, ch. 90-271; s. 1069, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 13, ch. 89-96",
+        "s. 6, ch. 90-271",
+        "s. 1069, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1096",
+      "section_path": "title-43-domestic-relations/sec-0744-1096.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 5, ch. 75-222; s. 14, ch. 89-96; s. 5, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 5, ch. 75-222",
+        "s. 14, ch. 89-96",
+        "s. 5, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1097",
+      "section_path": "title-43-domestic-relations/sec-0744-1097.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 5, ch. 75-222; s. 15, ch. 89-96; s. 7, ch. 90-271; s. 33, ch. 95-401; s. 3, ch. 96-354; s. 6, ch. 2016-40; s. 1, ch. 2019-10."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 5, ch. 75-222",
+        "s. 15, ch. 89-96",
+        "s. 7, ch. 90-271",
+        "s. 33, ch. 95-401",
+        "s. 3, ch. 96-354",
+        "s. 6, ch. 2016-40",
+        "s. 1, ch. 2019-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.1098",
+      "section_path": "title-43-domestic-relations/sec-0744-1098.md",
+      "history": [
+        "History.—s. 16, ch. 89-96; s. 8, ch. 90-271; s. 4, ch. 96-354; s. 7, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 16, ch. 89-96",
+        "s. 8, ch. 90-271",
+        "s. 4, ch. 96-354",
+        "s. 7, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2001",
+      "section_path": "title-43-domestic-relations/sec-0744-2001.md",
+      "history": [
+        "History.—s. 4, ch. 99-277; s. 14, ch. 2003-57; s. 5, ch. 2003-262; s. 140, ch. 2005-2; s. 107, ch. 2013-18; s. 8, ch. 2016-40; s. 2, ch. 2022-218; s. 3, ch. 2023-259; s. 11, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 4, ch. 99-277",
+        "s. 14, ch. 2003-57",
+        "s. 5, ch. 2003-262",
+        "s. 140, ch. 2005-2",
+        "s. 107, ch. 2013-18",
+        "s. 8, ch. 2016-40",
+        "s. 2, ch. 2022-218",
+        "s. 3, ch. 2023-259",
+        "s. 11, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2002",
+      "section_path": "title-43-domestic-relations/sec-0744-2002.md",
+      "history": [
+        "History.—s. 3, ch. 2002-195; s. 8, ch. 2003-57; s. 10, ch. 2004-260; s. 2, ch. 2006-178; s. 2, ch. 2009-175; s. 9, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2002-195",
+        "s. 8, ch. 2003-57",
+        "s. 10, ch. 2004-260",
+        "s. 2, ch. 2006-178",
+        "s. 2, ch. 2009-175",
+        "s. 9, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2003",
+      "section_path": "title-43-domestic-relations/sec-0744-2003.md",
+      "history": [
+        "History.—s. 1, ch. 97-161; s. 9, ch. 99-277; s. 9, ch. 2003-57; s. 17, ch. 2004-260; s. 62, ch. 2004-267; s. 32, ch. 2006-178; s. 10, ch. 2016-40; s. 4, ch. 2023-259; s. 12, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-161",
+        "s. 9, ch. 99-277",
+        "s. 9, ch. 2003-57",
+        "s. 17, ch. 2004-260",
+        "s. 62, ch. 2004-267",
+        "s. 32, ch. 2006-178",
+        "s. 10, ch. 2016-40",
+        "s. 4, ch. 2023-259",
+        "s. 12, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2004",
+      "section_path": "title-43-domestic-relations/sec-0744-2004.md",
+      "history": [
+        "History.—s. 11, ch. 2016-40; s. 5, ch. 2023-259; s. 13, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2016-40",
+        "s. 5, ch. 2023-259",
+        "s. 13, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.20041",
+      "section_path": "title-43-domestic-relations/sec-0744-20041.md",
+      "history": [
+        "History.—s. 12, ch. 2016-40; s. 45, ch. 2017-3; s. 14, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 12, ch. 2016-40",
+        "s. 45, ch. 2017-3",
+        "s. 14, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2005",
+      "section_path": "title-43-domestic-relations/sec-0744-2005.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 12, 26, ch. 75-222; s. 39, ch. 89-96; s. 24, ch. 90-271; s. 1081, ch. 97-102; s. 12, ch. 2015-83; s. 13, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 12, 26, ch. 75-222",
+        "s. 39, ch. 89-96",
+        "s. 24, ch. 90-271",
+        "s. 1081, ch. 97-102",
+        "s. 12, ch. 2015-83",
+        "s. 13, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2006",
+      "section_path": "title-43-domestic-relations/sec-0744-2006.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 98, ch. 89-96; s. 69, ch. 95-211; s. 27, ch. 95-401; s. 16, ch. 96-354; s. 1789, ch. 97-102; s. 5, ch. 99-277; s. 8, ch. 2002-195; s. 14, ch. 2016-40; s. 34, ch. 2020-9."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 98, ch. 89-96",
+        "s. 69, ch. 95-211",
+        "s. 27, ch. 95-401",
+        "s. 16, ch. 96-354",
+        "s. 1789, ch. 97-102",
+        "s. 5, ch. 99-277",
+        "s. 8, ch. 2002-195",
+        "s. 14, ch. 2016-40",
+        "s. 34, ch. 2020-9."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2007",
+      "section_path": "title-43-domestic-relations/sec-0744-2007.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 99, ch. 89-96; s. 45, ch. 96-169; s. 1790, ch. 97-102; s. 86, ch. 99-3; s. 15, ch. 2003-57; s. 71, ch. 2006-227; s. 15, ch. 2016-40; s. 78, ch. 2016-241; s. 23, ch. 2020-39; s. 12, ch. 2022-36; s. 51, ch. 2024-245."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 99, ch. 89-96",
+        "s. 45, ch. 96-169",
+        "s. 1790, ch. 97-102",
+        "s. 86, ch. 99-3",
+        "s. 15, ch. 2003-57",
+        "s. 71, ch. 2006-227",
+        "s. 15, ch. 2016-40",
+        "s. 78, ch. 2016-241",
+        "s. 23, ch. 2020-39",
+        "s. 12, ch. 2022-36",
+        "s. 51, ch. 2024-245."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2008",
+      "section_path": "title-43-domestic-relations/sec-0744-2008.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 100, ch. 89-96; s. 16, ch. 2016-40; s. 2, ch. 2020-73."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 100, ch. 89-96",
+        "s. 16, ch. 2016-40",
+        "s. 2, ch. 2020-73."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2009",
+      "section_path": "title-43-domestic-relations/sec-0744-2009.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 101, ch. 89-96; s. 6, ch. 99-277; s. 17, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 101, ch. 89-96",
+        "s. 6, ch. 99-277",
+        "s. 17, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2101",
+      "section_path": "title-43-domestic-relations/sec-0744-2101.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 102, ch. 89-96; s. 7, ch. 99-277; s. 18, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 102, ch. 89-96",
+        "s. 7, ch. 99-277",
+        "s. 18, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2102",
+      "section_path": "title-43-domestic-relations/sec-0744-2102.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 104, ch. 89-96; s. 1128, ch. 97-102; s. 11, ch. 99-277; s. 19, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 104, ch. 89-96",
+        "s. 1128, ch. 97-102",
+        "s. 11, ch. 99-277",
+        "s. 19, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2103",
+      "section_path": "title-43-domestic-relations/sec-0744-2103.md",
+      "history": [
+        "History.—s. 1, ch. 86-120; s. 103, ch. 89-96; s. 17, ch. 96-354; s. 1791, ch. 97-102; s. 8, ch. 99-277; s. 127, ch. 2001-266; s. 27, ch. 2006-178; s. 159, ch. 2010-102; s. 20, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 86-120",
+        "s. 103, ch. 89-96",
+        "s. 17, ch. 96-354",
+        "s. 1791, ch. 97-102",
+        "s. 8, ch. 99-277",
+        "s. 127, ch. 2001-266",
+        "s. 27, ch. 2006-178",
+        "s. 159, ch. 2010-102",
+        "s. 20, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.21031",
+      "section_path": "title-43-domestic-relations/sec-0744-21031.md",
+      "history": [
+        "History.—s. 1, ch. 2018-16; s. 1, ch. 2023-263; s. 59, ch. 2024-2."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2018-16",
+        "s. 1, ch. 2023-263",
+        "s. 59, ch. 2024-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2104",
+      "section_path": "title-43-domestic-relations/sec-0744-2104.md",
+      "history": [
+        "History.—s. 1, ch. 99-278; s. 112, ch. 2000-349; s. 1, ch. 2004-361; s. 21, ch. 2016-40; s. 1, ch. 2018-68; s. 15, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 1, ch. 99-278",
+        "s. 112, ch. 2000-349",
+        "s. 1, ch. 2004-361",
+        "s. 21, ch. 2016-40",
+        "s. 1, ch. 2018-68",
+        "s. 15, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2105",
+      "section_path": "title-43-domestic-relations/sec-0744-2105.md",
+      "history": [
+        "History.—s. 9, ch. 2002-195; s. 14, ch. 2004-260; ss. 1, 2, ch. 2006-179; ss. 1, 2, ch. 2011-228; s. 25, ch. 2014-96; s. 22, ch. 2016-40; s. 1, ch. 2018-20."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2002-195",
+        "s. 14, ch. 2004-260",
+        "ss. 1, 2, ch. 2006-179",
+        "ss. 1, 2, ch. 2011-228",
+        "s. 25, ch. 2014-96",
+        "s. 22, ch. 2016-40",
+        "s. 1, ch. 2018-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2106",
+      "section_path": "title-43-domestic-relations/sec-0744-2106.md",
+      "history": [
+        "History.—s. 3, ch. 2004-260; s. 23, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2004-260",
+        "s. 23, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2107",
+      "section_path": "title-43-domestic-relations/sec-0744-2107.md",
+      "history": [
+        "History.—s. 4, ch. 2004-260; s. 108, ch. 2013-18; s. 24, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2004-260",
+        "s. 108, ch. 2013-18",
+        "s. 24, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2108",
+      "section_path": "title-43-domestic-relations/sec-0744-2108.md",
+      "history": [
+        "History.—s. 5, ch. 2004-260; s. 25, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2004-260",
+        "s. 25, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2109",
+      "section_path": "title-43-domestic-relations/sec-0744-2109.md",
+      "history": [
+        "History.—s. 6, ch. 2004-260; s. 26, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2004-260",
+        "s. 26, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2111",
+      "section_path": "title-43-domestic-relations/sec-0744-2111.md",
+      "history": [
+        "History.—s. 1, ch. 2017-176; s. 1, ch. 2022-45; s. 123, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2017-176",
+        "s. 1, ch. 2022-45",
+        "s. 123, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.2112",
+      "section_path": "title-43-domestic-relations/sec-0744-2112.md",
+      "history": [
+        "History.—s. 1, ch. 2022-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2022-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.301",
+      "section_path": "title-43-domestic-relations/sec-0744-301.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 8, ch. 75-166; s. 7, ch. 75-222; s. 1, ch. 77-190; s. 3, ch. 79-221; s. 17, ch. 89-96; s. 22, ch. 92-200; s. 66, ch. 95-211; s. 73, ch. 97-170; s. 11, ch. 2002-195; s. 8, ch. 2005-101; s. 3, ch. 2006-178; s. 2, ch. 2010-27; s. 1, ch. 2012-48; s. 5, ch. 2015-112; s. 3, ch. 2023-209."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 8, ch. 75-166",
+        "s. 7, ch. 75-222",
+        "s. 1, ch. 77-190",
+        "s. 3, ch. 79-221",
+        "s. 17, ch. 89-96",
+        "s. 22, ch. 92-200",
+        "s. 66, ch. 95-211",
+        "s. 73, ch. 97-170",
+        "s. 11, ch. 2002-195",
+        "s. 8, ch. 2005-101",
+        "s. 3, ch. 2006-178",
+        "s. 2, ch. 2010-27",
+        "s. 1, ch. 2012-48",
+        "s. 5, ch. 2015-112",
+        "s. 3, ch. 2023-209."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3021",
+      "section_path": "title-43-domestic-relations/sec-0744-3021.md",
+      "history": [
+        "History.—s. 9, ch. 90-271; s. 6, ch. 2015-112."
+      ],
+      "source_citations": [
+        "s. 9, ch. 90-271",
+        "s. 6, ch. 2015-112."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3025",
+      "section_path": "title-43-domestic-relations/sec-0744-3025.md",
+      "history": [
+        "History.—s. 4, ch. 2006-178; s. 5, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2006-178",
+        "s. 5, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3031",
+      "section_path": "title-43-domestic-relations/sec-0744-3031.md",
+      "history": [
+        "History.—s. 19, ch. 89-96; s. 10, ch. 90-271; s. 1070, ch. 97-102; s. 5, ch. 2006-178; s. 6, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 19, ch. 89-96",
+        "s. 10, ch. 90-271",
+        "s. 1070, ch. 97-102",
+        "s. 5, ch. 2006-178",
+        "s. 6, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.304",
+      "section_path": "title-43-domestic-relations/sec-0744-304.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 7, ch. 75-222; s. 1, ch. 77-174; s. 20, ch. 89-96; s. 11, ch. 90-271; s. 1071, ch. 97-102; s. 6, ch. 2006-178."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 7, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 20, ch. 89-96",
+        "s. 11, ch. 90-271",
+        "s. 1071, ch. 97-102",
+        "s. 6, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3045",
+      "section_path": "title-43-domestic-relations/sec-0744-3045.md",
+      "history": [
+        "History.—s. 21, ch. 89-96; s. 12, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 21, ch. 89-96",
+        "s. 12, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3046",
+      "section_path": "title-43-domestic-relations/sec-0744-3046.md",
+      "history": [
+        "History.—s. 23, ch. 92-200."
+      ],
+      "source_citations": [
+        "s. 23, ch. 92-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.306",
+      "section_path": "title-43-domestic-relations/sec-0744-306.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 7, ch. 75-222; s. 23, ch. 89-96; s. 1072, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 7, ch. 75-222",
+        "s. 23, ch. 89-96",
+        "s. 1072, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.307",
+      "section_path": "title-43-domestic-relations/sec-0744-307.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 7, ch. 75-222; s. 24, ch. 89-96; s. 67, ch. 95-211; s. 1073, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 7, ch. 75-222",
+        "s. 24, ch. 89-96",
+        "s. 67, ch. 95-211",
+        "s. 1073, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.308",
+      "section_path": "title-43-domestic-relations/sec-0744-308.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 7, ch. 75-222; s. 1, ch. 77-174; s. 25, ch. 89-96; s. 13, ch. 90-271; s. 1074, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 7, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 25, ch. 89-96",
+        "s. 13, ch. 90-271",
+        "s. 1074, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3085",
+      "section_path": "title-43-domestic-relations/sec-0744-3085.md",
+      "history": [
+        "History.—s. 11, ch. 2004-260."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2004-260."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.309",
+      "section_path": "title-43-domestic-relations/sec-0744-309.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 8, ch. 75-222; s. 4, ch. 79-221; s. 7, ch. 81-27; s. 2, ch. 83-139; s. 26, ch. 89-96; s. 14, ch. 90-271; s. 1, ch. 96-184; s. 5, ch. 96-354; s. 1781, ch. 97-102; s. 48, ch. 98-280; s. 159, ch. 98-403; s. 8, ch. 2000-135; s. 110, ch. 2000-349; s. 4, ch. 2002-195; s. 31, ch. 2004-267; s. 53, ch. 2010-114; s. 7, ch. 2015-83; s. 36, ch. 2016-40; s. 44, ch. 2025-153."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 8, ch. 75-222",
+        "s. 4, ch. 79-221",
+        "s. 7, ch. 81-27",
+        "s. 2, ch. 83-139",
+        "s. 26, ch. 89-96",
+        "s. 14, ch. 90-271",
+        "s. 1, ch. 96-184",
+        "s. 5, ch. 96-354",
+        "s. 1781, ch. 97-102",
+        "s. 48, ch. 98-280",
+        "s. 159, ch. 98-403",
+        "s. 8, ch. 2000-135",
+        "s. 110, ch. 2000-349",
+        "s. 4, ch. 2002-195",
+        "s. 31, ch. 2004-267",
+        "s. 53, ch. 2010-114",
+        "s. 7, ch. 2015-83",
+        "s. 36, ch. 2016-40",
+        "s. 44, ch. 2025-153."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3115",
+      "section_path": "title-43-domestic-relations/sec-0744-3115.md",
+      "history": [
+        "History.—s. 6, ch. 92-199; s. 1, ch. 94-183; s. 7, ch. 2006-178; s. 8, ch. 2015-83; s. 1, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 6, ch. 92-199",
+        "s. 1, ch. 94-183",
+        "s. 7, ch. 2006-178",
+        "s. 8, ch. 2015-83",
+        "s. 1, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.312",
+      "section_path": "title-43-domestic-relations/sec-0744-312.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 12, ch. 75-222; s. 1, ch. 77-174; s. 5, ch. 79-221; s. 27, ch. 89-96; s. 15, ch. 90-271; s. 9, ch. 2015-83; s. 1, ch. 2020-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 12, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 5, ch. 79-221",
+        "s. 27, ch. 89-96",
+        "s. 15, ch. 90-271",
+        "s. 9, ch. 2015-83",
+        "s. 1, ch. 2020-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3125",
+      "section_path": "title-43-domestic-relations/sec-0744-3125.md",
+      "history": [
+        "History.—s. 29, ch. 89-96; s. 16, ch. 90-271; s. 1075, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 29, ch. 89-96",
+        "s. 16, ch. 90-271",
+        "s. 1075, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3135",
+      "section_path": "title-43-domestic-relations/sec-0744-3135.md",
+      "history": [
+        "History.—s. 30, ch. 89-96; s. 1076, ch. 97-102; s. 2, ch. 97-161; s. 10, ch. 99-277; s. 5, ch. 2002-195; s. 10, ch. 2003-57; s. 114, ch. 2003-402; s. 12, ch. 2004-260; s. 22, ch. 2004-267; s. 8, ch. 2006-178; s. 1, ch. 2007-127; s. 58, ch. 2013-116; s. 2, ch. 2014-124; s. 27, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 30, ch. 89-96",
+        "s. 1076, ch. 97-102",
+        "s. 2, ch. 97-161",
+        "s. 10, ch. 99-277",
+        "s. 5, ch. 2002-195",
+        "s. 10, ch. 2003-57",
+        "s. 114, ch. 2003-402",
+        "s. 12, ch. 2004-260",
+        "s. 22, ch. 2004-267",
+        "s. 8, ch. 2006-178",
+        "s. 1, ch. 2007-127",
+        "s. 58, ch. 2013-116",
+        "s. 2, ch. 2014-124",
+        "s. 27, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3145",
+      "section_path": "title-43-domestic-relations/sec-0744-3145.md",
+      "history": [
+        "History.—s. 31, ch. 89-96; s. 17, ch. 90-271; s. 1077, ch. 97-102; s. 3, ch. 97-161; s. 11, ch. 2003-57; s. 9, ch. 2006-178; s. 6, ch. 2023-259."
+      ],
+      "source_citations": [
+        "s. 31, ch. 89-96",
+        "s. 17, ch. 90-271",
+        "s. 1077, ch. 97-102",
+        "s. 3, ch. 97-161",
+        "s. 11, ch. 2003-57",
+        "s. 9, ch. 2006-178",
+        "s. 6, ch. 2023-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3201",
+      "section_path": "title-43-domestic-relations/sec-0744-3201.md",
+      "history": [
+        "History.—s. 33, ch. 89-96; s. 18, ch. 90-271; s. 22, ch. 95-401; s. 1078, ch. 97-102; s. 4, ch. 2024-242."
+      ],
+      "source_citations": [
+        "s. 33, ch. 89-96",
+        "s. 18, ch. 90-271",
+        "s. 22, ch. 95-401",
+        "s. 1078, ch. 97-102",
+        "s. 4, ch. 2024-242."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3203",
+      "section_path": "title-43-domestic-relations/sec-0744-3203.md",
+      "history": [
+        "History.—s. 10, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3215",
+      "section_path": "title-43-domestic-relations/sec-0744-3215.md",
+      "history": [
+        "History.—s. 34, ch. 89-96; s. 19, ch. 90-271; s. 36, ch. 93-39; s. 13, ch. 94-183; s. 44, ch. 96-169; s. 6, ch. 96-354; s. 1782, ch. 97-102; s. 10, ch. 2006-178; s. 5, ch. 2017-16; s. 2, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 34, ch. 89-96",
+        "s. 19, ch. 90-271",
+        "s. 36, ch. 93-39",
+        "s. 13, ch. 94-183",
+        "s. 44, ch. 96-169",
+        "s. 6, ch. 96-354",
+        "s. 1782, ch. 97-102",
+        "s. 10, ch. 2006-178",
+        "s. 5, ch. 2017-16",
+        "s. 2, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.331",
+      "section_path": "title-43-domestic-relations/sec-0744-331.md",
+      "history": [
+        "History.—ss. 9, 26, ch. 75-222; s. 4, ch. 77-328; s. 1, ch. 78-342; s. 6, ch. 79-221; s. 35, ch. 89-96; s. 20, ch. 90-271; s. 4, ch. 91-303; s. 5, ch. 91-306; s. 7, ch. 96-354; s. 1783, ch. 97-102; s. 76, ch. 2004-265; s. 4, ch. 2006-77; s. 11, ch. 2006-178; s. 44, ch. 2006-217; s. 28, ch. 2007-62; s. 11, ch. 2015-83; s. 33, ch. 2016-40; s. 1, ch. 2017-16; s. 89, ch. 2018-110; s. 35, ch. 2020-9; s. 11, ch. 2022-195; s. 5, ch. 2024-242; s. 2, ch. 2026-154."
+      ],
+      "source_citations": [
+        "ss. 9, 26, ch. 75-222",
+        "s. 4, ch. 77-328",
+        "s. 1, ch. 78-342",
+        "s. 6, ch. 79-221",
+        "s. 35, ch. 89-96",
+        "s. 20, ch. 90-271",
+        "s. 4, ch. 91-303",
+        "s. 5, ch. 91-306",
+        "s. 7, ch. 96-354",
+        "s. 1783, ch. 97-102",
+        "s. 76, ch. 2004-265",
+        "s. 4, ch. 2006-77",
+        "s. 11, ch. 2006-178",
+        "s. 44, ch. 2006-217",
+        "s. 28, ch. 2007-62",
+        "s. 11, ch. 2015-83",
+        "s. 33, ch. 2016-40",
+        "s. 1, ch. 2017-16",
+        "s. 89, ch. 2018-110",
+        "s. 35, ch. 2020-9",
+        "s. 11, ch. 2022-195",
+        "s. 5, ch. 2024-242",
+        "s. 2, ch. 2026-154."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.334",
+      "section_path": "title-43-domestic-relations/sec-0744-334.md",
+      "history": [
+        "History.—ss. 11, 26, ch. 75-222; s. 7, ch. 79-221; s. 36, ch. 89-96; s. 21, ch. 90-271; s. 8, ch. 96-354; s. 1784, ch. 97-102; s. 2, ch. 2020-35."
+      ],
+      "source_citations": [
+        "ss. 11, 26, ch. 75-222",
+        "s. 7, ch. 79-221",
+        "s. 36, ch. 89-96",
+        "s. 21, ch. 90-271",
+        "s. 8, ch. 96-354",
+        "s. 1784, ch. 97-102",
+        "s. 2, ch. 2020-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3371",
+      "section_path": "title-43-domestic-relations/sec-0744-3371.md",
+      "history": [
+        "History.—s. 22, ch. 90-271; s. 1079, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 22, ch. 90-271",
+        "s. 1079, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.341",
+      "section_path": "title-43-domestic-relations/sec-0744-341.md",
+      "history": [
+        "History.—ss. 11, 26, ch. 75-222; s. 9, ch. 79-221; s. 4, ch. 84-31; s. 38, ch. 89-96; s. 23, ch. 90-271; s. 1080, ch. 97-102; s. 12, ch. 2006-178."
+      ],
+      "source_citations": [
+        "ss. 11, 26, ch. 75-222",
+        "s. 9, ch. 79-221",
+        "s. 4, ch. 84-31",
+        "s. 38, ch. 89-96",
+        "s. 23, ch. 90-271",
+        "s. 1080, ch. 97-102",
+        "s. 12, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.342",
+      "section_path": "title-43-domestic-relations/sec-0744-342.md",
+      "history": [
+        "History.—s. 71, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 71, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.345",
+      "section_path": "title-43-domestic-relations/sec-0744-345.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 12, ch. 75-222; s. 28, ch. 89-96; s. 25, ch. 90-271; s. 7, ch. 92-199; s. 2, ch. 94-183; s. 13, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 12, ch. 75-222",
+        "s. 28, ch. 89-96",
+        "s. 25, ch. 90-271",
+        "s. 7, ch. 92-199",
+        "s. 2, ch. 94-183",
+        "s. 13, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.347",
+      "section_path": "title-43-domestic-relations/sec-0744-347.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 19, 26, ch. 75-222; s. 40, ch. 89-96; s. 1082, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 19, 26, ch. 75-222",
+        "s. 40, ch. 89-96",
+        "s. 1082, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.351",
+      "section_path": "title-43-domestic-relations/sec-0744-351.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 19, 26, ch. 75-222; s. 1, ch. 77-174; s. 2, ch. 78-342; s. 2, ch. 86-120; s. 41, ch. 89-96; s. 26, ch. 90-271; s. 30, ch. 95-401; s. 9, ch. 96-354; s. 1785, ch. 97-102; s. 39, ch. 2014-97; s. 21, ch. 2023-205."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 19, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 2, ch. 78-342",
+        "s. 2, ch. 86-120",
+        "s. 41, ch. 89-96",
+        "s. 26, ch. 90-271",
+        "s. 30, ch. 95-401",
+        "s. 9, ch. 96-354",
+        "s. 1785, ch. 97-102",
+        "s. 39, ch. 2014-97",
+        "s. 21, ch. 2023-205."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.354",
+      "section_path": "title-43-domestic-relations/sec-0744-354.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 19, 26, ch. 75-222; s. 42, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 19, 26, ch. 75-222",
+        "s. 42, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.357",
+      "section_path": "title-43-domestic-relations/sec-0744-357.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 19, 26, ch. 75-222; s. 43, ch. 89-96; s. 27, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 19, 26, ch. 75-222",
+        "s. 43, ch. 89-96",
+        "s. 27, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.358",
+      "section_path": "title-43-domestic-relations/sec-0744-358.md",
+      "history": [
+        "History.—s. 44, ch. 89-96; s. 28, ch. 90-271; s. 1083, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 44, ch. 89-96",
+        "s. 28, ch. 90-271",
+        "s. 1083, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.359",
+      "section_path": "title-43-domestic-relations/sec-0744-359.md",
+      "history": [
+        "History.—s. 14, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 14, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.361",
+      "section_path": "title-43-domestic-relations/sec-0744-361.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 6, 26, ch. 75-222; s. 45, ch. 89-96; s. 29, ch. 90-271; s. 1084, ch. 97-102; s. 13, ch. 2006-178; s. 45, ch. 2006-217; s. 15, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 6, 26, ch. 75-222",
+        "s. 45, ch. 89-96",
+        "s. 29, ch. 90-271",
+        "s. 1084, ch. 97-102",
+        "s. 13, ch. 2006-178",
+        "s. 45, ch. 2006-217",
+        "s. 15, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.362",
+      "section_path": "title-43-domestic-relations/sec-0744-362.md",
+      "history": [
+        "History.—s. 46, ch. 89-96; s. 30, ch. 90-271; s. 24, ch. 92-200; s. 23, ch. 95-401; s. 1085, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 46, ch. 89-96",
+        "s. 30, ch. 90-271",
+        "s. 24, ch. 92-200",
+        "s. 23, ch. 95-401",
+        "s. 1085, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.363",
+      "section_path": "title-43-domestic-relations/sec-0744-363.md",
+      "history": [
+        "History.—s. 47, ch. 89-96; s. 31, ch. 90-271; s. 1086, ch. 97-102; s. 3, ch. 2020-35; s. 3, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 47, ch. 89-96",
+        "s. 31, ch. 90-271",
+        "s. 1086, ch. 97-102",
+        "s. 3, ch. 2020-35",
+        "s. 3, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.365",
+      "section_path": "title-43-domestic-relations/sec-0744-365.md",
+      "history": [
+        "History.—s. 49, ch. 89-96; s. 32, ch. 90-271; s. 1087, ch. 97-102; s. 115, ch. 2003-402; s. 77, ch. 2004-265; s. 14, ch. 2006-178; s. 40, ch. 2008-111; s. 26, ch. 2019-58."
+      ],
+      "source_citations": [
+        "s. 49, ch. 89-96",
+        "s. 32, ch. 90-271",
+        "s. 1087, ch. 97-102",
+        "s. 115, ch. 2003-402",
+        "s. 77, ch. 2004-265",
+        "s. 14, ch. 2006-178",
+        "s. 40, ch. 2008-111",
+        "s. 26, ch. 2019-58."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.367",
+      "section_path": "title-43-domestic-relations/sec-0744-367.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 6, 26, ch. 75-222; s. 50, ch. 89-96; s. 33, ch. 90-271; s. 25, ch. 92-200; s. 68, ch. 95-211; s. 24, ch. 95-401; s. 10, ch. 96-354; s. 15, ch. 2006-178; s. 16, ch. 2015-83; s. 2, ch. 2017-16; s. 4, ch. 2020-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 6, 26, ch. 75-222",
+        "s. 50, ch. 89-96",
+        "s. 33, ch. 90-271",
+        "s. 25, ch. 92-200",
+        "s. 68, ch. 95-211",
+        "s. 24, ch. 95-401",
+        "s. 10, ch. 96-354",
+        "s. 15, ch. 2006-178",
+        "s. 16, ch. 2015-83",
+        "s. 2, ch. 2017-16",
+        "s. 4, ch. 2020-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3675",
+      "section_path": "title-43-domestic-relations/sec-0744-3675.md",
+      "history": [
+        "History.—s. 51, ch. 89-96; s. 34, ch. 90-271; s. 11, ch. 96-354; s. 1786, ch. 97-102; s. 4, ch. 97-161; s. 16, ch. 2006-178; s. 36, ch. 2020-9; s. 5, ch. 2020-35; s. 3, ch. 2020-73; s. 4, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 51, ch. 89-96",
+        "s. 34, ch. 90-271",
+        "s. 11, ch. 96-354",
+        "s. 1786, ch. 97-102",
+        "s. 4, ch. 97-161",
+        "s. 16, ch. 2006-178",
+        "s. 36, ch. 2020-9",
+        "s. 5, ch. 2020-35",
+        "s. 3, ch. 2020-73",
+        "s. 4, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3678",
+      "section_path": "title-43-domestic-relations/sec-0744-3678.md",
+      "history": [
+        "History.—s. 52, ch. 89-96; ss. 35, 72, ch. 90-271; s. 1088, ch. 97-102; s. 116, ch. 2003-402; s. 13, ch. 2004-260; s. 78, ch. 2004-265; s. 139, ch. 2005-2; s. 17, ch. 2006-178; s. 41, ch. 2008-111; s. 27, ch. 2019-58."
+      ],
+      "source_citations": [
+        "s. 52, ch. 89-96",
+        "ss. 35, 72, ch. 90-271",
+        "s. 1088, ch. 97-102",
+        "s. 116, ch. 2003-402",
+        "s. 13, ch. 2004-260",
+        "s. 78, ch. 2004-265",
+        "s. 139, ch. 2005-2",
+        "s. 17, ch. 2006-178",
+        "s. 41, ch. 2008-111",
+        "s. 27, ch. 2019-58."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3679",
+      "section_path": "title-43-domestic-relations/sec-0744-3679.md",
+      "history": [
+        "History.—s. 1, ch. 93-102; s. 18, ch. 2006-178; s. 44, ch. 2021-183."
+      ],
+      "source_citations": [
+        "s. 1, ch. 93-102",
+        "s. 18, ch. 2006-178",
+        "s. 44, ch. 2021-183."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.368",
+      "section_path": "title-43-domestic-relations/sec-0744-368.md",
+      "history": [
+        "History.—s. 53, ch. 89-96; s. 36, ch. 90-271; s. 1089, ch. 97-102; s. 19, ch. 2006-178; s. 3, ch. 2014-124; s. 2, ch. 2018-68; s. 7, ch. 2023-259."
+      ],
+      "source_citations": [
+        "s. 53, ch. 89-96",
+        "s. 36, ch. 90-271",
+        "s. 1089, ch. 97-102",
+        "s. 19, ch. 2006-178",
+        "s. 3, ch. 2014-124",
+        "s. 2, ch. 2018-68",
+        "s. 7, ch. 2023-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3685",
+      "section_path": "title-43-domestic-relations/sec-0744-3685.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 17, 26, ch. 75-222; s. 70, ch. 89-96; s. 37, ch. 90-271; s. 1090, ch. 97-102; s. 4, ch. 2014-124."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 17, 26, ch. 75-222",
+        "s. 70, ch. 89-96",
+        "s. 37, ch. 90-271",
+        "s. 1090, ch. 97-102",
+        "s. 4, ch. 2014-124."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.369",
+      "section_path": "title-43-domestic-relations/sec-0744-369.md",
+      "history": [
+        "History.—s. 54, ch. 89-96; s. 38, ch. 90-271; s. 1, ch. 99-277; s. 96, ch. 2004-11; s. 17, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 54, ch. 89-96",
+        "s. 38, ch. 90-271",
+        "s. 1, ch. 99-277",
+        "s. 96, ch. 2004-11",
+        "s. 17, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3701",
+      "section_path": "title-43-domestic-relations/sec-0744-3701.md",
+      "history": [
+        "History.—s. 39, ch. 90-271; s. 1091, ch. 97-102; s. 1, ch. 2015-84; s. 3, ch. 2018-68; s. 16, ch. 2026-74."
+      ],
+      "source_citations": [
+        "s. 39, ch. 90-271",
+        "s. 1091, ch. 97-102",
+        "s. 1, ch. 2015-84",
+        "s. 3, ch. 2018-68",
+        "s. 16, ch. 2026-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.371",
+      "section_path": "title-43-domestic-relations/sec-0744-371.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 6, 26, ch. 75-222; s. 55, ch. 89-96; s. 40, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 6, 26, ch. 75-222",
+        "s. 55, ch. 89-96",
+        "s. 40, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3715",
+      "section_path": "title-43-domestic-relations/sec-0744-3715.md",
+      "history": [
+        "History.—s. 56, ch. 89-96; s. 41, ch. 90-271; s. 1092, ch. 97-102; s. 18, ch. 2015-83."
+      ],
+      "source_citations": [
+        "s. 56, ch. 89-96",
+        "s. 41, ch. 90-271",
+        "s. 1092, ch. 97-102",
+        "s. 18, ch. 2015-83."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.372",
+      "section_path": "title-43-domestic-relations/sec-0744-372.md",
+      "history": [
+        "History.—s. 57, ch. 89-96; s. 42, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 57, ch. 89-96",
+        "s. 42, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3725",
+      "section_path": "title-43-domestic-relations/sec-0744-3725.md",
+      "history": [
+        "History.—s. 58, ch. 89-96; s. 43, ch. 90-271; s. 25, ch. 95-401; s. 1093, ch. 97-102; s. 3, ch. 2017-16."
+      ],
+      "source_citations": [
+        "s. 58, ch. 89-96",
+        "s. 43, ch. 90-271",
+        "s. 25, ch. 95-401",
+        "s. 1093, ch. 97-102",
+        "s. 3, ch. 2017-16."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.373",
+      "section_path": "title-43-domestic-relations/sec-0744-373.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 17, 26, ch. 75-222; s. 71, ch. 89-96; s. 44, ch. 90-271; s. 1094, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 17, 26, ch. 75-222",
+        "s. 71, ch. 89-96",
+        "s. 44, ch. 90-271",
+        "s. 1094, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.3735",
+      "section_path": "title-43-domestic-relations/sec-0744-3735.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 17, 26, ch. 75-222; s. 11, ch. 79-221; s. 72, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 17, 26, ch. 75-222",
+        "s. 11, ch. 79-221",
+        "s. 72, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.374",
+      "section_path": "title-43-domestic-relations/sec-0744-374.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 6, 26, ch. 75-222; s. 59, ch. 89-96; s. 45, ch. 90-271; s. 1095, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 6, 26, ch. 75-222",
+        "s. 59, ch. 89-96",
+        "s. 45, ch. 90-271",
+        "s. 1095, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.381",
+      "section_path": "title-43-domestic-relations/sec-0744-381.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 61, ch. 89-96; s. 46, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 61, ch. 89-96",
+        "s. 46, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.384",
+      "section_path": "title-43-domestic-relations/sec-0744-384.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 14, 26, ch. 75-222; s. 62, ch. 89-96; s. 47, ch. 90-271; s. 1096, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 14, 26, ch. 75-222",
+        "s. 62, ch. 89-96",
+        "s. 47, ch. 90-271",
+        "s. 1096, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.387",
+      "section_path": "title-43-domestic-relations/sec-0744-387.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 14, 26, ch. 75-222; s. 3, ch. 78-342; s. 10, ch. 79-221; s. 63, ch. 89-96; s. 48, ch. 90-271; s. 10, ch. 2002-195."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 14, 26, ch. 75-222",
+        "s. 3, ch. 78-342",
+        "s. 10, ch. 79-221",
+        "s. 63, ch. 89-96",
+        "s. 48, ch. 90-271",
+        "s. 10, ch. 2002-195."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.391",
+      "section_path": "title-43-domestic-relations/sec-0744-391.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 64, ch. 89-96; s. 1097, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 64, ch. 89-96",
+        "s. 1097, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.394",
+      "section_path": "title-43-domestic-relations/sec-0744-394.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 16, 26, ch. 75-222; s. 65, ch. 89-96; s. 49, ch. 90-271; s. 1098, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 16, 26, ch. 75-222",
+        "s. 65, ch. 89-96",
+        "s. 49, ch. 90-271",
+        "s. 1098, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.397",
+      "section_path": "title-43-domestic-relations/sec-0744-397.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 16, 26, ch. 75-222; s. 66, ch. 89-96; s. 50, ch. 90-271; s. 1099, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 16, 26, ch. 75-222",
+        "s. 66, ch. 89-96",
+        "s. 50, ch. 90-271",
+        "s. 1099, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.421",
+      "section_path": "title-43-domestic-relations/sec-0744-421.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 16, 26, ch. 75-222; s. 1, ch. 77-174; s. 1, ch. 78-305; s. 80, ch. 81-167; s. 84, ch. 83-55; s. 30, ch. 88-290; s. 67, ch. 89-96; s. 51, ch. 90-271; s. 37, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 16, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 1, ch. 78-305",
+        "s. 80, ch. 81-167",
+        "s. 84, ch. 83-55",
+        "s. 30, ch. 88-290",
+        "s. 67, ch. 89-96",
+        "s. 51, ch. 90-271",
+        "s. 37, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.422",
+      "section_path": "title-43-domestic-relations/sec-0744-422.md",
+      "history": [
+        "History.—s. 9, ch. 2023-213."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2023-213."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.441",
+      "section_path": "title-43-domestic-relations/sec-0744-441.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 22, 26, ch. 75-222; s. 1, ch. 77-174; s. 2, ch. 77-328; s. 281, ch. 79-400; s. 4, ch. 80-203; s. 3, ch. 86-120; s. 2, ch. 87-317; s. 73, ch. 89-96; s. 52, ch. 90-271; s. 1100, ch. 97-102; s. 11, ch. 97-240; s. 5, ch. 2006-77; s. 20, ch. 2006-178; s. 46, ch. 2006-217; s. 12, ch. 2011-183; s. 4, ch. 2017-16; s. 6, ch. 2020-35; s. 6, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 22, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 2, ch. 77-328",
+        "s. 281, ch. 79-400",
+        "s. 4, ch. 80-203",
+        "s. 3, ch. 86-120",
+        "s. 2, ch. 87-317",
+        "s. 73, ch. 89-96",
+        "s. 52, ch. 90-271",
+        "s. 1100, ch. 97-102",
+        "s. 11, ch. 97-240",
+        "s. 5, ch. 2006-77",
+        "s. 20, ch. 2006-178",
+        "s. 46, ch. 2006-217",
+        "s. 12, ch. 2011-183",
+        "s. 4, ch. 2017-16",
+        "s. 6, ch. 2020-35",
+        "s. 6, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.442",
+      "section_path": "title-43-domestic-relations/sec-0744-442.md",
+      "history": [
+        "History.—s. 21, ch. 2006-178."
+      ],
+      "source_citations": [
+        "s. 21, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.4431",
+      "section_path": "title-43-domestic-relations/sec-0744-4431.md",
+      "history": [
+        "History.—s. 5, ch. 2023-287."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2023-287."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.444",
+      "section_path": "title-43-domestic-relations/sec-0744-444.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 23, 26, ch. 75-222; s. 3, ch. 77-328; s. 282, ch. 79-400; s. 5, ch. 84-31; s. 74, ch. 89-96; s. 53, ch. 90-271; s. 1101, ch. 97-102; s. 8, ch. 2000-155; s. 12, ch. 2003-57; s. 18, ch. 2010-132; s. 4, ch. 2018-68."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 23, 26, ch. 75-222",
+        "s. 3, ch. 77-328",
+        "s. 282, ch. 79-400",
+        "s. 5, ch. 84-31",
+        "s. 74, ch. 89-96",
+        "s. 53, ch. 90-271",
+        "s. 1101, ch. 97-102",
+        "s. 8, ch. 2000-155",
+        "s. 12, ch. 2003-57",
+        "s. 18, ch. 2010-132",
+        "s. 4, ch. 2018-68."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.446",
+      "section_path": "title-43-domestic-relations/sec-0744-446.md",
+      "history": [
+        "History.—s. 75, ch. 89-96; s. 54, ch. 90-271; s. 1102, ch. 97-102; s. 6, ch. 2002-195; s. 7, ch. 2020-35."
+      ],
+      "source_citations": [
+        "s. 75, ch. 89-96",
+        "s. 54, ch. 90-271",
+        "s. 1102, ch. 97-102",
+        "s. 6, ch. 2002-195",
+        "s. 7, ch. 2020-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.447",
+      "section_path": "title-43-domestic-relations/sec-0744-447.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 24, 26, ch. 75-222; s. 12, ch. 79-221; s. 76, ch. 89-96; s. 55, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 24, 26, ch. 75-222",
+        "s. 12, ch. 79-221",
+        "s. 76, ch. 89-96",
+        "s. 55, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.451",
+      "section_path": "title-43-domestic-relations/sec-0744-451.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 24, 26, ch. 75-222; s. 77, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 24, 26, ch. 75-222",
+        "s. 77, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.454",
+      "section_path": "title-43-domestic-relations/sec-0744-454.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 24, 26, ch. 75-222; s. 1, ch. 77-174; s. 78, ch. 89-96; s. 2, ch. 96-184; s. 12, ch. 96-354; s. 1787, ch. 97-102; s. 5, ch. 97-161."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 24, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 78, ch. 89-96",
+        "s. 2, ch. 96-184",
+        "s. 12, ch. 96-354",
+        "s. 1787, ch. 97-102",
+        "s. 5, ch. 97-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.457",
+      "section_path": "title-43-domestic-relations/sec-0744-457.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 24, 26, ch. 75-222; s. 13, ch. 79-221; s. 3, ch. 87-317; s. 79, ch. 89-96; s. 56, ch. 90-271; s. 1103, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 24, 26, ch. 75-222",
+        "s. 13, ch. 79-221",
+        "s. 3, ch. 87-317",
+        "s. 79, ch. 89-96",
+        "s. 56, ch. 90-271",
+        "s. 1103, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.461",
+      "section_path": "title-43-domestic-relations/sec-0744-461.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 24, 26, ch. 75-222; s. 80, ch. 89-96."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 24, 26, ch. 75-222",
+        "s. 80, ch. 89-96."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.462",
+      "section_path": "title-43-domestic-relations/sec-0744-462.md",
+      "history": [
+        "History.—s. 6, ch. 2006-77; s. 47, ch. 2006-217."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2006-77",
+        "s. 47, ch. 2006-217."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.464",
+      "section_path": "title-43-domestic-relations/sec-0744-464.md",
+      "history": [
+        "History.—ss. 10, 26, ch. 75-222; s. 1, ch. 77-174; s. 81, ch. 89-96; s. 57, ch. 90-271; s. 1104, ch. 97-102; s. 22, ch. 2006-178; s. 19, ch. 2015-83; s. 6, ch. 2024-242."
+      ],
+      "source_citations": [
+        "ss. 10, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 81, ch. 89-96",
+        "s. 57, ch. 90-271",
+        "s. 1104, ch. 97-102",
+        "s. 22, ch. 2006-178",
+        "s. 19, ch. 2015-83",
+        "s. 6, ch. 2024-242."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.467",
+      "section_path": "title-43-domestic-relations/sec-0744-467.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 19, 26, ch. 75-222; s. 1, ch. 77-174; s. 82, ch. 89-96; s. 58, ch. 90-271; s. 1105, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 19, 26, ch. 75-222",
+        "s. 1, ch. 77-174",
+        "s. 82, ch. 89-96",
+        "s. 58, ch. 90-271",
+        "s. 1105, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.471",
+      "section_path": "title-43-domestic-relations/sec-0744-471.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; s. 83, ch. 89-96; s. 26, ch. 95-401; s. 1106, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "s. 83, ch. 89-96",
+        "s. 26, ch. 95-401",
+        "s. 1106, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.474",
+      "section_path": "title-43-domestic-relations/sec-0744-474.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 84, ch. 89-96; s. 138, ch. 95-418; s. 13, ch. 96-354; s. 1788, ch. 97-102; s. 283, ch. 99-8; s. 2, ch. 99-277; s. 111, ch. 2000-349; s. 32, ch. 2004-267; s. 23, ch. 2006-178; s. 54, ch. 2010-114; s. 5, ch. 2014-124."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 84, ch. 89-96",
+        "s. 138, ch. 95-418",
+        "s. 13, ch. 96-354",
+        "s. 1788, ch. 97-102",
+        "s. 283, ch. 99-8",
+        "s. 2, ch. 99-277",
+        "s. 111, ch. 2000-349",
+        "s. 32, ch. 2004-267",
+        "s. 23, ch. 2006-178",
+        "s. 54, ch. 2010-114",
+        "s. 5, ch. 2014-124."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.477",
+      "section_path": "title-43-domestic-relations/sec-0744-477.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 85, ch. 89-96; s. 59, ch. 90-271."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 85, ch. 89-96",
+        "s. 59, ch. 90-271."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.511",
+      "section_path": "title-43-domestic-relations/sec-0744-511.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 86, ch. 89-96; s. 60, ch. 90-271; s. 1107, ch. 97-102; s. 24, ch. 2006-178."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 86, ch. 89-96",
+        "s. 60, ch. 90-271",
+        "s. 1107, ch. 97-102",
+        "s. 24, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.514",
+      "section_path": "title-43-domestic-relations/sec-0744-514.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 87, ch. 89-96; s. 61, ch. 90-271; s. 1108, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 87, ch. 89-96",
+        "s. 61, ch. 90-271",
+        "s. 1108, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.517",
+      "section_path": "title-43-domestic-relations/sec-0744-517.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 88, ch. 89-96; s. 62, ch. 90-271; s. 1109, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 88, ch. 89-96",
+        "s. 62, ch. 90-271",
+        "s. 1109, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.521",
+      "section_path": "title-43-domestic-relations/sec-0744-521.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 4, ch. 86-120; s. 89, ch. 89-96; s. 63, ch. 90-271; s. 1110, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 4, ch. 86-120",
+        "s. 89, ch. 89-96",
+        "s. 63, ch. 90-271",
+        "s. 1110, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.524",
+      "section_path": "title-43-domestic-relations/sec-0744-524.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 90, ch. 89-96; s. 64, ch. 90-271; s. 1111, ch. 97-102; s. 37, ch. 2016-40."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 90, ch. 89-96",
+        "s. 64, ch. 90-271",
+        "s. 1111, ch. 97-102",
+        "s. 37, ch. 2016-40."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.527",
+      "section_path": "title-43-domestic-relations/sec-0744-527.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 91, ch. 89-96; s. 65, ch. 90-271; s. 1112, ch. 97-102; s. 25, ch. 2006-178."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 91, ch. 89-96",
+        "s. 65, ch. 90-271",
+        "s. 1112, ch. 97-102",
+        "s. 25, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.528",
+      "section_path": "title-43-domestic-relations/sec-0744-528.md",
+      "history": [
+        "History.—s. 92, ch. 89-96; s. 66, ch. 90-271; s. 26, ch. 2006-178."
+      ],
+      "source_citations": [
+        "s. 92, ch. 89-96",
+        "s. 66, ch. 90-271",
+        "s. 26, ch. 2006-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.531",
+      "section_path": "title-43-domestic-relations/sec-0744-531.md",
+      "history": [
+        "History.—s. 1, ch. 74-106; ss. 21, 26, ch. 75-222; s. 93, ch. 89-96; s. 67, ch. 90-271; s. 1113, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-106",
+        "ss. 21, 26, ch. 75-222",
+        "s. 93, ch. 89-96",
+        "s. 67, ch. 90-271",
+        "s. 1113, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.534",
+      "section_path": "title-43-domestic-relations/sec-0744-534.md",
+      "history": [
+        "History.—s. 5, ch. 86-120; s. 94, ch. 89-96; s. 68, ch. 90-271; s. 1114, ch. 97-102; s. 7, ch. 2002-195; s. 13, ch. 2003-57; s. 1898, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 5, ch. 86-120",
+        "s. 94, ch. 89-96",
+        "s. 68, ch. 90-271",
+        "s. 1114, ch. 97-102",
+        "s. 7, ch. 2002-195",
+        "s. 13, ch. 2003-57",
+        "s. 1898, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.602",
+      "section_path": "title-43-domestic-relations/sec-0744-602.md",
+      "history": [
+        "History.—s. 18, ch. 14579, 1929; CGL 1936 Supp. 2146(1); s. 1, ch. 84-62; s. 38, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 18, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(1)",
+        "s. 1, ch. 84-62",
+        "s. 38, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.604",
+      "section_path": "title-43-domestic-relations/sec-0744-604.md",
+      "history": [
+        "History.—s. 1, ch. 14579, 1929; CGL 1936 Supp. 2146(2); s. 1, ch. 73-304; s. 2, ch. 84-62; s. 95, ch. 89-96; s. 39, ch. 93-268; s. 1115, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(2)",
+        "s. 1, ch. 73-304",
+        "s. 2, ch. 84-62",
+        "s. 95, ch. 89-96",
+        "s. 39, ch. 93-268",
+        "s. 1115, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.607",
+      "section_path": "title-43-domestic-relations/sec-0744-607.md",
+      "history": [
+        "History.—s. 3, ch. 21795, 1943; s. 3, ch. 84-62; s. 40, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 3, ch. 21795, 1943",
+        "s. 3, ch. 84-62",
+        "s. 40, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.609",
+      "section_path": "title-43-domestic-relations/sec-0744-609.md",
+      "history": [
+        "History.—s. 22, ch. 84-62; s. 41, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 22, ch. 84-62",
+        "s. 41, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.613",
+      "section_path": "title-43-domestic-relations/sec-0744-613.md",
+      "history": [
+        "History.—ss. 2, 5, 6, ch. 14579, 1929; CGL 1936 Supp. 2146(3), (6), (7); s. 1, ch. 73-304; s. 5, ch. 84-62; s. 42, ch. 93-268; s. 1116, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 2, 5, 6, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(3), (6), (7)",
+        "s. 1, ch. 73-304",
+        "s. 5, ch. 84-62",
+        "s. 42, ch. 93-268",
+        "s. 1116, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.616",
+      "section_path": "title-43-domestic-relations/sec-0744-616.md",
+      "history": [
+        "History.—s. 4, ch. 14579, 1929; CGL 1936 Supp. 2146(5); s. 1, ch. 73-304; s. 6, ch. 84-62; s. 43, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 4, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(5)",
+        "s. 1, ch. 73-304",
+        "s. 6, ch. 84-62",
+        "s. 43, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.617",
+      "section_path": "title-43-domestic-relations/sec-0744-617.md",
+      "history": [
+        "History.—s. 2, ch. 11906, 1927; s. 7, ch. 14579, 1929; CGL 2134; CGL 1936 Supp. 2146(8); s. 7, ch. 84-62; s. 44, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 2, ch. 11906, 1927",
+        "s. 7, ch. 14579, 1929",
+        "CGL 2134",
+        "CGL 1936 Supp. 2146(8)",
+        "s. 7, ch. 84-62",
+        "s. 44, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.618",
+      "section_path": "title-43-domestic-relations/sec-0744-618.md",
+      "history": [
+        "History.—s. 4, ch. 11906, 1927; CGL 2136; s. 24, ch. 73-334; s. 6, ch. 84-62; s. 1117, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 4, ch. 11906, 1927",
+        "CGL 2136",
+        "s. 24, ch. 73-334",
+        "s. 6, ch. 84-62",
+        "s. 1117, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.619",
+      "section_path": "title-43-domestic-relations/sec-0744-619.md",
+      "history": [
+        "History.—s. 8, ch. 14579, 1929; CGL 1936 Supp. 2146(9); s. 7, ch. 84-62."
+      ],
+      "source_citations": [
+        "s. 8, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(9)",
+        "s. 7, ch. 84-62."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.621",
+      "section_path": "title-43-domestic-relations/sec-0744-621.md",
+      "history": [
+        "History.—s. 6, ch. 11906, 1927; CGL 2138; s. 24, ch. 73-334; s. 10, ch. 84-62; s. 1118, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 6, ch. 11906, 1927",
+        "CGL 2138",
+        "s. 24, ch. 73-334",
+        "s. 10, ch. 84-62",
+        "s. 1118, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.622",
+      "section_path": "title-43-domestic-relations/sec-0744-622.md",
+      "history": [
+        "History.—s. 6, ch. 11906, 1927; CGL 2138; s. 8, ch. 84-62; s. 45, ch. 93-268; s. 1119, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 6, ch. 11906, 1927",
+        "CGL 2138",
+        "s. 8, ch. 84-62",
+        "s. 45, ch. 93-268",
+        "s. 1119, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.624",
+      "section_path": "title-43-domestic-relations/sec-0744-624.md",
+      "history": [
+        "History.—s. 13, ch. 14579, 1929; CGL 1936 Supp. 2146(14); s. 1, ch. 73-304; s. 10, ch. 84-62; s. 46, ch. 93-268; s. 1120, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 13, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(14)",
+        "s. 1, ch. 73-304",
+        "s. 10, ch. 84-62",
+        "s. 46, ch. 93-268",
+        "s. 1120, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.625",
+      "section_path": "title-43-domestic-relations/sec-0744-625.md",
+      "history": [
+        "History.—s. 9, ch. 84-62; s. 47, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 9, ch. 84-62",
+        "s. 47, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.626",
+      "section_path": "title-43-domestic-relations/sec-0744-626.md",
+      "history": [
+        "History.—s. 9, ch. 84-62; s. 48, ch. 93-268; s. 1121, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 9, ch. 84-62",
+        "s. 48, ch. 93-268",
+        "s. 1121, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.627",
+      "section_path": "title-43-domestic-relations/sec-0744-627.md",
+      "history": [
+        "History.—s. 12, ch. 14579, 1929; s. 1, ch. 17473, 1935; CGL 1936 Supp. 2146(13); s. 10, ch. 84-62."
+      ],
+      "source_citations": [
+        "s. 12, ch. 14579, 1929",
+        "s. 1, ch. 17473, 1935",
+        "CGL 1936 Supp. 2146(13)",
+        "s. 10, ch. 84-62."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.631",
+      "section_path": "title-43-domestic-relations/sec-0744-631.md",
+      "history": [
+        "History.—s. 9, ch. 11906, 1927; CGL 2141; s. 24, ch. 73-334; s. 11, ch. 84-62; s. 1122, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 9, ch. 11906, 1927",
+        "CGL 2141",
+        "s. 24, ch. 73-334",
+        "s. 11, ch. 84-62",
+        "s. 1122, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.634",
+      "section_path": "title-43-domestic-relations/sec-0744-634.md",
+      "history": [
+        "History.—ss. 7, 8, ch. 11906, 1927; CGL 2139, 2140; ss. 9, 10, ch. 14579, 1929; CGL 1936 Supp. 2146(10), (11); s. 1, ch. 73-304; s. 12, ch. 84-62; s. 49, ch. 93-268; s. 1123, ch. 97-102."
+      ],
+      "source_citations": [
+        "ss. 7, 8, ch. 11906, 1927",
+        "CGL 2139, 2140",
+        "ss. 9, 10, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(10), (11)",
+        "s. 1, ch. 73-304",
+        "s. 12, ch. 84-62",
+        "s. 49, ch. 93-268",
+        "s. 1123, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.637",
+      "section_path": "title-43-domestic-relations/sec-0744-637.md",
+      "history": [
+        "History.—s. 14, ch. 14579, 1929; CGL 1936 Supp. 2146(15); s. 7, ch. 29749, 1955; s. 1, ch. 73-304; s. 13, ch. 84-62; s. 50, ch. 93-268; s. 1124, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 14, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(15)",
+        "s. 7, ch. 29749, 1955",
+        "s. 1, ch. 73-304",
+        "s. 13, ch. 84-62",
+        "s. 50, ch. 93-268",
+        "s. 1124, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.638",
+      "section_path": "title-43-domestic-relations/sec-0744-638.md",
+      "history": [
+        "History.—s. 10, ch. 11906, 1927; CGL 2142; s. 1, ch. 73-304; s. 24, ch. 73-334; s. 7, ch. 84-62; s. 11, ch. 87-145; s. 51, ch. 93-268; s. 1125, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 10, ch. 11906, 1927",
+        "CGL 2142",
+        "s. 1, ch. 73-304",
+        "s. 24, ch. 73-334",
+        "s. 7, ch. 84-62",
+        "s. 11, ch. 87-145",
+        "s. 51, ch. 93-268",
+        "s. 1125, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.639",
+      "section_path": "title-43-domestic-relations/sec-0744-639.md",
+      "history": [
+        "History.—s. 7, ch. 84-62; s. 31, ch. 95-401; s. 16, ch. 97-93."
+      ],
+      "source_citations": [
+        "s. 7, ch. 84-62",
+        "s. 31, ch. 95-401",
+        "s. 16, ch. 97-93."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.641",
+      "section_path": "title-43-domestic-relations/sec-0744-641.md",
+      "history": [
+        "History.—s. 11, ch. 14579, 1929; CGL 1936 Supp. 2146(12); s. 1, ch. 73-304; s. 14, ch. 84-62; s. 63, ch. 85-62; s. 52, ch. 93-268; s. 32, ch. 95-401; s. 1126, ch. 97-102; s. 85, ch. 99-3."
+      ],
+      "source_citations": [
+        "s. 11, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(12)",
+        "s. 1, ch. 73-304",
+        "s. 14, ch. 84-62",
+        "s. 63, ch. 85-62",
+        "s. 52, ch. 93-268",
+        "s. 32, ch. 95-401",
+        "s. 1126, ch. 97-102",
+        "s. 85, ch. 99-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.643",
+      "section_path": "title-43-domestic-relations/sec-0744-643.md",
+      "history": [
+        "History.—s. 16, ch. 14579, 1929; CGL 1936 Supp. 2146(17); s. 1, ch. 73-304; s. 15, ch. 84-62; s. 53, ch. 93-268; s. 1127, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 16, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(17)",
+        "s. 1, ch. 73-304",
+        "s. 15, ch. 84-62",
+        "s. 53, ch. 93-268",
+        "s. 1127, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.646",
+      "section_path": "title-43-domestic-relations/sec-0744-646.md",
+      "history": [
+        "History.—s. 11, ch. 11906, 1927; CGL 2143; s. 1, ch. 73-304; s. 13, ch. 77-121; s. 16, ch. 84-62; s. 54, ch. 93-268."
+      ],
+      "source_citations": [
+        "s. 11, ch. 11906, 1927",
+        "CGL 2143",
+        "s. 1, ch. 73-304",
+        "s. 13, ch. 77-121",
+        "s. 16, ch. 84-62",
+        "s. 54, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.649",
+      "section_path": "title-43-domestic-relations/sec-0744-649.md",
+      "history": [
+        "History.—s. 6, ch. 11906, 1927; CGL 2138; s. 17, ch. 84-62."
+      ],
+      "source_citations": [
+        "s. 6, ch. 11906, 1927",
+        "CGL 2138",
+        "s. 17, ch. 84-62."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.652",
+      "section_path": "title-43-domestic-relations/sec-0744-652.md",
+      "history": [
+        "History.—ss. 17, 19, ch. 14579, 1929; CGL 1936 Supp. 2146(18); s. 1, ch. 73-304; s. 18, ch. 84-62; s. 55, ch. 93-268."
+      ],
+      "source_citations": [
+        "ss. 17, 19, ch. 14579, 1929",
+        "CGL 1936 Supp. 2146(18)",
+        "s. 1, ch. 73-304",
+        "s. 18, ch. 84-62",
+        "s. 55, ch. 93-268."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "744.653",
+      "section_path": "title-43-domestic-relations/sec-0744-653.md",
+      "history": [
+        "History.—s. 6, ch. 91-306."
+      ],
+      "source_citations": [
+        "s. 6, ch. 91-306."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "source_sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d"
+    },
+    {
+      "section": "747.01",
+      "section_path": "title-43-domestic-relations/sec-0747-01.md",
+      "history": [
+        "History.—s. 1, ch. 22888, 1945; s. 1, ch. 67-458; s. 1129, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 1, ch. 22888, 1945",
+        "s. 1, ch. 67-458",
+        "s. 1129, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.011",
+      "section_path": "title-43-domestic-relations/sec-0747-011.md",
+      "history": [
+        "History.—s. 1, ch. 71-103."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.02",
+      "section_path": "title-43-domestic-relations/sec-0747-02.md",
+      "history": [
+        "History.—s. 2, ch. 22888, 1945; s. 2, ch. 71-103; s. 1130, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 2, ch. 22888, 1945",
+        "s. 2, ch. 71-103",
+        "s. 1130, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.03",
+      "section_path": "title-43-domestic-relations/sec-0747-03.md",
+      "history": [
+        "History.—s. 3, ch. 22888, 1945; s. 5, ch. 71-103; s. 1131, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 3, ch. 22888, 1945",
+        "s. 5, ch. 71-103",
+        "s. 1131, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.031",
+      "section_path": "title-43-domestic-relations/sec-0747-031.md",
+      "history": [
+        "History.—s. 6, ch. 71-103."
+      ],
+      "source_citations": [
+        "s. 6, ch. 71-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.032",
+      "section_path": "title-43-domestic-relations/sec-0747-032.md",
+      "history": [
+        "History.—s. 7, ch. 71-103; s. 1132, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 7, ch. 71-103",
+        "s. 1132, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.033",
+      "section_path": "title-43-domestic-relations/sec-0747-033.md",
+      "history": [
+        "History.—s. 8, ch. 71-103; s. 1133, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 8, ch. 71-103",
+        "s. 1133, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.034",
+      "section_path": "title-43-domestic-relations/sec-0747-034.md",
+      "history": [
+        "History.—s. 9, ch. 71-103."
+      ],
+      "source_citations": [
+        "s. 9, ch. 71-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.035",
+      "section_path": "title-43-domestic-relations/sec-0747-035.md",
+      "history": [
+        "History.—s. 10, ch. 71-103; s. 32, ch. 73-334; s. 70, ch. 95-211."
+      ],
+      "source_citations": [
+        "s. 10, ch. 71-103",
+        "s. 32, ch. 73-334",
+        "s. 70, ch. 95-211."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.036",
+      "section_path": "title-43-domestic-relations/sec-0747-036.md",
+      "history": [
+        "History.—s. 11, ch. 71-103."
+      ],
+      "source_citations": [
+        "s. 11, ch. 71-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.04",
+      "section_path": "title-43-domestic-relations/sec-0747-04.md",
+      "history": [
+        "History.—s. 4, ch. 22888, 1945; s. 12, ch. 71-103; s. 1134, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 4, ch. 22888, 1945",
+        "s. 12, ch. 71-103",
+        "s. 1134, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.051",
+      "section_path": "title-43-domestic-relations/sec-0747-051.md",
+      "history": [
+        "History.—s. 3, ch. 71-103; s. 32, ch. 73-334; s. 1135, ch. 97-102; s. 19, ch. 98-246; s. 8, ch. 2021-205."
+      ],
+      "source_citations": [
+        "s. 3, ch. 71-103",
+        "s. 32, ch. 73-334",
+        "s. 1135, ch. 97-102",
+        "s. 19, ch. 98-246",
+        "s. 8, ch. 2021-205."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "747.052",
+      "section_path": "title-43-domestic-relations/sec-0747-052.md",
+      "history": [
+        "History.—s. 4, ch. 71-103; s. 1136, ch. 97-102."
+      ],
+      "source_citations": [
+        "s. 4, ch. 71-103",
+        "s. 1136, ch. 97-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "source_sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e"
+    },
+    {
+      "section": "751.01",
+      "section_path": "title-43-domestic-relations/sec-0751-01.md",
+      "history": [
+        "History.—s. 1, ch. 93-104; s. 1, ch. 2006-167; s. 2, ch. 2010-30; s. 1, ch. 2020-146."
+      ],
+      "source_citations": [
+        "s. 1, ch. 93-104",
+        "s. 1, ch. 2006-167",
+        "s. 2, ch. 2010-30",
+        "s. 1, ch. 2020-146."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "751.011",
+      "section_path": "title-43-domestic-relations/sec-0751-011.md",
+      "history": [
+        "History.—s. 2, ch. 93-104; s. 4, ch. 96-305; s. 2, ch. 2006-167; s. 3, ch. 2010-30; s. 2, ch. 2020-146."
+      ],
+      "source_citations": [
+        "s. 2, ch. 93-104",
+        "s. 4, ch. 96-305",
+        "s. 2, ch. 2006-167",
+        "s. 3, ch. 2010-30",
+        "s. 2, ch. 2020-146."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "751.02",
+      "section_path": "title-43-domestic-relations/sec-0751-02.md",
+      "history": [
+        "History.—s. 3, ch. 93-104; s. 3, ch. 2006-167; s. 4, ch. 2010-30; s. 3, ch. 2020-146."
+      ],
+      "source_citations": [
+        "s. 3, ch. 93-104",
+        "s. 3, ch. 2006-167",
+        "s. 4, ch. 2010-30",
+        "s. 3, ch. 2020-146."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "751.03",
+      "section_path": "title-43-domestic-relations/sec-0751-03.md",
+      "history": [
+        "History.—s. 4, ch. 93-104; s. 4, ch. 2006-167; s. 5, ch. 2010-30; s. 4, ch. 2020-146."
+      ],
+      "source_citations": [
+        "s. 4, ch. 93-104",
+        "s. 4, ch. 2006-167",
+        "s. 5, ch. 2010-30",
+        "s. 4, ch. 2020-146."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "751.04",
+      "section_path": "title-43-domestic-relations/sec-0751-04.md",
+      "history": [
+        "History.—s. 5, ch. 93-104; s. 6, ch. 2010-30."
+      ],
+      "source_citations": [
+        "s. 5, ch. 93-104",
+        "s. 6, ch. 2010-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "751.05",
+      "section_path": "title-43-domestic-relations/sec-0751-05.md",
+      "history": [
+        "History.—s. 6, ch. 93-104; s. 5, ch. 2006-167; s. 7, ch. 2010-30; s. 5, ch. 2020-146."
+      ],
+      "source_citations": [
+        "s. 6, ch. 93-104",
+        "s. 5, ch. 2006-167",
+        "s. 7, ch. 2010-30",
+        "s. 5, ch. 2020-146."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "source_sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d"
+    },
+    {
+      "section": "752.001",
+      "section_path": "title-43-domestic-relations/sec-0752-001.md",
+      "history": [
+        "History.—s. 5, ch. 90-273; s. 1, ch. 2015-134; s. 84, ch. 2016-10."
+      ],
+      "source_citations": [
+        "s. 5, ch. 90-273",
+        "s. 1, ch. 2015-134",
+        "s. 84, ch. 2016-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "source_sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3"
+    },
+    {
+      "section": "752.011",
+      "section_path": "title-43-domestic-relations/sec-0752-011.md",
+      "history": [
+        "History.—s. 3, ch. 2015-134; s. 1, ch. 2022-217."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2015-134",
+        "s. 1, ch. 2022-217."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "source_sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3"
+    },
+    {
+      "section": "752.015",
+      "section_path": "title-43-domestic-relations/sec-0752-015.md",
+      "history": [
+        "History.—s. 7, ch. 90-273; s. 6, ch. 2015-134."
+      ],
+      "source_citations": [
+        "s. 7, ch. 90-273",
+        "s. 6, ch. 2015-134."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "source_sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3"
+    },
+    {
+      "section": "752.02",
+      "section_path": "title-43-domestic-relations/sec-0752-02.md",
+      "history": [
+        "History.—s. 1, ch. 84-64; s. 64, ch. 85-62."
+      ],
+      "source_citations": [
+        "s. 1, ch. 84-64",
+        "s. 64, ch. 85-62."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "source_sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3"
+    },
+    {
+      "section": "752.071",
+      "section_path": "title-43-domestic-relations/sec-0752-071.md",
+      "history": [
+        "History.—s. 5, ch. 2015-134."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2015-134."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "source_sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3"
+    },
+    {
+      "section": "753.01",
+      "section_path": "title-43-domestic-relations/sec-0753-01.md",
+      "history": [
+        "History.—s. 6, ch. 2007-109; s. 37, ch. 2008-61; s. 292, ch. 2014-19."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2007-109",
+        "s. 37, ch. 2008-61",
+        "s. 292, ch. 2014-19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "source_sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7"
+    },
+    {
+      "section": "753.02",
+      "section_path": "title-43-domestic-relations/sec-0753-02.md",
+      "history": [
+        "History.—s. 7, ch. 2007-109."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2007-109."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "source_sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7"
+    },
+    {
+      "section": "753.03",
+      "section_path": "title-43-domestic-relations/sec-0753-03.md",
+      "history": [
+        "History.—s. 8, ch. 2007-109; s. 50, ch. 2011-213; s. 82, ch. 2012-5; s. 13, ch. 2020-6."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2007-109",
+        "s. 50, ch. 2011-213",
+        "s. 82, ch. 2012-5",
+        "s. 13, ch. 2020-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "source_sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7"
+    },
+    {
+      "section": "753.04",
+      "section_path": "title-43-domestic-relations/sec-0753-04.md",
+      "history": [
+        "History.—s. 9, ch. 2007-109."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2007-109."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "source_sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7"
+    },
+    {
+      "section": "753.05",
+      "section_path": "title-43-domestic-relations/sec-0753-05.md",
+      "history": [
+        "History.—s. 10, ch. 2007-109."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2007-109."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "source_sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7"
+    }
+  ]
+}

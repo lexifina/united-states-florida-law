@@ -1,0 +1,2378 @@
+{
+  "schema_version": 1,
+  "act_path": "title-24-vessels",
+  "title": "Florida Statutes, Title XXIV: Vessels",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV&StatuteYear=2026",
+  "source_title_sha256": "6ceb3329264a89dba64617169af22f2489985d01abefc5123535aa8c849ebcc9",
+  "sections": [
+    {
+      "section": "326.001",
+      "section_path": "title-24-vessels/sec-0326-001.md",
+      "history": [
+        "History.—ss. 1, 7, ch. 88-282; s. 4, ch. 91-429."
+      ],
+      "source_citations": [
+        "ss. 1, 7, ch. 88-282",
+        "s. 4, ch. 91-429."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "326.002",
+      "section_path": "title-24-vessels/sec-0326-002.md",
+      "history": [
+        "History.—ss. 2, 7, ch. 88-282; s. 2, ch. 89-128; s. 4, ch. 91-429; s. 34, ch. 94-218; s. 950, ch. 95-148; s. 14, ch. 2008-240; s. 1, ch. 2024-195."
+      ],
+      "source_citations": [
+        "ss. 2, 7, ch. 88-282",
+        "s. 2, ch. 89-128",
+        "s. 4, ch. 91-429",
+        "s. 34, ch. 94-218",
+        "s. 950, ch. 95-148",
+        "s. 14, ch. 2008-240",
+        "s. 1, ch. 2024-195."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "326.003",
+      "section_path": "title-24-vessels/sec-0326-003.md",
+      "history": [
+        "History.—ss. 3, 7, ch. 88-282; s. 3, ch. 89-128; s. 4, ch. 91-429; s. 1, ch. 93-55; s. 446, ch. 95-148; s. 66, ch. 98-200."
+      ],
+      "source_citations": [
+        "ss. 3, 7, ch. 88-282",
+        "s. 3, ch. 89-128",
+        "s. 4, ch. 91-429",
+        "s. 1, ch. 93-55",
+        "s. 446, ch. 95-148",
+        "s. 66, ch. 98-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "326.004",
+      "section_path": "title-24-vessels/sec-0326-004.md",
+      "history": [
+        "History.—ss. 4, 7, ch. 88-282; s. 4, ch. 89-128; s. 4, ch. 91-429; s. 1, ch. 92-13; s. 2, ch. 93-55; s. 447, ch. 95-148; s. 63, ch. 2014-17; s. 3, ch. 2020-160; s. 2, ch. 2024-195."
+      ],
+      "source_citations": [
+        "ss. 4, 7, ch. 88-282",
+        "s. 4, ch. 89-128",
+        "s. 4, ch. 91-429",
+        "s. 1, ch. 92-13",
+        "s. 2, ch. 93-55",
+        "s. 447, ch. 95-148",
+        "s. 63, ch. 2014-17",
+        "s. 3, ch. 2020-160",
+        "s. 2, ch. 2024-195."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "326.005",
+      "section_path": "title-24-vessels/sec-0326-005.md",
+      "history": [
+        "History.—ss. 5, 7, ch. 88-282; s. 5, ch. 89-128; s. 4, ch. 91-429; s. 448, ch. 95-148."
+      ],
+      "source_citations": [
+        "ss. 5, 7, ch. 88-282",
+        "s. 5, ch. 89-128",
+        "s. 4, ch. 91-429",
+        "s. 448, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "326.006",
+      "section_path": "title-24-vessels/sec-0326-006.md",
+      "history": [
+        "History.—ss. 6, 7, ch. 88-282; s. 6, ch. 89-128; s. 4, ch. 91-429; s. 3, ch. 93-55; s. 449, ch. 95-148; s. 366, ch. 2003-261; s. 15, ch. 2008-240."
+      ],
+      "source_citations": [
+        "ss. 6, 7, ch. 88-282",
+        "s. 6, ch. 89-128",
+        "s. 4, ch. 91-429",
+        "s. 3, ch. 93-55",
+        "s. 449, ch. 95-148",
+        "s. 366, ch. 2003-261",
+        "s. 15, ch. 2008-240."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "source_sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3"
+    },
+    {
+      "section": "327.01",
+      "section_path": "title-24-vessels/sec-0327-01.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 1, ch. 84-184; s. 5, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 1, ch. 84-184",
+        "s. 5, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.02",
+      "section_path": "title-24-vessels/sec-0327-02.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 63-103; s. 1, ch. 65-361; s. 17, ch. 69-216; ss. 25, 35, ch. 69-106; s. 3, ch. 70-336; s. 132, ch. 71-377; s. 1, ch. 72-16; s. 1, ch. 72-55; ss. 1, 15, ch. 74-327; s. 23, ch. 79-334; s. 1, ch. 81-100; s. 1, ch. 81-114; s. 76, ch. 82-226; s. 1, ch. 83-20; s. 2, ch. 84-184; s. 1, ch. 85-252; s. 1, ch. 88-133; s. 1, ch. 89-136; s. 2, ch. 89-250; s. 2, ch. 94-241; s. 152, ch. 94-356; s. 951, ch. 95-148; s. 1, ch. 95-333; s. 3, ch. 98-308; ss. 18, 89, ch. 99-245; s. 2, ch. 2000-362; s. 1, ch. 2006-172; s. 194, ch. 2008-247; s. 6, ch. 2009-86; s. 1, ch. 2013-194; s. 2, ch. 2014-70; s. 2, ch. 2017-163; s. 3, ch. 2021-184; s. 39, ch. 2025-8; s. 1, ch. 2025-147; s. 2, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 63-103",
+        "s. 1, ch. 65-361",
+        "s. 17, ch. 69-216",
+        "ss. 25, 35, ch. 69-106",
+        "s. 3, ch. 70-336",
+        "s. 132, ch. 71-377",
+        "s. 1, ch. 72-16",
+        "s. 1, ch. 72-55",
+        "ss. 1, 15, ch. 74-327",
+        "s. 23, ch. 79-334",
+        "s. 1, ch. 81-100",
+        "s. 1, ch. 81-114",
+        "s. 76, ch. 82-226",
+        "s. 1, ch. 83-20",
+        "s. 2, ch. 84-184",
+        "s. 1, ch. 85-252",
+        "s. 1, ch. 88-133",
+        "s. 1, ch. 89-136",
+        "s. 2, ch. 89-250",
+        "s. 2, ch. 94-241",
+        "s. 152, ch. 94-356",
+        "s. 951, ch. 95-148",
+        "s. 1, ch. 95-333",
+        "s. 3, ch. 98-308",
+        "ss. 18, 89, ch. 99-245",
+        "s. 2, ch. 2000-362",
+        "s. 1, ch. 2006-172",
+        "s. 194, ch. 2008-247",
+        "s. 6, ch. 2009-86",
+        "s. 1, ch. 2013-194",
+        "s. 2, ch. 2014-70",
+        "s. 2, ch. 2017-163",
+        "s. 3, ch. 2021-184",
+        "s. 39, ch. 2025-8",
+        "s. 1, ch. 2025-147",
+        "s. 2, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.04",
+      "section_path": "title-24-vessels/sec-0327-04.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 4, ch. 63-103; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 154, ch. 94-356; s. 48, ch. 95-333; s. 53, ch. 96-413; s. 67, ch. 98-200; s. 8, ch. 99-289; s. 3, ch. 2000-362; s. 4, ch. 2021-184; s. 15, ch. 2022-142; s. 8, ch. 2025-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 4, ch. 63-103",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 154, ch. 94-356",
+        "s. 48, ch. 95-333",
+        "s. 53, ch. 96-413",
+        "s. 67, ch. 98-200",
+        "s. 8, ch. 99-289",
+        "s. 3, ch. 2000-362",
+        "s. 4, ch. 2021-184",
+        "s. 15, ch. 2022-142",
+        "s. 8, ch. 2025-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.30",
+      "section_path": "title-24-vessels/sec-0327-30.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 4, ch. 61-511; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 34, ch. 79-65; s. 5, ch. 81-100; s. 24, ch. 87-243; s. 1, ch. 87-392; s. 3, ch. 89-117; s. 44, ch. 91-224; s. 455, ch. 95-148; s. 16, ch. 96-330; s. 41, ch. 97-96; s. 22, ch. 99-245; s. 2, ch. 2003-143; s. 2, ch. 2022-197; s. 3, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 4, ch. 61-511",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 34, ch. 79-65",
+        "s. 5, ch. 81-100",
+        "s. 24, ch. 87-243",
+        "s. 1, ch. 87-392",
+        "s. 3, ch. 89-117",
+        "s. 44, ch. 91-224",
+        "s. 455, ch. 95-148",
+        "s. 16, ch. 96-330",
+        "s. 41, ch. 97-96",
+        "s. 22, ch. 99-245",
+        "s. 2, ch. 2003-143",
+        "s. 2, ch. 2022-197",
+        "s. 3, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.301",
+      "section_path": "title-24-vessels/sec-0327-301.md",
+      "history": [
+        "History.—s. 17, ch. 96-330; s. 48, ch. 2002-1; s. 2, ch. 2004-74; s. 26, ch. 2014-221."
+      ],
+      "source_citations": [
+        "s. 17, ch. 96-330",
+        "s. 48, ch. 2002-1",
+        "s. 2, ch. 2004-74",
+        "s. 26, ch. 2014-221."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.3015",
+      "section_path": "title-24-vessels/sec-0327-3015.md",
+      "history": [
+        "History.—s. 4, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.302",
+      "section_path": "title-24-vessels/sec-0327-302.md",
+      "history": [
+        "History.—s. 5, ch. 2000-362."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2000-362."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.31",
+      "section_path": "title-24-vessels/sec-0327-31.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 18, ch. 96-330."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 18, ch. 96-330."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.32",
+      "section_path": "title-24-vessels/sec-0327-32.md",
+      "history": [
+        "History.—s. 3, ch. 59-400; s. 1, ch. 65-361; s. 5, ch. 84-188; s. 11, ch. 85-81."
+      ],
+      "source_citations": [
+        "s. 3, ch. 59-400",
+        "s. 1, ch. 65-361",
+        "s. 5, ch. 84-188",
+        "s. 11, ch. 85-81."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.33",
+      "section_path": "title-24-vessels/sec-0327-33.md",
+      "history": [
+        "History.—s. 1, ch. 59-400; s. 3, ch. 63-105; s. 1, ch. 65-361; s. 6, ch. 81-100; s. 6, ch. 84-188; s. 6, ch. 86-35; s. 2, ch. 88-133; s. 2, ch. 89-136; s. 45, ch. 91-224; s. 1, ch. 92-92; s. 6, ch. 2000-362; s. 1, ch. 2011-152; s. 1, ch. 2016-134; s. 4, ch. 2016-171; s. 5, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-400",
+        "s. 3, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 6, ch. 81-100",
+        "s. 6, ch. 84-188",
+        "s. 6, ch. 86-35",
+        "s. 2, ch. 88-133",
+        "s. 2, ch. 89-136",
+        "s. 45, ch. 91-224",
+        "s. 1, ch. 92-92",
+        "s. 6, ch. 2000-362",
+        "s. 1, ch. 2011-152",
+        "s. 1, ch. 2016-134",
+        "s. 4, ch. 2016-171",
+        "s. 5, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.331",
+      "section_path": "title-24-vessels/sec-0327-331.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 74-344; s. 64, ch. 74-383; s. 1, ch. 77-174; s. 1, ch. 86-35; ss. 7, 8, ch. 2000-362; s. 1, ch. 2014-138; s. 1, ch. 2016-171."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 74-344",
+        "s. 64, ch. 74-383",
+        "s. 1, ch. 77-174",
+        "s. 1, ch. 86-35",
+        "ss. 7, 8, ch. 2000-362",
+        "s. 1, ch. 2014-138",
+        "s. 1, ch. 2016-171."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.34",
+      "section_path": "title-24-vessels/sec-0327-34.md",
+      "history": [
+        "History.—s. 4, ch. 63-105; s. 1, ch. 65-361."
+      ],
+      "source_citations": [
+        "s. 4, ch. 63-105",
+        "s. 1, ch. 65-361."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.35",
+      "section_path": "title-24-vessels/sec-0327-35.md",
+      "history": [
+        "History.—s. 2, ch. 59-400; s. 5, ch. 63-105; s. 1, ch. 65-361; s. 1, ch. 71-81; s. 22, ch. 73-331; s. 5, ch. 83-187; s. 7, ch. 84-188; s. 7, ch. 91-255; s. 8, ch. 93-124; s. 456, ch. 95-148; s. 19, ch. 96-330; s. 98, ch. 97-264; s. 49, ch. 97-271; s. 10, ch. 98-308; s. 14, ch. 98-324; s. 47, ch. 2000-152; s. 11, ch. 2000-320; s. 28, ch. 2001-122; s. 4, ch. 2002-78; s. 6, ch. 2002-263; s. 35, ch. 2008-111; s. 7, ch. 2009-86; s. 6, ch. 2010-161; s. 5, ch. 2015-34; s. 14, ch. 2016-105; s. 20, ch. 2019-58; s. 5, ch. 2025-121; s. 6, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 2, ch. 59-400",
+        "s. 5, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 1, ch. 71-81",
+        "s. 22, ch. 73-331",
+        "s. 5, ch. 83-187",
+        "s. 7, ch. 84-188",
+        "s. 7, ch. 91-255",
+        "s. 8, ch. 93-124",
+        "s. 456, ch. 95-148",
+        "s. 19, ch. 96-330",
+        "s. 98, ch. 97-264",
+        "s. 49, ch. 97-271",
+        "s. 10, ch. 98-308",
+        "s. 14, ch. 98-324",
+        "s. 47, ch. 2000-152",
+        "s. 11, ch. 2000-320",
+        "s. 28, ch. 2001-122",
+        "s. 4, ch. 2002-78",
+        "s. 6, ch. 2002-263",
+        "s. 35, ch. 2008-111",
+        "s. 7, ch. 2009-86",
+        "s. 6, ch. 2010-161",
+        "s. 5, ch. 2015-34",
+        "s. 14, ch. 2016-105",
+        "s. 20, ch. 2019-58",
+        "s. 5, ch. 2025-121",
+        "s. 6, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.352",
+      "section_path": "title-24-vessels/sec-0327-352.md",
+      "history": [
+        "History.—s. 2, ch. 84-188; s. 3, ch. 88-82; s. 3, ch. 88-133; s. 8, ch. 91-255; s. 458, ch. 95-148; s. 21, ch. 96-330; s. 5, ch. 98-308; s. 3, ch. 2000-226; s. 7, ch. 2002-263; s. 2, ch. 2003-54; s. 2, ch. 2006-247; s. 6, ch. 2021-184; s. 3, ch. 2022-142."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-188",
+        "s. 3, ch. 88-82",
+        "s. 3, ch. 88-133",
+        "s. 8, ch. 91-255",
+        "s. 458, ch. 95-148",
+        "s. 21, ch. 96-330",
+        "s. 5, ch. 98-308",
+        "s. 3, ch. 2000-226",
+        "s. 7, ch. 2002-263",
+        "s. 2, ch. 2003-54",
+        "s. 2, ch. 2006-247",
+        "s. 6, ch. 2021-184",
+        "s. 3, ch. 2022-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.35215",
+      "section_path": "title-24-vessels/sec-0327-35215.md",
+      "history": [
+        "History.—s. 6, ch. 98-308; s. 23, ch. 99-245; s. 3, ch. 2004-74; s. 7, ch. 2021-184; s. 4, ch. 2022-142."
+      ],
+      "source_citations": [
+        "s. 6, ch. 98-308",
+        "s. 23, ch. 99-245",
+        "s. 3, ch. 2004-74",
+        "s. 7, ch. 2021-184",
+        "s. 4, ch. 2022-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.353",
+      "section_path": "title-24-vessels/sec-0327-353.md",
+      "history": [
+        "History.—s. 3, ch. 84-188; s. 26, ch. 87-243; s. 4, ch. 87-392; s. 11, ch. 91-255; s. 460, ch. 95-148; s. 22, ch. 96-330; s. 8, ch. 2002-263."
+      ],
+      "source_citations": [
+        "s. 3, ch. 84-188",
+        "s. 26, ch. 87-243",
+        "s. 4, ch. 87-392",
+        "s. 11, ch. 91-255",
+        "s. 460, ch. 95-148",
+        "s. 22, ch. 96-330",
+        "s. 8, ch. 2002-263."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.354",
+      "section_path": "title-24-vessels/sec-0327-354.md",
+      "history": [
+        "History.—s. 4, ch. 84-188; s. 4, ch. 88-82; s. 9, ch. 91-255; s. 24, ch. 92-58; s. 10, ch. 93-124; s. 461, ch. 95-148; s. 23, ch. 96-330."
+      ],
+      "source_citations": [
+        "s. 4, ch. 84-188",
+        "s. 4, ch. 88-82",
+        "s. 9, ch. 91-255",
+        "s. 24, ch. 92-58",
+        "s. 10, ch. 93-124",
+        "s. 461, ch. 95-148",
+        "s. 23, ch. 96-330."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.355",
+      "section_path": "title-24-vessels/sec-0327-355.md",
+      "history": [
+        "History.—s. 8, ch. 98-308; s. 9, ch. 2000-362; s. 1, ch. 2014-136."
+      ],
+      "source_citations": [
+        "s. 8, ch. 98-308",
+        "s. 9, ch. 2000-362",
+        "s. 1, ch. 2014-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.359",
+      "section_path": "title-24-vessels/sec-0327-359.md",
+      "history": [
+        "History.—s. 9, ch. 2002-263; s. 8, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2002-263",
+        "s. 8, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.36",
+      "section_path": "title-24-vessels/sec-0327-36.md",
+      "history": [
+        "History.—s. 27, ch. 87-243; s. 5, ch. 87-392; s. 10, ch. 91-255; s. 24, ch. 96-330; s. 10, ch. 2000-362; s. 8, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 27, ch. 87-243",
+        "s. 5, ch. 87-392",
+        "s. 10, ch. 91-255",
+        "s. 24, ch. 96-330",
+        "s. 10, ch. 2000-362",
+        "s. 8, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.37",
+      "section_path": "title-24-vessels/sec-0327-37.md",
+      "history": [
+        "History.—s. 5, ch. 59-400; s. 9, ch. 63-105; s. 1, ch. 65-361; s. 8, ch. 84-188; s. 6, ch. 87-392; s. 4, ch. 94-241; s. 1, ch. 99-162; s. 11, ch. 2000-362; s. 3, ch. 2014-70; s. 1, ch. 2015-161."
+      ],
+      "source_citations": [
+        "s. 5, ch. 59-400",
+        "s. 9, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 8, ch. 84-188",
+        "s. 6, ch. 87-392",
+        "s. 4, ch. 94-241",
+        "s. 1, ch. 99-162",
+        "s. 11, ch. 2000-362",
+        "s. 3, ch. 2014-70",
+        "s. 1, ch. 2015-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.371",
+      "section_path": "title-24-vessels/sec-0327-371.md",
+      "history": [
+        "History.—s. 9, ch. 2021-184; s. 5, ch. 2022-142; s. 67, ch. 2023-8; s. 3, ch. 2023-16."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2021-184",
+        "s. 5, ch. 2022-142",
+        "s. 67, ch. 2023-8",
+        "s. 3, ch. 2023-16."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.375",
+      "section_path": "title-24-vessels/sec-0327-375.md",
+      "history": [
+        "History.—s. 4, ch. 2014-70."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2014-70."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.38",
+      "section_path": "title-24-vessels/sec-0327-38.md",
+      "history": [
+        "History.—s. 4, ch. 59-400; s. 8, ch. 63-105; s. 1, ch. 65-361; s. 462, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 4, ch. 59-400",
+        "s. 8, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 462, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.39",
+      "section_path": "title-24-vessels/sec-0327-39.md",
+      "history": [
+        "History.—s. 3, ch. 89-136; s. 1, ch. 94-295; s. 953, ch. 95-148; s. 12, ch. 2000-362; s. 2, ch. 2015-161."
+      ],
+      "source_citations": [
+        "s. 3, ch. 89-136",
+        "s. 1, ch. 94-295",
+        "s. 953, ch. 95-148",
+        "s. 12, ch. 2000-362",
+        "s. 2, ch. 2015-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.391",
+      "section_path": "title-24-vessels/sec-0327-391.md",
+      "history": [
+        "History.—s. 2, ch. 2006-172; s. 6, ch. 2014-70; s. 23, ch. 2015-2; s. 3, ch. 2017-163; s. 2, ch. 2018-137; s. 10, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2006-172",
+        "s. 6, ch. 2014-70",
+        "s. 23, ch. 2015-2",
+        "s. 3, ch. 2017-163",
+        "s. 2, ch. 2018-137",
+        "s. 10, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.395",
+      "section_path": "title-24-vessels/sec-0327-395.md",
+      "history": [
+        "History.—s. 1, ch. 96-187; s. 24, ch. 99-245; s. 13, ch. 2000-362; s. 35, ch. 2005-2; s. 9, ch. 2009-86; s. 2, ch. 2011-152; s. 2, ch. 2014-138; s. 3, ch. 2016-4; s. 2, ch. 2016-171; s. 1, ch. 2019-54; s. 11, ch. 2021-184; s. 3, ch. 2022-197; s. 7, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 1, ch. 96-187",
+        "s. 24, ch. 99-245",
+        "s. 13, ch. 2000-362",
+        "s. 35, ch. 2005-2",
+        "s. 9, ch. 2009-86",
+        "s. 2, ch. 2011-152",
+        "s. 2, ch. 2014-138",
+        "s. 3, ch. 2016-4",
+        "s. 2, ch. 2016-171",
+        "s. 1, ch. 2019-54",
+        "s. 11, ch. 2021-184",
+        "s. 3, ch. 2022-197",
+        "s. 7, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.40",
+      "section_path": "title-24-vessels/sec-0327-40.md",
+      "history": [
+        "History.—s. 6, ch. 63-105; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 4, ch. 90-219; s. 14, ch. 2000-362; s. 1, ch. 2005-217; s. 10, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 6, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 4, ch. 90-219",
+        "s. 14, ch. 2000-362",
+        "s. 1, ch. 2005-217",
+        "s. 10, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.41",
+      "section_path": "title-24-vessels/sec-0327-41.md",
+      "history": [
+        "History.—s. 2, ch. 72-55; s. 158, ch. 94-356; s. 9, ch. 96-247; s. 25, ch. 99-245; s. 15, ch. 2000-362; s. 18, ch. 2002-264; s. 195, ch. 2008-247; s. 11, ch. 2009-86; s. 3, ch. 2023-151."
+      ],
+      "source_citations": [
+        "s. 2, ch. 72-55",
+        "s. 158, ch. 94-356",
+        "s. 9, ch. 96-247",
+        "s. 25, ch. 99-245",
+        "s. 15, ch. 2000-362",
+        "s. 18, ch. 2002-264",
+        "s. 195, ch. 2008-247",
+        "s. 11, ch. 2009-86",
+        "s. 3, ch. 2023-151."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.4107",
+      "section_path": "title-24-vessels/sec-0327-4107.md",
+      "history": [
+        "History.—s. 1, ch. 2016-108; s. 4, ch. 2017-163; s. 12, ch. 2021-184; s. 6, ch. 2022-142; s. 2, ch. 2024-30; s. 2, ch. 2025-147; s. 1, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2016-108",
+        "s. 4, ch. 2017-163",
+        "s. 12, ch. 2021-184",
+        "s. 6, ch. 2022-142",
+        "s. 2, ch. 2024-30",
+        "s. 2, ch. 2025-147",
+        "s. 1, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.4108",
+      "section_path": "title-24-vessels/sec-0327-4108.md",
+      "history": [
+        "History.—s. 1, ch. 2016-96; s. 5, ch. 2017-163; s. 13, ch. 2021-184; s. 1, ch. 2021-192; s. 2, ch. 2022-78; s. 68, ch. 2023-8; s. 3, ch. 2024-30; s. 1, ch. 2024-174; s. 2, ch. 2025-39; s. 9, ch. 2025-147; s. 3, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2016-96",
+        "s. 5, ch. 2017-163",
+        "s. 13, ch. 2021-184",
+        "s. 1, ch. 2021-192",
+        "s. 2, ch. 2022-78",
+        "s. 68, ch. 2023-8",
+        "s. 3, ch. 2024-30",
+        "s. 1, ch. 2024-174",
+        "s. 2, ch. 2025-39",
+        "s. 9, ch. 2025-147",
+        "s. 3, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.4109",
+      "section_path": "title-24-vessels/sec-0327-4109.md",
+      "history": [
+        "History.—s. 6, ch. 2017-163; s. 2, ch. 2019-54; s. 14, ch. 2021-184; s. 11, ch. 2024-3; s. 3, ch. 2025-39."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2017-163",
+        "s. 2, ch. 2019-54",
+        "s. 14, ch. 2021-184",
+        "s. 11, ch. 2024-3",
+        "s. 3, ch. 2025-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.4111",
+      "section_path": "title-24-vessels/sec-0327-4111.md",
+      "history": [
+        "History.—s. 3, ch. 2025-147; s. 23, ch. 2026-14; s. 2, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2025-147",
+        "s. 23, ch. 2026-14",
+        "s. 2, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.42",
+      "section_path": "title-24-vessels/sec-0327-42.md",
+      "history": [
+        "History.—s. 1, ch. 72-20; s. 12, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 72-20",
+        "s. 12, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.43",
+      "section_path": "title-24-vessels/sec-0327-43.md",
+      "history": [
+        "History.—ss. 1, 2, 3, 4, ch. 94-341; s. 26, ch. 99-245; s. 3, ch. 2003-143."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, 4, ch. 94-341",
+        "s. 26, ch. 99-245",
+        "s. 3, ch. 2003-143."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.44",
+      "section_path": "title-24-vessels/sec-0327-44.md",
+      "history": [
+        "History.—s. 4, ch. 63-105; s. 1, ch. 65-361; s. 2, ch. 72-16; s. 1, ch. 2014-143; s. 7, ch. 2017-163."
+      ],
+      "source_citations": [
+        "s. 4, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 2, ch. 72-16",
+        "s. 1, ch. 2014-143",
+        "s. 7, ch. 2017-163."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.45",
+      "section_path": "title-24-vessels/sec-0327-45.md",
+      "history": [
+        "History.—s. 1, ch. 2016-233; s. 15, ch. 2021-184; s. 1, ch. 2025-35."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2016-233",
+        "s. 15, ch. 2021-184",
+        "s. 1, ch. 2025-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.46",
+      "section_path": "title-24-vessels/sec-0327-46.md",
+      "history": [
+        "History.—s. 7, ch. 63-105; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 23, ch. 78-95; s. 7, ch. 81-100; s. 27, ch. 99-245; s. 16, ch. 2000-362; s. 13, ch. 2009-86; s. 8, ch. 2017-163; s. 31, ch. 2020-150; s. 16, ch. 2021-184; s. 7, ch. 2022-142; s. 1, ch. 2023-151; s. 4, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 7, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 23, ch. 78-95",
+        "s. 7, ch. 81-100",
+        "s. 27, ch. 99-245",
+        "s. 16, ch. 2000-362",
+        "s. 13, ch. 2009-86",
+        "s. 8, ch. 2017-163",
+        "s. 31, ch. 2020-150",
+        "s. 16, ch. 2021-184",
+        "s. 7, ch. 2022-142",
+        "s. 1, ch. 2023-151",
+        "s. 4, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.461",
+      "section_path": "title-24-vessels/sec-0327-461.md",
+      "history": [
+        "History.—s. 4, ch. 2004-74."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2004-74."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.462",
+      "section_path": "title-24-vessels/sec-0327-462.md",
+      "history": [
+        "History.—s. 5, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.463",
+      "section_path": "title-24-vessels/sec-0327-463.md",
+      "history": [
+        "History.—s. 17, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 17, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.47",
+      "section_path": "title-24-vessels/sec-0327-47.md",
+      "history": [
+        "History.—s. 5, ch. 2003-156; s. 2, ch. 2025-41."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2003-156",
+        "s. 2, ch. 2025-41."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.48",
+      "section_path": "title-24-vessels/sec-0327-48.md",
+      "history": [
+        "History.—s. 6, ch. 59-400; s. 10, ch. 63-105; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 6, ch. 74-327; s. 29, ch. 99-245."
+      ],
+      "source_citations": [
+        "s. 6, ch. 59-400",
+        "s. 10, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 6, ch. 74-327",
+        "s. 29, ch. 99-245."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.49",
+      "section_path": "title-24-vessels/sec-0327-49.md",
+      "history": [
+        "History.—s. 17, ch. 2000-362."
+      ],
+      "source_citations": [
+        "s. 17, ch. 2000-362."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.50",
+      "section_path": "title-24-vessels/sec-0327-50.md",
+      "history": [
+        "History.—s. 8, ch. 59-400; s. 13, ch. 63-105; s. 1, ch. 65-361; s. 7, ch. 74-327; s. 8, ch. 81-100; s. 2, ch. 81-114; s. 9, ch. 84-188; s. 2, ch. 86-35; s. 5, ch. 88-133; s. 2, ch. 92-188; s. 463, ch. 95-148; s. 7, ch. 98-308; s. 3, ch. 2015-161; s. 18, ch. 2021-184; s. 4, ch. 2022-197."
+      ],
+      "source_citations": [
+        "s. 8, ch. 59-400",
+        "s. 13, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 7, ch. 74-327",
+        "s. 8, ch. 81-100",
+        "s. 2, ch. 81-114",
+        "s. 9, ch. 84-188",
+        "s. 2, ch. 86-35",
+        "s. 5, ch. 88-133",
+        "s. 2, ch. 92-188",
+        "s. 463, ch. 95-148",
+        "s. 7, ch. 98-308",
+        "s. 3, ch. 2015-161",
+        "s. 18, ch. 2021-184",
+        "s. 4, ch. 2022-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.52",
+      "section_path": "title-24-vessels/sec-0327-52.md",
+      "history": [
+        "History.—s. 11, ch. 59-400; s. 17, ch. 63-105; s. 1, ch. 65-361; s. 2, ch. 97-16."
+      ],
+      "source_citations": [
+        "s. 11, ch. 59-400",
+        "s. 17, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 2, ch. 97-16."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.521",
+      "section_path": "title-24-vessels/sec-0327-521.md",
+      "history": [
+        "History.—s. 19, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 19, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.53",
+      "section_path": "title-24-vessels/sec-0327-53.md",
+      "history": [
+        "History.—s. 5, ch. 94-241; s. 19, ch. 96-321; s. 29, ch. 99-289; s. 49, ch. 2000-158; s. 18, ch. 2000-362; s. 20, ch. 2021-184."
+      ],
+      "source_citations": [
+        "s. 5, ch. 94-241",
+        "s. 19, ch. 96-321",
+        "s. 29, ch. 99-289",
+        "s. 49, ch. 2000-158",
+        "s. 18, ch. 2000-362",
+        "s. 20, ch. 2021-184."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.54",
+      "section_path": "title-24-vessels/sec-0327-54.md",
+      "history": [
+        "History.—s. 12, ch. 63-105; s. 1, ch. 65-361; s. 303, ch. 71-136; s. 10, ch. 84-188; s. 4, ch. 89-136; s. 2, ch. 96-187; s. 42, ch. 97-96; s. 19, ch. 2000-362; s. 3, ch. 2011-152; s. 21, ch. 2021-184; s. 5, ch. 2022-197; s. 1, ch. 2023-217; s. 10, ch. 2025-147; s. 8, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 12, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 303, ch. 71-136",
+        "s. 10, ch. 84-188",
+        "s. 4, ch. 89-136",
+        "s. 2, ch. 96-187",
+        "s. 42, ch. 97-96",
+        "s. 19, ch. 2000-362",
+        "s. 3, ch. 2011-152",
+        "s. 21, ch. 2021-184",
+        "s. 5, ch. 2022-197",
+        "s. 1, ch. 2023-217",
+        "s. 10, ch. 2025-147",
+        "s. 8, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.56",
+      "section_path": "title-24-vessels/sec-0327-56.md",
+      "history": [
+        "History.—s. 9, ch. 59-400; s. 14, ch. 63-105; s. 1, ch. 65-361; s. 11, ch. 84-188; s. 6, ch. 94-241; s. 954, ch. 95-148; s. 2, ch. 2025-35."
+      ],
+      "source_citations": [
+        "s. 9, ch. 59-400",
+        "s. 14, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 11, ch. 84-188",
+        "s. 6, ch. 94-241",
+        "s. 954, ch. 95-148",
+        "s. 2, ch. 2025-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.58",
+      "section_path": "title-24-vessels/sec-0327-58.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; s. 27, ch. 79-334; s. 10, ch. 81-100; s. 79, ch. 82-226."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "s. 27, ch. 79-334",
+        "s. 10, ch. 81-100",
+        "s. 79, ch. 82-226."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.59",
+      "section_path": "title-24-vessels/sec-0327-59.md",
+      "history": [
+        "History.—s. 22, ch. 93-211; s. 11, ch. 95-146; s. 464, ch. 95-148; s. 2, ch. 95-150; s. 2, ch. 2006-309; s. 1, ch. 2021-108."
+      ],
+      "source_citations": [
+        "s. 22, ch. 93-211",
+        "s. 11, ch. 95-146",
+        "s. 464, ch. 95-148",
+        "s. 2, ch. 95-150",
+        "s. 2, ch. 2006-309",
+        "s. 1, ch. 2021-108."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.60",
+      "section_path": "title-24-vessels/sec-0327-60.md",
+      "history": [
+        "History.—s. 10, ch. 59-400; s. 16, ch. 63-105; s. 1, ch. 65-361; s. 3, ch. 72-55; s. 2, ch. 83-20; s. 38, ch. 95-143; s. 30, ch. 99-289; s. 20, ch. 2000-362; s. 3, ch. 2006-172; s. 3, ch. 2006-309; s. 14, ch. 2009-86; s. 9, ch. 2017-163; s. 3, ch. 2019-54; s. 22, ch. 2021-184; s. 4, ch. 2024-30; s. 40, ch. 2025-8; s. 1, ch. 2025-39."
+      ],
+      "source_citations": [
+        "s. 10, ch. 59-400",
+        "s. 16, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 3, ch. 72-55",
+        "s. 2, ch. 83-20",
+        "s. 38, ch. 95-143",
+        "s. 30, ch. 99-289",
+        "s. 20, ch. 2000-362",
+        "s. 3, ch. 2006-172",
+        "s. 3, ch. 2006-309",
+        "s. 14, ch. 2009-86",
+        "s. 9, ch. 2017-163",
+        "s. 3, ch. 2019-54",
+        "s. 22, ch. 2021-184",
+        "s. 4, ch. 2024-30",
+        "s. 40, ch. 2025-8",
+        "s. 1, ch. 2025-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.65",
+      "section_path": "title-24-vessels/sec-0327-65.md",
+      "history": [
+        "History.—s. 7, ch. 59-400; s. 11, ch. 63-105; s. 1, ch. 65-361; s. 5, ch. 86-35; s. 47, ch. 91-224; s. 15, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-400",
+        "s. 11, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "s. 5, ch. 86-35",
+        "s. 47, ch. 91-224",
+        "s. 15, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.66",
+      "section_path": "title-24-vessels/sec-0327-66.md",
+      "history": [
+        "History.—s. 16, ch. 2009-86; s. 5, ch. 2024-30."
+      ],
+      "source_citations": [
+        "s. 16, ch. 2009-86",
+        "s. 5, ch. 2024-30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.70",
+      "section_path": "title-24-vessels/sec-0327-70.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 3, ch. 72-16; s. 10, ch. 74-327; s. 3, ch. 78-181; ss. 10, 12, ch. 84-188; s. 30, ch. 99-245; s. 17, ch. 2009-86; s. 2, ch. 2016-96; s. 2, ch. 2016-108; s. 2, ch. 2016-134; s. 10, ch. 2017-163; s. 1, ch. 2018-27; s. 3, ch. 2025-35; s. 4, ch. 2025-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 3, ch. 72-16",
+        "s. 10, ch. 74-327",
+        "s. 3, ch. 78-181",
+        "ss. 10, 12, ch. 84-188",
+        "s. 30, ch. 99-245",
+        "s. 17, ch. 2009-86",
+        "s. 2, ch. 2016-96",
+        "s. 2, ch. 2016-108",
+        "s. 2, ch. 2016-134",
+        "s. 10, ch. 2017-163",
+        "s. 1, ch. 2018-27",
+        "s. 3, ch. 2025-35",
+        "s. 4, ch. 2025-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.71",
+      "section_path": "title-24-vessels/sec-0327-71.md",
+      "history": [
+        "History.—s. 11, ch. 81-100; s. 31, ch. 99-245."
+      ],
+      "source_citations": [
+        "s. 11, ch. 81-100",
+        "s. 31, ch. 99-245."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.72",
+      "section_path": "title-24-vessels/sec-0327-72.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; s. 304, ch. 71-136; s. 1, ch. 78-181; s. 3, ch. 80-266; s. 13, ch. 84-188; s. 4, ch. 86-35; s. 48, ch. 91-224; s. 3, ch. 99-162; s. 21, ch. 2000-362; s. 5, ch. 2011-152."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "s. 304, ch. 71-136",
+        "s. 1, ch. 78-181",
+        "s. 3, ch. 80-266",
+        "s. 13, ch. 84-188",
+        "s. 4, ch. 86-35",
+        "s. 48, ch. 91-224",
+        "s. 3, ch. 99-162",
+        "s. 21, ch. 2000-362",
+        "s. 5, ch. 2011-152."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.73",
+      "section_path": "title-24-vessels/sec-0327-73.md",
+      "history": [
+        "History.—s. 3, ch. 86-35; s. 7, ch. 87-392; s. 6, ch. 88-133; s. 4, ch. 88-144; s. 5, ch. 89-136; s. 32, ch. 91-221; s. 2, ch. 93-83; s. 2, ch. 93-254; s. 7, ch. 94-241; s. 955, ch. 95-148; s. 3, ch. 96-187; s. 60, ch. 96-413; s. 3, ch. 97-16; s. 2, ch. 99-162; s. 31, ch. 99-289; s. 48, ch. 2000-152; ss. 22, 23, ch. 2000-362; s. 13, ch. 2001-122; s. 3, ch. 2002-46; s. 13, ch. 2003-143; s. 103, ch. 2003-402; s. 6, ch. 2004-74; s. 65, ch. 2004-265; s. 4, ch. 2006-172; s. 36, ch. 2008-111; s. 196, ch. 2008-247; s. 18, ch. 2009-86; s. 63, ch. 2010-5; s. 20, ch. 2011-4; s. 4, ch. 2011-152; s. 3, ch. 2014-138; s. 3, ch. 2016-96; s. 3, ch. 2016-108; s. 3, ch. 2016-171; s. 2, ch. 2016-233; s. 11, ch. 2017-163; s. 4, ch. 2019-54; s. 21, ch. 2019-58; s. 23, ch. 2021-184; s. 2, ch. 2021-192; s. 20, ch. 2022-142; s. 6, ch. 2022-197; s. 6, ch. 2024-30; s. 19, ch. 2024-180; s. 5, ch. 2025-147; s. 10, ch. 2025-197; s. 5, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-35",
+        "s. 7, ch. 87-392",
+        "s. 6, ch. 88-133",
+        "s. 4, ch. 88-144",
+        "s. 5, ch. 89-136",
+        "s. 32, ch. 91-221",
+        "s. 2, ch. 93-83",
+        "s. 2, ch. 93-254",
+        "s. 7, ch. 94-241",
+        "s. 955, ch. 95-148",
+        "s. 3, ch. 96-187",
+        "s. 60, ch. 96-413",
+        "s. 3, ch. 97-16",
+        "s. 2, ch. 99-162",
+        "s. 31, ch. 99-289",
+        "s. 48, ch. 2000-152",
+        "ss. 22, 23, ch. 2000-362",
+        "s. 13, ch. 2001-122",
+        "s. 3, ch. 2002-46",
+        "s. 13, ch. 2003-143",
+        "s. 103, ch. 2003-402",
+        "s. 6, ch. 2004-74",
+        "s. 65, ch. 2004-265",
+        "s. 4, ch. 2006-172",
+        "s. 36, ch. 2008-111",
+        "s. 196, ch. 2008-247",
+        "s. 18, ch. 2009-86",
+        "s. 63, ch. 2010-5",
+        "s. 20, ch. 2011-4",
+        "s. 4, ch. 2011-152",
+        "s. 3, ch. 2014-138",
+        "s. 3, ch. 2016-96",
+        "s. 3, ch. 2016-108",
+        "s. 3, ch. 2016-171",
+        "s. 2, ch. 2016-233",
+        "s. 11, ch. 2017-163",
+        "s. 4, ch. 2019-54",
+        "s. 21, ch. 2019-58",
+        "s. 23, ch. 2021-184",
+        "s. 2, ch. 2021-192",
+        "s. 20, ch. 2022-142",
+        "s. 6, ch. 2022-197",
+        "s. 6, ch. 2024-30",
+        "s. 19, ch. 2024-180",
+        "s. 5, ch. 2025-147",
+        "s. 10, ch. 2025-197",
+        "s. 5, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.731",
+      "section_path": "title-24-vessels/sec-0327-731.md",
+      "history": [
+        "History.—s. 7, ch. 88-133; s. 49, ch. 91-224; s. 465, ch. 95-148; s. 4, ch. 96-187; s. 9, ch. 98-308; s. 4, ch. 99-162; s. 32, ch. 99-245; s. 24, ch. 2000-362; s. 5, ch. 2004-74; s. 5, ch. 2006-172; s. 19, ch. 2009-86; s. 6, ch. 2011-152; s. 3, ch. 2014-136; s. 3, ch. 2016-233; s. 7, ch. 2022-197; s. 9, ch. 2025-197."
+      ],
+      "source_citations": [
+        "s. 7, ch. 88-133",
+        "s. 49, ch. 91-224",
+        "s. 465, ch. 95-148",
+        "s. 4, ch. 96-187",
+        "s. 9, ch. 98-308",
+        "s. 4, ch. 99-162",
+        "s. 32, ch. 99-245",
+        "s. 24, ch. 2000-362",
+        "s. 5, ch. 2004-74",
+        "s. 5, ch. 2006-172",
+        "s. 19, ch. 2009-86",
+        "s. 6, ch. 2011-152",
+        "s. 3, ch. 2014-136",
+        "s. 3, ch. 2016-233",
+        "s. 7, ch. 2022-197",
+        "s. 9, ch. 2025-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.74",
+      "section_path": "title-24-vessels/sec-0327-74.md",
+      "history": [
+        "History.—s. 8, ch. 87-392; s. 6, ch. 89-136; s. 466, ch. 95-148; s. 33, ch. 99-245; s. 6, ch. 2026-36."
+      ],
+      "source_citations": [
+        "s. 8, ch. 87-392",
+        "s. 6, ch. 89-136",
+        "s. 466, ch. 95-148",
+        "s. 33, ch. 99-245",
+        "s. 6, ch. 2026-36."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.75",
+      "section_path": "title-24-vessels/sec-0327-75.md",
+      "history": [
+        "History.—s. 4, ch. 2025-35."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2025-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.803",
+      "section_path": "title-24-vessels/sec-0327-803.md",
+      "history": [
+        "History.—s. 13, ch. 94-241; s. 34, ch. 99-245; s. 25, ch. 2000-362; s. 1, ch. 2005-158; s. 229, ch. 2011-142; s. 95, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 13, ch. 94-241",
+        "s. 34, ch. 99-245",
+        "s. 25, ch. 2000-362",
+        "s. 1, ch. 2005-158",
+        "s. 229, ch. 2011-142",
+        "s. 95, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "327.804",
+      "section_path": "title-24-vessels/sec-0327-804.md",
+      "history": [
+        "History.—s. 5, ch. 96-187; s. 35, ch. 99-245."
+      ],
+      "source_citations": [
+        "s. 5, ch. 96-187",
+        "s. 35, ch. 99-245."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "source_sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe"
+    },
+    {
+      "section": "328.001",
+      "section_path": "title-24-vessels/sec-0328-001.md",
+      "history": [
+        "History.—s. 1, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.0015",
+      "section_path": "title-24-vessels/sec-0328-0015.md",
+      "history": [
+        "History.—s. 2, ch. 2019-76; s. 2, ch. 2023-80; s. 135, ch. 2025-92."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2019-76",
+        "s. 2, ch. 2023-80",
+        "s. 135, ch. 2025-92."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.01",
+      "section_path": "title-24-vessels/sec-0328-01.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 25, 35, ch. 69-106; s. 11, ch. 74-327; s. 4, ch. 80-266; s. 12, ch. 81-100; s. 11, ch. 84-184; s. 12, ch. 85-81; s. 159, ch. 94-356; s. 956, ch. 95-148; s. 57, ch. 95-333; s. 61, ch. 96-413; s. 37, ch. 99-245; s. 58, ch. 99-248; s. 70, ch. 2013-160; s. 6, ch. 2019-66; s. 3, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 25, 35, ch. 69-106",
+        "s. 11, ch. 74-327",
+        "s. 4, ch. 80-266",
+        "s. 12, ch. 81-100",
+        "s. 11, ch. 84-184",
+        "s. 12, ch. 85-81",
+        "s. 159, ch. 94-356",
+        "s. 956, ch. 95-148",
+        "s. 57, ch. 95-333",
+        "s. 61, ch. 96-413",
+        "s. 37, ch. 99-245",
+        "s. 58, ch. 99-248",
+        "s. 70, ch. 2013-160",
+        "s. 6, ch. 2019-66",
+        "s. 3, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.015",
+      "section_path": "title-24-vessels/sec-0328-015.md",
+      "history": [
+        "History.—s. 4, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.02",
+      "section_path": "title-24-vessels/sec-0328-02.md",
+      "history": [
+        "History.—s. 5, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.03",
+      "section_path": "title-24-vessels/sec-0328-03.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 24, 25, 35, ch. 69-106; s. 12, ch. 74-327; ss. 7, 8, ch. 79-359; s. 52, ch. 80-274; s. 13, ch. 81-100; s. 21, ch. 83-218; s. 11, ch. 84-184; s. 3, ch. 85-108; s. 7, ch. 85-324; s. 1, ch. 87-291; s. 467, ch. 95-148; s. 58, ch. 95-333; s. 62, ch. 96-413; s. 20, ch. 2009-86; s. 6, ch. 2019-76; ss. 8, 9, ch. 2022-197."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 24, 25, 35, ch. 69-106",
+        "s. 12, ch. 74-327",
+        "ss. 7, 8, ch. 79-359",
+        "s. 52, ch. 80-274",
+        "s. 13, ch. 81-100",
+        "s. 21, ch. 83-218",
+        "s. 11, ch. 84-184",
+        "s. 3, ch. 85-108",
+        "s. 7, ch. 85-324",
+        "s. 1, ch. 87-291",
+        "s. 467, ch. 95-148",
+        "s. 58, ch. 95-333",
+        "s. 62, ch. 96-413",
+        "s. 20, ch. 2009-86",
+        "s. 6, ch. 2019-76",
+        "ss. 8, 9, ch. 2022-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.04",
+      "section_path": "title-24-vessels/sec-0328-04.md",
+      "history": [
+        "History.—s. 7, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.045",
+      "section_path": "title-24-vessels/sec-0328-045.md",
+      "history": [
+        "History.—s. 8, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.05",
+      "section_path": "title-24-vessels/sec-0328-05.md",
+      "history": [
+        "History.—s. 4, ch. 80-266; s. 11, ch. 84-184; s. 3, ch. 85-252; s. 28, ch. 87-243; s. 9, ch. 87-392; s. 468, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 4, ch. 80-266",
+        "s. 11, ch. 84-184",
+        "s. 3, ch. 85-252",
+        "s. 28, ch. 87-243",
+        "s. 9, ch. 87-392",
+        "s. 468, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.055",
+      "section_path": "title-24-vessels/sec-0328-055.md",
+      "history": [
+        "History.—s. 9, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 9, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.06",
+      "section_path": "title-24-vessels/sec-0328-06.md",
+      "history": [
+        "History.—s. 10, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 10, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.065",
+      "section_path": "title-24-vessels/sec-0328-065.md",
+      "history": [
+        "History.—s. 11, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.07",
+      "section_path": "title-24-vessels/sec-0328-07.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 25, 35, ch. 69-106; s. 13, ch. 74-327; s. 5, ch. 80-266; s. 5, ch. 83-102; s. 2, ch. 84-129; s. 12, ch. 84-184; s. 1, ch. 86-73; s. 10, ch. 92-54; s. 469, ch. 95-148; s. 66, ch. 2008-4; s. 21, ch. 2009-86; s. 9, ch. 2016-179."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 25, 35, ch. 69-106",
+        "s. 13, ch. 74-327",
+        "s. 5, ch. 80-266",
+        "s. 5, ch. 83-102",
+        "s. 2, ch. 84-129",
+        "s. 12, ch. 84-184",
+        "s. 1, ch. 86-73",
+        "s. 10, ch. 92-54",
+        "s. 469, ch. 95-148",
+        "s. 66, ch. 2008-4",
+        "s. 21, ch. 2009-86",
+        "s. 9, ch. 2016-179."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.09",
+      "section_path": "title-24-vessels/sec-0328-09.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 25, 35, ch. 69-106; s. 13, ch. 74-327; s. 23, ch. 78-95; s. 13, ch. 84-184; s. 12, ch. 2017-163; s. 12, ch. 2019-76; ss. 24, 25, ch. 2021-184; ss. 16, 17, ch. 2022-142."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 25, 35, ch. 69-106",
+        "s. 13, ch. 74-327",
+        "s. 23, ch. 78-95",
+        "s. 13, ch. 84-184",
+        "s. 12, ch. 2017-163",
+        "s. 12, ch. 2019-76",
+        "ss. 24, 25, ch. 2021-184",
+        "ss. 16, 17, ch. 2022-142."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.101",
+      "section_path": "title-24-vessels/sec-0328-101.md",
+      "history": [
+        "History.—s. 13, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 13, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.11",
+      "section_path": "title-24-vessels/sec-0328-11.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 25, 35, ch. 69-106; s. 13, ch. 74-327; s. 14, ch. 84-184; s. 2, ch. 87-291; s. 59, ch. 95-333; s. 63, ch. 96-413; s. 59, ch. 99-248; s. 14, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 25, 35, ch. 69-106",
+        "s. 13, ch. 74-327",
+        "s. 14, ch. 84-184",
+        "s. 2, ch. 87-291",
+        "s. 59, ch. 95-333",
+        "s. 63, ch. 96-413",
+        "s. 59, ch. 99-248",
+        "s. 14, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.12",
+      "section_path": "title-24-vessels/sec-0328-12.md",
+      "history": [
+        "History.—s. 15, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 15, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.125",
+      "section_path": "title-24-vessels/sec-0328-125.md",
+      "history": [
+        "History.—s. 16, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 16, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.13",
+      "section_path": "title-24-vessels/sec-0328-13.md",
+      "history": [
+        "History.—s. 1, ch. 69-167; s. 6, ch. 80-266; s. 15, ch. 84-184; s. 64, ch. 96-413."
+      ],
+      "source_citations": [
+        "s. 1, ch. 69-167",
+        "s. 6, ch. 80-266",
+        "s. 15, ch. 84-184",
+        "s. 64, ch. 96-413."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.14",
+      "section_path": "title-24-vessels/sec-0328-14.md",
+      "history": [
+        "History.—s. 17, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 17, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.145",
+      "section_path": "title-24-vessels/sec-0328-145.md",
+      "history": [
+        "History.—s. 18, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 18, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.15",
+      "section_path": "title-24-vessels/sec-0328-15.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; ss. 25, 35, ch. 69-106; s. 14, ch. 74-327; s. 7, ch. 80-266; s. 16, ch. 84-184; s. 13, ch. 85-81; s. 4, ch. 85-252; s. 9, ch. 88-176; s. 160, ch. 94-356; s. 60, ch. 95-333; s. 20, ch. 96-321; s. 65, ch. 96-413; s. 60, ch. 99-248; s. 39, ch. 2000-313; s. 16, ch. 2004-335; s. 67, ch. 2012-181; s. 19, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "ss. 25, 35, ch. 69-106",
+        "s. 14, ch. 74-327",
+        "s. 7, ch. 80-266",
+        "s. 16, ch. 84-184",
+        "s. 13, ch. 85-81",
+        "s. 4, ch. 85-252",
+        "s. 9, ch. 88-176",
+        "s. 160, ch. 94-356",
+        "s. 60, ch. 95-333",
+        "s. 20, ch. 96-321",
+        "s. 65, ch. 96-413",
+        "s. 60, ch. 99-248",
+        "s. 39, ch. 2000-313",
+        "s. 16, ch. 2004-335",
+        "s. 67, ch. 2012-181",
+        "s. 19, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.16",
+      "section_path": "title-24-vessels/sec-0328-16.md",
+      "history": [
+        "History.—s. 66, ch. 96-413; s. 42, ch. 97-300; s. 61, ch. 99-248; s. 72, ch. 2001-61; s. 68, ch. 2012-181; s. 20, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 66, ch. 96-413",
+        "s. 42, ch. 97-300",
+        "s. 61, ch. 99-248",
+        "s. 72, ch. 2001-61",
+        "s. 68, ch. 2012-181",
+        "s. 20, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.165",
+      "section_path": "title-24-vessels/sec-0328-165.md",
+      "history": [
+        "History.—s. 62, ch. 99-248; s. 21, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 62, ch. 99-248",
+        "s. 21, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.17",
+      "section_path": "title-24-vessels/sec-0328-17.md",
+      "history": [
+        "History.—s. 1, ch. 78-264; s. 17, ch. 84-184; s. 5, ch. 85-252; s. 13, ch. 87-225; s. 8, ch. 94-241; s. 957, ch. 95-148; s. 61, ch. 95-333; s. 115, ch. 99-13; s. 312, ch. 99-248; s. 1, ch. 2003-175; s. 1, ch. 2006-5; s. 7, ch. 2006-172; s. 7, ch. 2014-70."
+      ],
+      "source_citations": [
+        "s. 1, ch. 78-264",
+        "s. 17, ch. 84-184",
+        "s. 5, ch. 85-252",
+        "s. 13, ch. 87-225",
+        "s. 8, ch. 94-241",
+        "s. 957, ch. 95-148",
+        "s. 61, ch. 95-333",
+        "s. 115, ch. 99-13",
+        "s. 312, ch. 99-248",
+        "s. 1, ch. 2003-175",
+        "s. 1, ch. 2006-5",
+        "s. 7, ch. 2006-172",
+        "s. 7, ch. 2014-70."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.18",
+      "section_path": "title-24-vessels/sec-0328-18.md",
+      "history": [
+        "History.—s. 10, ch. 84-184; s. 62, ch. 95-333."
+      ],
+      "source_citations": [
+        "s. 10, ch. 84-184",
+        "s. 62, ch. 95-333."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.19",
+      "section_path": "title-24-vessels/sec-0328-19.md",
+      "history": [
+        "History.—s. 4, ch. 67-586; s. 305, ch. 71-136; s. 8, ch. 80-266; s. 50, ch. 91-224."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586",
+        "s. 305, ch. 71-136",
+        "s. 8, ch. 80-266",
+        "s. 50, ch. 91-224."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.195",
+      "section_path": "title-24-vessels/sec-0328-195.md",
+      "history": [
+        "History.—s. 4, ch. 67-586."
+      ],
+      "source_citations": [
+        "s. 4, ch. 67-586."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.20",
+      "section_path": "title-24-vessels/sec-0328-20.md",
+      "history": [
+        "History.—s. 18, ch. 84-184; s. 161, ch. 94-356; s. 63, ch. 95-333; s. 21, ch. 96-321."
+      ],
+      "source_citations": [
+        "s. 18, ch. 84-184",
+        "s. 161, ch. 94-356",
+        "s. 63, ch. 95-333",
+        "s. 21, ch. 96-321."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.21",
+      "section_path": "title-24-vessels/sec-0328-21.md",
+      "history": [
+        "History.—s. 67, ch. 96-413."
+      ],
+      "source_citations": [
+        "s. 67, ch. 96-413."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.215",
+      "section_path": "title-24-vessels/sec-0328-215.md",
+      "history": [
+        "History.—s. 22, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 22, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.22",
+      "section_path": "title-24-vessels/sec-0328-22.md",
+      "history": [
+        "History.—s. 23, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 23, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.23",
+      "section_path": "title-24-vessels/sec-0328-23.md",
+      "history": [
+        "History.—s. 24, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 24, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.24",
+      "section_path": "title-24-vessels/sec-0328-24.md",
+      "history": [
+        "History.—s. 25, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 25, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.25",
+      "section_path": "title-24-vessels/sec-0328-25.md",
+      "history": [
+        "History.—s. 26, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 26, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.30",
+      "section_path": "title-24-vessels/sec-0328-30.md",
+      "history": [
+        "History.—s. 25, ch. 97-300; s. 69, ch. 2012-181; s. 44, ch. 2026-39."
+      ],
+      "source_citations": [
+        "s. 25, ch. 97-300",
+        "s. 69, ch. 2012-181",
+        "s. 44, ch. 2026-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.35",
+      "section_path": "title-24-vessels/sec-0328-35.md",
+      "history": [
+        "History.—s. 27, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 27, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.37",
+      "section_path": "title-24-vessels/sec-0328-37.md",
+      "history": [
+        "History.—s. 31, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 31, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.38",
+      "section_path": "title-24-vessels/sec-0328-38.md",
+      "history": [
+        "History.—s. 32, ch. 2019-76."
+      ],
+      "source_citations": [
+        "s. 32, ch. 2019-76."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.40",
+      "section_path": "title-24-vessels/sec-0328-40.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 2, ch. 63-103; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 2, ch. 74-327; s. 2, ch. 81-100; s. 3, ch. 84-184; s. 153, ch. 94-356; s. 47, ch. 95-333; s. 52, ch. 96-413; s. 4, ch. 98-308; s. 6, ch. 99-289; s. 40, ch. 2000-313."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 2, ch. 63-103",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 2, ch. 74-327",
+        "s. 2, ch. 81-100",
+        "s. 3, ch. 84-184",
+        "s. 153, ch. 94-356",
+        "s. 47, ch. 95-333",
+        "s. 52, ch. 96-413",
+        "s. 4, ch. 98-308",
+        "s. 6, ch. 99-289",
+        "s. 40, ch. 2000-313."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.42",
+      "section_path": "title-24-vessels/sec-0328-42.md",
+      "history": [
+        "History.—s. 5, ch. 95-222; s. 52, ch. 99-248; s. 7, ch. 99-289; s. 24, ch. 2001-158; s. 3, ch. 2008-92."
+      ],
+      "source_citations": [
+        "s. 5, ch. 95-222",
+        "s. 52, ch. 99-248",
+        "s. 7, ch. 99-289",
+        "s. 24, ch. 2001-158",
+        "s. 3, ch. 2008-92."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.46",
+      "section_path": "title-24-vessels/sec-0328-46.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 1, ch. 74-62; s. 3, ch. 74-327; s. 3, ch. 81-100; s. 1, ch. 83-102; s. 4, ch. 84-184; s. 49, ch. 95-333; s. 54, ch. 96-413; s. 10, ch. 99-289; s. 22, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 1, ch. 74-62",
+        "s. 3, ch. 74-327",
+        "s. 3, ch. 81-100",
+        "s. 1, ch. 83-102",
+        "s. 4, ch. 84-184",
+        "s. 49, ch. 95-333",
+        "s. 54, ch. 96-413",
+        "s. 10, ch. 99-289",
+        "s. 22, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.48",
+      "section_path": "title-24-vessels/sec-0328-48.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 61-511; s. 3, ch. 63-103; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; ss. 4, 15, ch. 74-327; s. 1, ch. 80-266; s. 50, ch. 80-274; s. 4, ch. 81-100; s. 1, ch. 82-181; s. 2, ch. 83-102; s. 5, ch. 84-184; s. 2, ch. 85-287; s. 5, ch. 85-324; s. 2, ch. 88-336; s. 450, ch. 95-148; s. 50, ch. 95-333; s. 55, ch. 96-413; s. 53, ch. 99-248; s. 11, ch. 99-289; s. 49, ch. 2000-152; s. 41, ch. 2000-313; s. 26, ch. 2000-362; s. 2, ch. 2008-106; s. 23, ch. 2009-86; s. 71, ch. 2013-160; s. 10, ch. 2022-197."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 61-511",
+        "s. 3, ch. 63-103",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "ss. 4, 15, ch. 74-327",
+        "s. 1, ch. 80-266",
+        "s. 50, ch. 80-274",
+        "s. 4, ch. 81-100",
+        "s. 1, ch. 82-181",
+        "s. 2, ch. 83-102",
+        "s. 5, ch. 84-184",
+        "s. 2, ch. 85-287",
+        "s. 5, ch. 85-324",
+        "s. 2, ch. 88-336",
+        "s. 450, ch. 95-148",
+        "s. 50, ch. 95-333",
+        "s. 55, ch. 96-413",
+        "s. 53, ch. 99-248",
+        "s. 11, ch. 99-289",
+        "s. 49, ch. 2000-152",
+        "s. 41, ch. 2000-313",
+        "s. 26, ch. 2000-362",
+        "s. 2, ch. 2008-106",
+        "s. 23, ch. 2009-86",
+        "s. 71, ch. 2013-160",
+        "s. 10, ch. 2022-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.52",
+      "section_path": "title-24-vessels/sec-0328-52.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 6, ch. 84-184; s. 451, ch. 95-148; s. 13, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 6, ch. 84-184",
+        "s. 451, ch. 95-148",
+        "s. 13, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.54",
+      "section_path": "title-24-vessels/sec-0328-54.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 6, ch. 84-184; s. 14, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 6, ch. 84-184",
+        "s. 14, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.56",
+      "section_path": "title-24-vessels/sec-0328-56.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; ss. 2, 3, ch. 61-511; s. 1, ch. 65-361; s. 52, ch. 95-333; s. 56, ch. 96-413; s. 15, ch. 99-289; s. 27, ch. 2000-362; s. 3, ch. 2008-106; s. 24, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "ss. 2, 3, ch. 61-511",
+        "s. 1, ch. 65-361",
+        "s. 52, ch. 95-333",
+        "s. 56, ch. 96-413",
+        "s. 15, ch. 99-289",
+        "s. 27, ch. 2000-362",
+        "s. 3, ch. 2008-106",
+        "s. 24, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.58",
+      "section_path": "title-24-vessels/sec-0328-58.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 6, ch. 84-184; s. 57, ch. 96-413; s. 16, ch. 99-289; s. 25, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 6, ch. 84-184",
+        "s. 57, ch. 96-413",
+        "s. 16, ch. 99-289",
+        "s. 25, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.60",
+      "section_path": "title-24-vessels/sec-0328-60.md",
+      "history": [
+        "History.—ss. 1, 5, ch. 67-586; s. 302, ch. 71-136; s. 6, ch. 84-184; s. 452, ch. 95-148; s. 58, ch. 96-413; s. 17, ch. 99-289; s. 26, ch. 2009-86."
+      ],
+      "source_citations": [
+        "ss. 1, 5, ch. 67-586",
+        "s. 302, ch. 71-136",
+        "s. 6, ch. 84-184",
+        "s. 452, ch. 95-148",
+        "s. 58, ch. 96-413",
+        "s. 17, ch. 99-289",
+        "s. 26, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.62",
+      "section_path": "title-24-vessels/sec-0328-62.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; s. 6, ch. 84-184; s. 18, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "s. 6, ch. 84-184",
+        "s. 18, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.64",
+      "section_path": "title-24-vessels/sec-0328-64.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 1, ch. 65-361; ss. 25, 35, ch. 69-106; s. 5, ch. 74-327; s. 6, ch. 84-184; s. 453, ch. 95-148; s. 53, ch. 95-333; s. 19, ch. 99-289; s. 4, ch. 2006-309; s. 46, ch. 2007-5."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 1, ch. 65-361",
+        "ss. 25, 35, ch. 69-106",
+        "s. 5, ch. 74-327",
+        "s. 6, ch. 84-184",
+        "s. 453, ch. 95-148",
+        "s. 53, ch. 95-333",
+        "s. 19, ch. 99-289",
+        "s. 4, ch. 2006-309",
+        "s. 46, ch. 2007-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.65",
+      "section_path": "title-24-vessels/sec-0328-65.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; s. 8, ch. 74-327; s. 6, ch. 84-184; s. 20, ch. 99-289; s. 27, ch. 2009-86."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "s. 8, ch. 74-327",
+        "s. 6, ch. 84-184",
+        "s. 20, ch. 99-289",
+        "s. 27, ch. 2009-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.66",
+      "section_path": "title-24-vessels/sec-0328-66.md",
+      "history": [
+        "History.—s. 22, ch. 99-289; s. 28, ch. 2000-362; s. 197, ch. 2008-247; s. 28, ch. 2009-86; s. 3, ch. 2016-126."
+      ],
+      "source_citations": [
+        "s. 22, ch. 99-289",
+        "s. 28, ch. 2000-362",
+        "s. 197, ch. 2008-247",
+        "s. 28, ch. 2009-86",
+        "s. 3, ch. 2016-126."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.68",
+      "section_path": "title-24-vessels/sec-0328-68.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; s. 8, ch. 74-327; s. 25, ch. 79-334; s. 77, ch. 82-226; s. 7, ch. 84-184; s. 2, ch. 85-252; s. 59, ch. 96-413; s. 54, ch. 99-248; s. 23, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "s. 8, ch. 74-327",
+        "s. 25, ch. 79-334",
+        "s. 77, ch. 82-226",
+        "s. 7, ch. 84-184",
+        "s. 2, ch. 85-252",
+        "s. 59, ch. 96-413",
+        "s. 54, ch. 99-248",
+        "s. 23, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.70",
+      "section_path": "title-24-vessels/sec-0328-70.md",
+      "history": [
+        "History.—s. 1, ch. 70-336; s. 8, ch. 74-327; s. 8, ch. 84-184; s. 24, ch. 99-289; s. 29, ch. 2000-362; s. 13, ch. 2017-163."
+      ],
+      "source_citations": [
+        "s. 1, ch. 70-336",
+        "s. 8, ch. 74-327",
+        "s. 8, ch. 84-184",
+        "s. 24, ch. 99-289",
+        "s. 29, ch. 2000-362",
+        "s. 13, ch. 2017-163."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.72",
+      "section_path": "title-24-vessels/sec-0328-72.md",
+      "history": [
+        "History.—s. 1, ch. 65-361; s. 2, ch. 67-586; s. 1, ch. 69-300; s. 4, ch. 70-336; s. 1, ch. 73-146; ss. 9, 15, ch. 74-327; s. 1, ch. 77-174; s. 81, ch. 79-164; s. 1, ch. 79-307; ss. 26, 30, ch. 79-334; s. 1, ch. 79-364; s. 2, ch. 80-266; s. 51, ch. 80-274; s. 9, ch. 81-100; s. 2, ch. 82-97; s. 2, ch. 82-181; s. 78, ch. 82-226; s. 9, ch. 84-184; s. 66, ch. 84-338; s. 6, ch. 85-324; s. 2, ch. 87-392; s. 3, ch. 88-144; s. 3, ch. 88-336; s. 5, ch. 89-168; s. 2, ch. 90-219; s. 29, ch. 91-107; s. 1, ch. 91-199; s. 1, ch. 91-215; s. 83, ch. 91-221; s. 4, ch. 92-72; s. 279, ch. 92-279; s. 55, ch. 92-326; s. 3, ch. 94-241; s. 952, ch. 95-148; s. 54, ch. 95-333; s. 16, ch. 96-321; s. 1, ch. 97-16; s. 40, ch. 97-96; s. 41, ch. 97-300; s. 15, ch. 99-4; s. 18, ch. 99-5; s. 113, ch. 99-13; s. 19, ch. 99-245; s. 55, ch. 99-248; s. 25, ch. 99-289; s. 39, ch. 99-399; s. 50, ch. 2000-152; s. 42, ch. 2000-313; ss. 30, 31, ch. 2000-362; s. 1, ch. 2001-369; s. 1, ch. 2004-75; s. 12, ch. 2005-157; s. 5, ch. 2006-309; s. 7, ch. 2007-242; s. 4, ch. 2008-106; s. 198, ch. 2008-247; s. 29, ch. 2009-86; s. 1, ch. 2013-56; s. 2, ch. 2013-194; s. 4, ch. 2014-136; s. 1, ch. 2016-126; s. 1, ch. 2017-28; s. 14, ch. 2017-163; s. 5, ch. 2019-54; s. 68, ch. 2020-2; s. 4, ch. 2021-171; s. 18, ch. 2022-142; s. 5, ch. 2024-116."
+      ],
+      "source_citations": [
+        "s. 1, ch. 65-361",
+        "s. 2, ch. 67-586",
+        "s. 1, ch. 69-300",
+        "s. 4, ch. 70-336",
+        "s. 1, ch. 73-146",
+        "ss. 9, 15, ch. 74-327",
+        "s. 1, ch. 77-174",
+        "s. 81, ch. 79-164",
+        "s. 1, ch. 79-307",
+        "ss. 26, 30, ch. 79-334",
+        "s. 1, ch. 79-364",
+        "s. 2, ch. 80-266",
+        "s. 51, ch. 80-274",
+        "s. 9, ch. 81-100",
+        "s. 2, ch. 82-97",
+        "s. 2, ch. 82-181",
+        "s. 78, ch. 82-226",
+        "s. 9, ch. 84-184",
+        "s. 66, ch. 84-338",
+        "s. 6, ch. 85-324",
+        "s. 2, ch. 87-392",
+        "s. 3, ch. 88-144",
+        "s. 3, ch. 88-336",
+        "s. 5, ch. 89-168",
+        "s. 2, ch. 90-219",
+        "s. 29, ch. 91-107",
+        "s. 1, ch. 91-199",
+        "s. 1, ch. 91-215",
+        "s. 83, ch. 91-221",
+        "s. 4, ch. 92-72",
+        "s. 279, ch. 92-279",
+        "s. 55, ch. 92-326",
+        "s. 3, ch. 94-241",
+        "s. 952, ch. 95-148",
+        "s. 54, ch. 95-333",
+        "s. 16, ch. 96-321",
+        "s. 1, ch. 97-16",
+        "s. 40, ch. 97-96",
+        "s. 41, ch. 97-300",
+        "s. 15, ch. 99-4",
+        "s. 18, ch. 99-5",
+        "s. 113, ch. 99-13",
+        "s. 19, ch. 99-245",
+        "s. 55, ch. 99-248",
+        "s. 25, ch. 99-289",
+        "s. 39, ch. 99-399",
+        "s. 50, ch. 2000-152",
+        "s. 42, ch. 2000-313",
+        "ss. 30, 31, ch. 2000-362",
+        "s. 1, ch. 2001-369",
+        "s. 1, ch. 2004-75",
+        "s. 12, ch. 2005-157",
+        "s. 5, ch. 2006-309",
+        "s. 7, ch. 2007-242",
+        "s. 4, ch. 2008-106",
+        "s. 198, ch. 2008-247",
+        "s. 29, ch. 2009-86",
+        "s. 1, ch. 2013-56",
+        "s. 2, ch. 2013-194",
+        "s. 4, ch. 2014-136",
+        "s. 1, ch. 2016-126",
+        "s. 1, ch. 2017-28",
+        "s. 14, ch. 2017-163",
+        "s. 5, ch. 2019-54",
+        "s. 68, ch. 2020-2",
+        "s. 4, ch. 2021-171",
+        "s. 18, ch. 2022-142",
+        "s. 5, ch. 2024-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.73",
+      "section_path": "title-24-vessels/sec-0328-73.md",
+      "history": [
+        "History.—s. 56, ch. 99-248; s. 51, ch. 2000-152; s. 43, ch. 2000-313; s. 16, ch. 2002-235; s. 2, ch. 2021-196; s. 45, ch. 2026-39."
+      ],
+      "source_citations": [
+        "s. 56, ch. 99-248",
+        "s. 51, ch. 2000-152",
+        "s. 43, ch. 2000-313",
+        "s. 16, ch. 2002-235",
+        "s. 2, ch. 2021-196",
+        "s. 45, ch. 2026-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.735",
+      "section_path": "title-24-vessels/sec-0328-735.md",
+      "history": [
+        "History.—s. 57, ch. 99-248; s. 52, ch. 2000-152; s. 44, ch. 2000-313."
+      ],
+      "source_citations": [
+        "s. 57, ch. 99-248",
+        "s. 52, ch. 2000-152",
+        "s. 44, ch. 2000-313."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.74",
+      "section_path": "title-24-vessels/sec-0328-74.md",
+      "history": [
+        "History.—s. 4, ch. 91-199; s. 156, ch. 94-356; s. 20, ch. 99-245; s. 26, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 4, ch. 91-199",
+        "s. 156, ch. 94-356",
+        "s. 20, ch. 99-245",
+        "s. 26, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.76",
+      "section_path": "title-24-vessels/sec-0328-76.md",
+      "history": [
+        "History.—s. 1, ch. 59-399; s. 2, ch. 61-119; s. 1, ch. 63-105; s. 1, ch. 65-361; ss. 12, 25, 35, ch. 69-106; s. 1, ch. 69-400; s. 5, ch. 70-336; s. 5, ch. 74-327; s. 1, ch. 77-174; s. 11, ch. 83-134; s. 10, ch. 84-184; s. 67, ch. 84-338; s. 2, ch. 85-108; s. 6, ch. 89-168; s. 4, ch. 89-250; s. 3, ch. 90-219; s. 2, ch. 91-199; s. 35, ch. 92-151; s. 157, ch. 94-356; s. 32, ch. 95-146; s. 55, ch. 95-333; s. 17, ch. 96-321; s. 114, ch. 99-13; s. 20, ch. 99-205; s. 21, ch. 99-245; s. 27, ch. 99-289; s. 3, ch. 99-312; ss. 32, 33, ch. 2000-362; s. 8, ch. 2000-364; s. 18, ch. 2001-196; s. 2, ch. 2001-369; s. 12, ch. 2008-150; s. 199, ch. 2008-247; s. 72, ch. 2013-160; s. 2, ch. 2016-126; s. 12, ch. 2018-111; s. 46, ch. 2019-3."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-399",
+        "s. 2, ch. 61-119",
+        "s. 1, ch. 63-105",
+        "s. 1, ch. 65-361",
+        "ss. 12, 25, 35, ch. 69-106",
+        "s. 1, ch. 69-400",
+        "s. 5, ch. 70-336",
+        "s. 5, ch. 74-327",
+        "s. 1, ch. 77-174",
+        "s. 11, ch. 83-134",
+        "s. 10, ch. 84-184",
+        "s. 67, ch. 84-338",
+        "s. 2, ch. 85-108",
+        "s. 6, ch. 89-168",
+        "s. 4, ch. 89-250",
+        "s. 3, ch. 90-219",
+        "s. 2, ch. 91-199",
+        "s. 35, ch. 92-151",
+        "s. 157, ch. 94-356",
+        "s. 32, ch. 95-146",
+        "s. 55, ch. 95-333",
+        "s. 17, ch. 96-321",
+        "s. 114, ch. 99-13",
+        "s. 20, ch. 99-205",
+        "s. 21, ch. 99-245",
+        "s. 27, ch. 99-289",
+        "s. 3, ch. 99-312",
+        "ss. 32, 33, ch. 2000-362",
+        "s. 8, ch. 2000-364",
+        "s. 18, ch. 2001-196",
+        "s. 2, ch. 2001-369",
+        "s. 12, ch. 2008-150",
+        "s. 199, ch. 2008-247",
+        "s. 72, ch. 2013-160",
+        "s. 2, ch. 2016-126",
+        "s. 12, ch. 2018-111",
+        "s. 46, ch. 2019-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.78",
+      "section_path": "title-24-vessels/sec-0328-78.md",
+      "history": [
+        "History.—s. 1, ch. 80-266; s. 454, ch. 95-148; s. 56, ch. 95-333; s. 28, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 1, ch. 80-266",
+        "s. 454, ch. 95-148",
+        "s. 56, ch. 95-333",
+        "s. 28, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    },
+    {
+      "section": "328.80",
+      "section_path": "title-24-vessels/sec-0328-80.md",
+      "history": [
+        "History.—s. 24, ch. 97-300; s. 36, ch. 99-245; s. 32, ch. 99-289."
+      ],
+      "source_citations": [
+        "s. 24, ch. 97-300",
+        "s. 36, ch. 99-245",
+        "s. 32, ch. 99-289."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "source_sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033"
+    }
+  ]
+}

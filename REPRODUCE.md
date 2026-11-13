@@ -124,3 +124,7 @@ Model use at data-build time:
 ## Current text correction validation
 
 593 corrected sections equal the official HTML under an independent document-order word comparison. Two parses of each checked title agree. The focused history check reports 39 acts, 10 inherited mismatches and 0 trailer errors. The complete history check reports 13 inherited before-first-version errors, identical to the unchanged published history; the complete 0/0 gate remains unmet.
+
+## Section History index validation
+
+24,993 History annotations and 148,384 citation items in 24,993 indexed sections equal the official chapter HTML under an independent raw HTML comparison. Their History annotations also equal the unchanged published section files. The legal files and tags are unchanged. The complete history gate still reports 13 inherited before-first-version mismatches and 0 trailer errors, identical to the published baseline. The complete 0/0 gate remains unmet.
