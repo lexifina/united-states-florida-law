@@ -1,0 +1,20 @@
+{
+  "act": "constitution",
+  "edition": "Constitution as published with the 2026 Florida Statutes",
+  "record_date": "2026-10-29",
+  "sections": 213,
+  "preamble": 1,
+  "units": 214,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes",
+      "sha256": "d52acb981cce4c4722320b20bdb29acd07ddefa1e1cd2629c74522cc4637d06c",
+      "bytes": 602311
+    }
+  ],
+  "verification": "The complete heading and body word sequences of 213 sections and the preamble were compared with the official Constitution HTML after the four labelled word-boundary corrections.",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "b9371343c10214b53f4de83c1bbfbf72f8687a6c",
+  "historical_editions": "outside this current-text survey"
+}
