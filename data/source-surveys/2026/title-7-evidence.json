@@ -1,0 +1,23 @@
+{
+  "act": "title-7-evidence",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 139,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0090/0090.html&StatuteYear=2026",
+      "sha256": "555f6f6006e60e88b4e214d408500cb87a241259dc56d9ba940f02c00274faa8",
+      "bytes": 223655
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0092/0092.html&StatuteYear=2026",
+      "sha256": "e7f85423c0a63466bcec50e346a12deeeef39eaf678c2951abb5db1b6abcaa7f",
+      "bytes": 158279
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
