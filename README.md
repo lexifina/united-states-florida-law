@@ -97,10 +97,12 @@ Each act's original commit is authored by the publisher (the Florida Legislature
 
 593 sections across 39 titles have labelled corrections restoring the official word boundaries at superscript markers, mixed numbers and block breaks. These corrections retain the existing version dates and make no new commencement assertion. Earlier annual editions remain incomplete.
 
+Four Constitution sections also have a labelled correction restoring six word joins at the publisher's inline note markers. The correction retains the existing 29 October 2026 capture boundary and makes no new commencement assertion.
+
 ## Section history citations
 
 The official 2026 Florida Statutes History annotations are indexed by section in `data/section-history/`: 24,993 sections across 49 titles, 24,993 History annotations and 148,384 citation items in source order. The index preserves the publisher's words and links each entry to its official chapter page. Citation items include earlier statutory compilations and session laws; their roles and effective dates are not inferred. Sections without a History annotation have an empty list. The Constitution is outside this statutory index.
 
 ## Official current-text source surveys
 
-49 acts covering 24,993 sections have source surveys in `data/source-surveys/2026/`. Each identifies its official source pages and independently verified section coverage, with a source image inventory. Acts with unresolved source differences are outside the survey set. These surveys cover the current published text. They do not establish section commencement dates, verify earlier annual editions, or include the deferred normative images. Existing legal files and their history are preserved.
+50 acts covering 25,206 sections and the preamble have source surveys in `data/source-surveys/2026/`. Each identifies its official source pages and independently verified section coverage, with a source image inventory. These surveys cover the current published text. They do not establish section commencement dates, verify earlier annual editions, or include the deferred normative images. Earlier legal files and their history are preserved.
