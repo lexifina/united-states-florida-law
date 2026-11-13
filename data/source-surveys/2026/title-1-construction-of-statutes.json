@@ -1,0 +1,23 @@
+{
+  "act": "title-1-construction-of-statutes",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 8,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0001/0001.html&StatuteYear=2026",
+      "sha256": "a0cb096f39a7a19de9709a58cb658b70ae75c9516a0769cad5d771839bf49067",
+      "bytes": 36816
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0002/0002.html&StatuteYear=2026",
+      "sha256": "c16c9214b9c45b2a0d9d83b09c10d2a6bbaa09d27d030253c64541d32164b34b",
+      "bytes": 24512
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
