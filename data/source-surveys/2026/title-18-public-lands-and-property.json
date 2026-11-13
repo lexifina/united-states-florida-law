@@ -1,0 +1,83 @@
+{
+  "act": "title-18-public-lands-and-property",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 480,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0253/0253.html&StatuteYear=2026",
+      "sha256": "7308acc0f6ae404d3ce007e190d193df1f82c9e3ab60f9b26e0310841cba1035",
+      "bytes": 414953
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0255/0255.html&StatuteYear=2026",
+      "sha256": "ca6d51b8bc767c32937144928126c1099b240a7f36cb847b48fd75204444d6e7",
+      "bytes": 439415
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0256/0256.html&StatuteYear=2026",
+      "sha256": "33b07b9888c12c3a4507151cc88407c3d7f5c5a6cc499355fc8643ef60cfe3c1",
+      "bytes": 45417
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0257/0257.html&StatuteYear=2026",
+      "sha256": "4648658c10a75a27f4fb8e920508e80729ed6cf40db55f4ec37b83f7ab9b651d",
+      "bytes": 136462
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0258/0258.html&StatuteYear=2026",
+      "sha256": "e8a4ea4582e456bc08243b171799b00d4e27094b6fe256a112486ef318145bce",
+      "bytes": 235106
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0259/0259.html&StatuteYear=2026",
+      "sha256": "d23688a9585a6fc1bd12fcc13c2abb336c2ae86d1811e144e503b6606f29a90a",
+      "bytes": 222336
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0260/0260.html&StatuteYear=2026",
+      "sha256": "53e79f93e373a04a98c17ab6fbc727d561e0d1861324ba750589a7f550ffc3e6",
+      "bytes": 87111
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0261/0261.html&StatuteYear=2026",
+      "sha256": "0a79d9fe4a61cd2c139d965a4a7a16125c7b0c3c3249aa01a7bdd36d640da49f",
+      "bytes": 53370
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0265/0265.html&StatuteYear=2026",
+      "sha256": "684de1972740f2b9b6f4c6a90f5e6c194e8dd45d74a068c1e5b147d8bc68e05e",
+      "bytes": 150422
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0267/0267.html&StatuteYear=2026",
+      "sha256": "3b3e8c7b1550d7104617b16768748e68e7f3b4ced6f50609909f1a58476eb29d",
+      "bytes": 206740
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0270/0270.html&StatuteYear=2026",
+      "sha256": "1805eabe5b702f4582ba47b80e6b542b158f65ca72cd190230afe7932a7ebb8f",
+      "bytes": 46143
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0272/0272.html&StatuteYear=2026",
+      "sha256": "347d912b61cd792318145b186b8a1afc86e9064fc81423fce567cb6cfb00ce6b",
+      "bytes": 81102
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0273/0273.html&StatuteYear=2026",
+      "sha256": "807745d8fa1d4cbebc0ae65e362a462a98b1f1bd7fe0ae5891bc0859e641c477",
+      "bytes": 31149
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0274/0274.html&StatuteYear=2026",
+      "sha256": "33183503858ef4b73028c14f339f5f9b094317045bf47e10c3876d7230f9fb52",
+      "bytes": 32690
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
