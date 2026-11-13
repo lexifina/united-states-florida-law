@@ -1,0 +1,193 @@
+{
+  "act": "title-6-civil-practice-and-procedure",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 798,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0045/0045.html&StatuteYear=2026",
+      "sha256": "d78d2c8ea1ec80d4e8f95cf54629e620ca64b34b9e399e4008135873006bb210",
+      "bytes": 85346
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0046/0046.html&StatuteYear=2026",
+      "sha256": "0c7f74bef049dc9dec4a5ca78aafa60d213e1f2916da7814c46437a78a7a63c0",
+      "bytes": 28164
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0047/0047.html&StatuteYear=2026",
+      "sha256": "d33d3aac72a280a22b37e2be041c87c54deb98db8e3ddf9fc529d83c44460563",
+      "bytes": 41781
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0048/0048.html&StatuteYear=2026",
+      "sha256": "3dbda910b72c2e070330d3319cade8505c5af93317cb2b16754aac9fb7731fd3",
+      "bytes": 165204
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0049/0049.html&StatuteYear=2026",
+      "sha256": "35a3ad9eff41f1fc69ddaccb1d9bc48b8f107c578cac622419cedb331e2f3389",
+      "bytes": 53619
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0050/0050.html&StatuteYear=2026",
+      "sha256": "fb6a53b6ec07634b1f1e42afff955cbd01c4881fd0c85bd1c8ac56817b7401f1",
+      "bytes": 48872
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0051/0051.html&StatuteYear=2026",
+      "sha256": "dd182d3e8f68a1c16c2777054c749cf24532725c619dcc115c45b980910609a7",
+      "bytes": 20727
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0055/0055.html&StatuteYear=2026",
+      "sha256": "48d8e851645c4db90fb7286da95c07339f310dec0597a0a1d868ce1bec37e30d",
+      "bytes": 111577
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0056/0056.html&StatuteYear=2026",
+      "sha256": "cd18c8050588b5e1ad1594c1899f44547db2cbff93b8a7e6bc1abc2f4be399e5",
+      "bytes": 77128
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0057/0057.html&StatuteYear=2026",
+      "sha256": "761b82896a9407087a81da5633939f81d02f54606426e61d4efe0926a0932e18",
+      "bytes": 84109
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0059/0059.html&StatuteYear=2026",
+      "sha256": "d5493d8dca48655736c9c91f1f9487cadaf42469ffdb9c1d3c1d0ccbba840498",
+      "bytes": 31311
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0060/0060.html&StatuteYear=2026",
+      "sha256": "ea42f43db02dc44d0e712eae8c46708cbbdefe9ef681f9efc10125d67372753a",
+      "bytes": 33872
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/0061.html&StatuteYear=2026",
+      "sha256": "9d26b95c65df1ef085c1210d421b7df8c37dfdc55c85f567a20270fa27eb216c",
+      "bytes": 849229
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0063/0063.html&StatuteYear=2026",
+      "sha256": "a2e032cb51b644aa35e61274e75524ff0714bec9e5f68a5121978977f045a536",
+      "bytes": 313088
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0064/0064.html&StatuteYear=2026",
+      "sha256": "d4eb0a873a2b14b5218c162f0aa8cc1ce47236c6e08e90b28d351c96a4078693",
+      "bytes": 69875
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0065/0065.html&StatuteYear=2026",
+      "sha256": "81df98834c1865ff96c8b299d5c1466a30f56810f447ec32bc37ea34033c3492",
+      "bytes": 38926
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0066/0066.html&StatuteYear=2026",
+      "sha256": "b5d766da371d21fe7303ab6d393995ee78a7b719f5850484b6fa6f6b22a0024b",
+      "bytes": 35939
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0068/0068.html&StatuteYear=2026",
+      "sha256": "648d951d18239fa8684055eda3790b773fad83cc373ef41bf528622cb0936533",
+      "bytes": 130400
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0069/0069.html&StatuteYear=2026",
+      "sha256": "96a320d7fbb6204a449596b762c600953c8960f1ff530d28a26eee78347daf0e",
+      "bytes": 42256
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0070/0070.html&StatuteYear=2026",
+      "sha256": "ad584c1387c6bcdbb65080c2c4bcdd5681bdd080ce60303c086773d133558e79",
+      "bytes": 103739
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0071/0071.html&StatuteYear=2026",
+      "sha256": "9fd56328e4b96cf480e5155c76b3d36ece2653d3a0349a250b2a33003d16162b",
+      "bytes": 27549
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0072/0072.html&StatuteYear=2026",
+      "sha256": "cb2cc6cf8839ab5c32e24a8326074086fba4c4ea6731e17bdf5f40a6b48eda4f",
+      "bytes": 31154
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0073/0073.html&StatuteYear=2026",
+      "sha256": "d465a02c871e96950b5349865b382ac13abf916d9e6795d9568517640ca7bf2e",
+      "bytes": 107646
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0074/0074.html&StatuteYear=2026",
+      "sha256": "b9278a03b61a36c35cc90af475460fd379227a9afc1dbb2d8d3a163f94b6043e",
+      "bytes": 37029
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0075/0075.html&StatuteYear=2026",
+      "sha256": "f7dafdbbc3374de15ccfe1b82d3e28bad92c089042fe0394b801d70fca5d5c9d",
+      "bytes": 41085
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0076/0076.html&StatuteYear=2026",
+      "sha256": "8f2e6251f5db56f057618d7829f0454c7e586b159a49063b2ba3e7828c26e973",
+      "bytes": 57668
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0077/0077.html&StatuteYear=2026",
+      "sha256": "58e973c0eb41e47868da28e38e9c1da8095f5e0db21fcba2fe90de77f4936f0c",
+      "bytes": 71486
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0078/0078.html&StatuteYear=2026",
+      "sha256": "7d4f87fdbc20b0522f7c3d04a07208db6d0f4e9c34aa6aa7841ed2cf566cc0d8",
+      "bytes": 50864
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0079/0079.html&StatuteYear=2026",
+      "sha256": "af908caac8e48e347febe138ed23b464844986d511f682fb417063c9925f076d",
+      "bytes": 32519
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0080/0080.html&StatuteYear=2026",
+      "sha256": "2c3f17b037840f7d40547b42db6fdc6321becf76a3ada347954822340cd8f4ab",
+      "bytes": 22444
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0081/0081.html&StatuteYear=2026",
+      "sha256": "ebe1121891ab5996ce33e1f68d127f2dbee4317ee87a65e2cae4d04c92d567eb",
+      "bytes": 20630
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0082/0082.html&StatuteYear=2026",
+      "sha256": "8d2dca2b7536041867ac9168186635e05bd227bc3bdfc4ad9cbe5dc600861217",
+      "bytes": 62926
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0083/0083.html&StatuteYear=2026",
+      "sha256": "0d640be46852c96b2ea0a1d27fdcff0320600fca902100985f744d0a0989fd7d",
+      "bytes": 234351
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0085/0085.html&StatuteYear=2026",
+      "sha256": "5d3e73a64b809deb6b611580e6d77c6309ef234348b84d353eed37d18e784a7b",
+      "bytes": 28218
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0086/0086.html&StatuteYear=2026",
+      "sha256": "9195ae68ffae765096171b01af1b688627b9c334bbefd060b37a6c03146d090d",
+      "bytes": 35202
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0088/0088.html&StatuteYear=2026",
+      "sha256": "9df8120a5231068d7ac0909b3ef62974363972ba19d38bd07da4208097cc50c1",
+      "bytes": 195250
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

@@ -1,0 +1,53 @@
+{
+  "act": "title-43-domestic-relations",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 265,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0741/0741.html&StatuteYear=2026",
+      "sha256": "1b031802167985a2d24f508c0c23349ceb81d5de2b78069c738107ca4d49b1ea",
+      "bytes": 233792
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0742/0742.html&StatuteYear=2026",
+      "sha256": "754484ae1d4fe5ee77425404bb5a9e555deb0354908e13ef62ab97e33de22ba0",
+      "bytes": 85141
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0743/0743.html&StatuteYear=2026",
+      "sha256": "04f8c0d0e720ac0a163bcd59445d8ec2aa79070a0d330305ae68dd956a1ef0ef",
+      "bytes": 82522
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0744/0744.html&StatuteYear=2026",
+      "sha256": "74d963ed23d9fadf07691fca1e7752be73f75197cff2d5c49ad9f95a3585b43d",
+      "bytes": 544810
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0747/0747.html&StatuteYear=2026",
+      "sha256": "06f51be3786c18ab3aee4f9cc010a9df6dc867dee3fb7dd7eead2f793a172e9e",
+      "bytes": 45410
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0751/0751.html&StatuteYear=2026",
+      "sha256": "8c56e6fbfdb30bb7fd4a2056c59609fe5037499fafb07acbf52388319871710d",
+      "bytes": 41092
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0752/0752.html&StatuteYear=2026",
+      "sha256": "bc267c2532fc9466ada2af8865d302c4b381b19cbaec425ccd1e56d71049a8f3",
+      "bytes": 34477
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0753/0753.html&StatuteYear=2026",
+      "sha256": "842b17efec880fed30c40b0518c8873c1ebe50a85880452645991fd8c23de5a7",
+      "bytes": 31482
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

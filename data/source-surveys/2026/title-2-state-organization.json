@@ -1,0 +1,28 @@
+{
+  "act": "title-2-state-organization",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 93,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20",
+      "bytes": 39525
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610",
+      "bytes": 204398
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b",
+      "bytes": 493056
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

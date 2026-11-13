@@ -1,0 +1,78 @@
+{
+  "act": "title-10-public-officers-employees-and-records",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 495,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0110/0110.html&StatuteYear=2026",
+      "sha256": "94218154f664f132c9f8d7015e91ba4cedbdd511ec79100407ebe562ec5fcff8",
+      "bytes": 447400
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0111/0111.html&StatuteYear=2026",
+      "sha256": "f38f9bf7f01f8fff6e8c756c5aef0fdd91342367dc021f38334391302d774149",
+      "bytes": 48493
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0112/0112.html&StatuteYear=2026",
+      "sha256": "046325e3231c5dd35860a679a2f2b75acfce22fe1f5911cb354f953a3d67d6f5",
+      "bytes": 1088306
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0113/0113.html&StatuteYear=2026",
+      "sha256": "7daf0e1d51640e3d376918efecb7be7781b39b63fd6868124225b04a1a7918d3",
+      "bytes": 26366
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0114/0114.html&StatuteYear=2026",
+      "sha256": "2e539131ec0b7b12ec6e6175f2b418b2307dfcd8dd6ed94f1869f7a85c619201",
+      "bytes": 33943
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0115/0115.html&StatuteYear=2026",
+      "sha256": "2460668c1be33a1e2d55ec51b89b6af0a584b66378da7f0b5c74a6264f052780",
+      "bytes": 37974
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0116/0116.html&StatuteYear=2026",
+      "sha256": "cd0df22605f416c97aa8d688ffff56b264f28ac4ef32069d94ac1ea6937ddf05",
+      "bytes": 50449
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0117/0117.html&StatuteYear=2026",
+      "sha256": "1561b923a99c2d05092306622edb67cae09a2d7b134efca6677f7758d9bf0141",
+      "bytes": 157717
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0118/0118.html&StatuteYear=2026",
+      "sha256": "1ea1520bb02c2bb1988177d24654ca0f53064560b477ecc93768ebf7a341aad5",
+      "bytes": 25639
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0119/0119.html&StatuteYear=2026",
+      "sha256": "cdd1bdc2d7a5aa6b040d44ec7270861050eb806329b99d93d7f234176c498c95",
+      "bytes": 299696
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0120/0120.html&StatuteYear=2026",
+      "sha256": "52919d651aa3b0f06ca2972a54290c0aafdab291e87f6ad669989de0a74cee22",
+      "bytes": 409534
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0121/0121.html&StatuteYear=2026",
+      "sha256": "bfba35fd71fb68bb35d49619b7c7b66bfbb85dba62c68ab948133c5115564843",
+      "bytes": 906574
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0122/0122.html&StatuteYear=2026",
+      "sha256": "6795d058c5e47589a14457b16d1de20a6239912fe4aa7f2f9d8a1730166841ca",
+      "bytes": 138405
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

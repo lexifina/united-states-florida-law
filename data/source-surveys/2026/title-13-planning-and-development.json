@@ -1,0 +1,38 @@
+{
+  "act": "title-13-planning-and-development",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 134,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0186/0186.html&StatuteYear=2026",
+      "sha256": "1104a91e492da2d779a772b1e42885a9c0c5b27947f814f265272f33ddf00d69",
+      "bytes": 115608
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0187/0187.html&StatuteYear=2026",
+      "sha256": "f12d81904afb4a893bd293e1fa3e2c5a21607136c2ba31e9105c2ec1141704c8",
+      "bytes": 120804
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0189/0189.html&StatuteYear=2026",
+      "sha256": "4e1bdb34730c081cab090a575e1b4f45e2a4d80f350be29cef0abd256a4c2ab8",
+      "bytes": 282472
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0190/0190.html&StatuteYear=2026",
+      "sha256": "9568a9e70113f0b7f313cc6acfd8a8d341297edaf26cadf6423d0c50b0db72c4",
+      "bytes": 241778
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0191/0191.html&StatuteYear=2026",
+      "sha256": "b58bd75b97f8b1e5f29e9b51d5ad7f3209fc134b57b4cadfc76caac629307b84",
+      "bytes": 88093
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

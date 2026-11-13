@@ -1,0 +1,93 @@
+{
+  "act": "title-30-social-welfare",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 723,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0409/0409.html&StatuteYear=2026",
+      "sha256": "ef1dff52ba7fc776bed992607bdf6ffd84d4f154914477b0298d4b35d6a1522d",
+      "bytes": 1987780
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0410/0410.html&StatuteYear=2026",
+      "sha256": "8625ff1949444c5213747dd3d81398fa184748f03010c810a10706211873c22e",
+      "bytes": 47819
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0411/0411.html&StatuteYear=2026",
+      "sha256": "ad7834632352559f9cf568800eb69ef839a96933f1f0911f4b2cb5711274e97e",
+      "bytes": 98182
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0413/0413.html&StatuteYear=2026",
+      "sha256": "b1a5919954c92d58fff144ebfe07cbde28d6d9fc2a847a26c25cd703524faf4d",
+      "bytes": 349626
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0414/0414.html&StatuteYear=2026",
+      "sha256": "61fcafa559d12d5d6ffba6886031b54e4a0232f0a6f712ef2ad55cba0cff4aef",
+      "bytes": 238281
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0415/0415.html&StatuteYear=2026",
+      "sha256": "dfc29b7dbf588f01e9eff06883069956e006de1be6e8eb3c4c09f56a345ca1fe",
+      "bytes": 181061
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0418/0418.html&StatuteYear=2026",
+      "sha256": "b539eb2f1a5e3616a188f108535aab194013761d4b9ae948f4627b46afa9fed6",
+      "bytes": 59614
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0419/0419.html&StatuteYear=2026",
+      "sha256": "68f4107574c85337be0a1b69139da4bd4ea2f9ca891a406a720df75ea109ecf3",
+      "bytes": 31589
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0420/0420.html&StatuteYear=2026",
+      "sha256": "8ca1bdd5855fa1a0e47ee1095b3bd5d842d07e96c9b01f672dd708ec0c2545ec",
+      "bytes": 624069
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0421/0421.html&StatuteYear=2026",
+      "sha256": "43a3a1760b76cdc7ab19d9da7c4f2f89907f1aa59ce779698ff60d1f1e1b5c99",
+      "bytes": 153417
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0422/0422.html&StatuteYear=2026",
+      "sha256": "8715b67e9e25fd1c38fe10536ce5bed7b1ccc8c1499034f9ce725ddb90ee3aa1",
+      "bytes": 32528
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0423/0423.html&StatuteYear=2026",
+      "sha256": "8a09a16e63171f3be72519e546b4e49a87f894f0eb4d17edba01c29c14476d23",
+      "bytes": 23272
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0425/0425.html&StatuteYear=2026",
+      "sha256": "18a29b3cd1f5d8a4e981e9989ee90fe089ad14955cc9dc9fa187136ddf95910f",
+      "bytes": 104070
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0427/0427.html&StatuteYear=2026",
+      "sha256": "31ba5e9aae9363c40fc1cb9f29550164eba56a6da148b7274cf842d8b7cb527f",
+      "bytes": 147381
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0429/0429.html&StatuteYear=2026",
+      "sha256": "310a933c7669c2f6b772103fea0b5b978de8a94063baa11062cfbdb414a1d7a0",
+      "bytes": 421873
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0430/0430.html&StatuteYear=2026",
+      "sha256": "498c646f8a267583252c30cb09578a5ffb698ace33499e89af54f66fdbfffc2d",
+      "bytes": 206283
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

@@ -128,3 +128,9 @@ Model use at data-build time:
 ## Section History index validation
 
 24,993 History annotations and 148,384 citation items in 24,993 indexed sections equal the official chapter HTML under an independent raw HTML comparison. Their History annotations also equal the unchanged published section files. The legal files and tags are unchanged. The complete history gate still reports 13 inherited before-first-version mismatches and 0 trailer errors, identical to the published baseline. The complete 0/0 gate remains unmet.
+
+## Current-text source surveys
+
+The 49 statutory source surveys cover 24,993 sections and their official chapter pages. Complete headings and body, History and Note word sequences were compared independently against the official HTML. The Constitution is excluded from these surveys because four source comparisons remain unresolved. Two normative images are inventoried and deferred. No legal file, historical commit, tag or version date is changed by this documentation addition.
+
+The existing local corpus and published-text baseline were each checked before and after this addition. The unchanged local corpus has 609 mismatches and no trailer errors; the unchanged published-text baseline has 13 inherited historical-boundary mismatches and no trailer errors. These findings are held and are not claimed to pass the full zero-mismatch gate. The documentation preservation comparison checks existing commits, tags and legal files, independently of the new source-survey JSON.

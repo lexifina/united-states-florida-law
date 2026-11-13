@@ -1,0 +1,58 @@
+{
+  "act": "title-28-natural-resources-conservation-reclamation-and-use",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 738,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0369/0369.html&StatuteYear=2026",
+      "sha256": "51357458605fdfb23eceaf8eea9b8ca7583e4417d8a5dd0f782e7c6aec2cfdbf",
+      "bytes": 124003
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0373/0373.html&StatuteYear=2026",
+      "sha256": "ae48137e292fb9c7406e0e9bc88f8942cd74e60175f21fcd61a018e4f85601ab",
+      "bytes": 1735878
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0374/0374.html&StatuteYear=2026",
+      "sha256": "a438ce2d5d8956e13051051fe89712f08c037ff290991a0a579238ca49e9e935",
+      "bytes": 60789
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0375/0375.html&StatuteYear=2026",
+      "sha256": "9ecd67ba520897cf56f5aba1abf05fb36daf1f81c5076085c2136ba2b05fdb12",
+      "bytes": 69020
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0376/0376.html&StatuteYear=2026",
+      "sha256": "448fa234e0b2e79484615d670221ad65db2a163229b326412742a3b6fea30f3f",
+      "bytes": 784909
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0377/0377.html&StatuteYear=2026",
+      "sha256": "f2db4f922424b22a1b9b8116c6dd2a3e4a2595c5236054a38dcd06aebc15ae04",
+      "bytes": 323648
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0378/0378.html&StatuteYear=2026",
+      "sha256": "a61e1417a0c66f63e3511a33d1beaf5bdfea3356512901d4a0cb7229a2a8fd22",
+      "bytes": 158237
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0379/0379.html&StatuteYear=2026",
+      "sha256": "dccba430590240eeeeaedfc4e33be196c26ed36850c46c7a9b1245d2e4cff949",
+      "bytes": 965096
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0380/0380.html&StatuteYear=2026",
+      "sha256": "62ec43680bd9a06ed91016b1dd22238005c42afc52eb4cbb9c9a0aa40f8002a6",
+      "bytes": 493856
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

@@ -1,0 +1,18 @@
+{
+  "act": "title-21-drainage",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 58,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0298/0298.html&StatuteYear=2026",
+      "sha256": "561f1c1c8047456a1afbe80c3e53d2cf62c487a1c024ff33af639e21ab9e10cb",
+      "bytes": 168976
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

@@ -1,0 +1,53 @@
+{
+  "act": "title-38-banks-and-banking",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 348,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0655/0655.html&StatuteYear=2026",
+      "sha256": "da348a694809e5a48fda33b42a22573e6296a992d192075451995fcd5629ab7a",
+      "bytes": 418523
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0657/0657.html&StatuteYear=2026",
+      "sha256": "0f0f655d42e893fbd04c8cbc8b4d9f308ee41bc28d5a2fa7be1c01841d3bb4ea",
+      "bytes": 137928
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0658/0658.html&StatuteYear=2026",
+      "sha256": "2aae5207488b7a44d6413209ac2ac85bb91db0b1d5982cda902c1e9a1554bad5",
+      "bytes": 306240
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0660/0660.html&StatuteYear=2026",
+      "sha256": "cb77c5d25bdc188bead416c7d6609ee3d3777d51230625f59a9943eab63ae84d",
+      "bytes": 130652
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0662/0662.html&StatuteYear=2026",
+      "sha256": "b946d9e7b6d5ad1693d0ae60aa43c34db87c740d0a707fa61cb4e9d5fc1d05b6",
+      "bytes": 158083
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0663/0663.html&StatuteYear=2026",
+      "sha256": "c4e8d675b441404f05467370b284920e3fb8ab34d1a01f8c690766ccbcdfad78",
+      "bytes": 331650
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0665/0665.html&StatuteYear=2026",
+      "sha256": "20018ec7c256f4d422af34992a4468edc369941291f4828b593effda460f024f",
+      "bytes": 85099
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0667/0667.html&StatuteYear=2026",
+      "sha256": "1dd511f18028992868026638116c811279d68e9458bccead8d3d40f0f5c9c04e",
+      "bytes": 75681
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

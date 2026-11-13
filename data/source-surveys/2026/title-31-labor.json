@@ -1,0 +1,68 @@
+{
+  "act": "title-31-labor",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 323,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0435/0435.html&StatuteYear=2026",
+      "sha256": "4f3ee546093f2cecff8b5e141c8e64d63e43867e81ce5e986a06826566071eb2",
+      "bytes": 91344
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0440/0440.html&StatuteYear=2026",
+      "sha256": "b423680a7ef38982a0b2a398d5da22e9b1e15ca2ac067e91c02994fed6dd08b0",
+      "bytes": 790909
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0441/0441.html&StatuteYear=2026",
+      "sha256": "7e28f01ef4b1a5d1445ad7181824c590e387a9dcae15cd3596b97485329f8a62",
+      "bytes": 19807
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0443/0443.html&StatuteYear=2026",
+      "sha256": "a5e9d298269901be52baf73422c5a210143bafb188c484e230447a889401d2eb",
+      "bytes": 510068
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0445/0445.html&StatuteYear=2026",
+      "sha256": "93039bef8265d27416f3faaeadee40027645aa161ae0287bcc538c735288756b",
+      "bytes": 292661
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0446/0446.html&StatuteYear=2026",
+      "sha256": "ba8a198bc94d1a04afa866ff3626b56c0342e7cbe229663990e8159e768ed569",
+      "bytes": 101638
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0447/0447.html&StatuteYear=2026",
+      "sha256": "bb077fd198a45dceb17651f29c920902b23d746d0a962ad5558eaf9f82009baa",
+      "bytes": 214153
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0448/0448.html&StatuteYear=2026",
+      "sha256": "bb80498630367dd8f60e442d81ece1f8448a29651faee493585ffa55e18085eb",
+      "bytes": 106996
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0450/0450.html&StatuteYear=2026",
+      "sha256": "f8a229bdc626487390ceb78cb7d7e3f5ed8f1a13c0326ced28fcb1d04c34fc12",
+      "bytes": 144175
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0451/0451.html&StatuteYear=2026",
+      "sha256": "2f413a10cf20cdcd45eb10ff9456e18f01787d07f014f44645595c4e8d4a6617",
+      "bytes": 25835
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0400-0499/0452/0452.html&StatuteYear=2026",
+      "sha256": "bcbacf8cc2fa57d4cfb50d3eacdd567fdfc8b7fd3d70c413eacb3e80ba635c11",
+      "bytes": 23960
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

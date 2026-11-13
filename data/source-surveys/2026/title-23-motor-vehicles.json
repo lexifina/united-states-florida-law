@@ -1,0 +1,69 @@
+{
+  "act": "title-23-motor-vehicles",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 712,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0316/0316.html&StatuteYear=2026",
+      "sha256": "4afae7657872e76b97fe4932934391c13690e4d12e21f77de93d336953cab3de",
+      "bytes": 1358856
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0317/0317.html&StatuteYear=2026",
+      "sha256": "72708eb432818baddddbc376cf50ee6e910b26f84a2aeac0fca33a566222fb19",
+      "bytes": 69632
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0318/0318.html&StatuteYear=2026",
+      "sha256": "9078613650bf5924f86691ab728d8354d63bd12b73519e6f42ac82527997bfe1",
+      "bytes": 164343
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0319/0319.html&StatuteYear=2026",
+      "sha256": "fee4c5089e392e1826e39a83a2960463382e8d1697532b80a42e04757b6d3431",
+      "bytes": 254269
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0320/0320.html&StatuteYear=2026",
+      "sha256": "0b5e8c5fad4fd6ccb6090085bb825b28a01d1d794fc8cdff8d88b74bc5d09f99",
+      "bytes": 1324502
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0321/0321.html&StatuteYear=2026",
+      "sha256": "a0b7fb275c1a3231eefacc1580fcaa36c3acd76b50470ee437b75c104bd048d5",
+      "bytes": 58933
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html&StatuteYear=2026",
+      "sha256": "5f19de8d5ebf2ce0b9fa2f2eed01a8bd06409b5af42a8e8c347e5d1d8e99fad9",
+      "bytes": 718460
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0323/0323.html&StatuteYear=2026",
+      "sha256": "95e92522439e0969cb513c23117594cbce24e7680069a0d3319423190b7883e3",
+      "bytes": 37203
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0324/0324.html&StatuteYear=2026",
+      "sha256": "8f862d4ddd63858ec1ca039be2122b4311bdb6741ad09dfc316b9c289ef033b8",
+      "bytes": 120636
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 2,
+  "images_deferred": [
+    {
+      "section": "320.0842",
+      "url": "/data/statutes/statute2026/images/wheelchair.gif",
+      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0320/0320.html&StatuteYear=2026"
+    },
+    {
+      "section": "322.051",
+      "url": "/data/statutes/statute2026/images/HearingLoss.gif",
+      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html&StatuteYear=2026"
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

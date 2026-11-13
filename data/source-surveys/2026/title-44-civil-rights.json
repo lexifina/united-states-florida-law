@@ -1,0 +1,28 @@
+{
+  "act": "title-44-civil-rights",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 95,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0760/0760.html&StatuteYear=2026",
+      "sha256": "82f2121c449fed94c8fa59be1300118f22547ecf33bcdd7d8da39432aea58cc2",
+      "bytes": 176333
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0761/0761.html&StatuteYear=2026",
+      "sha256": "310d4d7028843fedd3ba925868c43533eb3c7d9eb04714527a87da1660b0fa20",
+      "bytes": 28002
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0765/0765.html&StatuteYear=2026",
+      "sha256": "11a2a9f50fe709559f4f6932969667adb1c8875aa76a671c8b67271d372e672f",
+      "bytes": 218285
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

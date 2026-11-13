@@ -1,0 +1,18 @@
+{
+  "act": "title-15-homestead-and-exemptions",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 25,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0222/0222.html&StatuteYear=2026",
+      "sha256": "2b8b4a2d9500b1dcfa25fa9df04af5e1322fb98dcb6a5e9f4f4974eafb58cb08",
+      "bytes": 85713
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

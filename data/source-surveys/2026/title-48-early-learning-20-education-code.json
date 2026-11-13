@@ -1,0 +1,83 @@
+{
+  "act": "title-48-early-learning-20-education-code",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 985,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1000/1000.html&StatuteYear=2026",
+      "sha256": "bba2d2286136a327c6ad1cdfbcb23ea02dd0716f971c31897931e414f9786612",
+      "bytes": 194327
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1001/1001.html&StatuteYear=2026",
+      "sha256": "2fa71da0516c395830af77b37c6a47e080e6186dd75c0bee4160109865f78fcc",
+      "bytes": 601508
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1002/1002.html&StatuteYear=2026",
+      "sha256": "2a95e0241cf7636abc1aea043b42563679281f59e9c12039bece31c435bce10e",
+      "bytes": 1232117
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1003/1003.html&StatuteYear=2026",
+      "sha256": "9f81446ff77f578efcfb1955a043bd2e8ff6b583918a83328e7f80ce90ef9d34",
+      "bytes": 709374
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1004/1004.html&StatuteYear=2026",
+      "sha256": "8f2d35dbbe788f294259f11564d1d8b8b48c80243070ffeb120fd47229fa52f1",
+      "bytes": 779360
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1005/1005.html&StatuteYear=2026",
+      "sha256": "318a29bae49c2b81734bf769d2ff165a77be6817fa75c759698a68db449fa169",
+      "bytes": 132742
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1006/1006.html&StatuteYear=2026",
+      "sha256": "e9b8edfc8180f178dcd6198eb3f3e2bcf90d00dc3bddc22542fdcd55f87ee2c0",
+      "bytes": 619472
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1007/1007.html&StatuteYear=2026",
+      "sha256": "7a7459f0d1d95f5fa6fca4e027b5f26d0cc5d9540e7a1a7cbddc2c53221534de",
+      "bytes": 227314
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1008/1008.html&StatuteYear=2026",
+      "sha256": "f0301ad1f14e0b13a28cc934356d7212cfb190059f4ea9f0580d67fb9f8b12e1",
+      "bytes": 341291
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1009/1009.html&StatuteYear=2026",
+      "sha256": "efdfafbf7a195575f154a94611c83b3271f28c92c892cf4ec6e916ccdbc98389",
+      "bytes": 701439
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1010/1010.html&StatuteYear=2026",
+      "sha256": "3f9fa6f02a0bc5af5a59c6ab5ee2f24aef6e73ebe556d52550c48a793253a49b",
+      "bytes": 174446
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1011/1011.html&StatuteYear=2026",
+      "sha256": "6eccf35d52bc8676698fba7886171b4503c47d5c2692d149c4926d4bdbb68a2f",
+      "bytes": 483883
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1012/1012.html&StatuteYear=2026",
+      "sha256": "3617e747470ad38cc0e5fda3a01e0445deab1dbaa5274f19ea3017d68e5bff89",
+      "bytes": 746642
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1013/1013.html&StatuteYear=2026",
+      "sha256": "5ecb8f5839678391832fb37b780d23a9286de051e854c80cb9f74d8b0129cb00",
+      "bytes": 472247
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

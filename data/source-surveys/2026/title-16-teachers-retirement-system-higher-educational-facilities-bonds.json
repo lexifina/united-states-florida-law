@@ -1,0 +1,23 @@
+{
+  "act": "title-16-teachers-retirement-system-higher-educational-facilities-bonds",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "sections": 81,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0238/0238.html&StatuteYear=2026",
+      "sha256": "faf4ec3b9872a63a4868c70c96ada90b634b981716b775413c61291038d104ec",
+      "bytes": 186686
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0243/0243.html&StatuteYear=2026",
+      "sha256": "84e60a8c3729510ca51c58e3bba32d4aae838f53d39fa77fea3d34381ed0e424",
+      "bytes": 154230
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

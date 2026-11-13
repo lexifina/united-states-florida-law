@@ -1,0 +1,78 @@
+{
+  "act": "title-36-business-organizations",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-10-29",
+  "sections": 970,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0605/0605.html&StatuteYear=2026",
+      "sha256": "489236739dc7e257a58e39d412b52b3815a2d4c63be00567ce822afd4bcb85a7",
+      "bytes": 769343
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0606/0606.html&StatuteYear=2026",
+      "sha256": "7d02d8756fb2197889b488ff2dd2ddc3b09832a872fdbe7c89a41c30bceab92a",
+      "bytes": 28878
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0607/0607.html&StatuteYear=2026",
+      "sha256": "5220090c86ff15440ca630920cf8f0b5d5cebf4f51b26095cb4d83aa1c2f2692",
+      "bytes": 1116458
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0609/0609.html&StatuteYear=2026",
+      "sha256": "c8f18acf2a618ed41bf6862b8aa90d8a749afb9fa8e49bf362abbb9d057a9b60",
+      "bytes": 37911
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0610/0610.html&StatuteYear=2026",
+      "sha256": "e13df5eb65e62123c8dd8bfa2ebe50645f10f597c4199713289ec8221c5d9663",
+      "bytes": 69592
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0616/0616.html&StatuteYear=2026",
+      "sha256": "225862e3f6f5945f7c1f8c2609480a15bf81ec82200b296f9d29482fc584f891",
+      "bytes": 188816
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0617/0617.html&StatuteYear=2026",
+      "sha256": "c1de8f748e7d94e2f9d235adde2d6b3d6c8d4739f0da218274e8b1b8335f4032",
+      "bytes": 656138
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0618/0618.html&StatuteYear=2026",
+      "sha256": "d367536386f71fa024bbc58cfa846466f936507803c1afc94e8cf25a4ed3c38f",
+      "bytes": 78300
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0619/0619.html&StatuteYear=2026",
+      "sha256": "9aeb64957df2488a05a0189f3a2da356d120e65fe4e82bc25a9305dd01371951",
+      "bytes": 39547
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0620/0620.html&StatuteYear=2026",
+      "sha256": "1cdcdcb90432821052719755574e3a7e0feb51b87bdb6ec0387bf4c1b48eeb97",
+      "bytes": 611738
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0621/0621.html&StatuteYear=2026",
+      "sha256": "18e73186f480fc0b15ed5dec3d7085694aa11c25a1ecf74c5b565742ae82749d",
+      "bytes": 45539
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0622/0622.html&StatuteYear=2026",
+      "sha256": "0f078c30a6489c8ab0df8468b95d6bc8947c6699d0310d68038e1f052a0a48bf",
+      "bytes": 26447
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0600-0699/0623/0623.html&StatuteYear=2026",
+      "sha256": "3223527fd583dfb4dac30b3ac65c45f7e53bb25221da4d66d7feb3088472aa11",
+      "bytes": 39712
+    }
+  ],
+  "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
+  "source_images": 0,
+  "images_deferred": [],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "outside this current-text survey"
+}

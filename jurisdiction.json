@@ -15,5 +15,14 @@
     "path": "data/section-history",
     "effective_dates": "not inferred",
     "scope": "official statutory History annotations; Constitution excluded"
+  },
+  "current_text_source_surveys": {
+    "path": "data/source-surveys/2026",
+    "acts": 49,
+    "statutory_titles": 49,
+    "sections": 24993,
+    "source_images": 2,
+    "images_deferred": 2,
+    "historical_editions": "not surveyed"
   }
 }
