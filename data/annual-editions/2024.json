@@ -90,9 +90,24 @@
       "two_parses_identical": true,
       "independent_raw_source_words": true,
       "source_images": 0
+    },
+    {
+      "slug": "title-16-teachers-retirement-system-higher-educational-facilities-bonds",
+      "roman": "XVI",
+      "year": 2024,
+      "sections": 81,
+      "chapters": 2,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "4bf2f3def1edb61ee4f81512b0b583a8b115c5d7",
+      "restore_2025_commit": "5149827407ccb14332737a6c575ab850bea036bb",
+      "restore_current_commit": "fb923baa2b39a4cb183d384e0eb096446a214b38",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
     }
   ],
-  "sections": 364,
+  "sections": 445,
   "held_titles": [],
   "date_basis": "31 December 2024 is the edition-year boundary, not a section commencement assertion"
 }

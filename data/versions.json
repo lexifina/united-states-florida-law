@@ -466,6 +466,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI",
       "versions": [
         {
+          "from": "2024-12-31",
+          "units": 81,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI&StatuteYear=2024",
+          "sha256": "3940dd3278e874819686e1498d5f33835fc7e4366545651d55552573d8f5a106",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2025-12-31",
           "units": 81,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI&StatuteYear=2025",
