@@ -1,0 +1,1739 @@
+{
+  "schema_version": 1,
+  "act_path": "title-2-state-organization",
+  "title": "Florida Statutes, Title II: State Organization",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II&StatuteYear=2026",
+  "source_title_sha256": "1a7dab077294cb981d013525827f6e1c30fe4349aaffd7ea2d395ce829b2301b",
+  "sections": [
+    {
+      "section": "6.01",
+      "section_path": "title-2-state-organization/sec-0006-01.md",
+      "history": [
+        "History.—s. 1, ch. 14, 1845; RS 6; GS 4; RGS 4; CGL 4."
+      ],
+      "source_citations": [
+        "s. 1, ch. 14, 1845",
+        "RS 6",
+        "GS 4",
+        "RGS 4",
+        "CGL 4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.02",
+      "section_path": "title-2-state-organization/sec-0006-02.md",
+      "history": [
+        "History.—s. 1, ch. 25, 1845; RS 7; GS 5; RGS 5; CGL 5."
+      ],
+      "source_citations": [
+        "s. 1, ch. 25, 1845",
+        "RS 7",
+        "GS 5",
+        "RGS 5",
+        "CGL 5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.03",
+      "section_path": "title-2-state-organization/sec-0006-03.md",
+      "history": [
+        "History.—s. 2, ch. 25, 1845; RS 8; GS 6; RGS 6; CGL 6."
+      ],
+      "source_citations": [
+        "s. 2, ch. 25, 1845",
+        "RS 8",
+        "GS 6",
+        "RGS 6",
+        "CGL 6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.04",
+      "section_path": "title-2-state-organization/sec-0006-04.md",
+      "history": [
+        "History.—s. 3, ch. 25, 1845; RS 9; GS 7; RGS 7; CGL 7; s. 2, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 3, ch. 25, 1845",
+        "RS 9",
+        "GS 7",
+        "RGS 7",
+        "CGL 7",
+        "s. 2, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.05",
+      "section_path": "title-2-state-organization/sec-0006-05.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 630, 1855; RS 10; GS 8; RGS 8; CGL 8."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 630, 1855",
+        "RS 10",
+        "GS 8",
+        "RGS 8",
+        "CGL 8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.06",
+      "section_path": "title-2-state-organization/sec-0006-06.md",
+      "history": [
+        "History.—s. 1, ch. 8564, 1921; CGL 9."
+      ],
+      "source_citations": [
+        "s. 1, ch. 8564, 1921",
+        "CGL 9."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.07",
+      "section_path": "title-2-state-organization/sec-0006-07.md",
+      "history": [
+        "History.—s. 2, ch. 8564, 1921; CGL 10."
+      ],
+      "source_citations": [
+        "s. 2, ch. 8564, 1921",
+        "CGL 10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.075",
+      "section_path": "title-2-state-organization/sec-0006-075.md",
+      "history": [
+        "History.—ss. 1, 2, 3, ch. 86-67; s. 3, ch. 95-147."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, ch. 86-67",
+        "s. 3, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.08",
+      "section_path": "title-2-state-organization/sec-0006-08.md",
+      "history": [
+        "History.—s. 2, ch. 165, 1848; RS 2; GS 2; RGS 2; CGL 2."
+      ],
+      "source_citations": [
+        "s. 2, ch. 165, 1848",
+        "RS 2",
+        "GS 2",
+        "RGS 2",
+        "CGL 2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.081",
+      "section_path": "title-2-state-organization/sec-0006-081.md",
+      "history": [
+        "History.—ss. 2, 5, ch. 28141, 1953."
+      ],
+      "source_citations": [
+        "ss. 2, 5, ch. 28141, 1953."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.09",
+      "section_path": "title-2-state-organization/sec-0006-09.md",
+      "history": [
+        "History.—s. 1, ch. 1017, 1859; Resolution No. 16, Feb. 8, 1861; RS 3; GS 3; RGS 3; CGL 3; s. 1, ch. 69-4."
+      ],
+      "source_citations": [
+        "s. 1, ch. 1017, 1859",
+        "Resolution No. 16, Feb. 8, 1861",
+        "RS 3",
+        "GS 3",
+        "RGS 3",
+        "CGL 3",
+        "s. 1, ch. 69-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "6.10",
+      "section_path": "title-2-state-organization/sec-0006-10.md",
+      "history": [
+        "History.—s. 2, ch. 1017, 1859; RS 456; GS 645; RGS 1229; CGL 1785."
+      ],
+      "source_citations": [
+        "s. 2, ch. 1017, 1859",
+        "RS 456",
+        "GS 645",
+        "RGS 1229",
+        "CGL 1785."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0006/0006.html&StatuteYear=2026",
+      "source_sha256": "06ce073c6d961cd5af68e0d8fd23ffd633b87a2011cc8ec9f92d9f0e5a0d9e20"
+    },
+    {
+      "section": "7.01",
+      "section_path": "title-2-state-organization/sec-0007-01.md",
+      "history": [
+        "History.—s. 6, Dec. 29, 1824; s. 3, Nov. 23, 1828; s. 1, Feb. 10, 1835; s. 1, ch. 106, 1846; s. 1, ch. 923, 1859; s. 1, ch. 1765, 1870; RS 38; GS 36; s. 1, ch. 6243, 1911; s. 1, ch. 6509, 1913; RGS 39; s. 1, ch. 11371, 1925 CGL 41; s. 1, ch. 28312, 1953."
+      ],
+      "source_citations": [
+        "s. 6, Dec. 29, 1824",
+        "s. 3, Nov. 23, 1828",
+        "s. 1, Feb. 10, 1835",
+        "s. 1, ch. 106, 1846",
+        "s. 1, ch. 923, 1859",
+        "s. 1, ch. 1765, 1870",
+        "RS 38",
+        "GS 36",
+        "s. 1, ch. 6243, 1911",
+        "s. 1, ch. 6509, 1913",
+        "RGS 39",
+        "s. 1, ch. 11371, 1925 CGL 41",
+        "s. 1, ch. 28312, 1953."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.02",
+      "section_path": "title-2-state-organization/sec-0007-02.md",
+      "history": [
+        "History.—s. 1, Feb. 4, 1832; s. 1, Mar. 15, 1844; s. 3, ch. 895, 1858; ch. 1039, 1859; s. 1, ch. 1185, 1861; RS 31; GS 29; s. 1, ch. 6244, 1911; RGS 31; CGL 33."
+      ],
+      "source_citations": [
+        "s. 1, Feb. 4, 1832",
+        "s. 1, Mar. 15, 1844",
+        "s. 3, ch. 895, 1858",
+        "ch. 1039, 1859",
+        "s. 1, ch. 1185, 1861",
+        "RS 31",
+        "GS 29",
+        "s. 1, ch. 6244, 1911",
+        "RGS 31",
+        "CGL 33."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.03",
+      "section_path": "title-2-state-organization/sec-0007-03.md",
+      "history": [
+        "History.—ss. 1, chs. 6505, 6506, 6508, 1913; RGS 15; CGL 17; s. 1, ch. 2025-8; s. 1, ch. 2026-14."
+      ],
+      "source_citations": [
+        "ss. 1, chs. 6505, 6506, 6508, 1913",
+        "RGS 15",
+        "CGL 17",
+        "s. 1, ch. 2025-8",
+        "s. 1, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.04",
+      "section_path": "title-2-state-organization/sec-0007-04.md",
+      "history": [
+        "History.—s. 1, Mar. 15, 1844; s. 3, ch. 895, 1858; s. 1, ch. 1039, 1859; s. 1, ch. 1185, 1861; s. 1, ch. 1300, 1861; s. 1, ch. 1765, 1870; RS 30; GS 28; RGS 20; s. 1, ch. 8516, 1921; CGL 32; s. 2, ch. 28312, 1953."
+      ],
+      "source_citations": [
+        "s. 1, Mar. 15, 1844",
+        "s. 3, ch. 895, 1858",
+        "s. 1, ch. 1039, 1859",
+        "s. 1, ch. 1185, 1861",
+        "s. 1, ch. 1300, 1861",
+        "s. 1, ch. 1765, 1870",
+        "RS 30",
+        "GS 28",
+        "RGS 20",
+        "s. 1, ch. 8516, 1921",
+        "CGL 32",
+        "s. 2, ch. 28312, 1953."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.05",
+      "section_path": "title-2-state-organization/sec-0007-05.md",
+      "history": [
+        "History.—s. 1, Mar. 14, 1844; s. 1, ch. 105, 1846; s. 1, ch. 290, 1849; s. 1, ch. 651, 1855; s. 1, ch. 1621, 1866; s. 2, ch. 1998, 1874; s. 1, ch. 3175, 1879; s. 1, ch. 3768, 1887; RS 50; ss. 1, 19, ch. 5567, 1905; GS 48; RGS 53; s. 1, ch. 10148, 1925; CGL 55; s. 1, ch. 59-486; s. 2, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, Mar. 14, 1844",
+        "s. 1, ch. 105, 1846",
+        "s. 1, ch. 290, 1849",
+        "s. 1, ch. 651, 1855",
+        "s. 1, ch. 1621, 1866",
+        "s. 2, ch. 1998, 1874",
+        "s. 1, ch. 3175, 1879",
+        "s. 1, ch. 3768, 1887",
+        "RS 50",
+        "ss. 1, 19, ch. 5567, 1905",
+        "GS 48",
+        "RGS 53",
+        "s. 1, ch. 10148, 1925",
+        "CGL 55",
+        "s. 1, ch. 59-486",
+        "s. 2, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.06",
+      "section_path": "title-2-state-organization/sec-0007-06.md",
+      "history": [
+        "History.—s. 1, ch. 6934, 1915; RGS 60; CGL 66; ss. 27, 35, ch. 69-106; s. 1, ch. 78-119; s. 1, ch. 2007-222; s. 1, ch. 2010-5."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6934, 1915",
+        "RGS 60",
+        "CGL 66",
+        "ss. 27, 35, ch. 69-106",
+        "s. 1, ch. 78-119",
+        "s. 1, ch. 2007-222",
+        "s. 1, ch. 2010-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.07",
+      "section_path": "title-2-state-organization/sec-0007-07.md",
+      "history": [
+        "History.—s. 1, Jan. 26, 1838; s. 1, ch. 1850, 1873; s. 1, ch. 2061, 1875; RS 17; ss. 1, chs. 4576, 4577, 1897; GS 15; s. 1, ch. 6506, 1913; RGS 17; s. 1, ch. 10132, 1925; CGL 19."
+      ],
+      "source_citations": [
+        "s. 1, Jan. 26, 1838",
+        "s. 1, ch. 1850, 1873",
+        "s. 1, ch. 2061, 1875",
+        "RS 17",
+        "ss. 1, chs. 4576, 4577, 1897",
+        "GS 15",
+        "s. 1, ch. 6506, 1913",
+        "RGS 17",
+        "s. 1, ch. 10132, 1925",
+        "CGL 19."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.08",
+      "section_path": "title-2-state-organization/sec-0007-08.md",
+      "history": [
+        "History.—s. 3, ch. 3770, 1887; s. 1, ch. 8513, 1921; CGL 62; s. 2, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3770, 1887",
+        "s. 1, ch. 8513, 1921",
+        "CGL 62",
+        "s. 2, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.09",
+      "section_path": "title-2-state-organization/sec-0007-09.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 107, 1847; s. 1, ch. 415, 1850; s. 1, ch. 3772, 1887; RS 44; GS 42; s. 1, ch. 6245, 1911; RGS 46; CGL 48; s. 1, ch. 94-313; s. 3, ch. 2025-8."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 107, 1847",
+        "s. 1, ch. 415, 1850",
+        "s. 1, ch. 3772, 1887",
+        "RS 44",
+        "GS 42",
+        "s. 1, ch. 6245, 1911",
+        "RGS 46",
+        "CGL 48",
+        "s. 1, ch. 94-313",
+        "s. 3, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.10",
+      "section_path": "title-2-state-organization/sec-0007-10.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 866, 1858; s. 1, ch. 1039, 1859; s. 1, ch. 3469, 1883; RS 34; GS 32; s. 1, ch. 5978, 1909; RGS 34; s. 1, ch. 12489, 1927; CGL 36; s. 1, ch. 76-17; s. 1, ch. 78-421; s. 1, ch. 80-9; s. 1, ch. 84-211."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 866, 1858",
+        "s. 1, ch. 1039, 1859",
+        "s. 1, ch. 3469, 1883",
+        "RS 34",
+        "GS 32",
+        "s. 1, ch. 5978, 1909",
+        "RGS 34",
+        "s. 1, ch. 12489, 1927",
+        "CGL 36",
+        "s. 1, ch. 76-17",
+        "s. 1, ch. 78-421",
+        "s. 1, ch. 80-9",
+        "s. 1, ch. 84-211."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.11",
+      "section_path": "title-2-state-organization/sec-0007-11.md",
+      "history": [
+        "History.—s. 1, ch. 9362, 1923; CGL 74; s. 1, ch. 2008-4; s. 4, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 9362, 1923",
+        "CGL 74",
+        "s. 1, ch. 2008-4",
+        "s. 4, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.12",
+      "section_path": "title-2-state-organization/sec-0007-12.md",
+      "history": [
+        "History.—s. 1, Feb. 4, 1832; s. 3, ch. 895, 1858; s. 1, ch. 1048, 1859; s. 1, ch. 1391, 1863; s. 1, ch. 3948, 1889; RS 29; GS 27; s. 1, ch. 5979, 1909; RGS 29; CGL 31; s. 3, ch. 28312, 1953."
+      ],
+      "source_citations": [
+        "s. 1, Feb. 4, 1832",
+        "s. 3, ch. 895, 1858",
+        "s. 1, ch. 1048, 1859",
+        "s. 1, ch. 1391, 1863",
+        "s. 1, ch. 3948, 1889",
+        "RS 29",
+        "GS 27",
+        "s. 1, ch. 5979, 1909",
+        "RGS 29",
+        "CGL 31",
+        "s. 3, ch. 28312, 1953."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.13",
+      "section_path": "title-2-state-organization/sec-0007-13.md",
+      "history": [
+        "History.—s. 1, Feb. 4, 1836; s. 1, ch. 1592, 1866; s. 1, ch. 1998, 1874; RS 53; GS 51; s. 1, ch. 5970, 1909; s. 1, ch. 6934, 1915; RGS 58; CGL 64; s. 1, ch. 61-16; s. 2, ch. 78-119; s. 2, ch. 2008-4."
+      ],
+      "source_citations": [
+        "s. 1, Feb. 4, 1836",
+        "s. 1, ch. 1592, 1866",
+        "s. 1, ch. 1998, 1874",
+        "RS 53",
+        "GS 51",
+        "s. 1, ch. 5970, 1909",
+        "s. 1, ch. 6934, 1915",
+        "RGS 58",
+        "CGL 64",
+        "s. 1, ch. 61-16",
+        "s. 2, ch. 78-119",
+        "s. 2, ch. 2008-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.14",
+      "section_path": "title-2-state-organization/sec-0007-14.md",
+      "history": [
+        "History.—s. 3, ch. 3770, 1887; RS 52; GS 50; RGS 57; s. 1, ch. 8513, 1921; CGL 63."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3770, 1887",
+        "RS 52",
+        "GS 50",
+        "RGS 57",
+        "s. 1, ch. 8513, 1921",
+        "CGL 63."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.15",
+      "section_path": "title-2-state-organization/sec-0007-15.md",
+      "history": [
+        "History.—s. 1, ch. 8514, 1921; CGL 69; s. 5, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 8514, 1921",
+        "CGL 69",
+        "s. 5, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.16",
+      "section_path": "title-2-state-organization/sec-0007-16.md",
+      "history": [
+        "History.—s. 1, Aug. 12, 1822; s. 7, Dec. 29, 1824; s. 5, Nov. 23, 1828; s. 1, ch. 920, 1859; s. 1, ch. 1039, 1859; s. 1, ch. 1185, 1861; s. 1, ch. 2068, 1875; RS 33; GS 31; RGS 33; CGL 35; s. 2, ch. 76-17; s. 2, ch. 80-9; s. 3, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, Aug. 12, 1822",
+        "s. 7, Dec. 29, 1824",
+        "s. 5, Nov. 23, 1828",
+        "s. 1, ch. 920, 1859",
+        "s. 1, ch. 1039, 1859",
+        "s. 1, ch. 1185, 1861",
+        "s. 1, ch. 2068, 1875",
+        "RS 33",
+        "GS 31",
+        "RGS 33",
+        "CGL 35",
+        "s. 2, ch. 76-17",
+        "s. 2, ch. 80-9",
+        "s. 3, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.17",
+      "section_path": "title-2-state-organization/sec-0007-17.md",
+      "history": [
+        "History.—s. 1, Ord. July 21, 1821; s. 1, Aug. 12, 1822; s. 1, Dec. 9, 1825; s. 8, Nov. 23, 1828; s. 1, Feb. 18, 1842; RS 11; GS 9; RGS 9; CGL 11; s. 1, ch. 23867, 1947; s. 1, ch. 57-834; s. 1, ch. 83-130; s. 1, ch. 91-310; s. 6, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Ord. July 21, 1821",
+        "s. 1, Aug. 12, 1822",
+        "s. 1, Dec. 9, 1825",
+        "s. 8, Nov. 23, 1828",
+        "s. 1, Feb. 18, 1842",
+        "RS 11",
+        "GS 9",
+        "RGS 9",
+        "CGL 11",
+        "s. 1, ch. 23867, 1947",
+        "s. 1, ch. 57-834",
+        "s. 1, ch. 83-130",
+        "s. 1, ch. 91-310",
+        "s. 6, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.18",
+      "section_path": "title-2-state-organization/sec-0007-18.md",
+      "history": [
+        "History.—s. 1, ch. 7399, 1917; RGS 36; CGL 38; s. 1, ch. 59-488."
+      ],
+      "source_citations": [
+        "s. 1, ch. 7399, 1917",
+        "RGS 36",
+        "CGL 38",
+        "s. 1, ch. 59-488."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.19",
+      "section_path": "title-2-state-organization/sec-0007-19.md",
+      "history": [
+        "History.—s. 1, Feb. 8, 1832; s. 1, ch. 412, 1851; s. 1, ch. 3624, 1885; RS 18; GS 16; RGS 18; CGL 20; s. 1, ch. 72-119; s. 1, ch. 86-288; s. 7, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Feb. 8, 1832",
+        "s. 1, ch. 412, 1851",
+        "s. 1, ch. 3624, 1885",
+        "RS 18",
+        "GS 16",
+        "RGS 18",
+        "CGL 20",
+        "s. 1, ch. 72-119",
+        "s. 1, ch. 86-288",
+        "s. 7, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.20",
+      "section_path": "title-2-state-organization/sec-0007-20.md",
+      "history": [
+        "History.—s. 1, June 24, 1823; s. 4, Dec. 29, 1824; s. 6, Nov. 23, 1828; ss. 1, 2, ch. 413, 1851; s. 1, ch. 1046, 1859; RS 19; GS 17; s. 1, ch. 5966, 1909; RGS 19; CGL 21; s. 1, ch. 16436, 1933."
+      ],
+      "source_citations": [
+        "s. 1, June 24, 1823",
+        "s. 4, Dec. 29, 1824",
+        "s. 6, Nov. 23, 1828",
+        "ss. 1, 2, ch. 413, 1851",
+        "s. 1, ch. 1046, 1859",
+        "RS 19",
+        "GS 17",
+        "s. 1, ch. 5966, 1909",
+        "RGS 19",
+        "CGL 21",
+        "s. 1, ch. 16436, 1933."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.21",
+      "section_path": "title-2-state-organization/sec-0007-21.md",
+      "history": [
+        "History.—s. 1, ch. 11371, 1925; CGL 78."
+      ],
+      "source_citations": [
+        "s. 1, ch. 11371, 1925",
+        "CGL 78."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.22",
+      "section_path": "title-2-state-organization/sec-0007-22.md",
+      "history": [
+        "History.—s. 3, ch. 3770, 1887; s. 1, ch. 8513, 1921; s. 1, ch. 10596, 1925; CGL 61; s. 1, ch. 18568, 1937; s. 1, ch. 63-200."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3770, 1887",
+        "s. 1, ch. 8513, 1921",
+        "s. 1, ch. 10596, 1925",
+        "CGL 61",
+        "s. 1, ch. 18568, 1937",
+        "s. 1, ch. 63-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.221",
+      "section_path": "title-2-state-organization/sec-0007-221.md",
+      "history": [
+        "History.—s. 1, ch. 25612, 1949."
+      ],
+      "source_citations": [
+        "s. 1, ch. 25612, 1949."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.23",
+      "section_path": "title-2-state-organization/sec-0007-23.md",
+      "history": [
+        "History.—s. 1, ch. 10132, 1925; CGL 75; s. 8, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 10132, 1925",
+        "CGL 75",
+        "s. 8, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.24",
+      "section_path": "title-2-state-organization/sec-0007-24.md",
+      "history": [
+        "History.—s. 2, Dec. 26, 1827; s. 12, Nov. 23, 1828; RS 27; GS 25; RGS 27; CGL 29."
+      ],
+      "source_citations": [
+        "s. 2, Dec. 26, 1827",
+        "s. 12, Nov. 23, 1828",
+        "RS 27",
+        "GS 25",
+        "RGS 27",
+        "CGL 29."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.25",
+      "section_path": "title-2-state-organization/sec-0007-25.md",
+      "history": [
+        "History.—s. 3, ch. 3770, 1887; s. 1, ch. 8513, 1921; CGL 59."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3770, 1887",
+        "s. 1, ch. 8513, 1921",
+        "CGL 59."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.26",
+      "section_path": "title-2-state-organization/sec-0007-26.md",
+      "history": [
+        "History.—s. 1, ch. 9360, 1923; s. 1, ch. 10090, 1925; CGL 72, 73; s. 1, ch. 18568, 1937; s. 7, ch. 22858, 1945; s. 2, ch. 63-200; ss. 1, 2, ch. 63-391."
+      ],
+      "source_citations": [
+        "s. 1, ch. 9360, 1923",
+        "s. 1, ch. 10090, 1925",
+        "CGL 72, 73",
+        "s. 1, ch. 18568, 1937",
+        "s. 7, ch. 22858, 1945",
+        "s. 2, ch. 63-200",
+        "ss. 1, 2, ch. 63-391."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.27",
+      "section_path": "title-2-state-organization/sec-0007-27.md",
+      "history": [
+        "History.—s. 1, ch. 107, 1847; s. 1, ch. 415, 1850; s. 1, ch. 3471, 1883; ss. 1, 8, ch. 3772, 1887; RS 45; GS 43; RGS 47; CGL 49; s. 9, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 107, 1847",
+        "s. 1, ch. 415, 1850",
+        "s. 1, ch. 3471, 1883",
+        "ss. 1, 8, ch. 3772, 1887",
+        "RS 45",
+        "GS 43",
+        "RGS 47",
+        "CGL 49",
+        "s. 9, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.28",
+      "section_path": "title-2-state-organization/sec-0007-28.md",
+      "history": [
+        "History.—s. 3, ch. 3770, 1887; s. 1, ch. 8513, 1921; CGL 60."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3770, 1887",
+        "s. 1, ch. 8513, 1921",
+        "CGL 60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.29",
+      "section_path": "title-2-state-organization/sec-0007-29.md",
+      "history": [
+        "History.—s. 1, Jan. 25, 1834; ss. 1, 2, ch. 107, 1847; s. 2, ch. 1201, 1861; s. 1, ch. 1622, 1866; ss. 4, 6, ch. 1998, 1874; RS 47; GS 45; s. 1, ch. 6247, 1911; RGS 49; CGL 51; s. 1, ch. 19058, 1939; s. 10, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Jan. 25, 1834",
+        "ss. 1, 2, ch. 107, 1847",
+        "s. 2, ch. 1201, 1861",
+        "s. 1, ch. 1622, 1866",
+        "ss. 4, 6, ch. 1998, 1874",
+        "RS 47",
+        "GS 45",
+        "s. 1, ch. 6247, 1911",
+        "RGS 49",
+        "CGL 51",
+        "s. 1, ch. 19058, 1939",
+        "s. 10, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.30",
+      "section_path": "title-2-state-organization/sec-0007-30.md",
+      "history": [
+        "History.—s. 1, ch. 176, 1848; RS 14; GS 12; s. 2, ch. 6935, 1915; RGS 13; CGL 15."
+      ],
+      "source_citations": [
+        "s. 1, ch. 176, 1848",
+        "RS 14",
+        "GS 12",
+        "s. 2, ch. 6935, 1915",
+        "RGS 13",
+        "CGL 15."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.31",
+      "section_path": "title-2-state-organization/sec-0007-31.md",
+      "history": [
+        "History.—s. 1, ch. 10148, 1925; CGL 76; s. 2, ch. 59-486; s. 1, ch. 91-39; s. 1, ch. 2020-18."
+      ],
+      "source_citations": [
+        "s. 1, ch. 10148, 1925",
+        "CGL 76",
+        "s. 2, ch. 59-486",
+        "s. 1, ch. 91-39",
+        "s. 1, ch. 2020-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.32",
+      "section_path": "title-2-state-organization/sec-0007-32.md",
+      "history": [
+        "History.—s. 1, Aug. 12, 1822; s. 3, Dec. 9, 1825; s. 1, Oct. 29, 1828; s. 1, ch. 180, 1847; s. 1, ch. 1954, 1873; s. 1, ch. 2061, 1875; RS 16; s. 1, ch. 4296, 1893; s. 1, ch. 4576, 1897; GS 14; s. 1, ch. 6935, 1915; RGS 16; CGL 18."
+      ],
+      "source_citations": [
+        "s. 1, Aug. 12, 1822",
+        "s. 3, Dec. 9, 1825",
+        "s. 1, Oct. 29, 1828",
+        "s. 1, ch. 180, 1847",
+        "s. 1, ch. 1954, 1873",
+        "s. 1, ch. 2061, 1875",
+        "RS 16",
+        "s. 1, ch. 4296, 1893",
+        "s. 1, ch. 4576, 1897",
+        "GS 14",
+        "s. 1, ch. 6935, 1915",
+        "RGS 16",
+        "CGL 18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.33",
+      "section_path": "title-2-state-organization/sec-0007-33.md",
+      "history": [
+        "History.—s. 1, Jan. 20, 1827; s. 13, Nov. 23, 1828; Nov. 14, 1829; s. 1, Feb. 13, 1831; s. 1, ch. 3176, 1879; s. 1, ch. 3304, 1881; RS 23; GS 21; RGS 23; CGL 25; s. 11, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Jan. 20, 1827",
+        "s. 13, Nov. 23, 1828",
+        "Nov. 14, 1829",
+        "s. 1, Feb. 13, 1831",
+        "s. 1, ch. 3176, 1879",
+        "s. 1, ch. 3304, 1881",
+        "RS 23",
+        "GS 21",
+        "RGS 23",
+        "CGL 25",
+        "s. 11, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.34",
+      "section_path": "title-2-state-organization/sec-0007-34.md",
+      "history": [
+        "History.—s. 2, ch. 806, 1856; s. 1, ch. 921, 1858; ch. 3470, 1883; ch. 3625, 1885; s. 1, ch. 3766, 1887; RS 26; GS 24; s. 1, ch. 6246, 1911; RGS 26; s. 1, ch. 8514, 1921; CGL 28."
+      ],
+      "source_citations": [
+        "s. 2, ch. 806, 1856",
+        "s. 1, ch. 921, 1858",
+        "ch. 3470, 1883",
+        "ch. 3625, 1885",
+        "s. 1, ch. 3766, 1887",
+        "RS 26",
+        "GS 24",
+        "s. 1, ch. 6246, 1911",
+        "RGS 26",
+        "s. 1, ch. 8514, 1921",
+        "CGL 28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.35",
+      "section_path": "title-2-state-organization/sec-0007-35.md",
+      "history": [
+        "History.—s. 1, ch. 3771, 1887; s. 1, ch. 3944, 1889; s. 1, ch. 4066, 1891; RS 42; GS 40; RGS 44; CGL 46."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3771, 1887",
+        "s. 1, ch. 3944, 1889",
+        "s. 1, ch. 4066, 1891",
+        "RS 42",
+        "GS 40",
+        "RGS 44",
+        "CGL 46."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.36",
+      "section_path": "title-2-state-organization/sec-0007-36.md",
+      "history": [
+        "History.—ss. 1, 5, ch. 1998, 1874; s. 1, ch. 3769, ss. 2, 3, ch. 3770, 1887; RS 54; GS 52; RGS 61; ss. 1, chs. 9360, 9362, 1923; CGL 67; s. 12, ch. 2025-8."
+      ],
+      "source_citations": [
+        "ss. 1, 5, ch. 1998, 1874",
+        "s. 1, ch. 3769, ss. 2, 3, ch. 3770, 1887",
+        "RS 54",
+        "GS 52",
+        "RGS 61",
+        "ss. 1, chs. 9360, 9362, 1923",
+        "CGL 67",
+        "s. 12, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.37",
+      "section_path": "title-2-state-organization/sec-0007-37.md",
+      "history": [
+        "History.—s. 5, Dec. 29, 1824; s. 14, Nov. 23, 1828; Nov. 14, 1829; ss. 1, 2, Feb. 13, 1831; s. 1, ch. 288, 1849; s. 1, ch. 414, 1851; s. 1, ch. 3176, 1879; s. 1, ch. 3304, 1881; RS 21; GS 19; RGS 21; CGL 23; s. 1, ch. 16436, 1933."
+      ],
+      "source_citations": [
+        "s. 5, Dec. 29, 1824",
+        "s. 14, Nov. 23, 1828",
+        "Nov. 14, 1829",
+        "ss. 1, 2, Feb. 13, 1831",
+        "s. 1, ch. 288, 1849",
+        "s. 1, ch. 414, 1851",
+        "s. 1, ch. 3176, 1879",
+        "s. 1, ch. 3304, 1881",
+        "RS 21",
+        "GS 19",
+        "RGS 21",
+        "CGL 23",
+        "s. 1, ch. 16436, 1933."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.38",
+      "section_path": "title-2-state-organization/sec-0007-38.md",
+      "history": [
+        "History.—s. 1, Mar. 10, 1845; s. 1, ch. 106, 1846; s. 1, ch. 3060, 1877; RS 37; GS 35; s. 1, ch. 6243, 1911; s. 1, ch. 6509, 1913; RGS 38; s. 1, ch. 10778, 1925; CGL 40; s. 2, ch. 94-313; s. 13, ch. 2025-8; s. 4, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, Mar. 10, 1845",
+        "s. 1, ch. 106, 1846",
+        "s. 1, ch. 3060, 1877",
+        "RS 37",
+        "GS 35",
+        "s. 1, ch. 6243, 1911",
+        "s. 1, ch. 6509, 1913",
+        "RGS 38",
+        "s. 1, ch. 10778, 1925",
+        "CGL 40",
+        "s. 2, ch. 94-313",
+        "s. 13, ch. 2025-8",
+        "s. 4, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.39",
+      "section_path": "title-2-state-organization/sec-0007-39.md",
+      "history": [
+        "History.—s. 1, ch. 771, 1855; s. 1, ch. 949, 1858; ss. 1, 2, ch. 1046, 1859; s. 1, ch. 3624, 1885; RS 20; GS 18; s. 2, ch. 5966, 1909; RGS 20; CGL 22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 771, 1855",
+        "s. 1, ch. 949, 1858",
+        "ss. 1, 2, ch. 1046, 1859",
+        "s. 1, ch. 3624, 1885",
+        "RS 20",
+        "GS 18",
+        "s. 2, ch. 5966, 1909",
+        "RGS 20",
+        "CGL 22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.40",
+      "section_path": "title-2-state-organization/sec-0007-40.md",
+      "history": [
+        "History.—s. 1, Dec. 26, 1827; s. 11, Nov. 23, 1828; s. 1, Feb. 5, 1844; s. 1, ch. 806, 1856; RS 24; GS 22; RGS 24; s. 1, ch. 9361, 1923; CGL 26."
+      ],
+      "source_citations": [
+        "s. 1, Dec. 26, 1827",
+        "s. 11, Nov. 23, 1828",
+        "s. 1, Feb. 5, 1844",
+        "s. 1, ch. 806, 1856",
+        "RS 24",
+        "GS 22",
+        "RGS 24",
+        "s. 1, ch. 9361, 1923",
+        "CGL 26."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.41",
+      "section_path": "title-2-state-organization/sec-0007-41.md",
+      "history": [
+        "History.—s. 1, ch. 628, 1855; s. 4, ch. 1998, 1874; s. 1, ch. 3062, 1877; s. 2, ch. 3770, 1887; RS 51; GS 49; RGS 56; s. 1, ch. 8515, 1921; CGL 58; s. 14, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 628, 1855",
+        "s. 4, ch. 1998, 1874",
+        "s. 1, ch. 3062, 1877",
+        "s. 2, ch. 3770, 1887",
+        "RS 51",
+        "GS 49",
+        "RGS 56",
+        "s. 1, ch. 8515, 1921",
+        "CGL 58",
+        "s. 14, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.42",
+      "section_path": "title-2-state-organization/sec-0007-42.md",
+      "history": [
+        "History.—s. 1, Mar. 14, 1844; s. 1, ch. 106, 1846; s. 1, ch. 548, 1853; s. 1, ch. 923, 1859; s. 1, ch. 3060, 1877; s. 1, ch. 3767, 1887; RS 39; GS 37; RGS 40; CGL 42; s. 5, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, Mar. 14, 1844",
+        "s. 1, ch. 106, 1846",
+        "s. 1, ch. 548, 1853",
+        "s. 1, ch. 923, 1859",
+        "s. 1, ch. 3060, 1877",
+        "s. 1, ch. 3767, 1887",
+        "RS 39",
+        "GS 37",
+        "RGS 40",
+        "CGL 42",
+        "s. 5, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.43",
+      "section_path": "title-2-state-organization/sec-0007-43.md",
+      "history": [
+        "History.—s. 1, ch. 10180, 1925; CGL 77; s. 3, ch. 63-200; s. 1, ch. 2012-45."
+      ],
+      "source_citations": [
+        "s. 1, ch. 10180, 1925",
+        "CGL 77",
+        "s. 3, ch. 63-200",
+        "s. 1, ch. 2012-45."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.44",
+      "section_path": "title-2-state-organization/sec-0007-44.md",
+      "history": [
+        "History.—s. 1, July 3, 1823; s. 1, ch. 922, 1858; s. 2, ch. 1592, 1866; ss. 1, 5, ch. 1998, 1874; s. 1, ch. 8769, 1887; RS 55; GS 53; RGS 62; CGL 68; s. 3, ch. 2008-4."
+      ],
+      "source_citations": [
+        "s. 1, July 3, 1823",
+        "s. 1, ch. 922, 1858",
+        "s. 2, ch. 1592, 1866",
+        "ss. 1, 5, ch. 1998, 1874",
+        "s. 1, ch. 8769, 1887",
+        "RS 55",
+        "GS 53",
+        "RGS 62",
+        "CGL 68",
+        "s. 3, ch. 2008-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.45",
+      "section_path": "title-2-state-organization/sec-0007-45.md",
+      "history": [
+        "History.—s. 8, Dec. 29, 1824; s. 8, Nov. 23, 1828; s. 1, Mar. 15, 1844; s. 3, ch. 895, 1858; s. 1, ch. 920, 1858; s. 1, ch. 1185, 1861; RS 32; GS 30; s. 1, ch. 6244, 1911; RGS 32; CGL 34."
+      ],
+      "source_citations": [
+        "s. 8, Dec. 29, 1824",
+        "s. 8, Nov. 23, 1828",
+        "s. 1, Mar. 15, 1844",
+        "s. 3, ch. 895, 1858",
+        "s. 1, ch. 920, 1858",
+        "s. 1, ch. 1185, 1861",
+        "RS 32",
+        "GS 30",
+        "s. 1, ch. 6244, 1911",
+        "RGS 32",
+        "CGL 34."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.46",
+      "section_path": "title-2-state-organization/sec-0007-46.md",
+      "history": [
+        "History.—s. 1, ch. 6937, 1915; RGS 12; CGL 14; s. 2, ch. 23867, 1947; s. 15, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6937, 1915",
+        "RGS 12",
+        "CGL 14",
+        "s. 2, ch. 23867, 1947",
+        "s. 15, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.47",
+      "section_path": "title-2-state-organization/sec-0007-47.md",
+      "history": [
+        "History.—s. 1, ch. 7401, 1917; RGS 55; CGL 57; s. 4, ch. 63-200."
+      ],
+      "source_citations": [
+        "s. 1, ch. 7401, 1917",
+        "RGS 55",
+        "CGL 57",
+        "s. 4, ch. 63-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.48",
+      "section_path": "title-2-state-organization/sec-0007-48.md",
+      "history": [
+        "History.—s. 10, Dec. 29, 1824; s. 4, Nov. 23, 1828; s. 1, Jan. 30, 1845; s. 1, ch. 548, 1853; s. 1, ch. 1764, 1870; s. 1, ch. 1895, 1872; s. 2, ch. 3177, 1879; s. 1, ch. 3768, 1887; s. 1, ch. 3771, 1887; s. 1, ch. 3944, 1889; RS 41; GS 39; s. 1, ch. 6511, 1913; RGS 42; CGL 44; s. 1, ch. 61-483."
+      ],
+      "source_citations": [
+        "s. 10, Dec. 29, 1824",
+        "s. 4, Nov. 23, 1828",
+        "s. 1, Jan. 30, 1845",
+        "s. 1, ch. 548, 1853",
+        "s. 1, ch. 1764, 1870",
+        "s. 1, ch. 1895, 1872",
+        "s. 2, ch. 3177, 1879",
+        "s. 1, ch. 3768, 1887",
+        "s. 1, ch. 3771, 1887",
+        "s. 1, ch. 3944, 1889",
+        "RS 41",
+        "GS 39",
+        "s. 1, ch. 6511, 1913",
+        "RGS 42",
+        "CGL 44",
+        "s. 1, ch. 61-483."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.49",
+      "section_path": "title-2-state-organization/sec-0007-49.md",
+      "history": [
+        "History.—s. 2, ch. 1201, 1861; s. 2, ch. 1998, 1874; s. 2, ch. 3177, 1879; s. 1, ch. 3768, 1887; RS 49; GS 47; s. 1, ch. 7401, 1917; RGS 52; CGL 54; s. 1, ch. 67-592; ss. 27, 35, ch. 69-106."
+      ],
+      "source_citations": [
+        "s. 2, ch. 1201, 1861",
+        "s. 2, ch. 1998, 1874",
+        "s. 2, ch. 3177, 1879",
+        "s. 1, ch. 3768, 1887",
+        "RS 49",
+        "GS 47",
+        "s. 1, ch. 7401, 1917",
+        "RGS 52",
+        "CGL 54",
+        "s. 1, ch. 67-592",
+        "ss. 27, 35, ch. 69-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.50",
+      "section_path": "title-2-state-organization/sec-0007-50.md",
+      "history": [
+        "History.—s. 1, ch. 5970, 1909; s. 1, ch. 6934, 1915; s. 1, ch. 7401, 1917; RGS 59; s. 1, ch. 10090, 1925; s. 1, ch. 10180, 1925; s. 1, ch. 10596, 1925; CGL 65, 73; s. 5, ch. 63-200; ss. 27, 35, ch. 69-106; s. 2, ch. 2007-222."
+      ],
+      "source_citations": [
+        "s. 1, ch. 5970, 1909",
+        "s. 1, ch. 6934, 1915",
+        "s. 1, ch. 7401, 1917",
+        "RGS 59",
+        "s. 1, ch. 10090, 1925",
+        "s. 1, ch. 10180, 1925",
+        "s. 1, ch. 10596, 1925",
+        "CGL 65, 73",
+        "s. 5, ch. 63-200",
+        "ss. 27, 35, ch. 69-106",
+        "s. 2, ch. 2007-222."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.51",
+      "section_path": "title-2-state-organization/sec-0007-51.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 107, 1847; s. 1, ch. 415, 1850; s. 1, ch. 3471, 1883; s. 8, ch. 3772, 1887; RS 46; GS 44; RGS 48; CGL 50; s. 1, ch. 25440, 1949; s. 16, ch. 2025-8."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 107, 1847",
+        "s. 1, ch. 415, 1850",
+        "s. 1, ch. 3471, 1883",
+        "s. 8, ch. 3772, 1887",
+        "RS 46",
+        "GS 44",
+        "RGS 48",
+        "CGL 50",
+        "s. 1, ch. 25440, 1949",
+        "s. 16, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.52",
+      "section_path": "title-2-state-organization/sec-0007-52.md",
+      "history": [
+        "History.—s. 1, ch. 6247, 1911; RGS 50; CGL 52; s. 1, ch. 19058, 1939; s. 1, ch. 67-601; ss. 1, 2, ch. 70-995; s. 17, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6247, 1911",
+        "RGS 50",
+        "CGL 52",
+        "s. 1, ch. 19058, 1939",
+        "s. 1, ch. 67-601",
+        "ss. 1, 2, ch. 70-995",
+        "s. 17, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.53",
+      "section_path": "title-2-state-organization/sec-0007-53.md",
+      "history": [
+        "History.—s. 2, ch. 1201, 1861; s. 1, ch. 1622, 1866; ch. 1848, 1871; ss. 3, 6, ch. 1998, 1874; s. 2, ch. 3177, 1879; s. 1, ch. 3471, 1883; s. 1, ch. 3932, 1889; s. 1, ch. 4066, 1891; RS 48; GS 46; RGS 51; CGL 53; s. 2, ch. 25440, 1949; s. 2, ch. 67-592; ss. 27, 35, ch. 69-106."
+      ],
+      "source_citations": [
+        "s. 2, ch. 1201, 1861",
+        "s. 1, ch. 1622, 1866",
+        "ch. 1848, 1871",
+        "ss. 3, 6, ch. 1998, 1874",
+        "s. 2, ch. 3177, 1879",
+        "s. 1, ch. 3471, 1883",
+        "s. 1, ch. 3932, 1889",
+        "s. 1, ch. 4066, 1891",
+        "RS 48",
+        "GS 46",
+        "RGS 51",
+        "CGL 53",
+        "s. 2, ch. 25440, 1949",
+        "s. 2, ch. 67-592",
+        "ss. 27, 35, ch. 69-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.54",
+      "section_path": "title-2-state-organization/sec-0007-54.md",
+      "history": [
+        "History.—s. 1, ch. 280, 1849; s. 1, ch. 923, s. 3, ch. 1039, 1859; s. 1, ch. 2068, 1875; s. 1, ch. 3469, 1883; s. 1, ch. 3767, 1887; RS 36; GS 34; s. 1, ch. 5978, 1909; RGS 37; s. 1, ch. 12489, 1927; CGL 39; s. 2, ch. 59-488; s. 2, ch. 84-211; s. 6, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, ch. 280, 1849",
+        "s. 1, ch. 923, s. 3, ch. 1039, 1859",
+        "s. 1, ch. 2068, 1875",
+        "s. 1, ch. 3469, 1883",
+        "s. 1, ch. 3767, 1887",
+        "RS 36",
+        "GS 34",
+        "s. 1, ch. 5978, 1909",
+        "RGS 37",
+        "s. 1, ch. 12489, 1927",
+        "CGL 39",
+        "s. 2, ch. 59-488",
+        "s. 2, ch. 84-211",
+        "s. 6, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.55",
+      "section_path": "title-2-state-organization/sec-0007-55.md",
+      "history": [
+        "History.—s. 1, Feb. 18, 1842; s. 1, ch. 411, 1851; s. 1, ch. 571, 1853; ch. 3258, 1881; RS 12; GS 10; s. 1, ch. 6937, 1915; RGS 10; CGL 12; s. 1, ch. 26860, 1951; s. 2, ch. 57-834; s. 2, ch. 91-310; s. 18, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Feb. 18, 1842",
+        "s. 1, ch. 411, 1851",
+        "s. 1, ch. 571, 1853",
+        "ch. 3258, 1881",
+        "RS 12",
+        "GS 10",
+        "s. 1, ch. 6937, 1915",
+        "RGS 10",
+        "CGL 12",
+        "s. 1, ch. 26860, 1951",
+        "s. 2, ch. 57-834",
+        "s. 2, ch. 91-310",
+        "s. 18, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.56",
+      "section_path": "title-2-state-organization/sec-0007-56.md",
+      "history": [
+        "History.—s. 1, ch. 8515, 1921; CGL 70; s. 19, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 8515, 1921",
+        "CGL 70",
+        "s. 19, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.57",
+      "section_path": "title-2-state-organization/sec-0007-57.md",
+      "history": [
+        "History.—s. 1, ch. 6511, 1913; RGS 43; CGL 45; s. 1, ch. 20888, 1941; s. 1, ch. 61-167."
+      ],
+      "source_citations": [
+        "s. 1, ch. 6511, 1913",
+        "RGS 43",
+        "CGL 45",
+        "s. 1, ch. 20888, 1941",
+        "s. 1, ch. 61-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.58",
+      "section_path": "title-2-state-organization/sec-0007-58.md",
+      "history": [
+        "History.—s. 1, Ord. July 21, 1821; s. 1, Aug. 12, 1822; s. 9, Dec. 29, 1824; s. 1, ch. 289, 1848; s. 1, ch. 2068, 1875; RS 35; GS 33; s. 1, ch. 5730, 1907; s. 1, ch. 7399, 1917; RGS 35; CGL 37; s. 7, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 1, Ord. July 21, 1821",
+        "s. 1, Aug. 12, 1822",
+        "s. 9, Dec. 29, 1824",
+        "s. 1, ch. 289, 1848",
+        "s. 1, ch. 2068, 1875",
+        "RS 35",
+        "GS 33",
+        "s. 1, ch. 5730, 1907",
+        "s. 1, ch. 7399, 1917",
+        "RGS 35",
+        "CGL 37",
+        "s. 7, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.59",
+      "section_path": "title-2-state-organization/sec-0007-59.md",
+      "history": [
+        "History.—ss. 1, 19, ch. 5567, 1905; s. 1, ch. 7401, 1917; RGS 54; s. 1, ch. 10148, 1925; s. 1, ch. 10180, 1925; CGL 56; s. 2, ch. 2012-45; s. 2, ch. 2020-18."
+      ],
+      "source_citations": [
+        "ss. 1, 19, ch. 5567, 1905",
+        "s. 1, ch. 7401, 1917",
+        "RGS 54",
+        "s. 1, ch. 10148, 1925",
+        "s. 1, ch. 10180, 1925",
+        "CGL 56",
+        "s. 2, ch. 2012-45",
+        "s. 2, ch. 2020-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.60",
+      "section_path": "title-2-state-organization/sec-0007-60.md",
+      "history": [
+        "History.—s. 1, ch. 106, 1846; ss. 1, 2, ch. 107, 1847; s. 1, ch. 548, 1853; ch. 1848, 1871; s. 1, ch. 1895, 1872; s. 1, ch. 3771, 1887; s. 1, ch. 3932, 1889; RS 43; GS 41; RGS 45; CGL 47."
+      ],
+      "source_citations": [
+        "s. 1, ch. 106, 1846",
+        "ss. 1, 2, ch. 107, 1847",
+        "s. 1, ch. 548, 1853",
+        "ch. 1848, 1871",
+        "s. 1, ch. 1895, 1872",
+        "s. 1, ch. 3771, 1887",
+        "s. 1, ch. 3932, 1889",
+        "RS 43",
+        "GS 41",
+        "RGS 45",
+        "CGL 47."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.61",
+      "section_path": "title-2-state-organization/sec-0007-61.md",
+      "history": [
+        "History.—s. 2, ch. 895, 1858; s. 1, ch. 1048, 1859; s. 1, ch. 1391, 1863; s. 1, ch. 3948, 1889; RS 28; GS 26; RGS 28; CGL 30."
+      ],
+      "source_citations": [
+        "s. 2, ch. 895, 1858",
+        "s. 1, ch. 1048, 1859",
+        "s. 1, ch. 1391, 1863",
+        "s. 1, ch. 3948, 1889",
+        "RS 28",
+        "GS 26",
+        "RGS 28",
+        "CGL 30."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.62",
+      "section_path": "title-2-state-organization/sec-0007-62.md",
+      "history": [
+        "History.—s. 3, ch. 806, 1856; s. 1, ch. 921, 1858; s. 1, ch. 3061, 1877; ch. 3470, 1883; ch. 3625, 1885; s. 1, ch. 3766, 1887; RS 25; GS 23; RGS 25; CGL 27; s. 20, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 3, ch. 806, 1856",
+        "s. 1, ch. 921, 1858",
+        "s. 1, ch. 3061, 1877",
+        "ch. 3470, 1883",
+        "ch. 3625, 1885",
+        "s. 1, ch. 3766, 1887",
+        "RS 25",
+        "GS 23",
+        "RGS 25",
+        "CGL 27",
+        "s. 20, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.63",
+      "section_path": "title-2-state-organization/sec-0007-63.md",
+      "history": [
+        "History.—s. 1, ch. 8516, 1921; CGL 71."
+      ],
+      "source_citations": [
+        "s. 1, ch. 8516, 1921",
+        "CGL 71."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.64",
+      "section_path": "title-2-state-organization/sec-0007-64.md",
+      "history": [
+        "History.—s. 4, Nov. 23, 1828; s. 1, Jan. 30, 1845; s. 1, ch. 624, 1854; s. 1, ch. 1036, 1859; s. 1, ch. 1764, 1870; s. 1, ch. 2068, 1875; s. 1, ch. 3175, 1879; RS 40; GS 38; s. 2, ch. 5730, 1907; s. 1, ch. 7399, 1917; RGS 41; CGL 43; s. 1, ch. 20888, 1941; s. 1, ch. 67-190; s. 1, ch. 83-217."
+      ],
+      "source_citations": [
+        "s. 4, Nov. 23, 1828",
+        "s. 1, Jan. 30, 1845",
+        "s. 1, ch. 624, 1854",
+        "s. 1, ch. 1036, 1859",
+        "s. 1, ch. 1764, 1870",
+        "s. 1, ch. 2068, 1875",
+        "s. 1, ch. 3175, 1879",
+        "RS 40",
+        "GS 38",
+        "s. 2, ch. 5730, 1907",
+        "s. 1, ch. 7399, 1917",
+        "RGS 41",
+        "CGL 43",
+        "s. 1, ch. 20888, 1941",
+        "s. 1, ch. 67-190",
+        "s. 1, ch. 83-217."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.65",
+      "section_path": "title-2-state-organization/sec-0007-65.md",
+      "history": [
+        "History.—s. 1, Mar. 11, 1843; s. 1, ch. 414, 1851; RS 22; GS 20; RGS 22; CGL 24; s. 2, ch. 86-288; s. 21, ch. 2025-8."
+      ],
+      "source_citations": [
+        "s. 1, Mar. 11, 1843",
+        "s. 1, ch. 414, 1851",
+        "RS 22",
+        "GS 20",
+        "RGS 22",
+        "CGL 24",
+        "s. 2, ch. 86-288",
+        "s. 21, ch. 2025-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.66",
+      "section_path": "title-2-state-organization/sec-0007-66.md",
+      "history": [
+        "History.—s. 2, Dec. 29, 1824; s. 2, Dec. 9, 1825; s. 7, Nov. 23, 1828; s. 1, ch. 176, 1848; s. 1, ch. 411, 1851; s. 1, ch. 571, 1853; ch. 3258, 1881; RS 13; GS 11; s. 1, ch. 6508, 1913; s. 1, ch. 6937, 1915; RGS 11; CGL 13; s. 22, ch. 2025-8; s. 8, ch. 2026-14."
+      ],
+      "source_citations": [
+        "s. 2, Dec. 29, 1824",
+        "s. 2, Dec. 9, 1825",
+        "s. 7, Nov. 23, 1828",
+        "s. 1, ch. 176, 1848",
+        "s. 1, ch. 411, 1851",
+        "s. 1, ch. 571, 1853",
+        "ch. 3258, 1881",
+        "RS 13",
+        "GS 11",
+        "s. 1, ch. 6508, 1913",
+        "s. 1, ch. 6937, 1915",
+        "RGS 11",
+        "CGL 13",
+        "s. 22, ch. 2025-8",
+        "s. 8, ch. 2026-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "7.67",
+      "section_path": "title-2-state-organization/sec-0007-67.md",
+      "history": [
+        "History.—s. 4, Dec. 9, 1825; s. 2, Oct. 29, 1828; s. 1, ch. 108, 1847; s. 2, ch. 180, 1847; s. 1, ch. 1950, 1873; s. 1, ch. 3258, 1881; RS 15; s. 1, ch. 4236, 1893; s. 1, ch. 4577, 1897; GS 13; s. 1, ch. 6505, 1913; ss. 1, 2, ch. 6935, 1915; RGS 14; CGL 16."
+      ],
+      "source_citations": [
+        "s. 4, Dec. 9, 1825",
+        "s. 2, Oct. 29, 1828",
+        "s. 1, ch. 108, 1847",
+        "s. 2, ch. 180, 1847",
+        "s. 1, ch. 1950, 1873",
+        "s. 1, ch. 3258, 1881",
+        "RS 15",
+        "s. 1, ch. 4236, 1893",
+        "s. 1, ch. 4577, 1897",
+        "GS 13",
+        "s. 1, ch. 6505, 1913",
+        "ss. 1, 2, ch. 6935, 1915",
+        "RGS 14",
+        "CGL 16."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0007/0007.html&StatuteYear=2026",
+      "source_sha256": "9a799bc09b89ad2a53dfab32814b8ac91df691a92e629796033318418d9dd610"
+    },
+    {
+      "section": "8.0001",
+      "section_path": "title-2-state-organization/sec-0008-0001.md",
+      "history": [
+        "History.—s. 1, ch. 96-192; s. 1, ch. 2002-12; s. 1, ch. 2003-1; s. 1, ch. 2012-2; s. 1, ch. 2022-265; s. 1, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 96-192",
+        "s. 1, ch. 2002-12",
+        "s. 1, ch. 2003-1",
+        "s. 1, ch. 2012-2",
+        "s. 1, ch. 2022-265",
+        "s. 1, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.0002",
+      "section_path": "title-2-state-organization/sec-0008-0002.md",
+      "history": [
+        "History.—s. 2, ch. 96-192; s. 2, ch. 2002-12; s. 2, ch. 2012-2; s. 2, ch. 2022-265; s. 1, ch. 2026-229."
+      ],
+      "source_citations": [
+        "s. 2, ch. 96-192",
+        "s. 2, ch. 2002-12",
+        "s. 2, ch. 2012-2",
+        "s. 2, ch. 2022-265",
+        "s. 1, ch. 2026-229."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.0111",
+      "section_path": "title-2-state-organization/sec-0008-0111.md",
+      "history": [
+        "History.—s. 3, ch. 96-192; s. 3, ch. 2002-12; s. 3, ch. 2012-2; s. 3, ch. 2022-265."
+      ],
+      "source_citations": [
+        "s. 3, ch. 96-192",
+        "s. 3, ch. 2002-12",
+        "s. 3, ch. 2012-2",
+        "s. 3, ch. 2022-265."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.0112",
+      "section_path": "title-2-state-organization/sec-0008-0112.md",
+      "history": [
+        "History.—s. 4, ch. 96-192; s. 4, ch. 2002-12."
+      ],
+      "source_citations": [
+        "s. 4, ch. 96-192",
+        "s. 4, ch. 2002-12."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.02",
+      "section_path": "title-2-state-organization/sec-0008-02.md",
+      "history": [
+        "History.—s. 6, ch. 6472, 1913; RGS 69; CGL 85; s. 7, ch. 16876, 1935; s. 8, ch. 21975, 1943; s. 10, ch. 26484, 1951."
+      ],
+      "source_citations": [
+        "s. 6, ch. 6472, 1913",
+        "RGS 69",
+        "CGL 85",
+        "s. 7, ch. 16876, 1935",
+        "s. 8, ch. 21975, 1943",
+        "s. 10, ch. 26484, 1951."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.031",
+      "section_path": "title-2-state-organization/sec-0008-031.md",
+      "history": [
+        "History.—s. 5, ch. 96-192; s. 5, ch. 2002-12; s. 4, ch. 2012-2; s. 4, ch. 2022-265; s. 2, ch. 2026-229."
+      ],
+      "source_citations": [
+        "s. 5, ch. 96-192",
+        "s. 5, ch. 2002-12",
+        "s. 4, ch. 2012-2",
+        "s. 4, ch. 2022-265",
+        "s. 2, ch. 2026-229."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.05",
+      "section_path": "title-2-state-organization/sec-0008-05.md",
+      "history": [
+        "History.—s. 3, ch. 72-390; s. 7, ch. 82-384; s. 4, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 3, ch. 72-390",
+        "s. 7, ch. 82-384",
+        "s. 4, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.051",
+      "section_path": "title-2-state-organization/sec-0008-051.md",
+      "history": [
+        "History.—s. 5, ch. 2022-265; s. 3, ch. 2026-229."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2022-265",
+        "s. 3, ch. 2026-229."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.0611",
+      "section_path": "title-2-state-organization/sec-0008-0611.md",
+      "history": [
+        "History.—s. 7, ch. 96-192; s. 6, ch. 2002-12; s. 5, ch. 2012-2; s. 6, ch. 2022-265; s. 4, ch. 2026-229."
+      ],
+      "source_citations": [
+        "s. 7, ch. 96-192",
+        "s. 6, ch. 2002-12",
+        "s. 5, ch. 2012-2",
+        "s. 6, ch. 2022-265",
+        "s. 4, ch. 2026-229."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.06111",
+      "section_path": "title-2-state-organization/sec-0008-06111.md",
+      "history": [
+        "History.—s. 11, ch. 2022-265."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2022-265."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.062",
+      "section_path": "title-2-state-organization/sec-0008-062.md",
+      "history": [
+        "History.—s. 7, ch. 2022-265."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2022-265."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.063",
+      "section_path": "title-2-state-organization/sec-0008-063.md",
+      "history": [
+        "History.—s. 8, ch. 2022-265."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2022-265."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    },
+    {
+      "section": "8.07",
+      "section_path": "title-2-state-organization/sec-0008-07.md",
+      "history": [
+        "History.—s. 7, ch. 2002-12; s. 6, ch. 2012-2; s. 9, ch. 2022-265; s. 5, ch. 2026-229."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2002-12",
+        "s. 6, ch. 2012-2",
+        "s. 9, ch. 2022-265",
+        "s. 5, ch. 2026-229."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0008/0008.html&StatuteYear=2026",
+      "source_sha256": "5d62dc7b78f627d84f86fa3c49c7196c311ecba17a7e975b389aadc161baf09b"
+    }
+  ]
+}

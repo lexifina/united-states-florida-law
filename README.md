@@ -96,3 +96,7 @@ Each act's original commit is authored by the publisher (the Florida Legislature
 ## Current text corrections
 
 593 sections across 39 titles have labelled corrections restoring the official word boundaries at superscript markers, mixed numbers and block breaks. These corrections retain the existing version dates and make no new commencement assertion. Earlier annual editions remain incomplete.
+
+## Section history citations
+
+The official 2026 Florida Statutes History annotations are indexed by section in `data/section-history/`: 24,993 sections across 49 titles, 24,993 History annotations and 148,384 citation items in source order. The index preserves the publisher's words and links each entry to its official chapter page. Citation items include earlier statutory compilations and session laws; their roles and effective dates are not inferred. Sections without a History annotation have an empty list. The Constitution is outside this statutory index.

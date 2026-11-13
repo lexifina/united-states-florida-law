@@ -1,0 +1,4413 @@
+{
+  "schema_version": 1,
+  "act_path": "title-12-municipalities",
+  "title": "Florida Statutes, Title XII: Municipalities",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII&StatuteYear=2026",
+  "source_title_sha256": "05084f569fa2f68f920a6c38cd4edb11c745390f30720463016685f7d45c7c67",
+  "sections": [
+    {
+      "section": "165.011",
+      "section_path": "title-12-municipalities/sec-0165-011.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 35, ch. 89-169."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 35, ch. 89-169."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.021",
+      "section_path": "title-12-municipalities/sec-0165-021.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 36, ch. 89-169."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 36, ch. 89-169."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.022",
+      "section_path": "title-12-municipalities/sec-0165-022.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 23, ch. 82-154; s. 66, ch. 89-169."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 23, ch. 82-154",
+        "s. 66, ch. 89-169."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.0225",
+      "section_path": "title-12-municipalities/sec-0165-0225.md",
+      "history": [
+        "History.—s. 1, ch. 2007-26."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2007-26."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.031",
+      "section_path": "title-12-municipalities/sec-0165-031.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 11, ch. 81-167; s. 71, ch. 81-259; s. 24, ch. 82-154; s. 11, ch. 83-55; s. 37, ch. 89-169; s. 481, ch. 2011-142; s. 1, ch. 2012-121; s. 65, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 11, ch. 81-167",
+        "s. 71, ch. 81-259",
+        "s. 24, ch. 82-154",
+        "s. 11, ch. 83-55",
+        "s. 37, ch. 89-169",
+        "s. 481, ch. 2011-142",
+        "s. 1, ch. 2012-121",
+        "s. 65, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.041",
+      "section_path": "title-12-municipalities/sec-0165-041.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 25, ch. 82-154; s. 1, ch. 87-223; s. 38, ch. 89-169; s. 12, ch. 90-279; s. 8, ch. 96-416; s. 3, ch. 97-255; s. 11, ch. 99-378; s. 2, ch. 2012-121."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 25, ch. 82-154",
+        "s. 1, ch. 87-223",
+        "s. 38, ch. 89-169",
+        "s. 12, ch. 90-279",
+        "s. 8, ch. 96-416",
+        "s. 3, ch. 97-255",
+        "s. 11, ch. 99-378",
+        "s. 2, ch. 2012-121."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.043",
+      "section_path": "title-12-municipalities/sec-0165-043.md",
+      "history": [
+        "History.—s. 1, ch. 91-59."
+      ],
+      "source_citations": [
+        "s. 1, ch. 91-59."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.051",
+      "section_path": "title-12-municipalities/sec-0165-051.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 39, ch. 89-169; s. 13, ch. 90-279."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 39, ch. 89-169",
+        "s. 13, ch. 90-279."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.061",
+      "section_path": "title-12-municipalities/sec-0165-061.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 41, ch. 89-169; s. 6, ch. 98-258; s. 3, ch. 2000-304; s. 1, ch. 2002-23."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 41, ch. 89-169",
+        "s. 6, ch. 98-258",
+        "s. 3, ch. 2000-304",
+        "s. 1, ch. 2002-23."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.071",
+      "section_path": "title-12-municipalities/sec-0165-071.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 45, ch. 86-152; s. 42, ch. 89-169."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 45, ch. 86-152",
+        "s. 42, ch. 89-169."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "165.081",
+      "section_path": "title-12-municipalities/sec-0165-081.md",
+      "history": [
+        "History.—s. 1, ch. 74-192; s. 3, ch. 78-95."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-192",
+        "s. 3, ch. 78-95."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0165/0165.html&StatuteYear=2026",
+      "source_sha256": "c683155b18804675a53630287fd71efedf74647688590d89ed9d5c738a3ecdc8"
+    },
+    {
+      "section": "166.011",
+      "section_path": "title-12-municipalities/sec-0166-011.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.021",
+      "section_path": "title-12-municipalities/sec-0166-021.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 1, ch. 77-174; s. 2, ch. 90-332; s. 2, ch. 92-90; s. 2, ch. 93-207; s. 2, ch. 94-332; s. 1, ch. 95-178; s. 1, ch. 98-37; s. 1, ch. 2003-125; s. 2, ch. 2010-147; s. 22, ch. 2011-34; s. 60, ch. 2011-142; s. 3, ch. 2011-143; s. 36, ch. 2024-6; s. 3, ch. 2026-45."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 1, ch. 77-174",
+        "s. 2, ch. 90-332",
+        "s. 2, ch. 92-90",
+        "s. 2, ch. 93-207",
+        "s. 2, ch. 94-332",
+        "s. 1, ch. 95-178",
+        "s. 1, ch. 98-37",
+        "s. 1, ch. 2003-125",
+        "s. 2, ch. 2010-147",
+        "s. 22, ch. 2011-34",
+        "s. 60, ch. 2011-142",
+        "s. 3, ch. 2011-143",
+        "s. 36, ch. 2024-6",
+        "s. 3, ch. 2026-45."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0213",
+      "section_path": "title-12-municipalities/sec-0166-0213.md",
+      "history": [
+        "History.—s. 1, ch. 2011-147; s. 1, ch. 2014-14."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2011-147",
+        "s. 1, ch. 2014-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.031",
+      "section_path": "title-12-municipalities/sec-0166-031.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 1, ch. 86-95; s. 1, ch. 90-106; s. 43, ch. 90-315; s. 45, ch. 94-136."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 1, ch. 86-95",
+        "s. 1, ch. 90-106",
+        "s. 43, ch. 90-315",
+        "s. 45, ch. 94-136."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.032",
+      "section_path": "title-12-municipalities/sec-0166-032.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0321",
+      "section_path": "title-12-municipalities/sec-0166-0321.md",
+      "history": [
+        "History.—s. 2, ch. 2023-101."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2023-101."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.033",
+      "section_path": "title-12-municipalities/sec-0166-033.md",
+      "history": [
+        "History.—s. 2, ch. 2006-88; s. 3, ch. 2012-205; s. 3, ch. 2013-92; s. 3, ch. 2013-193; s. 2, ch. 2013-213; s. 8, ch. 2019-165; s. 3, ch. 2021-224; s. 6, ch. 2025-177; s. 2, ch. 2026-7; s. 3, ch. 2026-64."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2006-88",
+        "s. 3, ch. 2012-205",
+        "s. 3, ch. 2013-92",
+        "s. 3, ch. 2013-193",
+        "s. 2, ch. 2013-213",
+        "s. 8, ch. 2019-165",
+        "s. 3, ch. 2021-224",
+        "s. 6, ch. 2025-177",
+        "s. 2, ch. 2026-7",
+        "s. 3, ch. 2026-64."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0335",
+      "section_path": "title-12-municipalities/sec-0166-0335.md",
+      "history": [
+        "History.—s. 2, ch. 2023-304."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2023-304."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.041",
+      "section_path": "title-12-municipalities/sec-0166-041.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 2, ch. 76-155; s. 2, ch. 77-331; s. 1, ch. 83-240; s. 1, ch. 83-301; s. 2, ch. 95-198; s. 5, ch. 95-310; s. 5, ch. 2012-212; s. 15, ch. 2021-17; ss. 5, 6, ch. 2023-309; s. 3, ch. 2024-145."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 2, ch. 76-155",
+        "s. 2, ch. 77-331",
+        "s. 1, ch. 83-240",
+        "s. 1, ch. 83-301",
+        "s. 2, ch. 95-198",
+        "s. 5, ch. 95-310",
+        "s. 5, ch. 2012-212",
+        "s. 15, ch. 2021-17",
+        "ss. 5, 6, ch. 2023-309",
+        "s. 3, ch. 2024-145."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0411",
+      "section_path": "title-12-municipalities/sec-0166-0411.md",
+      "history": [
+        "History.—s. 7, ch. 2023-309."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2023-309."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0415",
+      "section_path": "title-12-municipalities/sec-0166-0415.md",
+      "history": [
+        "History.—s. 13, ch. 89-268; s. 5, ch. 98-287; s. 116, ch. 2000-141; s. 35, ch. 2001-186; s. 4, ch. 2001-372; s. 5, ch. 2021-167."
+      ],
+      "source_citations": [
+        "s. 13, ch. 89-268",
+        "s. 5, ch. 98-287",
+        "s. 116, ch. 2000-141",
+        "s. 35, ch. 2001-186",
+        "s. 4, ch. 2001-372",
+        "s. 5, ch. 2021-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.04151",
+      "section_path": "title-12-municipalities/sec-0166-04151.md",
+      "history": [
+        "History.—s. 15, ch. 2001-252; s. 9, ch. 2019-165; s. 6, ch. 2020-27; s. 2, ch. 2022-176; s. 5, ch. 2023-17; s. 2, ch. 2024-188; s. 2, ch. 2025-172; s. 15, ch. 2026-14; s. 2, ch. 2026-163; s. 2, ch. 2026-179."
+      ],
+      "source_citations": [
+        "s. 15, ch. 2001-252",
+        "s. 9, ch. 2019-165",
+        "s. 6, ch. 2020-27",
+        "s. 2, ch. 2022-176",
+        "s. 5, ch. 2023-17",
+        "s. 2, ch. 2024-188",
+        "s. 2, ch. 2025-172",
+        "s. 15, ch. 2026-14",
+        "s. 2, ch. 2026-163",
+        "s. 2, ch. 2026-179."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.042",
+      "section_path": "title-12-municipalities/sec-0166-042.md",
+      "history": [
+        "History.—s. 5, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 5, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0425",
+      "section_path": "title-12-municipalities/sec-0166-0425.md",
+      "history": [
+        "History.—s. 5, ch. 78-8."
+      ],
+      "source_citations": [
+        "s. 5, ch. 78-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.043",
+      "section_path": "title-12-municipalities/sec-0166-043.md",
+      "history": [
+        "History.—ss. 1, 2, 3, 4, 5, 6, ch. 77-50; s. 82, ch. 79-400; s. 2, ch. 88-240; s. 3, ch. 90-283; s. 53, ch. 97-300; s. 5, ch. 98-324; s. 9, ch. 99-360; s. 34, ch. 2001-201; s. 3, ch. 2020-174; s. 6, ch. 2023-17; s. 2, ch. 2024-27."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, 4, 5, 6, ch. 77-50",
+        "s. 82, ch. 79-400",
+        "s. 2, ch. 88-240",
+        "s. 3, ch. 90-283",
+        "s. 53, ch. 97-300",
+        "s. 5, ch. 98-324",
+        "s. 9, ch. 99-360",
+        "s. 34, ch. 2001-201",
+        "s. 3, ch. 2020-174",
+        "s. 6, ch. 2023-17",
+        "s. 2, ch. 2024-27."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0435",
+      "section_path": "title-12-municipalities/sec-0166-0435.md",
+      "history": [
+        "History.—s. 2, ch. 91-28."
+      ],
+      "source_citations": [
+        "s. 2, ch. 91-28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.044",
+      "section_path": "title-12-municipalities/sec-0166-044.md",
+      "history": [
+        "History.—s. 2, ch. 83-253."
+      ],
+      "source_citations": [
+        "s. 2, ch. 83-253."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0442",
+      "section_path": "title-12-municipalities/sec-0166-0442.md",
+      "history": [
+        "History.—s. 2, ch. 2002-169; s. 2, ch. 2013-116."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2002-169",
+        "s. 2, ch. 2013-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0443",
+      "section_path": "title-12-municipalities/sec-0166-0443.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 86-259."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 86-259."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0444",
+      "section_path": "title-12-municipalities/sec-0166-0444.md",
+      "history": [
+        "History.—s. 3, ch. 98-8; s. 1, ch. 2003-102."
+      ],
+      "source_citations": [
+        "s. 3, ch. 98-8",
+        "s. 1, ch. 2003-102."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0445",
+      "section_path": "title-12-municipalities/sec-0166-0445.md",
+      "history": [
+        "History.—s. 3, ch. 86-87; s. 15, ch. 99-8; s. 39, ch. 2014-19; s. 11, ch. 2026-140."
+      ],
+      "source_citations": [
+        "s. 3, ch. 86-87",
+        "s. 15, ch. 99-8",
+        "s. 39, ch. 2014-19",
+        "s. 11, ch. 2026-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0446",
+      "section_path": "title-12-municipalities/sec-0166-0446.md",
+      "history": [
+        "History.—s. 2, ch. 2009-191; s. 125, ch. 2013-183; s. 7, ch. 2022-35."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2009-191",
+        "s. 125, ch. 2013-183",
+        "s. 7, ch. 2022-35."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.04465",
+      "section_path": "title-12-municipalities/sec-0166-04465.md",
+      "history": [
+        "History.—s. 4, ch. 2020-174."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2020-174."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0447",
+      "section_path": "title-12-municipalities/sec-0166-0447.md",
+      "history": [
+        "History.—s. 3, ch. 2016-196."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2016-196."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.045",
+      "section_path": "title-12-municipalities/sec-0166-045.md",
+      "history": [
+        "History.—s. 2, ch. 84-298; s. 2, ch. 88-315; s. 35, ch. 90-360; s. 9, ch. 94-240; s. 46, ch. 96-406; s. 30, ch. 2016-233."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-298",
+        "s. 2, ch. 88-315",
+        "s. 35, ch. 90-360",
+        "s. 9, ch. 94-240",
+        "s. 46, ch. 96-406",
+        "s. 30, ch. 2016-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0451",
+      "section_path": "title-12-municipalities/sec-0166-0451.md",
+      "history": [
+        "History.—s. 4, ch. 2006-69; s. 7, ch. 2023-17."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2006-69",
+        "s. 7, ch. 2023-17."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.047",
+      "section_path": "title-12-municipalities/sec-0166-047.md",
+      "history": [
+        "History.—s. 2, ch. 97-197."
+      ],
+      "source_citations": [
+        "s. 2, ch. 97-197."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.048",
+      "section_path": "title-12-municipalities/sec-0166-048.md",
+      "history": [
+        "History.—s. 6, ch. 91-41; s. 6, ch. 91-68; s. 3, ch. 2001-252; s. 22, ch. 2009-243."
+      ],
+      "source_citations": [
+        "s. 6, ch. 91-41",
+        "s. 6, ch. 91-68",
+        "s. 3, ch. 2001-252",
+        "s. 22, ch. 2009-243."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0481",
+      "section_path": "title-12-municipalities/sec-0166-0481.md",
+      "history": [
+        "History.—s. 2, ch. 2020-158."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2020-158."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0483",
+      "section_path": "title-12-municipalities/sec-0166-0483.md",
+      "history": [
+        "History.—s. 15, ch. 2017-149."
+      ],
+      "source_citations": [
+        "s. 15, ch. 2017-149."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0484",
+      "section_path": "title-12-municipalities/sec-0166-0484.md",
+      "history": [
+        "History.—s. 2, ch. 2022-82; s. 49, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2022-82",
+        "s. 49, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.04845",
+      "section_path": "title-12-municipalities/sec-0166-04845.md",
+      "history": [
+        "History.—s. 2, ch. 2026-55."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2026-55."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0485",
+      "section_path": "title-12-municipalities/sec-0166-0485.md",
+      "history": [
+        "History.—s. 1, ch. 2004-18."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2004-18."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0486",
+      "section_path": "title-12-municipalities/sec-0166-0486.md",
+      "history": [
+        "History.—s. 6, ch. 2024-86."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2024-86."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.049",
+      "section_path": "title-12-municipalities/sec-0166-049.md",
+      "history": [
+        "History.—s. 2, ch. 95-318."
+      ],
+      "source_citations": [
+        "s. 2, ch. 95-318."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0493",
+      "section_path": "title-12-municipalities/sec-0166-0493.md",
+      "history": [
+        "History.—s. 3, ch. 2001-264; s. 29, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2001-264",
+        "s. 29, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0494",
+      "section_path": "title-12-municipalities/sec-0166-0494.md",
+      "history": [
+        "History.—s. 1, ch. 2023-282."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2023-282."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0495",
+      "section_path": "title-12-municipalities/sec-0166-0495.md",
+      "history": [
+        "History.—s. 1, ch. 97-62."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-62."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.0497",
+      "section_path": "title-12-municipalities/sec-0166-0497.md",
+      "history": [
+        "History.—s. 36, ch. 99-208."
+      ],
+      "source_citations": [
+        "s. 36, ch. 99-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.04971",
+      "section_path": "title-12-municipalities/sec-0166-04971.md",
+      "history": [
+        "History.—s. 2, ch. 2026-43."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2026-43."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.063",
+      "section_path": "title-12-municipalities/sec-0166-063.md",
+      "history": [
+        "History.—s. 4, ch. 2026-3."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2026-3."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.101",
+      "section_path": "title-12-municipalities/sec-0166-101.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.111",
+      "section_path": "title-12-municipalities/sec-0166-111.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 2, ch. 92-345; s. 159, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 2, ch. 92-345",
+        "s. 159, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.121",
+      "section_path": "title-12-municipalities/sec-0166-121.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 13, ch. 2004-305."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 13, ch. 2004-305."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.122",
+      "section_path": "title-12-municipalities/sec-0166-122.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.131",
+      "section_path": "title-12-municipalities/sec-0166-131.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.141",
+      "section_path": "title-12-municipalities/sec-0166-141.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.201",
+      "section_path": "title-12-municipalities/sec-0166-201.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 4, ch. 2026-45."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 4, ch. 2026-45."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.211",
+      "section_path": "title-12-municipalities/sec-0166-211.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.215",
+      "section_path": "title-12-municipalities/sec-0166-215.md",
+      "history": [
+        "History.—s. 1, ch. 80-53."
+      ],
+      "source_citations": [
+        "s. 1, ch. 80-53."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.221",
+      "section_path": "title-12-municipalities/sec-0166-221.md",
+      "history": [
+        "History.—s. 1, ch. 73-129."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.222",
+      "section_path": "title-12-municipalities/sec-0166-222.md",
+      "history": [
+        "History.—s. 2, ch. 83-160; s. 2, ch. 2019-75; s. 2, ch. 2019-121."
+      ],
+      "source_citations": [
+        "s. 2, ch. 83-160",
+        "s. 2, ch. 2019-75",
+        "s. 2, ch. 2019-121."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.223",
+      "section_path": "title-12-municipalities/sec-0166-223.md",
+      "history": [
+        "History.—s. 2, ch. 2002-241; s. 2, ch. 2026-37."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2002-241",
+        "s. 2, ch. 2026-37."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.231",
+      "section_path": "title-12-municipalities/sec-0166-231.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; ss. 1, 2, ch. 74-109; s. 1, ch. 77-174; s. 1, ch. 77-251; s. 4, ch. 78-299; s. 1, ch. 78-400; s. 1, ch. 82-230; s. 1, ch. 82-399; s. 24, ch. 84-356; s. 1, ch. 85-174; s. 1, ch. 86-155; s. 1, ch. 88-35; s. 1, ch. 88-140; s. 36, ch. 90-360; s. 1, ch. 93-224; s. 44, ch. 94-136; s. 1, ch. 95-403; s. 12, ch. 96-320; s. 47, ch. 96-406; s. 2, ch. 97-233; s. 2, ch. 97-283; s. 10, ch. 98-277; s. 64, ch. 99-2; s. 18, ch. 2000-158; ss. 36, 38, 58, ch. 2000-260; s. 5, ch. 2000-355; s. 28, ch. 2001-60; s. 38, ch. 2001-140; s. 2, ch. 2003-17; s. 13, ch. 2005-287; s. 2, ch. 2009-51."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "ss. 1, 2, ch. 74-109",
+        "s. 1, ch. 77-174",
+        "s. 1, ch. 77-251",
+        "s. 4, ch. 78-299",
+        "s. 1, ch. 78-400",
+        "s. 1, ch. 82-230",
+        "s. 1, ch. 82-399",
+        "s. 24, ch. 84-356",
+        "s. 1, ch. 85-174",
+        "s. 1, ch. 86-155",
+        "s. 1, ch. 88-35",
+        "s. 1, ch. 88-140",
+        "s. 36, ch. 90-360",
+        "s. 1, ch. 93-224",
+        "s. 44, ch. 94-136",
+        "s. 1, ch. 95-403",
+        "s. 12, ch. 96-320",
+        "s. 47, ch. 96-406",
+        "s. 2, ch. 97-233",
+        "s. 2, ch. 97-283",
+        "s. 10, ch. 98-277",
+        "s. 64, ch. 99-2",
+        "s. 18, ch. 2000-158",
+        "ss. 36, 38, 58, ch. 2000-260",
+        "s. 5, ch. 2000-355",
+        "s. 28, ch. 2001-60",
+        "s. 38, ch. 2001-140",
+        "s. 2, ch. 2003-17",
+        "s. 13, ch. 2005-287",
+        "s. 2, ch. 2009-51."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.232",
+      "section_path": "title-12-municipalities/sec-0166-232.md",
+      "history": [
+        "History.—s. 5, ch. 78-299; s. 2, ch. 82-230; s. 46, ch. 83-217."
+      ],
+      "source_citations": [
+        "s. 5, ch. 78-299",
+        "s. 2, ch. 82-230",
+        "s. 46, ch. 83-217."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.233",
+      "section_path": "title-12-municipalities/sec-0166-233.md",
+      "history": [
+        "History.—s. 3, ch. 97-233; ss. 39, 58, ch. 2000-260; s. 38, ch. 2001-140."
+      ],
+      "source_citations": [
+        "s. 3, ch. 97-233",
+        "ss. 39, 58, ch. 2000-260",
+        "s. 38, ch. 2001-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.234",
+      "section_path": "title-12-municipalities/sec-0166-234.md",
+      "history": [
+        "History.—s. 4, ch. 97-233."
+      ],
+      "source_citations": [
+        "s. 4, ch. 97-233."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.235",
+      "section_path": "title-12-municipalities/sec-0166-235.md",
+      "history": [
+        "History.—s. 1, ch. 99-208."
+      ],
+      "source_citations": [
+        "s. 1, ch. 99-208."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.241",
+      "section_path": "title-12-municipalities/sec-0166-241.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 4, ch. 83-106; s. 6, ch. 96-324; s. 14, ch. 2004-305; s. 11, ch. 2011-144; s. 8, ch. 2019-15; s. 2, ch. 2019-56; s. 7, ch. 2020-27; s. 1, ch. 2021-6; s. 3, ch. 2023-156; s. 7, ch. 2026-161."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 4, ch. 83-106",
+        "s. 6, ch. 96-324",
+        "s. 14, ch. 2004-305",
+        "s. 11, ch. 2011-144",
+        "s. 8, ch. 2019-15",
+        "s. 2, ch. 2019-56",
+        "s. 7, ch. 2020-27",
+        "s. 1, ch. 2021-6",
+        "s. 3, ch. 2023-156",
+        "s. 7, ch. 2026-161."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.246",
+      "section_path": "title-12-municipalities/sec-0166-246.md",
+      "history": [
+        "History.—s. 2, ch. 2023-40; s. 2, ch. 2024-9."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2023-40",
+        "s. 2, ch. 2024-9."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.251",
+      "section_path": "title-12-municipalities/sec-0166-251.md",
+      "history": [
+        "History.—s. 2, ch. 75-56; s. 31, ch. 79-164; s. 2, ch. 86-51; s. 4, ch. 89-303; s. 4, ch. 91-211; s. 2, ch. 98-297."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-56",
+        "s. 31, ch. 79-164",
+        "s. 2, ch. 86-51",
+        "s. 4, ch. 89-303",
+        "s. 4, ch. 91-211",
+        "s. 2, ch. 98-297."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.271",
+      "section_path": "title-12-municipalities/sec-0166-271.md",
+      "history": [
+        "History.—s. 1, ch. 2003-98; s. 10, ch. 2007-5; s. 30, ch. 2008-4; s. 14, ch. 2016-10."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2003-98",
+        "s. 10, ch. 2007-5",
+        "s. 30, ch. 2008-4",
+        "s. 14, ch. 2016-10."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.401",
+      "section_path": "title-12-municipalities/sec-0166-401.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; s. 5, ch. 88-168; s. 18, ch. 90-227; s. 63, ch. 99-385; s. 13, ch. 2006-11."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "s. 5, ch. 88-168",
+        "s. 18, ch. 90-227",
+        "s. 63, ch. 99-385",
+        "s. 13, ch. 2006-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "166.411",
+      "section_path": "title-12-municipalities/sec-0166-411.md",
+      "history": [
+        "History.—s. 1, ch. 73-129; ss. 1, 2, ch. 2001-77; s. 4, ch. 2005-3; s. 14, ch. 2006-11."
+      ],
+      "source_citations": [
+        "s. 1, ch. 73-129",
+        "ss. 1, 2, ch. 2001-77",
+        "s. 4, ch. 2005-3",
+        "s. 14, ch. 2006-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0166/0166.html&StatuteYear=2026",
+      "source_sha256": "85771023e6f71dc275d1d543a7b7fe5d5d5d771704cca30b93cb83f35d2b2eac"
+    },
+    {
+      "section": "170.01",
+      "section_path": "title-12-municipalities/sec-0170-01.md",
+      "history": [
+        "History.—s. 1, ch. 9298, 1923; CGL 3022; s. 1, ch. 59-396; s. 1, ch. 67-552; s. 1, ch. 78-360; s. 32, ch. 79-164; s. 1, ch. 82-198; s. 32, ch. 83-204; s. 1, ch. 83-337; s. 1, ch. 87-103; s. 39, ch. 91-45; s. 1, ch. 92-156; s. 2, ch. 94-344; s. 4, ch. 95-323; s. 2, ch. 2016-89."
+      ],
+      "source_citations": [
+        "s. 1, ch. 9298, 1923",
+        "CGL 3022",
+        "s. 1, ch. 59-396",
+        "s. 1, ch. 67-552",
+        "s. 1, ch. 78-360",
+        "s. 32, ch. 79-164",
+        "s. 1, ch. 82-198",
+        "s. 32, ch. 83-204",
+        "s. 1, ch. 83-337",
+        "s. 1, ch. 87-103",
+        "s. 39, ch. 91-45",
+        "s. 1, ch. 92-156",
+        "s. 2, ch. 94-344",
+        "s. 4, ch. 95-323",
+        "s. 2, ch. 2016-89."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.02",
+      "section_path": "title-12-municipalities/sec-0170-02.md",
+      "history": [
+        "History.—s. 2, ch. 9298, 1923; CGL 3023."
+      ],
+      "source_citations": [
+        "s. 2, ch. 9298, 1923",
+        "CGL 3023."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.03",
+      "section_path": "title-12-municipalities/sec-0170-03.md",
+      "history": [
+        "History.—s. 3, ch. 9298, 1923; CGL 3024; s. 2, ch. 59-396; s. 2, ch. 67-552; s. 1, ch. 78-330; s. 2, ch. 87-103; s. 40, ch. 91-45; s. 2, ch. 92-156; s. 3, ch. 94-344."
+      ],
+      "source_citations": [
+        "s. 3, ch. 9298, 1923",
+        "CGL 3024",
+        "s. 2, ch. 59-396",
+        "s. 2, ch. 67-552",
+        "s. 1, ch. 78-330",
+        "s. 2, ch. 87-103",
+        "s. 40, ch. 91-45",
+        "s. 2, ch. 92-156",
+        "s. 3, ch. 94-344."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.04",
+      "section_path": "title-12-municipalities/sec-0170-04.md",
+      "history": [
+        "History.—s. 4, ch. 9298, 1923; CGL 3025; s. 3, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 4, ch. 9298, 1923",
+        "CGL 3025",
+        "s. 3, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.05",
+      "section_path": "title-12-municipalities/sec-0170-05.md",
+      "history": [
+        "History.—s. 5, ch. 9298, 1923; CGL 3026."
+      ],
+      "source_citations": [
+        "s. 5, ch. 9298, 1923",
+        "CGL 3026."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.06",
+      "section_path": "title-12-municipalities/sec-0170-06.md",
+      "history": [
+        "History.—s. 6, ch. 9298, 1923; CGL 3027; s. 3, ch. 67-552; s. 4, ch. 87-103."
+      ],
+      "source_citations": [
+        "s. 6, ch. 9298, 1923",
+        "CGL 3027",
+        "s. 3, ch. 67-552",
+        "s. 4, ch. 87-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.07",
+      "section_path": "title-12-municipalities/sec-0170-07.md",
+      "history": [
+        "History.—s. 7, ch. 9298, 1923; CGL 3028; s. 4, ch. 59-396; s. 1, ch. 77-102; s. 5, ch. 87-103; s. 914, ch. 95-147; s. 1, ch. 98-52."
+      ],
+      "source_citations": [
+        "s. 7, ch. 9298, 1923",
+        "CGL 3028",
+        "s. 4, ch. 59-396",
+        "s. 1, ch. 77-102",
+        "s. 5, ch. 87-103",
+        "s. 914, ch. 95-147",
+        "s. 1, ch. 98-52."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.08",
+      "section_path": "title-12-municipalities/sec-0170-08.md",
+      "history": [
+        "History.—s. 8, ch. 9298, 1923; CGL 3029; s. 5, ch. 59-396; s. 1, ch. 78-330; s. 73, ch. 81-259; s. 6, ch. 87-103."
+      ],
+      "source_citations": [
+        "s. 8, ch. 9298, 1923",
+        "CGL 3029",
+        "s. 5, ch. 59-396",
+        "s. 1, ch. 78-330",
+        "s. 73, ch. 81-259",
+        "s. 6, ch. 87-103."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.09",
+      "section_path": "title-12-municipalities/sec-0170-09.md",
+      "history": [
+        "History.—s. 9, ch. 9298, 1923; CGL 3030; s. 6, ch. 59-396; s. 1, ch. 61-349; s. 4, ch. 67-552; s. 3, ch. 80-318; s. 74, ch. 81-259; s. 5, ch. 82-195; s. 2, ch. 82-198; s. 33, ch. 83-204; s. 29, ch. 99-378."
+      ],
+      "source_citations": [
+        "s. 9, ch. 9298, 1923",
+        "CGL 3030",
+        "s. 6, ch. 59-396",
+        "s. 1, ch. 61-349",
+        "s. 4, ch. 67-552",
+        "s. 3, ch. 80-318",
+        "s. 74, ch. 81-259",
+        "s. 5, ch. 82-195",
+        "s. 2, ch. 82-198",
+        "s. 33, ch. 83-204",
+        "s. 29, ch. 99-378."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.10",
+      "section_path": "title-12-municipalities/sec-0170-10.md",
+      "history": [
+        "History.—s. 10, ch. 9298, 1923; CGL 3031; s. 7, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 10, ch. 9298, 1923",
+        "CGL 3031",
+        "s. 7, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.11",
+      "section_path": "title-12-municipalities/sec-0170-11.md",
+      "history": [
+        "History.—s. 11, ch. 9298, 1923; CGL 3032; s. 8, ch. 59-396; s. 5, ch. 67-552; s. 1, ch. 78-330; s. 3, ch. 92-156; s. 915, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 11, ch. 9298, 1923",
+        "CGL 3032",
+        "s. 8, ch. 59-396",
+        "s. 5, ch. 67-552",
+        "s. 1, ch. 78-330",
+        "s. 3, ch. 92-156",
+        "s. 915, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.14",
+      "section_path": "title-12-municipalities/sec-0170-14.md",
+      "history": [
+        "History.—s. 14, ch. 9298, 1923; CGL 3035; s. 11, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 14, ch. 9298, 1923",
+        "CGL 3035",
+        "s. 11, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.15",
+      "section_path": "title-12-municipalities/sec-0170-15.md",
+      "history": [
+        "History.—s. 15, ch. 9298, 1923; CGL 3036; s. 12, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 15, ch. 9298, 1923",
+        "CGL 3036",
+        "s. 12, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.16",
+      "section_path": "title-12-municipalities/sec-0170-16.md",
+      "history": [
+        "History.—s. 16, ch. 9298, 1923; CGL 3037; s. 7, ch. 87-103; s. 41, ch. 91-45."
+      ],
+      "source_citations": [
+        "s. 16, ch. 9298, 1923",
+        "CGL 3037",
+        "s. 7, ch. 87-103",
+        "s. 41, ch. 91-45."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.17",
+      "section_path": "title-12-municipalities/sec-0170-17.md",
+      "history": [
+        "History.—s. 17, ch. 9298, 1923; CGL 3038; s. 13, ch. 59-396; s. 16, ch. 73-302; s. 6, ch. 82-195; s. 4, ch. 92-156."
+      ],
+      "source_citations": [
+        "s. 17, ch. 9298, 1923",
+        "CGL 3038",
+        "s. 13, ch. 59-396",
+        "s. 16, ch. 73-302",
+        "s. 6, ch. 82-195",
+        "s. 4, ch. 92-156."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.18",
+      "section_path": "title-12-municipalities/sec-0170-18.md",
+      "history": [
+        "History.—s. 18, ch. 9298, 1923; CGL 3039."
+      ],
+      "source_citations": [
+        "s. 18, ch. 9298, 1923",
+        "CGL 3039."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.19",
+      "section_path": "title-12-municipalities/sec-0170-19.md",
+      "history": [
+        "History.—s. 19, ch. 9298, 1923; CGL 3040; s. 14, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 19, ch. 9298, 1923",
+        "CGL 3040",
+        "s. 14, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.20",
+      "section_path": "title-12-municipalities/sec-0170-20.md",
+      "history": [
+        "History.—s. 20, ch. 9298, 1923; CGL 3041; s. 15, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 20, ch. 9298, 1923",
+        "CGL 3041",
+        "s. 15, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.201",
+      "section_path": "title-12-municipalities/sec-0170-201.md",
+      "history": [
+        "History.—s. 30, ch. 96-324; s. 1, ch. 97-110; s. 5, ch. 98-167; s. 14, ch. 99-378; s. 26, ch. 2011-144; s. 1, ch. 2025-181."
+      ],
+      "source_citations": [
+        "s. 30, ch. 96-324",
+        "s. 1, ch. 97-110",
+        "s. 5, ch. 98-167",
+        "s. 14, ch. 99-378",
+        "s. 26, ch. 2011-144",
+        "s. 1, ch. 2025-181."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "170.21",
+      "section_path": "title-12-municipalities/sec-0170-21.md",
+      "history": [
+        "History.—s. 21, ch. 9298, 1923; CGL 3042; s. 16, ch. 59-396."
+      ],
+      "source_citations": [
+        "s. 21, ch. 9298, 1923",
+        "CGL 3042",
+        "s. 16, ch. 59-396."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0170/0170.html&StatuteYear=2026",
+      "source_sha256": "d407a44b6e107f195debeba71055faefc154a9dc5f2f2b6b59007ea2dbb03fc0"
+    },
+    {
+      "section": "171.011",
+      "section_path": "title-12-municipalities/sec-0171-011.md",
+      "history": [
+        "History.—s. 1, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.021",
+      "section_path": "title-12-municipalities/sec-0171-021.md",
+      "history": [
+        "History.—s. 1, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.022",
+      "section_path": "title-12-municipalities/sec-0171-022.md",
+      "history": [
+        "History.—s. 1, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.031",
+      "section_path": "title-12-municipalities/sec-0171-031.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 1, ch. 75-297; s. 75, ch. 81-259; s. 1, ch. 84-148; s. 15, ch. 93-206; s. 2, ch. 2023-305."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 1, ch. 75-297",
+        "s. 75, ch. 81-259",
+        "s. 1, ch. 84-148",
+        "s. 15, ch. 93-206",
+        "s. 2, ch. 2023-305."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.0413",
+      "section_path": "title-12-municipalities/sec-0171-0413.md",
+      "history": [
+        "History.—s. 2, ch. 75-297; s. 1, ch. 76-176; s. 44, ch. 77-104; s. 1, ch. 80-350; s. 76, ch. 81-259; s. 1, ch. 86-113; s. 15, ch. 90-279; s. 16, ch. 93-206; s. 1, ch. 93-243; s. 1, ch. 94-196; s. 1448, ch. 95-147; s. 12, ch. 99-378; s. 3, ch. 2023-305; s. 1, ch. 2025-31."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-297",
+        "s. 1, ch. 76-176",
+        "s. 44, ch. 77-104",
+        "s. 1, ch. 80-350",
+        "s. 76, ch. 81-259",
+        "s. 1, ch. 86-113",
+        "s. 15, ch. 90-279",
+        "s. 16, ch. 93-206",
+        "s. 1, ch. 93-243",
+        "s. 1, ch. 94-196",
+        "s. 1448, ch. 95-147",
+        "s. 12, ch. 99-378",
+        "s. 3, ch. 2023-305",
+        "s. 1, ch. 2025-31."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.042",
+      "section_path": "title-12-municipalities/sec-0171-042.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 3, ch. 75-297; s. 1, ch. 78-19; s. 13, ch. 81-167; s. 13, ch. 83-55; s. 5, ch. 84-241; s. 2, ch. 2006-218; s. 4, ch. 2023-305; s. 3, ch. 2025-31."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 3, ch. 75-297",
+        "s. 1, ch. 78-19",
+        "s. 13, ch. 81-167",
+        "s. 13, ch. 83-55",
+        "s. 5, ch. 84-241",
+        "s. 2, ch. 2006-218",
+        "s. 4, ch. 2023-305",
+        "s. 3, ch. 2025-31."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.043",
+      "section_path": "title-12-municipalities/sec-0171-043.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 2, ch. 76-176."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 2, ch. 76-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.044",
+      "section_path": "title-12-municipalities/sec-0171-044.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; ss. 4, 5, ch. 75-297; s. 3, ch. 76-176; s. 2, ch. 86-113; s. 1, ch. 90-171; s. 16, ch. 90-279; s. 16, ch. 98-176; s. 3, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "ss. 4, 5, ch. 75-297",
+        "s. 3, ch. 76-176",
+        "s. 2, ch. 86-113",
+        "s. 1, ch. 90-171",
+        "s. 16, ch. 90-279",
+        "s. 16, ch. 98-176",
+        "s. 3, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.045",
+      "section_path": "title-12-municipalities/sec-0171-045.md",
+      "history": [
+        "History.—s. 2, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 2, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.046",
+      "section_path": "title-12-municipalities/sec-0171-046.md",
+      "history": [
+        "History.—s. 18, ch. 93-206; s. 5, ch. 2016-148."
+      ],
+      "source_citations": [
+        "s. 18, ch. 93-206",
+        "s. 5, ch. 2016-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.051",
+      "section_path": "title-12-municipalities/sec-0171-051.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 17, ch. 90-279; s. 5, ch. 2023-305."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 17, ch. 90-279",
+        "s. 5, ch. 2023-305."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.052",
+      "section_path": "title-12-municipalities/sec-0171-052.md",
+      "history": [
+        "History.—s. 1, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.061",
+      "section_path": "title-12-municipalities/sec-0171-061.md",
+      "history": [
+        "History.—s. 1, ch. 74-190."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.062",
+      "section_path": "title-12-municipalities/sec-0171-062.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 22, ch. 85-55; s. 1, ch. 88-92; s. 17, ch. 93-206; s. 2, ch. 93-243; s. 2, ch. 2000-304."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 22, ch. 85-55",
+        "s. 1, ch. 88-92",
+        "s. 17, ch. 93-206",
+        "s. 2, ch. 93-243",
+        "s. 2, ch. 2000-304."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.071",
+      "section_path": "title-12-municipalities/sec-0171-071.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 31, ch. 2008-4."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 31, ch. 2008-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.081",
+      "section_path": "title-12-municipalities/sec-0171-081.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 3, ch. 78-95; s. 916, ch. 95-147; s. 5, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 3, ch. 78-95",
+        "s. 916, ch. 95-147",
+        "s. 5, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.091",
+      "section_path": "title-12-municipalities/sec-0171-091.md",
+      "history": [
+        "History.—s. 1, ch. 74-190; s. 10, ch. 2009-96; s. 9, ch. 2011-14."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-190",
+        "s. 10, ch. 2009-96",
+        "s. 9, ch. 2011-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.093",
+      "section_path": "title-12-municipalities/sec-0171-093.md",
+      "history": [
+        "History.—s. 8, ch. 2000-304; s. 29, ch. 2001-60."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2000-304",
+        "s. 29, ch. 2001-60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.094",
+      "section_path": "title-12-municipalities/sec-0171-094.md",
+      "history": [
+        "History.—s. 4, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.20",
+      "section_path": "title-12-municipalities/sec-0171-20.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.201",
+      "section_path": "title-12-municipalities/sec-0171-201.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.202",
+      "section_path": "title-12-municipalities/sec-0171-202.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218; s. 67, ch. 2014-22."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218",
+        "s. 67, ch. 2014-22."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.203",
+      "section_path": "title-12-municipalities/sec-0171-203.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218; s. 35, ch. 2011-139; s. 9, ch. 2022-4."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218",
+        "s. 35, ch. 2011-139",
+        "s. 9, ch. 2022-4."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.204",
+      "section_path": "title-12-municipalities/sec-0171-204.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218; s. 61, ch. 2011-142; s. 7, ch. 2023-305; s. 37, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218",
+        "s. 61, ch. 2011-142",
+        "s. 7, ch. 2023-305",
+        "s. 37, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.205",
+      "section_path": "title-12-municipalities/sec-0171-205.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218; s. 11, ch. 2007-5; s. 32, ch. 2008-4; s. 4, ch. 2017-167."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218",
+        "s. 11, ch. 2007-5",
+        "s. 32, ch. 2008-4",
+        "s. 4, ch. 2017-167."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.206",
+      "section_path": "title-12-municipalities/sec-0171-206.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.207",
+      "section_path": "title-12-municipalities/sec-0171-207.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.208",
+      "section_path": "title-12-municipalities/sec-0171-208.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.209",
+      "section_path": "title-12-municipalities/sec-0171-209.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.21",
+      "section_path": "title-12-municipalities/sec-0171-21.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.211",
+      "section_path": "title-12-municipalities/sec-0171-211.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "171.212",
+      "section_path": "title-12-municipalities/sec-0171-212.md",
+      "history": [
+        "History.—s. 1, ch. 2006-218."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2006-218."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0171/0171.html&StatuteYear=2026",
+      "source_sha256": "4d521731971f7a191f40241d676c8e5b03016b2b26ec133a5059cad3015766a9"
+    },
+    {
+      "section": "173.01",
+      "section_path": "title-12-municipalities/sec-0173-01.md",
+      "history": [
+        "History.—s. 1, ch. 15038, 1931; CGL 1936 Supp. 3004(2); s. 31, ch. 73-332."
+      ],
+      "source_citations": [
+        "s. 1, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(2)",
+        "s. 31, ch. 73-332."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.02",
+      "section_path": "title-12-municipalities/sec-0173-02.md",
+      "history": [
+        "History.—s. 2, ch. 15038, 1931; CGL 1936 Supp. 3004(3)."
+      ],
+      "source_citations": [
+        "s. 2, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(3)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.03",
+      "section_path": "title-12-municipalities/sec-0173-03.md",
+      "history": [
+        "History.—s. 3, ch. 15038, 1931; CGL 1936 Supp. 3004(4)."
+      ],
+      "source_citations": [
+        "s. 3, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(4)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.04",
+      "section_path": "title-12-municipalities/sec-0173-04.md",
+      "history": [
+        "History.—s. 4, ch. 15038, 1931; CGL 1936 Supp. 3004(5); s. 32, ch. 71-355; s. 18, ch. 90-279; s. 13, ch. 2024-2."
+      ],
+      "source_citations": [
+        "s. 4, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(5)",
+        "s. 32, ch. 71-355",
+        "s. 18, ch. 90-279",
+        "s. 13, ch. 2024-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.05",
+      "section_path": "title-12-municipalities/sec-0173-05.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6)."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.06",
+      "section_path": "title-12-municipalities/sec-0173-06.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6)."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.07",
+      "section_path": "title-12-municipalities/sec-0173-07.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6); s. 917, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)",
+        "s. 917, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.08",
+      "section_path": "title-12-municipalities/sec-0173-08.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6)."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.09",
+      "section_path": "title-12-municipalities/sec-0173-09.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6); s. 66, ch. 2004-11."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)",
+        "s. 66, ch. 2004-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.10",
+      "section_path": "title-12-municipalities/sec-0173-10.md",
+      "history": [
+        "History.—s. 5, ch. 15038, 1931; CGL 1936 Supp. 3004(6); s. 67, ch. 2004-11."
+      ],
+      "source_citations": [
+        "s. 5, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(6)",
+        "s. 67, ch. 2004-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.11",
+      "section_path": "title-12-municipalities/sec-0173-11.md",
+      "history": [
+        "History.—s. 6, ch. 15038, 1931; CGL 1936 Supp. 3004(7); s. 68, ch. 2004-11."
+      ],
+      "source_citations": [
+        "s. 6, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(7)",
+        "s. 68, ch. 2004-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.12",
+      "section_path": "title-12-municipalities/sec-0173-12.md",
+      "history": [
+        "History.—s. 7, ch. 15038, 1931; CGL 1936 Supp. 3004(8); s. 69, ch. 2004-11."
+      ],
+      "source_citations": [
+        "s. 7, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(8)",
+        "s. 69, ch. 2004-11."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.13",
+      "section_path": "title-12-municipalities/sec-0173-13.md",
+      "history": [
+        "History.—s. 8, ch. 15038, 1931; CGL 1936 Supp. 3004(9)."
+      ],
+      "source_citations": [
+        "s. 8, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(9)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.14",
+      "section_path": "title-12-municipalities/sec-0173-14.md",
+      "history": [
+        "History.—s. 9, ch. 15038, 1931; CGL 1936 Supp. 3004(10)."
+      ],
+      "source_citations": [
+        "s. 9, ch. 15038, 1931",
+        "CGL 1936 Supp. 3004(10)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "173.15",
+      "section_path": "title-12-municipalities/sec-0173-15.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 22021, 1943."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 22021, 1943."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0173/0173.html&StatuteYear=2026",
+      "source_sha256": "3e3d5a14f17df03b8a0d6b2ead7b130396092b25ec5215ea9b5971377254d617"
+    },
+    {
+      "section": "175.021",
+      "section_path": "title-12-municipalities/sec-0175-021.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 1, ch. 79-380; s. 7, ch. 83-334; s. 1, ch. 86-41; s. 12, ch. 93-193; s. 1, ch. 99-1; s. 65, ch. 99-2; s. 58, ch. 2011-142; s. 1, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 1, ch. 79-380",
+        "s. 7, ch. 83-334",
+        "s. 1, ch. 86-41",
+        "s. 12, ch. 93-193",
+        "s. 1, ch. 99-1",
+        "s. 65, ch. 99-2",
+        "s. 58, ch. 2011-142",
+        "s. 1, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.025",
+      "section_path": "title-12-municipalities/sec-0175-025.md",
+      "history": [
+        "History.—s. 1, ch. 2004-21."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2004-21."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.032",
+      "section_path": "title-12-municipalities/sec-0175-032.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 2, ch. 79-380; s. 1, ch. 79-388; s. 1, ch. 81-168; s. 2, ch. 86-41; s. 13, ch. 93-193; s. 918, ch. 95-147; s. 13, ch. 95-154; s. 2, ch. 99-1; s. 1, ch. 2000-159; s. 1, ch. 2002-66; s. 160, ch. 2003-261; s. 3, ch. 2009-97; s. 4, ch. 2011-216; s. 126, ch. 2013-183; s. 68, ch. 2014-22; s. 2, ch. 2015-39; s. 13, ch. 2025-6."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 2, ch. 79-380",
+        "s. 1, ch. 79-388",
+        "s. 1, ch. 81-168",
+        "s. 2, ch. 86-41",
+        "s. 13, ch. 93-193",
+        "s. 918, ch. 95-147",
+        "s. 13, ch. 95-154",
+        "s. 2, ch. 99-1",
+        "s. 1, ch. 2000-159",
+        "s. 1, ch. 2002-66",
+        "s. 160, ch. 2003-261",
+        "s. 3, ch. 2009-97",
+        "s. 4, ch. 2011-216",
+        "s. 126, ch. 2013-183",
+        "s. 68, ch. 2014-22",
+        "s. 2, ch. 2015-39",
+        "s. 13, ch. 2025-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.041",
+      "section_path": "title-12-municipalities/sec-0175-041.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 1, ch. 65-153; ss. 2, 3, ch. 79-380; s. 1, ch. 79-388; s. 14, ch. 93-193; s. 3, ch. 99-1; s. 1, ch. 2002-29; s. 2, ch. 2005-205."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 1, ch. 65-153",
+        "ss. 2, 3, ch. 79-380",
+        "s. 1, ch. 79-388",
+        "s. 14, ch. 93-193",
+        "s. 3, ch. 99-1",
+        "s. 1, ch. 2002-29",
+        "s. 2, ch. 2005-205."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.051",
+      "section_path": "title-12-municipalities/sec-0175-051.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 4, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 4, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.061",
+      "section_path": "title-12-municipalities/sec-0175-061.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 2, ch. 81-168; s. 3, ch. 86-41; s. 15, ch. 93-193; s. 919, ch. 95-147; s. 5, ch. 99-1; s. 3, ch. 2002-66; s. 7, ch. 2004-21; s. 4, ch. 2009-97; s. 5, ch. 2011-216; s. 3, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 2, ch. 81-168",
+        "s. 3, ch. 86-41",
+        "s. 15, ch. 93-193",
+        "s. 919, ch. 95-147",
+        "s. 5, ch. 99-1",
+        "s. 3, ch. 2002-66",
+        "s. 7, ch. 2004-21",
+        "s. 4, ch. 2009-97",
+        "s. 5, ch. 2011-216",
+        "s. 3, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.071",
+      "section_path": "title-12-municipalities/sec-0175-071.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 1, ch. 65-365; ss. 22, 35, ch. 69-106; s. 3, ch. 81-168; s. 4, ch. 86-41; s. 16, ch. 93-193; s. 920, ch. 95-147; s. 1, ch. 98-134; s. 66, ch. 99-2; s. 17, ch. 99-392; s. 27, ch. 2000-151; s. 5, ch. 2009-97; s. 18, ch. 2010-5; s. 4, ch. 2015-39; s. 6, ch. 2023-28."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 1, ch. 65-365",
+        "ss. 22, 35, ch. 69-106",
+        "s. 3, ch. 81-168",
+        "s. 4, ch. 86-41",
+        "s. 16, ch. 93-193",
+        "s. 920, ch. 95-147",
+        "s. 1, ch. 98-134",
+        "s. 66, ch. 99-2",
+        "s. 17, ch. 99-392",
+        "s. 27, ch. 2000-151",
+        "s. 5, ch. 2009-97",
+        "s. 18, ch. 2010-5",
+        "s. 4, ch. 2015-39",
+        "s. 6, ch. 2023-28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.081",
+      "section_path": "title-12-municipalities/sec-0175-081.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 4, ch. 81-168; s. 17, ch. 93-193; s. 921, ch. 95-147; s. 6, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 4, ch. 81-168",
+        "s. 17, ch. 93-193",
+        "s. 921, ch. 95-147",
+        "s. 6, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.091",
+      "section_path": "title-12-municipalities/sec-0175-091.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 1, ch. 65-58; s. 1, ch. 67-218; s. 5, ch. 81-168; s. 5, ch. 86-41; s. 18, ch. 93-193; s. 7, ch. 97-96; s. 7, ch. 99-1; s. 6, ch. 2011-216; s. 5, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 1, ch. 65-58",
+        "s. 1, ch. 67-218",
+        "s. 5, ch. 81-168",
+        "s. 5, ch. 86-41",
+        "s. 18, ch. 93-193",
+        "s. 7, ch. 97-96",
+        "s. 7, ch. 99-1",
+        "s. 6, ch. 2011-216",
+        "s. 5, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.101",
+      "section_path": "title-12-municipalities/sec-0175-101.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 2, ch. 67-218; ss. 13, 35, ch. 69-106; s. 6, ch. 81-168; s. 6, ch. 86-41; s. 23, ch. 87-99; s. 14, ch. 88-206; s. 10, ch. 89-167; s. 19, ch. 93-193; s. 8, ch. 99-1; s. 2, ch. 2002-29; s. 161, ch. 2003-261; s. 3, ch. 2005-205; s. 6, ch. 2009-97."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 2, ch. 67-218",
+        "ss. 13, 35, ch. 69-106",
+        "s. 6, ch. 81-168",
+        "s. 6, ch. 86-41",
+        "s. 23, ch. 87-99",
+        "s. 14, ch. 88-206",
+        "s. 10, ch. 89-167",
+        "s. 19, ch. 93-193",
+        "s. 8, ch. 99-1",
+        "s. 2, ch. 2002-29",
+        "s. 161, ch. 2003-261",
+        "s. 3, ch. 2005-205",
+        "s. 6, ch. 2009-97."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.1015",
+      "section_path": "title-12-municipalities/sec-0175-1015.md",
+      "history": [
+        "History.—s. 2, ch. 2004-21."
+      ],
+      "source_citations": [
+        "s. 2, ch. 2004-21."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.111",
+      "section_path": "title-12-municipalities/sec-0175-111.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; ss. 12, 13, 35, ch. 69-106; s. 1, ch. 75-240; s. 20, ch. 93-193; s. 1, ch. 95-250; s. 9, ch. 99-1; s. 6, ch. 2000-355."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "ss. 12, 13, 35, ch. 69-106",
+        "s. 1, ch. 75-240",
+        "s. 20, ch. 93-193",
+        "s. 1, ch. 95-250",
+        "s. 9, ch. 99-1",
+        "s. 6, ch. 2000-355."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.121",
+      "section_path": "title-12-municipalities/sec-0175-121.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; ss. 13, 35, ch. 69-106; s. 1, ch. 74-294; s. 3, ch. 85-61; s. 7, ch. 86-41; s. 21, ch. 93-193; s. 11, ch. 94-259; s. 1449, ch. 95-147; s. 2, ch. 95-250; s. 10, ch. 99-1; s. 162, ch. 2003-261; s. 127, ch. 2013-183."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "ss. 13, 35, ch. 69-106",
+        "s. 1, ch. 74-294",
+        "s. 3, ch. 85-61",
+        "s. 7, ch. 86-41",
+        "s. 21, ch. 93-193",
+        "s. 11, ch. 94-259",
+        "s. 1449, ch. 95-147",
+        "s. 2, ch. 95-250",
+        "s. 10, ch. 99-1",
+        "s. 162, ch. 2003-261",
+        "s. 127, ch. 2013-183."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.1215",
+      "section_path": "title-12-municipalities/sec-0175-1215.md",
+      "history": [
+        "History.—s. 1, ch. 95-249."
+      ],
+      "source_citations": [
+        "s. 1, ch. 95-249."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.122",
+      "section_path": "title-12-municipalities/sec-0175-122.md",
+      "history": [
+        "History.—s. 1, ch. 67-217; s. 7, ch. 81-168; s. 22, ch. 93-193; s. 11, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-217",
+        "s. 7, ch. 81-168",
+        "s. 22, ch. 93-193",
+        "s. 11, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.131",
+      "section_path": "title-12-municipalities/sec-0175-131.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 8, ch. 81-168; s. 8, ch. 86-41; s. 23, ch. 93-193; s. 12, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 8, ch. 81-168",
+        "s. 8, ch. 86-41",
+        "s. 23, ch. 93-193",
+        "s. 12, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.141",
+      "section_path": "title-12-municipalities/sec-0175-141.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 9, ch. 86-41; s. 24, ch. 93-193; s. 922, ch. 95-147; s. 13, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 9, ch. 86-41",
+        "s. 24, ch. 93-193",
+        "s. 922, ch. 95-147",
+        "s. 13, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.151",
+      "section_path": "title-12-municipalities/sec-0175-151.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; ss. 13, 35, ch. 69-106; s. 14, ch. 99-1; s. 163, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "ss. 13, 35, ch. 69-106",
+        "s. 14, ch. 99-1",
+        "s. 163, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.162",
+      "section_path": "title-12-municipalities/sec-0175-162.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 1, ch. 70-129; s. 9, ch. 81-168; s. 11, ch. 86-41; s. 26, ch. 93-193; s. 923, ch. 95-147; s. 16, ch. 99-1; s. 6, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 1, ch. 70-129",
+        "s. 9, ch. 81-168",
+        "s. 11, ch. 86-41",
+        "s. 26, ch. 93-193",
+        "s. 923, ch. 95-147",
+        "s. 16, ch. 99-1",
+        "s. 6, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.171",
+      "section_path": "title-12-municipalities/sec-0175-171.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 2, ch. 65-58; s. 10, ch. 81-168; s. 12, ch. 86-41; s. 924, ch. 95-147; s. 17, ch. 99-1; s. 7, ch. 2009-97."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 2, ch. 65-58",
+        "s. 10, ch. 81-168",
+        "s. 12, ch. 86-41",
+        "s. 924, ch. 95-147",
+        "s. 17, ch. 99-1",
+        "s. 7, ch. 2009-97."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.181",
+      "section_path": "title-12-municipalities/sec-0175-181.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 11, ch. 81-168; s. 4, ch. 94-171; s. 1450, ch. 95-147; s. 18, ch. 99-1; s. 2, ch. 2000-159."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 11, ch. 81-168",
+        "s. 4, ch. 94-171",
+        "s. 1450, ch. 95-147",
+        "s. 18, ch. 99-1",
+        "s. 2, ch. 2000-159."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.191",
+      "section_path": "title-12-municipalities/sec-0175-191.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 3, ch. 65-58; s. 2, ch. 70-129; s. 12, ch. 81-168; s. 13, ch. 86-41; s. 27, ch. 93-193; s. 925, ch. 95-147; s. 19, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 3, ch. 65-58",
+        "s. 2, ch. 70-129",
+        "s. 12, ch. 81-168",
+        "s. 13, ch. 86-41",
+        "s. 27, ch. 93-193",
+        "s. 925, ch. 95-147",
+        "s. 19, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.195",
+      "section_path": "title-12-municipalities/sec-0175-195.md",
+      "history": [
+        "History.—s. 20, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 20, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.201",
+      "section_path": "title-12-municipalities/sec-0175-201.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 13, ch. 81-168; s. 14, ch. 86-41; s. 5, ch. 90-138; s. 28, ch. 93-193; s. 926, ch. 95-147; s. 21, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 13, ch. 81-168",
+        "s. 14, ch. 86-41",
+        "s. 5, ch. 90-138",
+        "s. 28, ch. 93-193",
+        "s. 926, ch. 95-147",
+        "s. 21, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.211",
+      "section_path": "title-12-municipalities/sec-0175-211.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 14, ch. 81-168; s. 29, ch. 93-193; s. 927, ch. 95-147; s. 22, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 14, ch. 81-168",
+        "s. 29, ch. 93-193",
+        "s. 927, ch. 95-147",
+        "s. 22, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.221",
+      "section_path": "title-12-municipalities/sec-0175-221.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 23, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 23, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.231",
+      "section_path": "title-12-municipalities/sec-0175-231.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 15, ch. 81-168; s. 24, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 15, ch. 81-168",
+        "s. 24, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.241",
+      "section_path": "title-12-municipalities/sec-0175-241.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 25, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 25, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.261",
+      "section_path": "title-12-municipalities/sec-0175-261.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 4, ch. 65-58; ss. 13, 35, ch. 69-106; s. 17, ch. 81-168; s. 15, ch. 86-41; s. 31, ch. 93-193; s. 928, ch. 95-147; s. 7, ch. 96-324; s. 27, ch. 99-1; s. 42, ch. 2001-266; s. 15, ch. 2004-305; s. 50, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 4, ch. 65-58",
+        "ss. 13, 35, ch. 69-106",
+        "s. 17, ch. 81-168",
+        "s. 15, ch. 86-41",
+        "s. 31, ch. 93-193",
+        "s. 928, ch. 95-147",
+        "s. 7, ch. 96-324",
+        "s. 27, ch. 99-1",
+        "s. 42, ch. 2001-266",
+        "s. 15, ch. 2004-305",
+        "s. 50, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.301",
+      "section_path": "title-12-municipalities/sec-0175-301.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 19, ch. 81-168; s. 17, ch. 86-41; s. 2, ch. 88-185; s. 33, ch. 93-193; s. 930, ch. 95-147; s. 29, ch. 99-1; s. 86, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 19, ch. 81-168",
+        "s. 17, ch. 86-41",
+        "s. 2, ch. 88-185",
+        "s. 33, ch. 93-193",
+        "s. 930, ch. 95-147",
+        "s. 29, ch. 99-1",
+        "s. 86, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.311",
+      "section_path": "title-12-municipalities/sec-0175-311.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 4, ch. 79-380; s. 18, ch. 86-41; s. 34, ch. 93-193; s. 30, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 4, ch. 79-380",
+        "s. 18, ch. 86-41",
+        "s. 34, ch. 93-193",
+        "s. 30, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.333",
+      "section_path": "title-12-municipalities/sec-0175-333.md",
+      "history": [
+        "History.—s. 4, ch. 79-380; s. 19, ch. 86-41; s. 932, ch. 95-147; s. 33, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 4, ch. 79-380",
+        "s. 19, ch. 86-41",
+        "s. 932, ch. 95-147",
+        "s. 33, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.341",
+      "section_path": "title-12-municipalities/sec-0175-341.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; ss. 13, 35, ch. 69-106; s. 36, ch. 93-193; s. 3, ch. 95-250; s. 11, ch. 98-200; s. 34, ch. 99-1; s. 48, ch. 2012-116."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "ss. 13, 35, ch. 69-106",
+        "s. 36, ch. 93-193",
+        "s. 3, ch. 95-250",
+        "s. 11, ch. 98-200",
+        "s. 34, ch. 99-1",
+        "s. 48, ch. 2012-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.351",
+      "section_path": "title-12-municipalities/sec-0175-351.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; ss. 13, 35, ch. 69-106; s. 5, ch. 79-380; s. 21, ch. 81-168; s. 47, ch. 83-217; s. 20, ch. 86-41; s. 37, ch. 93-193; s. 933, ch. 95-147; s. 35, ch. 99-1; s. 4, ch. 2002-66; s. 5, ch. 2004-21; s. 7, ch. 2011-216; s. 7, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "ss. 13, 35, ch. 69-106",
+        "s. 5, ch. 79-380",
+        "s. 21, ch. 81-168",
+        "s. 47, ch. 83-217",
+        "s. 20, ch. 86-41",
+        "s. 37, ch. 93-193",
+        "s. 933, ch. 95-147",
+        "s. 35, ch. 99-1",
+        "s. 4, ch. 2002-66",
+        "s. 5, ch. 2004-21",
+        "s. 7, ch. 2011-216",
+        "s. 7, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.361",
+      "section_path": "title-12-municipalities/sec-0175-361.md",
+      "history": [
+        "History.—s. 1, ch. 63-249; s. 5, ch. 65-58; s. 22, ch. 81-168; s. 48, ch. 83-217; s. 21, ch. 86-41; s. 38, ch. 93-193; s. 934, ch. 95-147; s. 36, ch. 99-1; s. 8, ch. 2009-97."
+      ],
+      "source_citations": [
+        "s. 1, ch. 63-249",
+        "s. 5, ch. 65-58",
+        "s. 22, ch. 81-168",
+        "s. 48, ch. 83-217",
+        "s. 21, ch. 86-41",
+        "s. 38, ch. 93-193",
+        "s. 934, ch. 95-147",
+        "s. 36, ch. 99-1",
+        "s. 8, ch. 2009-97."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.371",
+      "section_path": "title-12-municipalities/sec-0175-371.md",
+      "history": [
+        "History.—s. 22, ch. 86-41; s. 37, ch. 99-1; s. 5, ch. 2002-66."
+      ],
+      "source_citations": [
+        "s. 22, ch. 86-41",
+        "s. 37, ch. 99-1",
+        "s. 5, ch. 2002-66."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.381",
+      "section_path": "title-12-municipalities/sec-0175-381.md",
+      "history": [
+        "History.—s. 23, ch. 86-41; s. 38, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 23, ch. 86-41",
+        "s. 38, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.401",
+      "section_path": "title-12-municipalities/sec-0175-401.md",
+      "history": [
+        "History.—s. 1, ch. 92-51; s. 39, ch. 93-193; s. 12, ch. 94-259; s. 1451, ch. 95-147; s. 4, ch. 95-250; s. 40, ch. 99-1; s. 87, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 1, ch. 92-51",
+        "s. 39, ch. 93-193",
+        "s. 12, ch. 94-259",
+        "s. 1451, ch. 95-147",
+        "s. 4, ch. 95-250",
+        "s. 40, ch. 99-1",
+        "s. 87, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "175.411",
+      "section_path": "title-12-municipalities/sec-0175-411.md",
+      "history": [
+        "History.—s. 81, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 81, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0175/0175.html&StatuteYear=2026",
+      "source_sha256": "fd391ad0255f8a09fcd5b280ce9101625c12ce0b4f085a33d2151628cbf1f6c9"
+    },
+    {
+      "section": "177.011",
+      "section_path": "title-12-municipalities/sec-0177-011.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 33, ch. 79-164."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 33, ch. 79-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.021",
+      "section_path": "title-12-municipalities/sec-0177-021.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 1, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 1, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.031",
+      "section_path": "title-12-municipalities/sec-0177-031.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 2, ch. 72-29; s. 49, ch. 73-333; s. 6, ch. 82-179; s. 49, ch. 83-217; s. 42, ch. 91-45; s. 101, ch. 94-119; s. 1452, ch. 95-147; s. 2, ch. 98-20; s. 3, ch. 2004-366."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 2, ch. 72-29",
+        "s. 49, ch. 73-333",
+        "s. 6, ch. 82-179",
+        "s. 49, ch. 83-217",
+        "s. 42, ch. 91-45",
+        "s. 101, ch. 94-119",
+        "s. 1452, ch. 95-147",
+        "s. 2, ch. 98-20",
+        "s. 3, ch. 2004-366."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.041",
+      "section_path": "title-12-municipalities/sec-0177-041.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 1, ch. 72-77; s. 1, ch. 88-48; s. 3, ch. 98-20; s. 1, ch. 99-288; s. 1, ch. 2017-132."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 1, ch. 72-77",
+        "s. 1, ch. 88-48",
+        "s. 3, ch. 98-20",
+        "s. 1, ch. 99-288",
+        "s. 1, ch. 2017-132."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.051",
+      "section_path": "title-12-municipalities/sec-0177-051.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 935, ch. 95-147; s. 4, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 935, ch. 95-147",
+        "s. 4, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.061",
+      "section_path": "title-12-municipalities/sec-0177-061.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 102, ch. 94-119; s. 1453, ch. 95-147; s. 5, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 102, ch. 94-119",
+        "s. 1453, ch. 95-147",
+        "s. 5, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.071",
+      "section_path": "title-12-municipalities/sec-0177-071.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 1, ch. 76-110; s. 1, ch. 77-152; s. 1, ch. 77-278; s. 103, ch. 94-119; s. 1, ch. 95-176; s. 6, ch. 98-20; s. 1, ch. 2025-164; s. 4, ch. 2026-64."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 1, ch. 76-110",
+        "s. 1, ch. 77-152",
+        "s. 1, ch. 77-278",
+        "s. 103, ch. 94-119",
+        "s. 1, ch. 95-176",
+        "s. 6, ch. 98-20",
+        "s. 1, ch. 2025-164",
+        "s. 4, ch. 2026-64."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.073",
+      "section_path": "title-12-municipalities/sec-0177-073.md",
+      "history": [
+        "History.—s. 1, ch. 2024-210; s. 14, ch. 2025-6; s. 5, ch. 2026-64."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2024-210",
+        "s. 14, ch. 2025-6",
+        "s. 5, ch. 2026-64."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.081",
+      "section_path": "title-12-municipalities/sec-0177-081.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 2, ch. 79-86; s. 7, ch. 98-20; s. 2, ch. 99-288."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 2, ch. 79-86",
+        "s. 7, ch. 98-20",
+        "s. 2, ch. 99-288."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.085",
+      "section_path": "title-12-municipalities/sec-0177-085.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 72-257; s. 50, ch. 73-333; s. 936, ch. 95-147."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 72-257",
+        "s. 50, ch. 73-333",
+        "s. 936, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.086",
+      "section_path": "title-12-municipalities/sec-0177-086.md",
+      "history": [
+        "History.—s. 73, ch. 87-243."
+      ],
+      "source_citations": [
+        "s. 73, ch. 87-243."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.091",
+      "section_path": "title-12-municipalities/sec-0177-091.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 51, ch. 73-333; s. 1, ch. 87-266; s. 3, ch. 87-349; s. 1, ch. 90-320; s. 104, ch. 94-119; s. 1454, ch. 95-147; s. 8, ch. 98-20; s. 6, ch. 99-259; s. 3, ch. 99-288; s. 2, ch. 2017-132."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 51, ch. 73-333",
+        "s. 1, ch. 87-266",
+        "s. 3, ch. 87-349",
+        "s. 1, ch. 90-320",
+        "s. 104, ch. 94-119",
+        "s. 1454, ch. 95-147",
+        "s. 8, ch. 98-20",
+        "s. 6, ch. 99-259",
+        "s. 3, ch. 99-288",
+        "s. 2, ch. 2017-132."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.101",
+      "section_path": "title-12-municipalities/sec-0177-101.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 1, ch. 79-86; s. 32, ch. 87-224; s. 9, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 1, ch. 79-86",
+        "s. 32, ch. 87-224",
+        "s. 9, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.107",
+      "section_path": "title-12-municipalities/sec-0177-107.md",
+      "history": [
+        "History.—s. 1, ch. 2021-188."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2021-188."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.111",
+      "section_path": "title-12-municipalities/sec-0177-111.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 1, ch. 76-110; s. 937, ch. 95-147; s. 7, ch. 99-259; s. 2, ch. 2025-164."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 1, ch. 76-110",
+        "s. 937, ch. 95-147",
+        "s. 7, ch. 99-259",
+        "s. 2, ch. 2025-164."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.121",
+      "section_path": "title-12-municipalities/sec-0177-121.md",
+      "history": [
+        "History.—s. 1A, ch. 71-339; s. 10, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1A, ch. 71-339",
+        "s. 10, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.131",
+      "section_path": "title-12-municipalities/sec-0177-131.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 11, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 11, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.132",
+      "section_path": "title-12-municipalities/sec-0177-132.md",
+      "history": [
+        "History.—s. 2, ch. 76-110; s. 12, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 2, ch. 76-110",
+        "s. 12, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.141",
+      "section_path": "title-12-municipalities/sec-0177-141.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 7, ch. 82-179; s. 105, ch. 94-119; s. 1455, ch. 95-147; s. 13, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 7, ch. 82-179",
+        "s. 105, ch. 94-119",
+        "s. 1455, ch. 95-147",
+        "s. 13, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.142",
+      "section_path": "title-12-municipalities/sec-0177-142.md",
+      "history": [
+        "History.—s. 2, ch. 95-176."
+      ],
+      "source_citations": [
+        "s. 2, ch. 95-176."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.151",
+      "section_path": "title-12-municipalities/sec-0177-151.md",
+      "history": [
+        "History.—s. 1, ch. 71-339; s. 161, ch. 92-152; s. 106, ch. 94-119; s. 14, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 1, ch. 71-339",
+        "s. 161, ch. 92-152",
+        "s. 106, ch. 94-119",
+        "s. 14, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.25",
+      "section_path": "title-12-municipalities/sec-0177-25.md",
+      "history": [
+        "History.—s. 1, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 1, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.26",
+      "section_path": "title-12-municipalities/sec-0177-26.md",
+      "history": [
+        "History.—s. 2, ch. 74-56; s. 2, ch. 91-56."
+      ],
+      "source_citations": [
+        "s. 2, ch. 74-56",
+        "s. 2, ch. 91-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.27",
+      "section_path": "title-12-municipalities/sec-0177-27.md",
+      "history": [
+        "History.—s. 3, ch. 74-56; s. 3, ch. 91-56; s. 35, ch. 94-356; s. 15, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 3, ch. 74-56",
+        "s. 3, ch. 91-56",
+        "s. 35, ch. 94-356",
+        "s. 15, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.28",
+      "section_path": "title-12-municipalities/sec-0177-28.md",
+      "history": [
+        "History.—s. 4, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 4, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.29",
+      "section_path": "title-12-municipalities/sec-0177-29.md",
+      "history": [
+        "History.—s. 5, ch. 74-56; s. 36, ch. 94-356."
+      ],
+      "source_citations": [
+        "s. 5, ch. 74-56",
+        "s. 36, ch. 94-356."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.35",
+      "section_path": "title-12-municipalities/sec-0177-35.md",
+      "history": [
+        "History.—s. 11, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 11, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.36",
+      "section_path": "title-12-municipalities/sec-0177-36.md",
+      "history": [
+        "History.—s. 12, ch. 74-56; s. 50, ch. 83-217; s. 21, ch. 85-80; s. 107, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 12, ch. 74-56",
+        "s. 50, ch. 83-217",
+        "s. 21, ch. 85-80",
+        "s. 107, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.37",
+      "section_path": "title-12-municipalities/sec-0177-37.md",
+      "history": [
+        "History.—s. 13, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 13, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.38",
+      "section_path": "title-12-municipalities/sec-0177-38.md",
+      "history": [
+        "History.—s. 14, ch. 74-56; s. 16, ch. 98-20."
+      ],
+      "source_citations": [
+        "s. 14, ch. 74-56",
+        "s. 16, ch. 98-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.39",
+      "section_path": "title-12-municipalities/sec-0177-39.md",
+      "history": [
+        "History.—s. 15, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 15, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.40",
+      "section_path": "title-12-municipalities/sec-0177-40.md",
+      "history": [
+        "History.—s. 16, ch. 74-56."
+      ],
+      "source_citations": [
+        "s. 16, ch. 74-56."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.501",
+      "section_path": "title-12-municipalities/sec-0177-501.md",
+      "history": [
+        "History.—s. 1, ch. 77-361."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.502",
+      "section_path": "title-12-municipalities/sec-0177-502.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 77, ch. 81-259; s. 37, ch. 94-356."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 77, ch. 81-259",
+        "s. 37, ch. 94-356."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.503",
+      "section_path": "title-12-municipalities/sec-0177-503.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 83, ch. 79-400; s. 3, ch. 91-56; s. 108, ch. 94-119; s. 38, ch. 94-356; s. 1456, ch. 95-147; s. 30, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 83, ch. 79-400",
+        "s. 3, ch. 91-56",
+        "s. 108, ch. 94-119",
+        "s. 38, ch. 94-356",
+        "s. 1456, ch. 95-147",
+        "s. 30, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.504",
+      "section_path": "title-12-municipalities/sec-0177-504.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 3, ch. 91-56; s. 109, ch. 94-119; s. 12, ch. 98-200; s. 49, ch. 2012-116."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 3, ch. 91-56",
+        "s. 109, ch. 94-119",
+        "s. 12, ch. 98-200",
+        "s. 49, ch. 2012-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.506",
+      "section_path": "title-12-municipalities/sec-0177-506.md",
+      "history": [
+        "History.—s. 1, ch. 77-361."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.507",
+      "section_path": "title-12-municipalities/sec-0177-507.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 84, ch. 79-400; s. 3, ch. 91-56; s. 110, ch. 94-119; s. 1457, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 84, ch. 79-400",
+        "s. 3, ch. 91-56",
+        "s. 110, ch. 94-119",
+        "s. 1457, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.508",
+      "section_path": "title-12-municipalities/sec-0177-508.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 111, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 111, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.509",
+      "section_path": "title-12-municipalities/sec-0177-509.md",
+      "history": [
+        "History.—s. 1, ch. 77-361; s. 112, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361",
+        "s. 112, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "177.510",
+      "section_path": "title-12-municipalities/sec-0177-510.md",
+      "history": [
+        "History.—s. 1, ch. 77-361."
+      ],
+      "source_citations": [
+        "s. 1, ch. 77-361."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0177/0177.html&StatuteYear=2026",
+      "source_sha256": "304fd5293da7b325071058407136d37c868f2e00fbd01ec150b73abe20b89fa8"
+    },
+    {
+      "section": "180.01",
+      "section_path": "title-12-municipalities/sec-0180-01.md",
+      "history": [
+        "History.—s. 1, ch. 17118, 1935; CGL 1936 Supp. 3100(6)."
+      ],
+      "source_citations": [
+        "s. 1, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(6)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.02",
+      "section_path": "title-12-municipalities/sec-0180-02.md",
+      "history": [
+        "History.—s. 1, ch. 17118, 1935; CGL 1936 Supp. 3100(6); s. 5, ch. 95-323."
+      ],
+      "source_citations": [
+        "s. 1, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(6)",
+        "s. 5, ch. 95-323."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.03",
+      "section_path": "title-12-municipalities/sec-0180-03.md",
+      "history": [
+        "History.—s. 1, ch. 17118, 1935; CGL 1936 Supp. 3100(6); s. 4, ch. 2006-252; s. 29, ch. 2020-150; s. 1, ch. 2025-117."
+      ],
+      "source_citations": [
+        "s. 1, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(6)",
+        "s. 4, ch. 2006-252",
+        "s. 29, ch. 2020-150",
+        "s. 1, ch. 2025-117."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.04",
+      "section_path": "title-12-municipalities/sec-0180-04.md",
+      "history": [
+        "History.—s. 1, ch. 17118, 1935; CGL 1936 Supp. 3100(6); s. 15, ch. 69-216; s. 64, ch. 77-175."
+      ],
+      "source_citations": [
+        "s. 1, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(6)",
+        "s. 15, ch. 69-216",
+        "s. 64, ch. 77-175."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.05",
+      "section_path": "title-12-municipalities/sec-0180-05.md",
+      "history": [
+        "History.—s. 2, ch. 17118, 1935; CGL 1936 Supp. 3100(7)."
+      ],
+      "source_citations": [
+        "s. 2, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(7)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.06",
+      "section_path": "title-12-municipalities/sec-0180-06.md",
+      "history": [
+        "History.—s. 3, ch. 17118, 1935; s. 1, ch. 17119, 1935; CGL 1936 Supp. 3100(8); s. 5, ch. 93-51; s. 6, ch. 95-323."
+      ],
+      "source_citations": [
+        "s. 3, ch. 17118, 1935",
+        "s. 1, ch. 17119, 1935",
+        "CGL 1936 Supp. 3100(8)",
+        "s. 5, ch. 93-51",
+        "s. 6, ch. 95-323."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.07",
+      "section_path": "title-12-municipalities/sec-0180-07.md",
+      "history": [
+        "History.—s. 4, ch. 17118, 1935; s. 2, ch. 17119, 1935; CGL 1936 Supp. 3100(9)."
+      ],
+      "source_citations": [
+        "s. 4, ch. 17118, 1935",
+        "s. 2, ch. 17119, 1935",
+        "CGL 1936 Supp. 3100(9)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.08",
+      "section_path": "title-12-municipalities/sec-0180-08.md",
+      "history": [
+        "History.—s. 5, ch. 17118, 1935; CGL 1936 Supp. 3100(10); s. 18, ch. 73-302."
+      ],
+      "source_citations": [
+        "s. 5, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(10)",
+        "s. 18, ch. 73-302."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.09",
+      "section_path": "title-12-municipalities/sec-0180-09.md",
+      "history": [
+        "History.—s. 5, ch. 17118, 1935; CGL 1936 Supp. 3100(10)."
+      ],
+      "source_citations": [
+        "s. 5, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(10)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.10",
+      "section_path": "title-12-municipalities/sec-0180-10.md",
+      "history": [
+        "History.—s. 7, ch. 22858, 1945; s. 15, ch. 69-216; s. 64, ch. 77-175."
+      ],
+      "source_citations": [
+        "s. 7, ch. 22858, 1945",
+        "s. 15, ch. 69-216",
+        "s. 64, ch. 77-175."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.11",
+      "section_path": "title-12-municipalities/sec-0180-11.md",
+      "history": [
+        "History.—s. 5, ch. 17118, 1935; CGL 1936 Supp. 3100(10); s. 938, ch. 95-147."
+      ],
+      "source_citations": [
+        "s. 5, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(10)",
+        "s. 938, ch. 95-147."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.12",
+      "section_path": "title-12-municipalities/sec-0180-12.md",
+      "history": [
+        "History.—s. 6, ch. 17118, 1935; CGL 1936 Supp. 3100(11)."
+      ],
+      "source_citations": [
+        "s. 6, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(11)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.13",
+      "section_path": "title-12-municipalities/sec-0180-13.md",
+      "history": [
+        "History.—s. 7, ch. 17118, 1935; CGL 1936 Supp. 3100(12)."
+      ],
+      "source_citations": [
+        "s. 7, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(12)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.135",
+      "section_path": "title-12-municipalities/sec-0180-135.md",
+      "history": [
+        "History.—s. 1, ch. 84-292; s. 1, ch. 88-332; s. 1, ch. 89-272."
+      ],
+      "source_citations": [
+        "s. 1, ch. 84-292",
+        "s. 1, ch. 88-332",
+        "s. 1, ch. 89-272."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.136",
+      "section_path": "title-12-municipalities/sec-0180-136.md",
+      "history": [
+        "History.—s. 11, ch. 2000-350."
+      ],
+      "source_citations": [
+        "s. 11, ch. 2000-350."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.14",
+      "section_path": "title-12-municipalities/sec-0180-14.md",
+      "history": [
+        "History.—s. 8, ch. 17118, 1935; CGL 1936 Supp. 3100(13)."
+      ],
+      "source_citations": [
+        "s. 8, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(13)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.15",
+      "section_path": "title-12-municipalities/sec-0180-15.md",
+      "history": [
+        "History.—s. 9, ch. 17118, 1935; CGL 1936 Supp. 3100(14)."
+      ],
+      "source_citations": [
+        "s. 9, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(14)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.16",
+      "section_path": "title-12-municipalities/sec-0180-16.md",
+      "history": [
+        "History.—s. 10, ch. 17118, 1935; CGL 1936 Supp. 3100(15)."
+      ],
+      "source_citations": [
+        "s. 10, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(15)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.17",
+      "section_path": "title-12-municipalities/sec-0180-17.md",
+      "history": [
+        "History.—s. 11, ch. 17118, 1935; CGL 1936 Supp. 3100(16)."
+      ],
+      "source_citations": [
+        "s. 11, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(16)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.18",
+      "section_path": "title-12-municipalities/sec-0180-18.md",
+      "history": [
+        "History.—s. 12, ch. 17118, 1935; CGL 1936 Supp. 3100(17)."
+      ],
+      "source_citations": [
+        "s. 12, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(17)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.19",
+      "section_path": "title-12-municipalities/sec-0180-19.md",
+      "history": [
+        "History.—s. 13, ch. 17118, 1935; CGL 1936 Supp. 3100(18); s. 1, ch. 2026-135."
+      ],
+      "source_citations": [
+        "s. 13, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(18)",
+        "s. 1, ch. 2026-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.191",
+      "section_path": "title-12-municipalities/sec-0180-191.md",
+      "history": [
+        "History.—ss. 1, 2, 3, 4, 5, ch. 70-997; s. 1, ch. 88-301; s. 1, ch. 92-181; s. 1, ch. 98-15; s. 2, ch. 2026-135."
+      ],
+      "source_citations": [
+        "ss. 1, 2, 3, 4, 5, ch. 70-997",
+        "s. 1, ch. 88-301",
+        "s. 1, ch. 92-181",
+        "s. 1, ch. 98-15",
+        "s. 2, ch. 2026-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.192",
+      "section_path": "title-12-municipalities/sec-0180-192.md",
+      "history": [
+        "History.—s. 3, ch. 2026-135."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2026-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.193",
+      "section_path": "title-12-municipalities/sec-0180-193.md",
+      "history": [
+        "History.—s. 4, ch. 2026-135."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2026-135."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.20",
+      "section_path": "title-12-municipalities/sec-0180-20.md",
+      "history": [
+        "History.—s. 14, ch. 17118, 1935; CGL 1936 Supp. 3100(19)."
+      ],
+      "source_citations": [
+        "s. 14, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(19)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.21",
+      "section_path": "title-12-municipalities/sec-0180-21.md",
+      "history": [
+        "History.—s. 15, ch. 17118, 1935; CGL 1936 Supp. 3100(20)."
+      ],
+      "source_citations": [
+        "s. 15, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(20)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.22",
+      "section_path": "title-12-municipalities/sec-0180-22.md",
+      "history": [
+        "History.—s. 16, ch. 17118, 1935; CGL 1936 Supp. 3100(21); s. 1, ch. 78-198."
+      ],
+      "source_citations": [
+        "s. 16, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(21)",
+        "s. 1, ch. 78-198."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.23",
+      "section_path": "title-12-municipalities/sec-0180-23.md",
+      "history": [
+        "History.—s. 17, ch. 17118, 1935; CGL 1936 Supp. 3100(22)."
+      ],
+      "source_citations": [
+        "s. 17, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(22)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.24",
+      "section_path": "title-12-municipalities/sec-0180-24.md",
+      "history": [
+        "History.—s. 18, ch. 17118, 1935; CGL 1936 Supp. 3100(23); s. 3, ch. 73-129; s. 19, ch. 90-279; s. 27, ch. 95-196."
+      ],
+      "source_citations": [
+        "s. 18, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(23)",
+        "s. 3, ch. 73-129",
+        "s. 19, ch. 90-279",
+        "s. 27, ch. 95-196."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.25",
+      "section_path": "title-12-municipalities/sec-0180-25.md",
+      "history": [
+        "History.—s. 19, ch. 17118, 1935; CGL 1936 Supp. 3100(24)."
+      ],
+      "source_citations": [
+        "s. 19, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(24)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.26",
+      "section_path": "title-12-municipalities/sec-0180-26.md",
+      "history": [
+        "History.—s. 20, ch. 17118, 1935; CGL 1936 Supp. 3100(25)."
+      ],
+      "source_citations": [
+        "s. 20, ch. 17118, 1935",
+        "CGL 1936 Supp. 3100(25)."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "180.301",
+      "section_path": "title-12-municipalities/sec-0180-301.md",
+      "history": [
+        "History.—s. 2, ch. 84-84; s. 6, ch. 93-51; s. 7, ch. 96-202."
+      ],
+      "source_citations": [
+        "s. 2, ch. 84-84",
+        "s. 6, ch. 93-51",
+        "s. 7, ch. 96-202."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0180/0180.html&StatuteYear=2026",
+      "source_sha256": "07efac2653d2f7375f9f99b02dbed186e74e5df333b17971466d91181871be31"
+    },
+    {
+      "section": "185.01",
+      "section_path": "title-12-municipalities/sec-0185-01.md",
+      "history": [
+        "History.—s. 1, ch. 28230, 1953; s. 1, ch. 86-42; s. 41, ch. 99-1; s. 8, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 1, ch. 28230, 1953",
+        "s. 1, ch. 86-42",
+        "s. 41, ch. 99-1",
+        "s. 8, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.015",
+      "section_path": "title-12-municipalities/sec-0185-015.md",
+      "history": [
+        "History.—s. 3, ch. 2004-21."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2004-21."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.02",
+      "section_path": "title-12-municipalities/sec-0185-02.md",
+      "history": [
+        "History.—s. 11, ch. 28230, 1953; s. 1, ch. 29825, 1955; s. 1, ch. 59-320; s. 1, ch. 61-85; s. 7, ch. 79-380; s. 2, ch. 79-388; s. 2, ch. 86-42; s. 43, ch. 91-45; s. 40, ch. 93-193; s. 939, ch. 95-147; s. 14, ch. 95-154; s. 42, ch. 99-1; s. 28, ch. 2000-151; s. 3, ch. 2000-159; s. 2, ch. 2002-66; s. 9, ch. 2009-97; s. 8, ch. 2011-216; s. 9, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 11, ch. 28230, 1953",
+        "s. 1, ch. 29825, 1955",
+        "s. 1, ch. 59-320",
+        "s. 1, ch. 61-85",
+        "s. 7, ch. 79-380",
+        "s. 2, ch. 79-388",
+        "s. 2, ch. 86-42",
+        "s. 43, ch. 91-45",
+        "s. 40, ch. 93-193",
+        "s. 939, ch. 95-147",
+        "s. 14, ch. 95-154",
+        "s. 42, ch. 99-1",
+        "s. 28, ch. 2000-151",
+        "s. 3, ch. 2000-159",
+        "s. 2, ch. 2002-66",
+        "s. 9, ch. 2009-97",
+        "s. 8, ch. 2011-216",
+        "s. 9, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.03",
+      "section_path": "title-12-municipalities/sec-0185-03.md",
+      "history": [
+        "History.—s. 1, ch. 28230, 1953; s. 2, ch. 29825, 1955; s. 2, ch. 61-119; s. 1, ch. 65-152; s. 7, ch. 79-380; s. 2, ch. 79-388; s. 3, ch. 86-42; s. 43, ch. 99-1; s. 1, ch. 2014-28."
+      ],
+      "source_citations": [
+        "s. 1, ch. 28230, 1953",
+        "s. 2, ch. 29825, 1955",
+        "s. 2, ch. 61-119",
+        "s. 1, ch. 65-152",
+        "s. 7, ch. 79-380",
+        "s. 2, ch. 79-388",
+        "s. 3, ch. 86-42",
+        "s. 43, ch. 99-1",
+        "s. 1, ch. 2014-28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.04",
+      "section_path": "title-12-municipalities/sec-0185-04.md",
+      "history": [
+        "History.—s. 1b, ch. 28230, 1953; s. 44, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 1b, ch. 28230, 1953",
+        "s. 44, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.05",
+      "section_path": "title-12-municipalities/sec-0185-05.md",
+      "history": [
+        "History.—s. 2, ch. 28230, 1953; s. 2, ch. 59-320; s. 2, ch. 61-119; s. 4, ch. 86-42; s. 41, ch. 93-193; s. 940, ch. 95-147; s. 45, ch. 99-1; s. 6, ch. 2002-66; s. 8, ch. 2004-21; s. 10, ch. 2009-97; s. 9, ch. 2011-216; s. 10, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 2, ch. 28230, 1953",
+        "s. 2, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 4, ch. 86-42",
+        "s. 41, ch. 93-193",
+        "s. 940, ch. 95-147",
+        "s. 45, ch. 99-1",
+        "s. 6, ch. 2002-66",
+        "s. 8, ch. 2004-21",
+        "s. 10, ch. 2009-97",
+        "s. 9, ch. 2011-216",
+        "s. 10, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.06",
+      "section_path": "title-12-municipalities/sec-0185-06.md",
+      "history": [
+        "History.—s. 3, ch. 28230, 1953; s. 1, ch. 57-118; s. 3, ch. 59-320; s. 2, ch. 61-119; s. 1, ch. 65-366; ss. 22, 35, ch. 69-106; s. 5, ch. 86-42; s. 941, ch. 95-147; s. 2, ch. 98-134; s. 67, ch. 99-2; s. 18, ch. 99-392; s. 29, ch. 2000-151; s. 11, ch. 2009-97; s. 19, ch. 2010-5; s. 11, ch. 2015-39; s. 7, ch. 2023-28."
+      ],
+      "source_citations": [
+        "s. 3, ch. 28230, 1953",
+        "s. 1, ch. 57-118",
+        "s. 3, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 1, ch. 65-366",
+        "ss. 22, 35, ch. 69-106",
+        "s. 5, ch. 86-42",
+        "s. 941, ch. 95-147",
+        "s. 2, ch. 98-134",
+        "s. 67, ch. 99-2",
+        "s. 18, ch. 99-392",
+        "s. 29, ch. 2000-151",
+        "s. 11, ch. 2009-97",
+        "s. 19, ch. 2010-5",
+        "s. 11, ch. 2015-39",
+        "s. 7, ch. 2023-28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.061",
+      "section_path": "title-12-municipalities/sec-0185-061.md",
+      "history": [
+        "History.—s. 4, ch. 59-320; s. 2, ch. 61-119; s. 942, ch. 95-147; s. 46, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 4, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 942, ch. 95-147",
+        "s. 46, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.07",
+      "section_path": "title-12-municipalities/sec-0185-07.md",
+      "history": [
+        "History.—s. 4, ch. 28230, 1953; s. 3, ch. 29825, 1955; s. 5, ch. 59-320; s. 2, ch. 61-119; s. 6, ch. 86-42; s. 943, ch. 95-147; s. 5, ch. 95-250; s. 47, ch. 99-1; s. 10, ch. 2011-216; s. 12, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 4, ch. 28230, 1953",
+        "s. 3, ch. 29825, 1955",
+        "s. 5, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 6, ch. 86-42",
+        "s. 943, ch. 95-147",
+        "s. 5, ch. 95-250",
+        "s. 47, ch. 99-1",
+        "s. 10, ch. 2011-216",
+        "s. 12, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.08",
+      "section_path": "title-12-municipalities/sec-0185-08.md",
+      "history": [
+        "History.—s. 5, ch. 28230, 1953; s. 2, ch. 61-119; s. 1, ch. 63-196; ss. 13, 35, ch. 69-106; s. 7, ch. 86-42; s. 24, ch. 87-99; s. 15, ch. 88-206; s. 11, ch. 89-167; s. 944, ch. 95-147; s. 48, ch. 99-1; s. 164, ch. 2003-261; s. 2, ch. 2014-28."
+      ],
+      "source_citations": [
+        "s. 5, ch. 28230, 1953",
+        "s. 2, ch. 61-119",
+        "s. 1, ch. 63-196",
+        "ss. 13, 35, ch. 69-106",
+        "s. 7, ch. 86-42",
+        "s. 24, ch. 87-99",
+        "s. 15, ch. 88-206",
+        "s. 11, ch. 89-167",
+        "s. 944, ch. 95-147",
+        "s. 48, ch. 99-1",
+        "s. 164, ch. 2003-261",
+        "s. 2, ch. 2014-28."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.085",
+      "section_path": "title-12-municipalities/sec-0185-085.md",
+      "history": [
+        "History.—s. 4, ch. 2004-21; s. 2, ch. 2009-20."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2004-21",
+        "s. 2, ch. 2009-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.09",
+      "section_path": "title-12-municipalities/sec-0185-09.md",
+      "history": [
+        "History.—s. 6, ch. 28230, 1953; s. 2, ch. 61-85; ss. 12, 13, 35, ch. 69-106; s. 42, ch. 93-193; s. 49, ch. 99-1; s. 7, ch. 2000-355."
+      ],
+      "source_citations": [
+        "s. 6, ch. 28230, 1953",
+        "s. 2, ch. 61-85",
+        "ss. 12, 13, 35, ch. 69-106",
+        "s. 42, ch. 93-193",
+        "s. 49, ch. 99-1",
+        "s. 7, ch. 2000-355."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.10",
+      "section_path": "title-12-municipalities/sec-0185-10.md",
+      "history": [
+        "History.—s. 7, ch. 28230, 1953; s. 2, ch. 29734, 1955; s. 2, ch. 61-119; ss. 13, 35, ch. 69-106; s. 1, ch. 74-297; s. 4, ch. 85-61; s. 8, ch. 86-42; s. 43, ch. 93-193; s. 13, ch. 94-259; s. 1458, ch. 95-147; s. 6, ch. 95-250; s. 50, ch. 99-1; s. 165, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 7, ch. 28230, 1953",
+        "s. 2, ch. 29734, 1955",
+        "s. 2, ch. 61-119",
+        "ss. 13, 35, ch. 69-106",
+        "s. 1, ch. 74-297",
+        "s. 4, ch. 85-61",
+        "s. 8, ch. 86-42",
+        "s. 43, ch. 93-193",
+        "s. 13, ch. 94-259",
+        "s. 1458, ch. 95-147",
+        "s. 6, ch. 95-250",
+        "s. 50, ch. 99-1",
+        "s. 165, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.105",
+      "section_path": "title-12-municipalities/sec-0185-105.md",
+      "history": [
+        "History.—s. 1, ch. 95-249."
+      ],
+      "source_citations": [
+        "s. 1, ch. 95-249."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.11",
+      "section_path": "title-12-municipalities/sec-0185-11.md",
+      "history": [
+        "History.—s. 8, ch. 28230, 1953; s. 2, ch. 61-119; s. 9, ch. 86-42; s. 51, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 8, ch. 28230, 1953",
+        "s. 2, ch. 61-119",
+        "s. 9, ch. 86-42",
+        "s. 51, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.12",
+      "section_path": "title-12-municipalities/sec-0185-12.md",
+      "history": [
+        "History.—s. 9, ch. 28230, 1953; s. 3, ch. 61-85; ss. 13, 35, ch. 69-106; s. 10, ch. 86-42; s. 945, ch. 95-147; s. 52, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 9, ch. 28230, 1953",
+        "s. 3, ch. 61-85",
+        "ss. 13, 35, ch. 69-106",
+        "s. 10, ch. 86-42",
+        "s. 945, ch. 95-147",
+        "s. 52, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.13",
+      "section_path": "title-12-municipalities/sec-0185-13.md",
+      "history": [
+        "History.—s. 10, ch. 28230, 1953; ss. 13, 35, ch. 69-106; s. 53, ch. 99-1; s. 166, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 10, ch. 28230, 1953",
+        "ss. 13, 35, ch. 69-106",
+        "s. 53, ch. 99-1",
+        "s. 166, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.16",
+      "section_path": "title-12-municipalities/sec-0185-16.md",
+      "history": [
+        "History.—s. 14, ch. 28230, 1953; s. 4, ch. 29825, 1955; s. 6, ch. 59-320; s. 5, ch. 61-85; s. 2, ch. 63-196; s. 1, ch. 70-128; s. 12, ch. 86-42; s. 946, ch. 95-147; s. 56, ch. 99-1; s. 13, ch. 2015-39."
+      ],
+      "source_citations": [
+        "s. 14, ch. 28230, 1953",
+        "s. 4, ch. 29825, 1955",
+        "s. 6, ch. 59-320",
+        "s. 5, ch. 61-85",
+        "s. 2, ch. 63-196",
+        "s. 1, ch. 70-128",
+        "s. 12, ch. 86-42",
+        "s. 946, ch. 95-147",
+        "s. 56, ch. 99-1",
+        "s. 13, ch. 2015-39."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.161",
+      "section_path": "title-12-municipalities/sec-0185-161.md",
+      "history": [
+        "History.—s. 7, ch. 59-320; s. 13, ch. 86-42; s. 947, ch. 95-147; s. 57, ch. 99-1; s. 12, ch. 2009-97."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-320",
+        "s. 13, ch. 86-42",
+        "s. 947, ch. 95-147",
+        "s. 57, ch. 99-1",
+        "s. 12, ch. 2009-97."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.162",
+      "section_path": "title-12-municipalities/sec-0185-162.md",
+      "history": [
+        "History.—s. 7, ch. 59-320; s. 5, ch. 94-171; s. 1459, ch. 95-147; s. 58, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-320",
+        "s. 5, ch. 94-171",
+        "s. 1459, ch. 95-147",
+        "s. 58, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.18",
+      "section_path": "title-12-municipalities/sec-0185-18.md",
+      "history": [
+        "History.—s. 16, ch. 28230, 1953; s. 6, ch. 59-320; s. 6, ch. 61-85; s. 2, ch. 61-119; s. 2, ch. 70-128; s. 14, ch. 86-42; s. 948, ch. 95-147; s. 59, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 16, ch. 28230, 1953",
+        "s. 6, ch. 59-320",
+        "s. 6, ch. 61-85",
+        "s. 2, ch. 61-119",
+        "s. 2, ch. 70-128",
+        "s. 14, ch. 86-42",
+        "s. 948, ch. 95-147",
+        "s. 59, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.185",
+      "section_path": "title-12-municipalities/sec-0185-185.md",
+      "history": [
+        "History.—s. 60, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 60, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.19",
+      "section_path": "title-12-municipalities/sec-0185-19.md",
+      "history": [
+        "History.—s. 17, ch. 28230, 1953; s. 6, ch. 59-320; s. 7, ch. 61-85; s. 2, ch. 61-119; s. 949, ch. 95-147; s. 61, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 17, ch. 28230, 1953",
+        "s. 6, ch. 59-320",
+        "s. 7, ch. 61-85",
+        "s. 2, ch. 61-119",
+        "s. 949, ch. 95-147",
+        "s. 61, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.191",
+      "section_path": "title-12-municipalities/sec-0185-191.md",
+      "history": [
+        "History.—s. 7, ch. 59-320; s. 62, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-320",
+        "s. 62, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.21",
+      "section_path": "title-12-municipalities/sec-0185-21.md",
+      "history": [
+        "History.—s. 19, ch. 28230, 1953; s. 6, ch. 29825, 1955; s. 3, ch. 57-118; s. 6, ch. 59-320; s. 2, ch. 61-119; s. 15, ch. 86-42; s. 6, ch. 90-138; s. 950, ch. 95-147; s. 63, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 19, ch. 28230, 1953",
+        "s. 6, ch. 29825, 1955",
+        "s. 3, ch. 57-118",
+        "s. 6, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 15, ch. 86-42",
+        "s. 6, ch. 90-138",
+        "s. 950, ch. 95-147",
+        "s. 63, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.221",
+      "section_path": "title-12-municipalities/sec-0185-221.md",
+      "history": [
+        "History.—s. 7, ch. 59-320; s. 2, ch. 61-119; ss. 13, 35, ch. 69-106; s. 16, ch. 86-42; s. 44, ch. 93-193; s. 951, ch. 95-147; s. 8, ch. 96-324; s. 64, ch. 99-1; s. 43, ch. 2001-266; s. 16, ch. 2004-305; s. 51, ch. 2023-8."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "ss. 13, 35, ch. 69-106",
+        "s. 16, ch. 86-42",
+        "s. 44, ch. 93-193",
+        "s. 951, ch. 95-147",
+        "s. 8, ch. 96-324",
+        "s. 64, ch. 99-1",
+        "s. 43, ch. 2001-266",
+        "s. 16, ch. 2004-305",
+        "s. 51, ch. 2023-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.23",
+      "section_path": "title-12-municipalities/sec-0185-23.md",
+      "history": [
+        "History.—s. 20, ch. 28230, 1953; ss. 13, 35, ch. 69-106; s. 45, ch. 93-193; s. 7, ch. 95-250; s. 13, ch. 98-200; s. 65, ch. 99-1; s. 30, ch. 2000-151; s. 50, ch. 2012-116."
+      ],
+      "source_citations": [
+        "s. 20, ch. 28230, 1953",
+        "ss. 13, 35, ch. 69-106",
+        "s. 45, ch. 93-193",
+        "s. 7, ch. 95-250",
+        "s. 13, ch. 98-200",
+        "s. 65, ch. 99-1",
+        "s. 30, ch. 2000-151",
+        "s. 50, ch. 2012-116."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.25",
+      "section_path": "title-12-municipalities/sec-0185-25.md",
+      "history": [
+        "History.—s. 21, ch. 28230, 1953; s. 66, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 21, ch. 28230, 1953",
+        "s. 66, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.30",
+      "section_path": "title-12-municipalities/sec-0185-30.md",
+      "history": [
+        "History.—s. 26, ch. 28230, 1953; s. 2, ch. 61-119; s. 19, ch. 86-42; s. 3, ch. 88-185; s. 954, ch. 95-147; s. 69, ch. 99-1; s. 88, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 26, ch. 28230, 1953",
+        "s. 2, ch. 61-119",
+        "s. 19, ch. 86-42",
+        "s. 3, ch. 88-185",
+        "s. 954, ch. 95-147",
+        "s. 69, ch. 99-1",
+        "s. 88, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.31",
+      "section_path": "title-12-municipalities/sec-0185-31.md",
+      "history": [
+        "History.—s. 27, ch. 28230, 1953; s. 2, ch. 61-119; s. 20, ch. 86-42; s. 70, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 27, ch. 28230, 1953",
+        "s. 2, ch. 61-119",
+        "s. 20, ch. 86-42",
+        "s. 70, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.34",
+      "section_path": "title-12-municipalities/sec-0185-34.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 57-340; s. 1, ch. 67-580; s. 62, ch. 79-40; s. 21, ch. 86-42; s. 72, ch. 99-1."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 57-340",
+        "s. 1, ch. 67-580",
+        "s. 62, ch. 79-40",
+        "s. 21, ch. 86-42",
+        "s. 72, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.341",
+      "section_path": "title-12-municipalities/sec-0185-341.md",
+      "history": [
+        "History.—s. 22, ch. 86-42; s. 955, ch. 95-147; s. 73, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 22, ch. 86-42",
+        "s. 955, ch. 95-147",
+        "s. 73, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.35",
+      "section_path": "title-12-municipalities/sec-0185-35.md",
+      "history": [
+        "History.—s. 7, ch. 59-320; s. 2, ch. 61-119; s. 3, ch. 63-196; ss. 13, 35, ch. 69-106; s. 23, ch. 86-42; s. 47, ch. 93-193; s. 956, ch. 95-147; s. 74, ch. 99-1; s. 7, ch. 2002-66; s. 6, ch. 2004-21; s. 11, ch. 2011-216; s. 14, ch. 2015-39; s. 31, ch. 2020-2."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-320",
+        "s. 2, ch. 61-119",
+        "s. 3, ch. 63-196",
+        "ss. 13, 35, ch. 69-106",
+        "s. 23, ch. 86-42",
+        "s. 47, ch. 93-193",
+        "s. 956, ch. 95-147",
+        "s. 74, ch. 99-1",
+        "s. 7, ch. 2002-66",
+        "s. 6, ch. 2004-21",
+        "s. 11, ch. 2011-216",
+        "s. 14, ch. 2015-39",
+        "s. 31, ch. 2020-2."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.37",
+      "section_path": "title-12-municipalities/sec-0185-37.md",
+      "history": [
+        "History.—s. 8, ch. 61-85; s. 2, ch. 61-119; s. 4, ch. 63-196; s. 24, ch. 86-42; s. 48, ch. 93-193; s. 957, ch. 95-147; s. 76, ch. 99-1; s. 13, ch. 2009-97."
+      ],
+      "source_citations": [
+        "s. 8, ch. 61-85",
+        "s. 2, ch. 61-119",
+        "s. 4, ch. 63-196",
+        "s. 24, ch. 86-42",
+        "s. 48, ch. 93-193",
+        "s. 957, ch. 95-147",
+        "s. 76, ch. 99-1",
+        "s. 13, ch. 2009-97."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.38",
+      "section_path": "title-12-municipalities/sec-0185-38.md",
+      "history": [
+        "History.—s. 25, ch. 86-42; s. 77, ch. 99-1; s. 8, ch. 2002-66."
+      ],
+      "source_citations": [
+        "s. 25, ch. 86-42",
+        "s. 77, ch. 99-1",
+        "s. 8, ch. 2002-66."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.39",
+      "section_path": "title-12-municipalities/sec-0185-39.md",
+      "history": [
+        "History.—s. 26, ch. 86-42; s. 78, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 26, ch. 86-42",
+        "s. 78, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.50",
+      "section_path": "title-12-municipalities/sec-0185-50.md",
+      "history": [
+        "History.—s. 2, ch. 92-51; s. 49, ch. 93-193; s. 14, ch. 94-259; s. 1460, ch. 95-147; s. 8, ch. 95-250; s. 80, ch. 99-1; s. 89, ch. 2024-140."
+      ],
+      "source_citations": [
+        "s. 2, ch. 92-51",
+        "s. 49, ch. 93-193",
+        "s. 14, ch. 94-259",
+        "s. 1460, ch. 95-147",
+        "s. 8, ch. 95-250",
+        "s. 80, ch. 99-1",
+        "s. 89, ch. 2024-140."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    },
+    {
+      "section": "185.60",
+      "section_path": "title-12-municipalities/sec-0185-60.md",
+      "history": [
+        "History.—s. 82, ch. 99-1."
+      ],
+      "source_citations": [
+        "s. 82, ch. 99-1."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0185/0185.html&StatuteYear=2026",
+      "source_sha256": "ef8a3deaed7d985da94cd16091bb01a992dd9bf4b6e4b1a86dffeb8d6bda9b7c"
+    }
+  ]
+}

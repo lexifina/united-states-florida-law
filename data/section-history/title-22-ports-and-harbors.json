@@ -1,0 +1,1595 @@
+{
+  "schema_version": 1,
+  "act_path": "title-22-ports-and-harbors",
+  "title": "Florida Statutes, Title XXII: Ports and Harbors",
+  "edition_year": 2026,
+  "source_title_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII&StatuteYear=2026",
+  "source_title_sha256": "01b5ef5e0a6fa8804ff8efe7c23d9604e009d383b315d1aed0f3d808fd6b5868",
+  "sections": [
+    {
+      "section": "308.01",
+      "section_path": "title-22-ports-and-harbors/sec-0308-01.md",
+      "history": [
+        "History.—s. 1, ch. 1750, 1870; RS 933; GS 1287; RGS 2457; CGL 3866."
+      ],
+      "source_citations": [
+        "s. 1, ch. 1750, 1870",
+        "RS 933",
+        "GS 1287",
+        "RGS 2457",
+        "CGL 3866."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0308/0308.html&StatuteYear=2026",
+      "source_sha256": "fd8fa0e4da20a8c69717b6e825bb95b2fcb2c8e93579a27e1a4b9a69eeebb8b2"
+    },
+    {
+      "section": "308.02",
+      "section_path": "title-22-ports-and-harbors/sec-0308-02.md",
+      "history": [
+        "History.—s. 2, ch. 1750, 1870; RS 934; GS 1288; RGS 2458; CGL 3867; s. 276, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 1750, 1870",
+        "RS 934",
+        "GS 1288",
+        "RGS 2458",
+        "CGL 3867",
+        "s. 276, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0308/0308.html&StatuteYear=2026",
+      "source_sha256": "fd8fa0e4da20a8c69717b6e825bb95b2fcb2c8e93579a27e1a4b9a69eeebb8b2"
+    },
+    {
+      "section": "308.03",
+      "section_path": "title-22-ports-and-harbors/sec-0308-03.md",
+      "history": [
+        "History.—s. 3, ch. 1750, 1870; RS 935; GS 1289; RGS 2459; CGL 3868."
+      ],
+      "source_citations": [
+        "s. 3, ch. 1750, 1870",
+        "RS 935",
+        "GS 1289",
+        "RGS 2459",
+        "CGL 3868."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0308/0308.html&StatuteYear=2026",
+      "source_sha256": "fd8fa0e4da20a8c69717b6e825bb95b2fcb2c8e93579a27e1a4b9a69eeebb8b2"
+    },
+    {
+      "section": "308.04",
+      "section_path": "title-22-ports-and-harbors/sec-0308-04.md",
+      "history": [
+        "History.—s. 4, ch. 1750, 1870; RS 2750; GS 3745; RGS 5770; CGL 8000; s. 167, ch. 71-136; s. 277, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 4, ch. 1750, 1870",
+        "RS 2750",
+        "GS 3745",
+        "RGS 5770",
+        "CGL 8000",
+        "s. 167, ch. 71-136",
+        "s. 277, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0308/0308.html&StatuteYear=2026",
+      "source_sha256": "fd8fa0e4da20a8c69717b6e825bb95b2fcb2c8e93579a27e1a4b9a69eeebb8b2"
+    },
+    {
+      "section": "309.01",
+      "section_path": "title-22-ports-and-harbors/sec-0309-01.md",
+      "history": [
+        "History.—ch. 3298, 1881; RS 936; s. 1, ch. 4370, 1895; GS 1290; RGS 2460; CGL 3869; s. 1, ch. 61-11; s. 1, ch. 63-423; s. 1, ch. 65-26; ss. 25, 30, 35, ch. 69-106; s. 184, ch. 81-259; s. 31, ch. 94-218; s. 134, ch. 94-356; s. 890, ch. 95-148; s. 236, ch. 99-245."
+      ],
+      "source_citations": [
+        "ch. 3298, 1881",
+        "RS 936",
+        "s. 1, ch. 4370, 1895",
+        "GS 1290",
+        "RGS 2460",
+        "CGL 3869",
+        "s. 1, ch. 61-11",
+        "s. 1, ch. 63-423",
+        "s. 1, ch. 65-26",
+        "ss. 25, 30, 35, ch. 69-106",
+        "s. 184, ch. 81-259",
+        "s. 31, ch. 94-218",
+        "s. 134, ch. 94-356",
+        "s. 890, ch. 95-148",
+        "s. 236, ch. 99-245."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0309/0309.html&StatuteYear=2026",
+      "source_sha256": "11b397876d190ac00b0860ca07e7723bce571ab6c0ac7008b848534afbef2fd2"
+    },
+    {
+      "section": "309.02",
+      "section_path": "title-22-ports-and-harbors/sec-0309-02.md",
+      "history": [
+        "History.—s. 3, ch. 3142, 1879; RS 937; GS 1291; RGS 2461; CGL 3870."
+      ],
+      "source_citations": [
+        "s. 3, ch. 3142, 1879",
+        "RS 937",
+        "GS 1291",
+        "RGS 2461",
+        "CGL 3870."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0309/0309.html&StatuteYear=2026",
+      "source_sha256": "11b397876d190ac00b0860ca07e7723bce571ab6c0ac7008b848534afbef2fd2"
+    },
+    {
+      "section": "310.001",
+      "section_path": "title-22-ports-and-harbors/sec-0310-001.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.0015",
+      "section_path": "title-22-ports-and-harbors/sec-0310-0015.md",
+      "history": [
+        "History.—s. 338, ch. 94-119; s. 66, ch. 2000-356; s. 2, ch. 2010-225; s. 226, ch. 2011-142; s. 4, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 338, ch. 94-119",
+        "s. 66, ch. 2000-356",
+        "s. 2, ch. 2010-225",
+        "s. 226, ch. 2011-142",
+        "s. 4, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.002",
+      "section_path": "title-22-ports-and-harbors/sec-0310-002.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 1, 16, ch. 78-140; s. 185, ch. 81-259; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 1, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 339, ch. 94-119; s. 32, ch. 94-218; s. 3, ch. 2010-225."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 1, 16, ch. 78-140",
+        "s. 185, ch. 81-259",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 1, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 339, ch. 94-119",
+        "s. 32, ch. 94-218",
+        "s. 3, ch. 2010-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.011",
+      "section_path": "title-22-ports-and-harbors/sec-0310-011.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; ss. 1, 2, ch. 76-217; s. 1, ch. 77-457; ss. 2, 3, 16, ch. 78-140; ss. 186, 187, ch. 81-259; s. 2, ch. 81-318; ss. 3, 4, ch. 83-329; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 340, ch. 94-119; s. 33, ch. 94-218; s. 4, ch. 2010-225."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "ss. 1, 2, ch. 76-217",
+        "s. 1, ch. 77-457",
+        "ss. 2, 3, 16, ch. 78-140",
+        "ss. 186, 187, ch. 81-259",
+        "s. 2, ch. 81-318",
+        "ss. 3, 4, ch. 83-329",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 340, ch. 94-119",
+        "s. 33, ch. 94-218",
+        "s. 4, ch. 2010-225."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.032",
+      "section_path": "title-22-ports-and-harbors/sec-0310-032.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 278, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 278, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.042",
+      "section_path": "title-22-ports-and-harbors/sec-0310-042.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 2, 16, ch. 78-140; ss. 13, 15, 25, 30, 34, 59, 62, ch. 80-406; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 279, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 2, 16, ch. 78-140",
+        "ss. 13, 15, 25, 30, 34, 59, 62, ch. 80-406",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 279, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.051",
+      "section_path": "title-22-ports-and-harbors/sec-0310-051.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 5, 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 280, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 5, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 280, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.061",
+      "section_path": "title-22-ports-and-harbors/sec-0310-061.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 6, 16, ch. 78-140; s. 13, ch. 81-302; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 2, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 6, 16, ch. 78-140",
+        "s. 13, ch. 81-302",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 2, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.071",
+      "section_path": "title-22-ports-and-harbors/sec-0310-071.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 7, 16, ch. 78-140; s. 2, ch. 81-318; ss. 1, 2, 3, ch. 84-185; ss. 3, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 90-54; s. 1, ch. 90-144; s. 79, ch. 91-221; s. 4, ch. 91-429; s. 341, ch. 94-119; s. 2, ch. 2000-356; s. 2, ch. 2016-224; s. 11, ch. 2018-106."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 7, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 1, 2, 3, ch. 84-185",
+        "ss. 3, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 90-54",
+        "s. 1, ch. 90-144",
+        "s. 79, ch. 91-221",
+        "s. 4, ch. 91-429",
+        "s. 341, ch. 94-119",
+        "s. 2, ch. 2000-356",
+        "s. 2, ch. 2016-224",
+        "s. 11, ch. 2018-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.073",
+      "section_path": "title-22-ports-and-harbors/sec-0310-073.md",
+      "history": [
+        "History.—ss. 4, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 342, ch. 94-119; s. 3, ch. 2016-224; s. 12, ch. 2018-106."
+      ],
+      "source_citations": [
+        "ss. 4, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 342, ch. 94-119",
+        "s. 3, ch. 2016-224",
+        "s. 12, ch. 2018-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.075",
+      "section_path": "title-22-ports-and-harbors/sec-0310-075.md",
+      "history": [
+        "History.—ss. 5, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 281, ch. 95-148."
+      ],
+      "source_citations": [
+        "ss. 5, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 281, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.081",
+      "section_path": "title-22-ports-and-harbors/sec-0310-081.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 8, 16, ch. 78-140; s. 11, ch. 81-302; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 2, ch. 90-144; s. 4, ch. 91-429; s. 343, ch. 94-119; s. 4, ch. 2016-224; s. 13, ch. 2018-106; s. 5, ch. 2024-178."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 8, 16, ch. 78-140",
+        "s. 11, ch. 81-302",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 2, ch. 90-144",
+        "s. 4, ch. 91-429",
+        "s. 343, ch. 94-119",
+        "s. 4, ch. 2016-224",
+        "s. 13, ch. 2018-106",
+        "s. 5, ch. 2024-178."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.091",
+      "section_path": "title-22-ports-and-harbors/sec-0310-091.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 9, 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 282, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 9, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 282, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.101",
+      "section_path": "title-22-ports-and-harbors/sec-0310-101.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 10, 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 6, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 5, ch. 90-54; s. 3, ch. 90-144; s. 4, ch. 91-429; s. 344, ch. 94-119; s. 891, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 10, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 6, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 5, ch. 90-54",
+        "s. 3, ch. 90-144",
+        "s. 4, ch. 91-429",
+        "s. 344, ch. 94-119",
+        "s. 891, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.102",
+      "section_path": "title-22-ports-and-harbors/sec-0310-102.md",
+      "history": [
+        "History.—s. 345, ch. 94-119; s. 1, ch. 94-349; s. 151, ch. 96-406; s. 17, ch. 98-166; s. 5, ch. 2000-160; ss. 30, 88, ch. 2000-318; s. 7, ch. 2019-5."
+      ],
+      "source_citations": [
+        "s. 345, ch. 94-119",
+        "s. 1, ch. 94-349",
+        "s. 151, ch. 96-406",
+        "s. 17, ch. 98-166",
+        "s. 5, ch. 2000-160",
+        "ss. 30, 88, ch. 2000-318",
+        "s. 7, ch. 2019-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.111",
+      "section_path": "title-22-ports-and-harbors/sec-0310-111.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 11, 16, ch. 78-140; ss. 13, 15, 25, 30, 34, 60, 62, ch. 80-406; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 7, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 6, ch. 90-54; s. 4, ch. 90-144; s. 4, ch. 91-429."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 11, 16, ch. 78-140",
+        "ss. 13, 15, 25, 30, 34, 60, 62, ch. 80-406",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 7, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 6, ch. 90-54",
+        "s. 4, ch. 90-144",
+        "s. 4, ch. 91-429."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.1112",
+      "section_path": "title-22-ports-and-harbors/sec-0310-1112.md",
+      "history": [
+        "History.—s. 346, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 346, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.1115",
+      "section_path": "title-22-ports-and-harbors/sec-0310-1115.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 82-126; s. 3, ch. 84-185; ss. 8, 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 283, ch. 95-148."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 82-126",
+        "s. 3, ch. 84-185",
+        "ss. 8, 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 283, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.121",
+      "section_path": "title-22-ports-and-harbors/sec-0310-121.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 12, 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 347, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 12, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 347, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.131",
+      "section_path": "title-22-ports-and-harbors/sec-0310-131.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 1, ch. 77-470; ss. 13, 16, ch. 78-140; s. 188, ch. 81-259; s. 2, ch. 81-318; s. 5, ch. 83-329; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 348, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 1, ch. 77-470",
+        "ss. 13, 16, ch. 78-140",
+        "s. 188, ch. 81-259",
+        "s. 2, ch. 81-318",
+        "s. 5, ch. 83-329",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 348, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.141",
+      "section_path": "title-22-ports-and-harbors/sec-0310-141.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 1, ch. 75-238; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 7, ch. 90-54; s. 5, ch. 90-144; s. 4, ch. 91-429; s. 349, ch. 94-119."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 1, ch. 75-238",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 7, ch. 90-54",
+        "s. 5, ch. 90-144",
+        "s. 4, ch. 91-429",
+        "s. 349, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.142",
+      "section_path": "title-22-ports-and-harbors/sec-0310-142.md",
+      "history": [
+        "History.—ss. 1, 2, ch. 89-262; s. 4, ch. 91-429; s. 8, ch. 2019-5."
+      ],
+      "source_citations": [
+        "ss. 1, 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 8, ch. 2019-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.146",
+      "section_path": "title-22-ports-and-harbors/sec-0310-146.md",
+      "history": [
+        "History.—ss. 9, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 350, ch. 94-119."
+      ],
+      "source_citations": [
+        "ss. 9, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 350, ch. 94-119."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.151",
+      "section_path": "title-22-ports-and-harbors/sec-0310-151.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; ss. 14, 16, ch. 78-140; s. 2, ch. 81-318; s. 6, ch. 83-329; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 351, ch. 94-119; s. 65, ch. 96-410; s. 59, ch. 98-200; s. 3, ch. 2000-356; s. 5, ch. 2010-225; s. 23, ch. 2013-14."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "ss. 14, 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "s. 6, ch. 83-329",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 351, ch. 94-119",
+        "s. 65, ch. 96-410",
+        "s. 59, ch. 98-200",
+        "s. 3, ch. 2000-356",
+        "s. 5, ch. 2010-225",
+        "s. 23, ch. 2013-14."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.161",
+      "section_path": "title-22-ports-and-harbors/sec-0310-161.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 8, ch. 90-54; s. 6, ch. 90-144; s. 4, ch. 91-429."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 8, ch. 90-54",
+        "s. 6, ch. 90-144",
+        "s. 4, ch. 91-429."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.171",
+      "section_path": "title-22-ports-and-harbors/sec-0310-171.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 3, ch. 79-9; s. 2, ch. 81-318; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 39, ch. 2014-209."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 3, ch. 79-9",
+        "s. 2, ch. 81-318",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 39, ch. 2014-209."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.181",
+      "section_path": "title-22-ports-and-harbors/sec-0310-181.md",
+      "history": [
+        "History.—s. 2, ch. 75-201; s. 3, ch. 76-168; s. 1, ch. 77-457; s. 16, ch. 78-140; s. 2, ch. 81-318; s. 23, ch. 83-216; ss. 2, 3, ch. 84-185; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 40, ch. 2014-209; s. 18, ch. 2015-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 75-201",
+        "s. 3, ch. 76-168",
+        "s. 1, ch. 77-457",
+        "s. 16, ch. 78-140",
+        "s. 2, ch. 81-318",
+        "s. 23, ch. 83-216",
+        "ss. 2, 3, ch. 84-185",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 40, ch. 2014-209",
+        "s. 18, ch. 2015-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.183",
+      "section_path": "title-22-ports-and-harbors/sec-0310-183.md",
+      "history": [
+        "History.—s. 353, ch. 94-119; s. 9, ch. 2019-5."
+      ],
+      "source_citations": [
+        "s. 353, ch. 94-119",
+        "s. 9, ch. 2019-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "310.185",
+      "section_path": "title-22-ports-and-harbors/sec-0310-185.md",
+      "history": [
+        "History.—s. 12, ch. 81-302; ss. 10, 11, ch. 86-280; s. 2, ch. 89-262; s. 4, ch. 91-429; s. 354, ch. 94-119; s. 60, ch. 98-200."
+      ],
+      "source_citations": [
+        "s. 12, ch. 81-302",
+        "ss. 10, 11, ch. 86-280",
+        "s. 2, ch. 89-262",
+        "s. 4, ch. 91-429",
+        "s. 354, ch. 94-119",
+        "s. 60, ch. 98-200."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "source_sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24"
+    },
+    {
+      "section": "311.07",
+      "section_path": "title-22-ports-and-harbors/sec-0311-07.md",
+      "history": [
+        "History.—s. 65, ch. 90-136; s. 5, ch. 91-429; s. 55, ch. 93-120; s. 20, ch. 94-237; s. 130, ch. 96-320; s. 48, ch. 97-278; s. 5, ch. 97-280; s. 40, ch. 2000-152; s. 3, ch. 2000-266; s. 99, ch. 2001-266; s. 1, ch. 2002-190; s. 51, ch. 2004-269; s. 7, ch. 2006-2; s. 2, ch. 2010-201; s. 46, ch. 2011-139; s. 57, ch. 2011-213; ss. 35, 36, ch. 2012-119; s. 4, ch. 2012-128; s. 9, ch. 2012-174; s. 1, ch. 2016-181; s. 2, ch. 2016-239; s. 17, ch. 2017-5; s. 49, ch. 2017-71; s. 4, ch. 2019-4; s. 4, ch. 2022-204; s. 86, ch. 2024-6; s. 2, ch. 2025-155."
+      ],
+      "source_citations": [
+        "s. 65, ch. 90-136",
+        "s. 5, ch. 91-429",
+        "s. 55, ch. 93-120",
+        "s. 20, ch. 94-237",
+        "s. 130, ch. 96-320",
+        "s. 48, ch. 97-278",
+        "s. 5, ch. 97-280",
+        "s. 40, ch. 2000-152",
+        "s. 3, ch. 2000-266",
+        "s. 99, ch. 2001-266",
+        "s. 1, ch. 2002-190",
+        "s. 51, ch. 2004-269",
+        "s. 7, ch. 2006-2",
+        "s. 2, ch. 2010-201",
+        "s. 46, ch. 2011-139",
+        "s. 57, ch. 2011-213",
+        "ss. 35, 36, ch. 2012-119",
+        "s. 4, ch. 2012-128",
+        "s. 9, ch. 2012-174",
+        "s. 1, ch. 2016-181",
+        "s. 2, ch. 2016-239",
+        "s. 17, ch. 2017-5",
+        "s. 49, ch. 2017-71",
+        "s. 4, ch. 2019-4",
+        "s. 4, ch. 2022-204",
+        "s. 86, ch. 2024-6",
+        "s. 2, ch. 2025-155."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.09",
+      "section_path": "title-22-ports-and-harbors/sec-0311-09.md",
+      "history": [
+        "History.—s. 65, ch. 90-136; s. 26, ch. 90-227; s. 5, ch. 91-429; s. 56, ch. 93-120; s. 4, ch. 93-164; s. 4, ch. 93-262; s. 21, ch. 94-237; s. 87, ch. 95-143; s. 892, ch. 95-148; s. 10, ch. 95-257; s. 131, ch. 96-320; s. 71, ch. 99-385; s. 4, ch. 2000-266; s. 64, ch. 2002-20; s. 3, ch. 2010-201; s. 1, ch. 2011-41; s. 227, ch. 2011-142; s. 2, ch. 2011-164; s. 41, ch. 2012-5; s. 53, ch. 2012-96; s. 5, ch. 2012-128; s. 10, ch. 2012-174; s. 2, ch. 2016-181; s. 3, ch. 2016-239; s. 32, ch. 2021-25; s. 1, ch. 2022-204; s. 87, ch. 2024-6; s. 3, ch. 2025-155."
+      ],
+      "source_citations": [
+        "s. 65, ch. 90-136",
+        "s. 26, ch. 90-227",
+        "s. 5, ch. 91-429",
+        "s. 56, ch. 93-120",
+        "s. 4, ch. 93-164",
+        "s. 4, ch. 93-262",
+        "s. 21, ch. 94-237",
+        "s. 87, ch. 95-143",
+        "s. 892, ch. 95-148",
+        "s. 10, ch. 95-257",
+        "s. 131, ch. 96-320",
+        "s. 71, ch. 99-385",
+        "s. 4, ch. 2000-266",
+        "s. 64, ch. 2002-20",
+        "s. 3, ch. 2010-201",
+        "s. 1, ch. 2011-41",
+        "s. 227, ch. 2011-142",
+        "s. 2, ch. 2011-164",
+        "s. 41, ch. 2012-5",
+        "s. 53, ch. 2012-96",
+        "s. 5, ch. 2012-128",
+        "s. 10, ch. 2012-174",
+        "s. 2, ch. 2016-181",
+        "s. 3, ch. 2016-239",
+        "s. 32, ch. 2021-25",
+        "s. 1, ch. 2022-204",
+        "s. 87, ch. 2024-6",
+        "s. 3, ch. 2025-155."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.091",
+      "section_path": "title-22-ports-and-harbors/sec-0311-091.md",
+      "history": [
+        "History.—s. 8, ch. 2010-201; s. 5, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 8, ch. 2010-201",
+        "s. 5, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.10",
+      "section_path": "title-22-ports-and-harbors/sec-0311-10.md",
+      "history": [
+        "History.—s. 6, ch. 2012-128; s. 11, ch. 2012-174; s. 6, ch. 2022-204; s. 88, ch. 2024-6; s. 4, ch. 2025-155."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2012-128",
+        "s. 11, ch. 2012-174",
+        "s. 6, ch. 2022-204",
+        "s. 88, ch. 2024-6",
+        "s. 4, ch. 2025-155."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.101",
+      "section_path": "title-22-ports-and-harbors/sec-0311-101.md",
+      "history": [
+        "History.—s. 7, ch. 2012-128; s. 12, ch. 2012-174; s. 42, ch. 2013-15; s. 2, ch. 2014-216; s. 4, ch. 2021-52; s. 7, ch. 2022-204; s. 4, ch. 2023-70; s. 89, ch. 2024-6; s. 2, ch. 2024-57; s. 5, ch. 2025-155."
+      ],
+      "source_citations": [
+        "s. 7, ch. 2012-128",
+        "s. 12, ch. 2012-174",
+        "s. 42, ch. 2013-15",
+        "s. 2, ch. 2014-216",
+        "s. 4, ch. 2021-52",
+        "s. 7, ch. 2022-204",
+        "s. 4, ch. 2023-70",
+        "s. 89, ch. 2024-6",
+        "s. 2, ch. 2024-57",
+        "s. 5, ch. 2025-155."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.103",
+      "section_path": "title-22-ports-and-harbors/sec-0311-103.md",
+      "history": [
+        "History.—s. 1, ch. 2015-106."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2015-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.105",
+      "section_path": "title-22-ports-and-harbors/sec-0311-105.md",
+      "history": [
+        "History.—s. 132, ch. 96-320; s. 4, ch. 98-326; s. 228, ch. 2011-142; s. 42, ch. 2012-5; s. 30, ch. 2020-150; s. 33, ch. 2021-25; s. 90, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 132, ch. 96-320",
+        "s. 4, ch. 98-326",
+        "s. 228, ch. 2011-142",
+        "s. 42, ch. 2012-5",
+        "s. 30, ch. 2020-150",
+        "s. 33, ch. 2021-25",
+        "s. 90, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.106",
+      "section_path": "title-22-ports-and-harbors/sec-0311-106.md",
+      "history": [
+        "History.—s. 13, ch. 2012-174; s. 1, ch. 2026-60."
+      ],
+      "source_citations": [
+        "s. 13, ch. 2012-174",
+        "s. 1, ch. 2026-60."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.11",
+      "section_path": "title-22-ports-and-harbors/sec-0311-11.md",
+      "history": [
+        "History.—s. 12, ch. 92-277; s. 133, ch. 96-320; s. 3, ch. 96-418; s. 49, ch. 97-278; s. 230, ch. 2011-142; s. 91, ch. 2024-6."
+      ],
+      "source_citations": [
+        "s. 12, ch. 92-277",
+        "s. 133, ch. 96-320",
+        "s. 3, ch. 96-418",
+        "s. 49, ch. 97-278",
+        "s. 230, ch. 2011-142",
+        "s. 91, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.12",
+      "section_path": "title-22-ports-and-harbors/sec-0311-12.md",
+      "history": [
+        "History.—s. 1, ch. 2000-360; s. 1, ch. 2001-112; s. 1, ch. 2003-96; s. 1, ch. 2004-261; s. 6, ch. 2005-128; s. 2, ch. 2006-193; s. 2, ch. 2009-171; s. 55, ch. 2010-5; s. 2, ch. 2011-41; s. 4, ch. 2011-51; s. 31, ch. 2016-10; s. 4, ch. 2016-239; s. 8, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-360",
+        "s. 1, ch. 2001-112",
+        "s. 1, ch. 2003-96",
+        "s. 1, ch. 2004-261",
+        "s. 6, ch. 2005-128",
+        "s. 2, ch. 2006-193",
+        "s. 2, ch. 2009-171",
+        "s. 55, ch. 2010-5",
+        "s. 2, ch. 2011-41",
+        "s. 4, ch. 2011-51",
+        "s. 31, ch. 2016-10",
+        "s. 4, ch. 2016-239",
+        "s. 8, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.121",
+      "section_path": "title-22-ports-and-harbors/sec-0311-121.md",
+      "history": [
+        "History.—s. 3, ch. 2006-193; s. 2, ch. 2009-40; s. 4, ch. 2009-171; s. 56, ch. 2010-5; s. 3, ch. 2011-41; s. 6, ch. 2011-66; s. 9, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 3, ch. 2006-193",
+        "s. 2, ch. 2009-40",
+        "s. 4, ch. 2009-171",
+        "s. 56, ch. 2010-5",
+        "s. 3, ch. 2011-41",
+        "s. 6, ch. 2011-66",
+        "s. 9, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.122",
+      "section_path": "title-22-ports-and-harbors/sec-0311-122.md",
+      "history": [
+        "History.—s. 4, ch. 2006-193; s. 57, ch. 2010-5."
+      ],
+      "source_citations": [
+        "s. 4, ch. 2006-193",
+        "s. 57, ch. 2010-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.123",
+      "section_path": "title-22-ports-and-harbors/sec-0311-123.md",
+      "history": [
+        "History.—s. 5, ch. 2006-193; s. 5, ch. 2009-171; s. 4, ch. 2011-41; s. 5, ch. 2011-51."
+      ],
+      "source_citations": [
+        "s. 5, ch. 2006-193",
+        "s. 5, ch. 2009-171",
+        "s. 4, ch. 2011-41",
+        "s. 5, ch. 2011-51."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.124",
+      "section_path": "title-22-ports-and-harbors/sec-0311-124.md",
+      "history": [
+        "History.—s. 6, ch. 2006-193; s. 6, ch. 2009-171; s. 5, ch. 2011-41."
+      ],
+      "source_citations": [
+        "s. 6, ch. 2006-193",
+        "s. 6, ch. 2009-171",
+        "s. 5, ch. 2011-41."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.13",
+      "section_path": "title-22-ports-and-harbors/sec-0311-13.md",
+      "history": [
+        "History.—s. 1, ch. 2000-292; s. 1, ch. 2005-53; s. 7, ch. 2009-171."
+      ],
+      "source_citations": [
+        "s. 1, ch. 2000-292",
+        "s. 1, ch. 2005-53",
+        "s. 7, ch. 2009-171."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.14",
+      "section_path": "title-22-ports-and-harbors/sec-0311-14.md",
+      "history": [
+        "History.—s. 69, ch. 99-251; s. 3, ch. 2011-164; s. 14, ch. 2012-174; s. 10, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 69, ch. 99-251",
+        "s. 3, ch. 2011-164",
+        "s. 14, ch. 2012-174",
+        "s. 10, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.22",
+      "section_path": "title-22-ports-and-harbors/sec-0311-22.md",
+      "history": [
+        "History.—ss. 42, 55, ch. 2005-71; s. 1, ch. 2005-261; s. 1, ch. 2005-281; s. 39, ch. 2006-26; ss. 34, 53, 54, ch. 2007-73; s. 16, ch. 2007-196; s. 8, ch. 2008-5; ss. 232, 493, ch. 2011-142; s. 8, ch. 2012-128; s. 84, ch. 2012-174; s. 92, ch. 2024-6."
+      ],
+      "source_citations": [
+        "ss. 42, 55, ch. 2005-71",
+        "s. 1, ch. 2005-261",
+        "s. 1, ch. 2005-281",
+        "s. 39, ch. 2006-26",
+        "ss. 34, 53, 54, ch. 2007-73",
+        "s. 16, ch. 2007-196",
+        "s. 8, ch. 2008-5",
+        "ss. 232, 493, ch. 2011-142",
+        "s. 8, ch. 2012-128",
+        "s. 84, ch. 2012-174",
+        "s. 92, ch. 2024-6."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "311.25",
+      "section_path": "title-22-ports-and-harbors/sec-0311-25.md",
+      "history": [
+        "History.—s. 17, ch. 2021-188."
+      ],
+      "source_citations": [
+        "s. 17, ch. 2021-188."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "source_sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1"
+    },
+    {
+      "section": "313.01",
+      "section_path": "title-22-ports-and-harbors/sec-0313-01.md",
+      "history": [
+        "History.—ss. 1, 4, ch. 3306, 1881; RS 953; s. 1, ch. 5223, 1903; GS 1322; RGS 2492; CGL 3902; s. 1, ch. 28347, 1953; s. 5, ch. 75-201; s. 7, ch. 77-85; s. 134, ch. 96-320."
+      ],
+      "source_citations": [
+        "ss. 1, 4, ch. 3306, 1881",
+        "RS 953",
+        "s. 1, ch. 5223, 1903",
+        "GS 1322",
+        "RGS 2492",
+        "CGL 3902",
+        "s. 1, ch. 28347, 1953",
+        "s. 5, ch. 75-201",
+        "s. 7, ch. 77-85",
+        "s. 134, ch. 96-320."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.02",
+      "section_path": "title-22-ports-and-harbors/sec-0313-02.md",
+      "history": [
+        "History.—ch. 3602, 1885; RS 954; GS 1323; RGS 2493; CGL 3903; ss. 10, 12, 35, ch. 69-106; s. 284, ch. 95-148; s. 354, ch. 2003-261."
+      ],
+      "source_citations": [
+        "ch. 3602, 1885",
+        "RS 954",
+        "GS 1323",
+        "RGS 2493",
+        "CGL 3903",
+        "ss. 10, 12, 35, ch. 69-106",
+        "s. 284, ch. 95-148",
+        "s. 354, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.03",
+      "section_path": "title-22-ports-and-harbors/sec-0313-03.md",
+      "history": [
+        "History.—ch. 3602, 1885; RS 955; GS 1324; RGS 2494; CGL 3904; s. 285, ch. 95-148."
+      ],
+      "source_citations": [
+        "ch. 3602, 1885",
+        "RS 955",
+        "GS 1324",
+        "RGS 2494",
+        "CGL 3904",
+        "s. 285, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.04",
+      "section_path": "title-22-ports-and-harbors/sec-0313-04.md",
+      "history": [
+        "History.—RS 956; s. 2, ch. 5223, 1903; GS 1325; RGS 2495; CGL 3905."
+      ],
+      "source_citations": [
+        "RS 956",
+        "s. 2, ch. 5223, 1903",
+        "GS 1325",
+        "RGS 2495",
+        "CGL 3905."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.05",
+      "section_path": "title-22-ports-and-harbors/sec-0313-05.md",
+      "history": [
+        "History.—s. 2, ch. 5223, 1903; GS 1326; RGS 2496; CGL 3906; s. 286, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 2, ch. 5223, 1903",
+        "GS 1326",
+        "RGS 2496",
+        "CGL 3906",
+        "s. 286, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.06",
+      "section_path": "title-22-ports-and-harbors/sec-0313-06.md",
+      "history": [
+        "History.—s. 1, ch. 3602, 1885; s. 8, ch. 3752, 1887; RS 2745, 2746; s. 2, ch. 5223, 1903; GS 3741; RGS 5766; CGL 7996; s. 173, ch. 71-136; s. 287, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3602, 1885",
+        "s. 8, ch. 3752, 1887",
+        "RS 2745, 2746",
+        "s. 2, ch. 5223, 1903",
+        "GS 3741",
+        "RGS 5766",
+        "CGL 7996",
+        "s. 173, ch. 71-136",
+        "s. 287, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.21",
+      "section_path": "title-22-ports-and-harbors/sec-0313-21.md",
+      "history": [
+        "History.—s. 9, ch. 90-54."
+      ],
+      "source_citations": [
+        "s. 9, ch. 90-54."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.22",
+      "section_path": "title-22-ports-and-harbors/sec-0313-22.md",
+      "history": [
+        "History.—s. 9, ch. 90-54; s. 1, ch. 91-198."
+      ],
+      "source_citations": [
+        "s. 9, ch. 90-54",
+        "s. 1, ch. 91-198."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.23",
+      "section_path": "title-22-ports-and-harbors/sec-0313-23.md",
+      "history": [
+        "History.—s. 9, ch. 90-54."
+      ],
+      "source_citations": [
+        "s. 9, ch. 90-54."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "313.24",
+      "section_path": "title-22-ports-and-harbors/sec-0313-24.md",
+      "history": [
+        "History.—s. 9, ch. 90-54."
+      ],
+      "source_citations": [
+        "s. 9, ch. 90-54."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "source_sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737"
+    },
+    {
+      "section": "314.01",
+      "section_path": "title-22-ports-and-harbors/sec-0314-01.md",
+      "history": [
+        "History.—s. 1, ch. 3752, 1887; RS 957; GS 1327; RGS 2497; CGL 3907; s. 8, ch. 77-85."
+      ],
+      "source_citations": [
+        "s. 1, ch. 3752, 1887",
+        "RS 957",
+        "GS 1327",
+        "RGS 2497",
+        "CGL 3907",
+        "s. 8, ch. 77-85."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.02",
+      "section_path": "title-22-ports-and-harbors/sec-0314-02.md",
+      "history": [
+        "History.—s. 2, ch. 3752, 1887; RS 958; GS 1328; RGS 2498; CGL 3908; ss. 10, 12, 35, ch. 69-106; s. 288, ch. 95-148; s. 355, ch. 2003-261."
+      ],
+      "source_citations": [
+        "s. 2, ch. 3752, 1887",
+        "RS 958",
+        "GS 1328",
+        "RGS 2498",
+        "CGL 3908",
+        "ss. 10, 12, 35, ch. 69-106",
+        "s. 288, ch. 95-148",
+        "s. 355, ch. 2003-261."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.04",
+      "section_path": "title-22-ports-and-harbors/sec-0314-04.md",
+      "history": [
+        "History.—s. 4, ch. 3752, 1887; RS 960; GS 1330; RGS 2500; CGL 3910; s. 289, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 4, ch. 3752, 1887",
+        "RS 960",
+        "GS 1330",
+        "RGS 2500",
+        "CGL 3910",
+        "s. 289, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.05",
+      "section_path": "title-22-ports-and-harbors/sec-0314-05.md",
+      "history": [
+        "History.—s. 5, ch. 3752, 1887; RS 961; GS 1331; RGS 2501; CGL 3911; ss. 19, 35, ch. 69-106; s. 50, ch. 77-147; s. 290, ch. 95-148; s. 55, ch. 99-8."
+      ],
+      "source_citations": [
+        "s. 5, ch. 3752, 1887",
+        "RS 961",
+        "GS 1331",
+        "RGS 2501",
+        "CGL 3911",
+        "ss. 19, 35, ch. 69-106",
+        "s. 50, ch. 77-147",
+        "s. 290, ch. 95-148",
+        "s. 55, ch. 99-8."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.06",
+      "section_path": "title-22-ports-and-harbors/sec-0314-06.md",
+      "history": [
+        "History.—s. 6, ch. 3752, 1887; RS 962; GS 1332; RGS 2502; CGL 3912; s. 291, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 6, ch. 3752, 1887",
+        "RS 962",
+        "GS 1332",
+        "RGS 2502",
+        "CGL 3912",
+        "s. 291, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.07",
+      "section_path": "title-22-ports-and-harbors/sec-0314-07.md",
+      "history": [
+        "History.—s. 7, ch. 3752, 1887; RS 963; GS 1333; RGS 2503; CGL 3913."
+      ],
+      "source_citations": [
+        "s. 7, ch. 3752, 1887",
+        "RS 963",
+        "GS 1333",
+        "RGS 2503",
+        "CGL 3913."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.08",
+      "section_path": "title-22-ports-and-harbors/sec-0314-08.md",
+      "history": [
+        "History.—s. 9, ch. 3752, 1887; RS 965; GS 1334; RGS 2504; CGL 3914; s. 292, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 9, ch. 3752, 1887",
+        "RS 965",
+        "GS 1334",
+        "RGS 2504",
+        "CGL 3914",
+        "s. 292, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.09",
+      "section_path": "title-22-ports-and-harbors/sec-0314-09.md",
+      "history": [
+        "History.—s. 9, ch. 3752, 1887; RS 966; GS 1335; RGS 2505; CGL 3915; s. 293, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 9, ch. 3752, 1887",
+        "RS 966",
+        "GS 1335",
+        "RGS 2505",
+        "CGL 3915",
+        "s. 293, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "314.10",
+      "section_path": "title-22-ports-and-harbors/sec-0314-10.md",
+      "history": [
+        "History.—s. 10, ch. 3752, 1887; RS 967; GS 1336; RGS 2506; CGL 3916; s. 294, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 10, ch. 3752, 1887",
+        "RS 967",
+        "GS 1336",
+        "RGS 2506",
+        "CGL 3916",
+        "s. 294, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "source_sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5"
+    },
+    {
+      "section": "315.01",
+      "section_path": "title-22-ports-and-harbors/sec-0315-01.md",
+      "history": [
+        "History.—s. 1, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 1, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.02",
+      "section_path": "title-22-ports-and-harbors/sec-0315-02.md",
+      "history": [
+        "History.—s. 2, ch. 59-411; s. 1, ch. 67-317; s. 70, ch. 99-251; s. 65, ch. 2002-20."
+      ],
+      "source_citations": [
+        "s. 2, ch. 59-411",
+        "s. 1, ch. 67-317",
+        "s. 70, ch. 99-251",
+        "s. 65, ch. 2002-20."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.03",
+      "section_path": "title-22-ports-and-harbors/sec-0315-03.md",
+      "history": [
+        "History.—s. 3, ch. 59-411; s. 1, ch. 67-137; s. 10, ch. 86-138; s. 66, ch. 2002-20; s. 78, ch. 2010-102; s. 7, ch. 2010-225; s. 29, ch. 2018-110."
+      ],
+      "source_citations": [
+        "s. 3, ch. 59-411",
+        "s. 1, ch. 67-137",
+        "s. 10, ch. 86-138",
+        "s. 66, ch. 2002-20",
+        "s. 78, ch. 2010-102",
+        "s. 7, ch. 2010-225",
+        "s. 29, ch. 2018-110."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.031",
+      "section_path": "title-22-ports-and-harbors/sec-0315-031.md",
+      "history": [
+        "History.—s. 1, ch. 67-228; s. 24, ch. 2004-5."
+      ],
+      "source_citations": [
+        "s. 1, ch. 67-228",
+        "s. 24, ch. 2004-5."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.04",
+      "section_path": "title-22-ports-and-harbors/sec-0315-04.md",
+      "history": [
+        "History.—s. 4, ch. 59-411; ss. 27, 35, ch. 69-106."
+      ],
+      "source_citations": [
+        "s. 4, ch. 59-411",
+        "ss. 27, 35, ch. 69-106."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.05",
+      "section_path": "title-22-ports-and-harbors/sec-0315-05.md",
+      "history": [
+        "History.—s. 5, ch. 59-411; s. 25, ch. 73-302; s. 1, ch. 79-401; s. 295, ch. 95-148."
+      ],
+      "source_citations": [
+        "s. 5, ch. 59-411",
+        "s. 25, ch. 73-302",
+        "s. 1, ch. 79-401",
+        "s. 295, ch. 95-148."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.06",
+      "section_path": "title-22-ports-and-harbors/sec-0315-06.md",
+      "history": [
+        "History.—s. 6, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 6, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.07",
+      "section_path": "title-22-ports-and-harbors/sec-0315-07.md",
+      "history": [
+        "History.—s. 7, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 7, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.08",
+      "section_path": "title-22-ports-and-harbors/sec-0315-08.md",
+      "history": [
+        "History.—s. 8, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 8, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.09",
+      "section_path": "title-22-ports-and-harbors/sec-0315-09.md",
+      "history": [
+        "History.—s. 9, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 9, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.10",
+      "section_path": "title-22-ports-and-harbors/sec-0315-10.md",
+      "history": [
+        "History.—s. 10, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 10, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.11",
+      "section_path": "title-22-ports-and-harbors/sec-0315-11.md",
+      "history": [
+        "History.—s. 11, ch. 59-411; s. 8, ch. 73-327."
+      ],
+      "source_citations": [
+        "s. 11, ch. 59-411",
+        "s. 8, ch. 73-327."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.12",
+      "section_path": "title-22-ports-and-harbors/sec-0315-12.md",
+      "history": [
+        "History.—s. 12, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 12, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.13",
+      "section_path": "title-22-ports-and-harbors/sec-0315-13.md",
+      "history": [
+        "History.—s. 13, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 13, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.15",
+      "section_path": "title-22-ports-and-harbors/sec-0315-15.md",
+      "history": [
+        "History.—s. 15, ch. 59-411; s. 1, ch. 67-499."
+      ],
+      "source_citations": [
+        "s. 15, ch. 59-411",
+        "s. 1, ch. 67-499."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.16",
+      "section_path": "title-22-ports-and-harbors/sec-0315-16.md",
+      "history": [
+        "History.—s. 16, ch. 59-411."
+      ],
+      "source_citations": [
+        "s. 16, ch. 59-411."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.17",
+      "section_path": "title-22-ports-and-harbors/sec-0315-17.md",
+      "history": [
+        "History.—s. 11, ch. 95-257."
+      ],
+      "source_citations": [
+        "s. 11, ch. 95-257."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    },
+    {
+      "section": "315.18",
+      "section_path": "title-22-ports-and-harbors/sec-0315-18.md",
+      "history": [
+        "History.—s. 1, ch. 97-186; s. 1, ch. 2002-5; s. 11, ch. 2022-204."
+      ],
+      "source_citations": [
+        "s. 1, ch. 97-186",
+        "s. 1, ch. 2002-5",
+        "s. 11, ch. 2022-204."
+      ],
+      "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "source_sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb"
+    }
+  ]
+}
