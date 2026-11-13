@@ -1,0 +1,38 @@
+{
+  "act": "title-25-aviation",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 120,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0329/0329.html&StatuteYear=2026",
+      "sha256": "cb3b0720965b6c814df0fffe0947fa7c62d4a175ed4762b8e40d16760133bafa",
+      "bytes": 31786
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0330/0330.html&StatuteYear=2026",
+      "sha256": "3118af2005f389e48fc68415c5c746c827d0606bc4d5a2fdcc848797216bb765",
+      "bytes": 93491
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0331/0331.html&StatuteYear=2026",
+      "sha256": "3966ae99929bc071e0c08fee09412a874a533307f19307cadebd3acc693456cb",
+      "bytes": 206697
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0332/0332.html&StatuteYear=2026",
+      "sha256": "5027977480f545bbd0805b8d958659b7333f1a0ee53389307bece6c3f44d713a",
+      "bytes": 105761
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0333/0333.html&StatuteYear=2026",
+      "sha256": "6e8b0dd442c450d0d66caa9174e57d6eac071641ef3e823d2b50b4ed2ad4afa8",
+      "bytes": 74642
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
