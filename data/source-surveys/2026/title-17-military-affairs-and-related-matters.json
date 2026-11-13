@@ -1,0 +1,28 @@
+{
+  "act": "title-17-military-affairs-and-related-matters",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 171,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0250/0250.html&StatuteYear=2026",
+      "sha256": "68a62028149ac0db1537cd370db983f16d5f71903521e22ee755aed6be39b775",
+      "bytes": 276663
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0251/0251.html&StatuteYear=2026",
+      "sha256": "58665e1a48142dc7b677704ce9bba8e9e054217a87b44cda53e0c7e5476560f8",
+      "bytes": 40638
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0252/0252.html&StatuteYear=2026",
+      "sha256": "b73b4ca57d84e94e484230b60888637d76fa990ae3be714b782dca53fd23ccdc",
+      "bytes": 376420
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
