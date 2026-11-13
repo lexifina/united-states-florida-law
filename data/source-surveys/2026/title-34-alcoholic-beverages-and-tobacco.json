@@ -1,0 +1,53 @@
+{
+  "act": "title-34-alcoholic-beverages-and-tobacco",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 233,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0561/0561.html&StatuteYear=2026",
+      "sha256": "d5758797ceae57d715b4bd776108d3e0b910a64ee55b4631c105aee233b64e02",
+      "bytes": 322312
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0562/0562.html&StatuteYear=2026",
+      "sha256": "ce68b69a8a58abe01397eb7279f5d6c353a50ab017b2a878be684b7886372f98",
+      "bytes": 137287
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0563/0563.html&StatuteYear=2026",
+      "sha256": "cf11584451bd7728623576f633721e395f0ef517171a46e2fd10cb4af38bd9fa",
+      "bytes": 102656
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0564/0564.html&StatuteYear=2026",
+      "sha256": "0af1f7b4b6932b125e87106ff9a60a2ef31bd58feb9d20a3dd7ed70daa78c3b6",
+      "bytes": 44166
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0565/0565.html&StatuteYear=2026",
+      "sha256": "a925f3774a494a556509276ad114bd13af3dd1a3efaa3bbad7fec752311ccdbc",
+      "bytes": 95607
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0567/0567.html&StatuteYear=2026",
+      "sha256": "9642d59b336b6f5ca6e83737745d0f9686046b0c652521c634e98fdf53a685b3",
+      "bytes": 47842
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0568/0568.html&StatuteYear=2026",
+      "sha256": "8a4aa5dff31e1def8ecb09edf832b6571ca42c161645893cc17ce1e2dfede030",
+      "bytes": 39427
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0500-0599/0569/0569.html&StatuteYear=2026",
+      "sha256": "cf34ff93bbea8f2c5f0d419487854e9115dd5060f9f8fb7f5efade7397802aa4",
+      "bytes": 176649
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
