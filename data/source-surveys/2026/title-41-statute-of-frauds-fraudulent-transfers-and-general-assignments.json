@@ -1,0 +1,28 @@
+{
+  "act": "title-41-statute-of-frauds-fraudulent-transfers-and-general-assignments",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 37,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0725/0725.html&StatuteYear=2026",
+      "sha256": "b1bcfe3e70d647d265ce73316e6e2cde996abab3e3856b54b15e5b2fcee2a0c4",
+      "bytes": 32177
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0726/0726.html&StatuteYear=2026",
+      "sha256": "fffc986cc9c22df47fff65340f57d28c071e636c42d173eb49c8bc264dacc550",
+      "bytes": 57213
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0700-0799/0727/0727.html&StatuteYear=2026",
+      "sha256": "7a1300410c25a503b5261300b5f24671a2ddb66aed99705795f8a6eeedd970cf",
+      "bytes": 112356
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
