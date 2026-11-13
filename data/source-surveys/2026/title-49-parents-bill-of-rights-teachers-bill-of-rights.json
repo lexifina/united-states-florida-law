@@ -1,0 +1,23 @@
+{
+  "act": "title-49-parents-bill-of-rights-teachers-bill-of-rights",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 12,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1014/1014.html&StatuteYear=2026",
+      "sha256": "5ea8469f0657d74e74d06b56af2f72c396d4cc7395e45ed2d53ab758698ffcfa",
+      "bytes": 38679
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=1000-1099/1015/1015.html&StatuteYear=2026",
+      "sha256": "ffcba6ba63129d56e089c0f653dc33514ef1af01b7e5d83d07719078e2c73648",
+      "bytes": 29294
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
