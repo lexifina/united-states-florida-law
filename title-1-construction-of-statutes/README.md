@@ -1,6 +1,8 @@
 # Florida Statutes, Title I: Construction of Statutes
 
-Fla. Stat. I · 1 versions, from 2026-11-03 (latest in force: 2026-11-03) · <https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I>
+Fla. Stat. I · 2 snapshots: the official 2025 annual edition and the published 2026 text. The historical year-end boundary is an edition convention; exact section commencement dates are not asserted.
+
+The table inventories the current published version; its change counters describe the original build. The 2025 section inventory and historical correction commit are in [the annual-edition index](../data/annual-editions/2025.json).
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |

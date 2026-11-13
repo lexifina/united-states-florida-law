@@ -22,6 +22,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 943,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI&StatuteYear=2025",
+          "sha256": "3e69176c08fc657c43ace681c591637ffad9f30d0d7c294926b8dc52560fdc5f",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-10-29",
           "units": 970,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI&StatuteYear=2026",
@@ -35,6 +43,14 @@
       "title": "Florida Statutes, Title XL: Real and Personal Property",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 798,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL&StatuteYear=2025",
+          "sha256": "e65cafa5349e0fa14be8021cf5a1e65bc119f3ab87a7518bcaee86ffb83cf7b0",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-10-29",
           "units": 798,
@@ -50,6 +66,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 981,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI&StatuteYear=2025",
+          "sha256": "ba4835d3563fe2549ad2bc473df66f27138ba824806f8b896aff3efbe99839b8",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-10-29",
           "units": 985,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI&StatuteYear=2026",
@@ -63,6 +87,14 @@
       "title": "Florida Statutes, Title I: Construction of Statutes",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 7,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I&StatuteYear=2025",
+          "sha256": "fdff6d0e86291ef75e9f46a1cf41b0e9246c974bb38b06a3096758e96f15dd8e",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 8,
@@ -78,6 +110,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 93,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II&StatuteYear=2025",
+          "sha256": "e9da312c522d05790d47821ca64e27306507d3776dabbb2de708d359a32aa40d",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 93,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II&StatuteYear=2026",
@@ -91,6 +131,14 @@
       "title": "Florida Statutes, Title III: Legislative Branch; Commissions",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=III",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 76,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=III&StatuteYear=2025",
+          "sha256": "f4dade04e350377ef3f79a9843489176b49494a1cf838d52521d6710e0fce0e4",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 76,
@@ -106,6 +154,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IV",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 293,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IV&StatuteYear=2025",
+          "sha256": "c1c6afdd176427fa340a267ce5eee57e7fa7a5ea9e9f1d646e91bec88fd80aa9",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 294,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IV&StatuteYear=2026",
@@ -119,6 +175,14 @@
       "title": "Florida Statutes, Title V: Judicial Branch",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=V",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 460,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=V&StatuteYear=2025",
+          "sha256": "a24de0041a8b9364efda6c3ba15073761ad4fea1ce1074e715fc2d3a9ae6e553",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 458,
@@ -134,6 +198,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VI",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 796,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VI&StatuteYear=2025",
+          "sha256": "0214ac4800703db43024d74ad36e563e477bd4679ab7df897cc89a7676752bac",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 798,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VI&StatuteYear=2026",
@@ -147,6 +219,14 @@
       "title": "Florida Statutes, Title VII: Evidence",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 139,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VII&StatuteYear=2025",
+          "sha256": "82169d960d971de204f223f7f95d13da881fbc19f088af9664b868ebf3b7e50e",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 139,
@@ -162,6 +242,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VIII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 24,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VIII&StatuteYear=2025",
+          "sha256": "274f3561d07d4661f73a2b22571e554b4c69e3410727e483ccea781872d93022",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 24,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VIII",
@@ -175,6 +263,14 @@
       "title": "Florida Statutes, Title IX: Electors and Elections",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IX",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 361,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IX&StatuteYear=2025",
+          "sha256": "08c4712f479c29a989155b75322f1903d666dc807464715a0fd6c053e7ee71ef",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 363,
@@ -190,6 +286,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=X",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 495,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=X&StatuteYear=2025",
+          "sha256": "2343f972517c6b39130f6cd8922450eaf173760839a4700129f2def512cd546b",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 495,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=X&StatuteYear=2026",
@@ -203,6 +307,14 @@
       "title": "Florida Statutes, Title XI: County Organization and Intergovernmental Relations",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XI",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 804,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XI&StatuteYear=2025",
+          "sha256": "e5c52d557fe753fd1f7551cdbbafc53d140c66d9d3246f2dc792f4e53bcf34c0",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 813,
@@ -218,6 +330,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 287,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII&StatuteYear=2025",
+          "sha256": "ca98dd0c98f6552017300fa4adeab9f54f755dba6cc225a6ff79c7ec0ff5fffe",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 292,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII&StatuteYear=2026",
@@ -231,6 +351,14 @@
       "title": "Florida Statutes, Title XIII: Planning and Development",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 133,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIII&StatuteYear=2025",
+          "sha256": "574523b7908362daea753a3dea7cfe68c1960a5a3e7699bb5d6079206c07660c",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 134,
@@ -246,6 +374,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIV",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 1174,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIV&StatuteYear=2025",
+          "sha256": "54157f1ffd5a264ad53e158966c8e570d427f8fc2d3f3c6ad6ef291dbf1794ce",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 1176,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIV&StatuteYear=2026",
@@ -259,6 +395,14 @@
       "title": "Florida Statutes, Title XV: Homestead and Exemptions",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XV",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 25,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XV&StatuteYear=2025",
+          "sha256": "bcdcd36484afb7822cc4d8b22ef2dbc51a38e7a45545aa1efbe4e3a0cf51992d",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 25,
@@ -274,6 +418,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 81,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI&StatuteYear=2025",
+          "sha256": "91972d7fa1dbf894ea32788e3d54a7c537bf714fb79b79aee127912fd58d34c0",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 81,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI",
@@ -287,6 +439,14 @@
       "title": "Florida Statutes, Title XVII: Military Affairs and Related Matters",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 172,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVII&StatuteYear=2025",
+          "sha256": "b34ad3a9ecae61d56e6759bbe24fcd119f19010237b46a0c4b6be5cd2b2a8576",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 171,
@@ -302,6 +462,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVIII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 479,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVIII&StatuteYear=2025",
+          "sha256": "d1ef364d635dca946d68c9fd2464fb4d6b90fb6e7c2ccee5942d14588b45a58a",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 480,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVIII&StatuteYear=2026",
@@ -315,6 +483,14 @@
       "title": "Florida Statutes, Title XIX: Public Business",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIX",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 416,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIX&StatuteYear=2025",
+          "sha256": "5dc3545fc327347b7e76f4f73e14471f16c344b2eae866a24c1fdd100fa23544",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 417,
@@ -330,6 +506,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XX",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 81,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XX&StatuteYear=2025",
+          "sha256": "3dd6305e38000bd1034502435b73e03e068254b3b98e8d8dc20b6feef04b4f14",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 81,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XX",
@@ -343,6 +527,14 @@
       "title": "Florida Statutes, Title XXI: Drainage",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXI",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 58,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXI&StatuteYear=2025",
+          "sha256": "89ea55a667a58d5c722a86e5fb3752fe20fb2da49ea0fed46b802c5451a57686",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 58,
@@ -358,6 +550,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 90,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII&StatuteYear=2025",
+          "sha256": "1a73f931f3de2424b4ca885b2e74cae8e6956bef02ae108cde19fcc2ba7c33cb",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 90,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII&StatuteYear=2026",
@@ -371,6 +571,14 @@
       "title": "Florida Statutes, Title XXIII: Motor Vehicles",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 711,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIII&StatuteYear=2025",
+          "sha256": "6210e4a0362073ae2374bab1a2bc833d4fedf776e0eca2d34b0f3061c700ddc9",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 712,
@@ -386,6 +594,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 131,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV&StatuteYear=2025",
+          "sha256": "bafe66a3e9611b501ee42bf77f0170693e755eae627c86fdd52adf969669bc25",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 131,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV&StatuteYear=2026",
@@ -399,6 +615,14 @@
       "title": "Florida Statutes, Title XXV: Aviation",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXV",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 119,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXV&StatuteYear=2025",
+          "sha256": "c2e060b3e1e93f4aaf0efac6ffeca662c6fcc1abf7ab8abdd94493c7f9625be8",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 120,
@@ -414,6 +638,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVI",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 391,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVI&StatuteYear=2025",
+          "sha256": "aef9fa133a4a74788c6cf58cdde1e027505b800fa5a7b6e7bf1b8c9fd3c0c18a",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 392,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVI&StatuteYear=2026",
@@ -427,6 +659,14 @@
       "title": "Florida Statutes, Title XXVII: Railroads and Other Regulated Utilities",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 195,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVII&StatuteYear=2025",
+          "sha256": "083ef88230e16094afbeb3d7a2fd3e609bc2dc72c720fae894026387b288e42a",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 196,
@@ -442,6 +682,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVIII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 735,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVIII&StatuteYear=2025",
+          "sha256": "d2976b1f32df81b02afd49b13f43257f8bedbecdaa7548ecc82e73f962eb1c8e",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 738,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVIII&StatuteYear=2026",
@@ -455,6 +703,14 @@
       "title": "Florida Statutes, Title XXIX: Public Health",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIX",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 1501,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIX&StatuteYear=2025",
+          "sha256": "6cd52fbc6692f50419d910b637586df2de447d35d3f748b60d292747770635b7",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 1503,
@@ -470,6 +726,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXX",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 716,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXX&StatuteYear=2025",
+          "sha256": "af7a11f157285efce0ecb1f262a06ed5b88e3a6e101746e5b0535e190d94142c",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 723,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXX&StatuteYear=2026",
@@ -483,6 +747,14 @@
       "title": "Florida Statutes, Title XXXI: Labor",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXI",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 322,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXI&StatuteYear=2025",
+          "sha256": "81c89406201bceef99097f09ccbb683a3476fbd8bcd626d0828661c1beb7ce6a",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 323,
@@ -498,6 +770,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 1515,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXII&StatuteYear=2025",
+          "sha256": "89aef4266d364dd2b3a7125c18f65ec5f0d8e9e2ff2488ddb1a3bbda686cdafa",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 1524,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXII&StatuteYear=2026",
@@ -511,6 +791,14 @@
       "title": "Florida Statutes, Title XXXIII: Regulation of Trade, Commerce, Investments,   and Solicitations",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 1651,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIII&StatuteYear=2025",
+          "sha256": "91e142471494187fb2d2153f1acb0c59d19392e267a2656ef311c12c1e41c161",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 1668,
@@ -526,6 +814,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 231,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV&StatuteYear=2025",
+          "sha256": "3505acc6a49172556d23fe3a0417acdf76418412be9372bfe29dc9ce7be1632e",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 233,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV&StatuteYear=2026",
@@ -539,6 +835,14 @@
       "title": "Florida Statutes, Title XXXV: Agriculture, Horticulture, and Animal Industry",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXV",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 608,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXV&StatuteYear=2025",
+          "sha256": "7d1f78b3065014af7ebdde36f986c2e27829ec19d5af420f82dbc7c5fd289e49",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 611,
@@ -554,6 +858,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 2279,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII&StatuteYear=2025",
+          "sha256": "db79053318c2df55caa764167fb7f7dca78f058784f3e15754b10c1f0d80cb40",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 2278,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII&StatuteYear=2026",
@@ -567,6 +879,14 @@
       "title": "Florida Statutes, Title XXXVIII: Banks and Banking",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 347,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII&StatuteYear=2025",
+          "sha256": "dad63c581aa076d6ae261c912bf6fe75d31332a8e5dbc44c81e65d8ac0009864",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 348,
@@ -582,6 +902,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 893,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX&StatuteYear=2025",
+          "sha256": "cb25fd2007b2bc0a56355473165b701712b6d7c12122d91e6dfa620cd651dd90",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 893,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX&StatuteYear=2026",
@@ -595,6 +923,14 @@
       "title": "Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 37,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI&StatuteYear=2025",
+          "sha256": "0e758c12d0408af8b913c333f153eca89379459ccd5965d3cb4e3bfa0a8a2dc8",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 37,
@@ -610,6 +946,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 468,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII&StatuteYear=2025",
+          "sha256": "f17d0c09587eb47fa65146e75c8cb681360939281de77d5ad13ace059560e711",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 470,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII&StatuteYear=2026",
@@ -623,6 +967,14 @@
       "title": "Florida Statutes, Title XLIII: Domestic Relations",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 262,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII&StatuteYear=2025",
+          "sha256": "0e627365899dc407c7448f8e9b3c11a61c9d4176020099a3b658bcac664220ec",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 265,
@@ -638,6 +990,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 95,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV&StatuteYear=2025",
+          "sha256": "9fa4fa25c47bf8e06fb096294e8ec774786fd1fd995a31f549716dce10fc0497",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 95,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
@@ -651,6 +1011,14 @@
       "title": "Florida Statutes, Title XLV: Torts",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 197,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV&StatuteYear=2025",
+          "sha256": "7885ff8afe6b666e76da53a42abc73a594cac71e430875ddff3844a2c9ef3819",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 198,
@@ -666,6 +1034,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 1211,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII&StatuteYear=2025",
+          "sha256": "21c1a06cfdbdcb12865398c6f0c9af47815d198c7a3000bd3a57d06f1914223e",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 1219,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII&StatuteYear=2026",
@@ -680,6 +1056,14 @@
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII",
       "versions": [
         {
+          "from": "2025-12-31",
+          "units": 973,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII&StatuteYear=2025",
+          "sha256": "885e16e0235e451d0851407543843a426a48eabca92481ad5774ea45822b7290",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
+        {
           "from": "2026-11-03",
           "units": 985,
           "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII&StatuteYear=2026",
@@ -693,6 +1077,14 @@
       "title": "Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights",
       "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX",
       "versions": [
+        {
+          "from": "2025-12-31",
+          "units": 12,
+          "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX&StatuteYear=2025",
+          "sha256": "8c6781d9516cf38796c309e87bd9ed0f9c4b37e197e1e8a2f806f34d50a88c24",
+          "kind": "annual-edition snapshot",
+          "in_force_basis": "31 December is an annual-edition boundary; exact section commencement dates are not asserted"
+        },
         {
           "from": "2026-11-03",
           "units": 12,
