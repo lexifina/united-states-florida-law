@@ -1,0 +1,705 @@
+{
+ "country": "US-FL",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Fla. Const.",
+   "title": "Constitution of the State of Florida",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 214,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?Mode=Constitution&Submenu=3&Tab=statutes",
+     "sha256": "846382ef5d3598e34787eea3a263625b77bdbe793eb58eb48f9de0ae98a8f784"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-business-organizations",
+   "short": "Fla. Stat. XXXVI",
+   "title": "Florida Statutes, Title XXXVI: Business Organizations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 970,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVI",
+     "sha256": "8f014102314b4c6583944a21285421ccb8c9df7091c68303bcd133942844a90d"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-real-and-personal-property",
+   "short": "Fla. Stat. XL",
+   "title": "Florida Statutes, Title XL: Real and Personal Property",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 798,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XL",
+     "sha256": "28b0eeea06bdb1417519c939e1a25a94d923bc930f6417a79234fad9fa433523"
+    }
+   ]
+  },
+  {
+   "slug": "title-46-crimes",
+   "short": "Fla. Stat. XLVI",
+   "title": "Florida Statutes, Title XLVI: Crimes",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 985,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVI",
+     "sha256": "b64163da4a071d981690cc61729099939a5ab4a1bd6a36f32a0dd89f8e716c69"
+    }
+   ]
+  },
+  {
+   "slug": "title-1-construction-of-statutes",
+   "short": "Fla. Stat. I",
+   "title": "Florida Statutes, Title I: Construction of Statutes",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 8,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=I",
+     "sha256": "7f96bb1ae8898facc229896f350e1e22460734f3267f721591a400ea94cfc1ba"
+    }
+   ]
+  },
+  {
+   "slug": "title-2-state-organization",
+   "short": "Fla. Stat. II",
+   "title": "Florida Statutes, Title II: State Organization",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 93,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=II",
+     "sha256": "3ea6021fb04cdf21aa852ef6c7cbd7b4248502e0f6a460beb0e5eead51020e14"
+    }
+   ]
+  },
+  {
+   "slug": "title-3-legislative-branch-commissions",
+   "short": "Fla. Stat. III",
+   "title": "Florida Statutes, Title III: Legislative Branch; Commissions",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=III",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 76,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=III",
+     "sha256": "85d3584134cb6fffca577fe71a7844845f96448236ac794dc2db7d67c0ad1a81"
+    }
+   ]
+  },
+  {
+   "slug": "title-4-executive-branch",
+   "short": "Fla. Stat. IV",
+   "title": "Florida Statutes, Title IV: Executive Branch",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 294,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IV",
+     "sha256": "f7a292e6b70d000fe22b9b1a7dca588a10b2f0248f4b194302632d03665c167a"
+    }
+   ]
+  },
+  {
+   "slug": "title-5-judicial-branch",
+   "short": "Fla. Stat. V",
+   "title": "Florida Statutes, Title V: Judicial Branch",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=V",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 458,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=V",
+     "sha256": "6634fc8320d262fa736fd1464a01ddf806899d50ef40ee79337fd1f07dc1de83"
+    }
+   ]
+  },
+  {
+   "slug": "title-6-civil-practice-and-procedure",
+   "short": "Fla. Stat. VI",
+   "title": "Florida Statutes, Title VI: Civil Practice and Procedure",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 798,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VI",
+     "sha256": "44110528f9a5a8c0da5faf2386382d343ae9bd0b5958fd80b1e75205d11f60cb"
+    }
+   ]
+  },
+  {
+   "slug": "title-7-evidence",
+   "short": "Fla. Stat. VII",
+   "title": "Florida Statutes, Title VII: Evidence",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 139,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VII",
+     "sha256": "37ec64500459a6a5b8e4744d206e1666d349ee6cd954a840ffc6ed296fded2f5"
+    }
+   ]
+  },
+  {
+   "slug": "title-8-limitations",
+   "short": "Fla. Stat. VIII",
+   "title": "Florida Statutes, Title VIII: Limitations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 24,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=VIII",
+     "sha256": "e3a748bd16bc4c8ad4a5236dfb0eda3ecfb0c061b7f1329d514866f1b7892af8"
+    }
+   ]
+  },
+  {
+   "slug": "title-9-electors-and-elections",
+   "short": "Fla. Stat. IX",
+   "title": "Florida Statutes, Title IX: Electors and Elections",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 363,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=IX",
+     "sha256": "2a2e3f0dc6b3ee395255f707bb47700e272b7d163ab9ae58801f7ccb5ed6c07d"
+    }
+   ]
+  },
+  {
+   "slug": "title-10-public-officers-employees-and-records",
+   "short": "Fla. Stat. X",
+   "title": "Florida Statutes, Title X: Public Officers, Employees, and Records",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=X",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 495,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=X",
+     "sha256": "14bb20b484d6341315d5b5dfccf393a4ac99eb78c251db45cbd1efd6a2af772c"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-county-organization-and-intergovernmental-relations",
+   "short": "Fla. Stat. XI",
+   "title": "Florida Statutes, Title XI: County Organization and Intergovernmental Relations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 813,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XI",
+     "sha256": "d54ecf3e85250e410b580b1434011d82689edbe9214b98f1d5fb38fff7b89b02"
+    }
+   ]
+  },
+  {
+   "slug": "title-12-municipalities",
+   "short": "Fla. Stat. XII",
+   "title": "Florida Statutes, Title XII: Municipalities",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 292,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XII",
+     "sha256": "7e491510df69ffb19ef0df3c3e5412ae25fe7738e9a9e7baecc3483fde43d39e"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-planning-and-development",
+   "short": "Fla. Stat. XIII",
+   "title": "Florida Statutes, Title XIII: Planning and Development",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 134,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIII",
+     "sha256": "52b8271ac9a9451e6ab13eff1f0f886341f2d96087f7c8081d99c44ceeae1f1c"
+    }
+   ]
+  },
+  {
+   "slug": "title-14-taxation-and-finance",
+   "short": "Fla. Stat. XIV",
+   "title": "Florida Statutes, Title XIV: Taxation and Finance",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1176,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIV",
+     "sha256": "e39ec0d170676e043b1b6d80523edf2ad490e8881f73ed6b854929d7a12af82a"
+    }
+   ]
+  },
+  {
+   "slug": "title-15-homestead-and-exemptions",
+   "short": "Fla. Stat. XV",
+   "title": "Florida Statutes, Title XV: Homestead and Exemptions",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 25,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XV",
+     "sha256": "31e68e357f9b62718a9d68c71ed03847c1e3e31b785b6074cd7fb1be136b9e8a"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-teachers-retirement-system-higher-educational-facilities-bonds",
+   "short": "Fla. Stat. XVI",
+   "title": "Florida Statutes, Title XVI: Teachers' Retirement System; Higher Educational Facilities Bonds",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 81,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVI",
+     "sha256": "95853c3e37628bf3e407b0c36c4c647046059455735b9b4416d1b251ee8a9214"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-military-affairs-and-related-matters",
+   "short": "Fla. Stat. XVII",
+   "title": "Florida Statutes, Title XVII: Military Affairs and Related Matters",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 171,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVII",
+     "sha256": "4f4d0145cfc00dc4ecf7f14e156ec8c612e3df95beb3011b4eb28406379f60e3"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-public-lands-and-property",
+   "short": "Fla. Stat. XVIII",
+   "title": "Florida Statutes, Title XVIII: Public Lands and Property",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 480,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XVIII",
+     "sha256": "88b7d7aa3d7934c3e5a40ea1ac7f0c9b922d1b0cb37c76c04a773b74d4a73819"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-public-business",
+   "short": "Fla. Stat. XIX",
+   "title": "Florida Statutes, Title XIX: Public Business",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 417,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XIX",
+     "sha256": "37fc0b2a9142ed9e785f951ae2d2038fcb9526d8fdbe7592d937cc61c9a8a0bd"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-veterans",
+   "short": "Fla. Stat. XX",
+   "title": "Florida Statutes, Title XX: Veterans",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 81,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XX",
+     "sha256": "ae54b3b39d1e47550d5e8bf2e29c8dae1d661fbc83d96d9e256f0fdc9ac4f898"
+    }
+   ]
+  },
+  {
+   "slug": "title-21-drainage",
+   "short": "Fla. Stat. XXI",
+   "title": "Florida Statutes, Title XXI: Drainage",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 58,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXI",
+     "sha256": "f7d4180b2b59488f5bd3dfccb36b3d302128257912ba68488ad306e9a9046cd6"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-ports-and-harbors",
+   "short": "Fla. Stat. XXII",
+   "title": "Florida Statutes, Title XXII: Ports and Harbors",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 90,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXII",
+     "sha256": "269f3b495b18d022a1072cbf9a3f7755183d8a411923be95233c77a2bd296b7b"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-motor-vehicles",
+   "short": "Fla. Stat. XXIII",
+   "title": "Florida Statutes, Title XXIII: Motor Vehicles",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 712,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIII",
+     "sha256": "16dace90451e13200ffca5192be3e378970a252fd2bfa40c782df77e1b4bc536"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-vessels",
+   "short": "Fla. Stat. XXIV",
+   "title": "Florida Statutes, Title XXIV: Vessels",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 131,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIV",
+     "sha256": "f9509623cd8439de5e2a0b5d118431b8587777f34ac10b3b77a65b06d4d33b8c"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-aviation",
+   "short": "Fla. Stat. XXV",
+   "title": "Florida Statutes, Title XXV: Aviation",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 120,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXV",
+     "sha256": "899682259cbbccdadb3fdec770355a32fe53f9999eac093107dfb8ef318e6a4f"
+    }
+   ]
+  },
+  {
+   "slug": "title-26-public-transportation",
+   "short": "Fla. Stat. XXVI",
+   "title": "Florida Statutes, Title XXVI: Public Transportation",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 392,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVI",
+     "sha256": "971ec634e543d054cdfa2c9a77430194240d6519dcb4718e808c9d4be9738139"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-railroads-and-other-regulated-utilities",
+   "short": "Fla. Stat. XXVII",
+   "title": "Florida Statutes, Title XXVII: Railroads and Other Regulated Utilities",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 196,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVII",
+     "sha256": "c34f643bf9853e84fdac442618079022117b8b1824c6510c9f2bcfcad5195f9a"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-natural-resources-conservation-reclamation-and-use",
+   "short": "Fla. Stat. XXVIII",
+   "title": "Florida Statutes, Title XXVIII: Natural Resources; Conservation, Reclamation, and Use",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 738,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXVIII",
+     "sha256": "29ac884d8feee1b999cbd8ed8a9c16ae183e9a1c49a7e3da61f79505e8e0aef5"
+    }
+   ]
+  },
+  {
+   "slug": "title-29-public-health",
+   "short": "Fla. Stat. XXIX",
+   "title": "Florida Statutes, Title XXIX: Public Health",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1503,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXIX",
+     "sha256": "b6785fb6a852d34c670d57a1432a59095ba7cf8b6251042184000e20bf208709"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-social-welfare",
+   "short": "Fla. Stat. XXX",
+   "title": "Florida Statutes, Title XXX: Social Welfare",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 723,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXX",
+     "sha256": "2005039137b4283b4293de02598539b028dced1ee19a1448eddf980471900a5a"
+    }
+   ]
+  },
+  {
+   "slug": "title-31-labor",
+   "short": "Fla. Stat. XXXI",
+   "title": "Florida Statutes, Title XXXI: Labor",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 323,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXI",
+     "sha256": "15891394c8943b606b97b5ad9651c2fa5ee2bc85159a13df01a33a08059080b0"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-regulation-of-professions-and-occupations",
+   "short": "Fla. Stat. XXXII",
+   "title": "Florida Statutes, Title XXXII: Regulation of Professions and Occupations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1524,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXII",
+     "sha256": "4e11de46b97d6b9c50968b2be5eb0ac189966460d7dfb733cc55d2902f10052f"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-regulation-of-trade-commerce-investments-and-solicitations",
+   "short": "Fla. Stat. XXXIII",
+   "title": "Florida Statutes, Title XXXIII: Regulation of Trade, Commerce, Investments,   and Solicitations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1668,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIII",
+     "sha256": "35b26f9927d5e2309f33ec89460282536a4c28997e48596ca6e2c008e687a207"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-alcoholic-beverages-and-tobacco",
+   "short": "Fla. Stat. XXXIV",
+   "title": "Florida Statutes, Title XXXIV: Alcoholic Beverages and Tobacco",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 233,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIV",
+     "sha256": "6d069980920f4b65dbedd0e5cd546fbd2b892ac6b0f1c51870f5306e6d54bbc4"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-agriculture-horticulture-and-animal-industry",
+   "short": "Fla. Stat. XXXV",
+   "title": "Florida Statutes, Title XXXV: Agriculture, Horticulture, and Animal Industry",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 611,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXV",
+     "sha256": "d42bd1daf693e1a1579ba830ca253c59a2709daff28a2bb5c2ea86479db21145"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-insurance",
+   "short": "Fla. Stat. XXXVII",
+   "title": "Florida Statutes, Title XXXVII: Insurance",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 2278,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVII",
+     "sha256": "84d940615a7dbf0bf13f01546d2e0972e190ce01763e3d5e7df8bba0fa8c2422"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-banks-and-banking",
+   "short": "Fla. Stat. XXXVIII",
+   "title": "Florida Statutes, Title XXXVIII: Banks and Banking",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 348,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXVIII",
+     "sha256": "532cc8f934d942ae58e668a240e43b48cc833eda0fbf8c02001c25b4f0489a07"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-commercial-relations",
+   "short": "Fla. Stat. XXXIX",
+   "title": "Florida Statutes, Title XXXIX: Commercial Relations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 893,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XXXIX",
+     "sha256": "a8765ec515240c85d851aaffdb0f19476fad823f3060ea5ab2075d01c4b3bd0a"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-statute-of-frauds-fraudulent-transfers-and-general-assignments",
+   "short": "Fla. Stat. XLI",
+   "title": "Florida Statutes, Title XLI: Statute of Frauds, Fraudulent Transfers, and General Assignments",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 37,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLI",
+     "sha256": "c505feb80733cb54885e67c08fd8a9d8defe21b08834ac30188645490abc31ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-42-estates-and-trusts",
+   "short": "Fla. Stat. XLII",
+   "title": "Florida Statutes, Title XLII: Estates and Trusts",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 470,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLII",
+     "sha256": "7f975e5c977855678a530cfbfcaa6d2bfe9ba1a384ca7b41f373c18f513da38a"
+    }
+   ]
+  },
+  {
+   "slug": "title-43-domestic-relations",
+   "short": "Fla. Stat. XLIII",
+   "title": "Florida Statutes, Title XLIII: Domestic Relations",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 265,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIII",
+     "sha256": "e26169322ee72d773e370ecc11dba1218689e92426677f53fbed943ec15663ac"
+    }
+   ]
+  },
+  {
+   "slug": "title-44-civil-rights",
+   "short": "Fla. Stat. XLIV",
+   "title": "Florida Statutes, Title XLIV: Civil Rights",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 95,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIV",
+     "sha256": "70cd6f4f756af6f74573d6af98f106f075634b08589c16b6a1a41fa2a7042356"
+    }
+   ]
+  },
+  {
+   "slug": "title-45-torts",
+   "short": "Fla. Stat. XLV",
+   "title": "Florida Statutes, Title XLV: Torts",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 198,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLV",
+     "sha256": "6aa86ee724ec9b03d26020e578220ced5e3559e8d20ceb3c85bc5e91cbacb9ed"
+    }
+   ]
+  },
+  {
+   "slug": "title-47-criminal-procedure-and-corrections",
+   "short": "Fla. Stat. XLVII",
+   "title": "Florida Statutes, Title XLVII: Criminal Procedure and Corrections",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 1219,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVII",
+     "sha256": "fff8aa3641f8dba082ec115c6d722ad89a34482c525ffdb25ec750ec7bf816ff"
+    }
+   ]
+  },
+  {
+   "slug": "title-48-early-learning-20-education-code",
+   "short": "Fla. Stat. XLVIII",
+   "title": "Florida Statutes, Title XLVIII: Early Learning-20 Education Code",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 985,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLVIII",
+     "sha256": "c98d2d30dc3a5de9d52685ea45950d7b06799e65712a09ff164c0f3d3434ebbb"
+    }
+   ]
+  },
+  {
+   "slug": "title-49-parents-bill-of-rights-teachers-bill-of-rights",
+   "short": "Fla. Stat. XLIX",
+   "title": "Florida Statutes, Title XLIX: Parents' Bill of Rights; Teachers' Bill of Rights",
+   "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 12,
+     "source_url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Index&Title_Request=XLIX",
+     "sha256": "330d909a6bbff33c9a09fa5eb7e4e73d48cd50fcca8c00575e6f105c36c052b6"
+    }
+   ]
+  }
+ ]
+}
