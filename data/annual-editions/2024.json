@@ -1,0 +1,83 @@
+{
+  "edition": "2024 Florida Statutes",
+  "titles": [
+    {
+      "slug": "title-1-construction-of-statutes",
+      "roman": "I",
+      "year": 2024,
+      "sections": 7,
+      "chapters": 2,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "c0b15801b08288399af4aae67dc0457b06fdde66",
+      "restore_2025_commit": "ae949dd23d38e77120973f352abcdb759944ee56",
+      "restore_current_commit": "dd7c85c74cc21ba730c65dfadcdc17e0e4bfc8cb",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
+    },
+    {
+      "slug": "title-2-state-organization",
+      "roman": "II",
+      "year": 2024,
+      "sections": 93,
+      "chapters": 3,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "7797a671655c815fdfb74331b3270ee69c364aa6",
+      "restore_2025_commit": "986df7f2fe9ff950f9b51ebee084a15f1252838a",
+      "restore_current_commit": "f8460e8360244e1384d1b81a2512be6c999170cd",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
+    },
+    {
+      "slug": "title-3-legislative-branch-commissions",
+      "roman": "III",
+      "year": 2024,
+      "sections": 76,
+      "chapters": 2,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "809254031fcc489785c71d0a6722d834e44685eb",
+      "restore_2025_commit": "2d7193af7d5ed1a6f76740203e199416490c7eac",
+      "restore_current_commit": "30a5da7e59166894e32ed5fe7aa5727e7f596cb9",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
+    },
+    {
+      "slug": "title-7-evidence",
+      "roman": "VII",
+      "year": 2024,
+      "sections": 139,
+      "chapters": 2,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "c92b50743ab8b047b7c6222e48ad870b5b074464",
+      "restore_2025_commit": "a3a5fae7c258924f573bb286423f8f195a561bc9",
+      "restore_current_commit": "e83b3ec985e40163d7f53569501738a94e8eb2d1",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
+    },
+    {
+      "slug": "title-8-limitations",
+      "roman": "VIII",
+      "year": 2024,
+      "sections": 24,
+      "chapters": 1,
+      "from": "2024-12-31",
+      "to": "2025-12-30",
+      "backfill_commit": "d797d8cae3ef4adc81182837591330c814266219",
+      "restore_2025_commit": "34e92f0ef49d48164cb3560f367b7cda6a868285",
+      "restore_current_commit": "c2a4ab17a4d0b6765118c6cf380221d4f02e3274",
+      "two_parses_identical": true,
+      "independent_raw_source_words": true,
+      "source_images": 0
+    }
+  ],
+  "sections": 339,
+  "held_titles": [],
+  "date_basis": "31 December 2024 is the edition-year boundary, not a section commencement assertion"
+}

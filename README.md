@@ -17,14 +17,14 @@ The statute law of Florida as a git repository: one file per section, committed 
 | `title-36-business-organizations/` | Florida Statutes, Title XXXVI: Business Organizations (970 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-40-real-and-personal-property/` | Florida Statutes, Title XL: Real and Personal Property (798 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-46-crimes/` | Florida Statutes, Title XLVI: Crimes (985 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-1-construction-of-statutes/` | Florida Statutes, Title I: Construction of Statutes (8 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-2-state-organization/` | Florida Statutes, Title II: State Organization (93 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-3-legislative-branch-commissions/` | Florida Statutes, Title III: Legislative Branch; Commissions (76 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
+| `title-1-construction-of-statutes/` | Florida Statutes, Title I: Construction of Statutes (8 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
+| `title-2-state-organization/` | Florida Statutes, Title II: State Organization (93 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
+| `title-3-legislative-branch-commissions/` | Florida Statutes, Title III: Legislative Branch; Commissions (76 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
 | `title-4-executive-branch/` | Florida Statutes, Title IV: Executive Branch (294 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-5-judicial-branch/` | Florida Statutes, Title V: Judicial Branch (458 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-6-civil-practice-and-procedure/` | Florida Statutes, Title VI: Civil Practice and Procedure (798 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-7-evidence/` | Florida Statutes, Title VII: Evidence (139 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-8-limitations/` | Florida Statutes, Title VIII: Limitations (24 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
+| `title-7-evidence/` | Florida Statutes, Title VII: Evidence (139 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
+| `title-8-limitations/` | Florida Statutes, Title VIII: Limitations (24 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
 | `title-9-electors-and-elections/` | Florida Statutes, Title IX: Electors and Elections (363 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-10-public-officers-employees-and-records/` | Florida Statutes, Title X: Public Officers, Employees, and Records (495 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-11-county-organization-and-intergovernmental-relations/` | Florida Statutes, Title XI: County Organization and Intergovernmental Relations (813 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
@@ -109,3 +109,7 @@ The official 2026 Florida Statutes History annotations are indexed by section in
 ## Official 2025 annual editions
 
 The record also includes 49 title snapshots containing 24,866 sections from the official 2025 Florida Statutes. They are labelled backfilled correction commits, with the published current text retained at the tip. The source labels the edition by year without an exact edition day. The 31 December 2025 history boundary is an annual-edition convention, not a claim that its sections took effect together. The per-title inventory and correction commits are listed in `data/annual-editions/2025.json`. Thirty-six titles gain their first 2025 snapshot; thirteen already had annual states and receive source-checked corrections. Some earlier published annual states remain outside this verified snapshot catalogue. Exact commencement dates and complete older editions remain outside this record.
+
+## 2024 annual-edition additions
+
+Titles I, II, III, VII and VIII have source-checked 2024 snapshots (339 sections across 10 chapters), followed by the previously published 2025 edition and current text. The year-end date identifies an edition boundary, not the commencement day of each section. Earlier annual editions and section-level effective dates remain incomplete.

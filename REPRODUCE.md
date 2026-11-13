@@ -140,3 +140,7 @@ At the original statutory survey addition, the unchanged local corpus had 609 mi
 49 title snapshots (24,866 sections) are checked word for word against the official chapter HTML, including complete section inventories, catchlines, History and Note text. Two parses agree; the committed historical blobs are checked separately against the official bytes. The unchanged published current files and tag objects are preserved. The date convention is explicitly stated in each correction; section commencement dates are not inferred.
 
 Heading reference links are checked against their Note definitions and are not duplicated in headings. Inline fraction spans retain the source numerator/slash/denominator characters. The full history gate remains unmet by 13 inherited earlier states outside the validation catalogue; their published file/OID maps are unchanged. No 0/0 history-gate result is claimed.
+
+## 2024 annual-edition additions
+
+Five titles, 10 official chapter pages and 339 sections were compared word for word with the official 2024 Florida Statutes. Two parses of every chapter agreed. The previously published 2025 blobs were verified by their unchanged Git object IDs before restoration, and current law files remain byte-identical to published main. The complete history check has 13 inherited catalogue mismatches on both published main and this candidate, with zero trailer, image and tip errors; the 0/0 gate remains unmet.
