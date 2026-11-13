@@ -4,7 +4,7 @@
   "name": "Florida",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-florida-law",
-  "build": "built: the Florida Constitution and all 49 titles of the 2026 Florida Statutes, current text only (one version each)",
+  "build": "built: Florida Constitution and all 49 titles of the 2026 Florida Statutes; official 2025 snapshots for 49 titles",
   "register_date": "2026-11-03",
   "section_history_index": {
     "edition": "2026 Florida Statutes",
@@ -27,5 +27,13 @@
     "images_deferred": 0,
     "images_referenced": 2,
     "historical_editions": "not surveyed"
+  },
+  "annual_editions": {
+    "2025": {
+      "titles": 49,
+      "sections": 24866,
+      "path": "data/annual-editions/2025.json",
+      "date_basis": "edition-year boundary; exact section commencement dates not asserted"
+    }
   }
 }
