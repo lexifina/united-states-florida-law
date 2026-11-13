@@ -1,0 +1,28 @@
+{
+  "act": "title-20-veterans",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 81,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0292/0292.html&StatuteYear=2026",
+      "sha256": "03b068a79fa9f64ef209065f608b5dd043a2c356563bcc4201c039960e8bf0ec",
+      "bytes": 49294
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0295/0295.html&StatuteYear=2026",
+      "sha256": "ea30f38e63c1f20726c6fc67c0cd9699fd2a63e713062b700ae15e87d84bcc10",
+      "bytes": 166749
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0200-0299/0296/0296.html&StatuteYear=2026",
+      "sha256": "f3867cf9dba968db79f8bf84f1fa50e6f8a010c4127dc6956c8144d9c1fd71f9",
+      "bytes": 89772
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
