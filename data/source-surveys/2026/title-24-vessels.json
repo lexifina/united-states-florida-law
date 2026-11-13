@@ -1,0 +1,28 @@
+{
+  "act": "title-24-vessels",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 131,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0326/0326.html&StatuteYear=2026",
+      "sha256": "0da6e743b409af29a3543933d2922ba56e31af220a78ee1e834710a9881e3ef3",
+      "bytes": 44739
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0327/0327.html&StatuteYear=2026",
+      "sha256": "605dd983c378b7ce1c237622534440d753820c12f900c4bc814ed714ab908bbe",
+      "bytes": 396051
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0328/0328.html&StatuteYear=2026",
+      "sha256": "aba588c6fbade41771c838f5923b243f3618057c22221cf35e126ef0c7eb8033",
+      "bytes": 278851
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
