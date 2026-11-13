@@ -18,11 +18,14 @@
   },
   "current_text_source_surveys": {
     "path": "data/source-surveys/2026",
-    "acts": 49,
+    "acts": 50,
     "statutory_titles": 49,
-    "sections": 24993,
+    "sections": 25206,
+    "units": 25207,
+    "constitution_sections_and_preamble": 214,
     "source_images": 2,
-    "images_deferred": 2,
+    "images_deferred": 0,
+    "images_referenced": 2,
     "historical_editions": "not surveyed"
   }
 }

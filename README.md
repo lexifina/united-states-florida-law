@@ -68,7 +68,7 @@ Nothing else of Florida's law is in it yet.
 
 ## Where the text comes from
 
-The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's "View Entire Chapter" page and the Constitution from one page. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators in the order the page gives them, its History line (the session laws behind it) and any Note the Legislature prints inside the section, with the page's own punctuation (curly quotes and dashes) and a word break wherever the page breaks a line. Footnote markers are retained as the official text prints them. Two sections show an image (sections 320.0842 and 322.051, the accessibility and deaf symbols); the images are not in this record yet and will be added, byte for byte, once the shared builder stores images.
+The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes/>, where the **Florida Legislature** publishes the Constitution and the 2026 Florida Statutes. Each chapter comes from the site's "View Entire Chapter" page and the Constitution from one page. Each section keeps its catchline, its text with subsection, paragraph and subparagraph designators in the order the page gives them, its History line (the session laws behind it) and any Note the Legislature prints inside the section, with the page's own punctuation (curly quotes and dashes) and a word break wherever the page breaks a line. Footnote markers are retained as the official text prints them. The two normative symbols in sections 320.0842 and 322.051 are linked in place as byte-exact official GIF assets.
 
 ## Dates
 
@@ -81,7 +81,6 @@ The text is read from **Online Sunshine**, <https://www.leg.state.fl.us/statutes
 
 - Any amendment history: the Statutes before the 2026 edition.
 - The Laws of Florida (session laws) and regulations.
-- The two images in sections 320.0842 and 322.051, until the shared builder stores images.
 - Nothing here is an official publication.
 
 ## How it is checked
@@ -97,10 +96,12 @@ Each act's original commit is authored by the publisher (the Florida Legislature
 
 593 sections across 39 titles have labelled corrections restoring the official word boundaries at superscript markers, mixed numbers and block breaks. These corrections retain the existing version dates and make no new commencement assertion. Earlier annual editions remain incomplete.
 
+Four Constitution sections also have a labelled correction restoring six word joins at the publisher's inline note markers. The correction retains the existing 29 October 2026 capture boundary and makes no new commencement assertion.
+
 ## Section history citations
 
 The official 2026 Florida Statutes History annotations are indexed by section in `data/section-history/`: 24,993 sections across 49 titles, 24,993 History annotations and 148,384 citation items in source order. The index preserves the publisher's words and links each entry to its official chapter page. Citation items include earlier statutory compilations and session laws; their roles and effective dates are not inferred. Sections without a History annotation have an empty list. The Constitution is outside this statutory index.
 
 ## Official current-text source surveys
 
-49 acts covering 24,993 sections have source surveys in `data/source-surveys/2026/`. Each identifies its official source pages and independently verified section coverage, with a source image inventory. Acts with unresolved source differences are outside the survey set. These surveys cover the current published text. They do not establish section commencement dates, verify earlier annual editions, or include the deferred normative images. Existing legal files and their history are preserved.
+50 acts covering 25,206 sections and the preamble have source surveys in `data/source-surveys/2026/`. Each identifies its official source pages and independently verified section coverage, with a source image inventory. These surveys cover the current published text, including the two normative Title XXIII symbols restored in a labelled correction. They do not establish section commencement dates or verify earlier annual editions. Earlier legal files and their history are preserved.

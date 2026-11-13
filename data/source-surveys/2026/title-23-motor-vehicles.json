@@ -52,18 +52,21 @@
   ],
   "verification": "Independent comparison of complete heading, body, History and Note word sequences with the official source",
   "source_images": 2,
-  "images_deferred": [
+  "images_referenced": [
     {
       "section": "320.0842",
       "url": "/data/statutes/statute2026/images/wheelchair.gif",
-      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0320/0320.html&StatuteYear=2026"
+      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0320/0320.html&StatuteYear=2026",
+      "asset": "title-23-motor-vehicles/assets/170afb9a57e6f61a196729b7ad783608078d00e7c87db0217d77d36d7d1917a0.gif"
     },
     {
       "section": "322.051",
       "url": "/data/statutes/statute2026/images/HearingLoss.gif",
-      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html&StatuteYear=2026"
+      "source_page": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0322/0322.html&StatuteYear=2026",
+      "asset": "title-23-motor-vehicles/assets/5730bb2affaa26ee70f7141b10f6224874563d44cdc6cf4baaa8bed07636da35.gif"
     }
   ],
+  "images_deferred": [],
   "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
   "historical_editions": "outside this current-text survey"
 }
