@@ -144,3 +144,5 @@ Heading reference links are checked against their Note definitions and are not d
 ## 2024 annual-edition additions
 
 Five titles, 10 official chapter pages and 339 sections were compared word for word with the official 2024 Florida Statutes. Two parses of every chapter agreed. The previously published 2025 blobs were verified by their unchanged Git object IDs before restoration, and current law files remain byte-identical to published main. The complete history check has 13 inherited catalogue mismatches on both published main and this candidate, with zero trailer, image and tip errors; the 0/0 gate remains unmet.
+
+Title XV adds one official 2024 chapter with 25 sections. Its 2024 text was compared word for word with the official edition; the published 2025 and current blobs were verified against their unchanged Git object IDs. The 13 previously reported history catalogue mismatches are inherited from the published base.

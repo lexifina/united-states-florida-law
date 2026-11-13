@@ -31,7 +31,7 @@ The statute law of Florida as a git repository: one file per section, committed 
 | `title-12-municipalities/` | Florida Statutes, Title XII: Municipalities (292 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-13-planning-and-development/` | Florida Statutes, Title XIII: Planning and Development (134 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-14-taxation-and-finance/` | Florida Statutes, Title XIV: Taxation and Finance (1176 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
-| `title-15-homestead-and-exemptions/` | Florida Statutes, Title XV: Homestead and Exemptions (25 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
+| `title-15-homestead-and-exemptions/` | Florida Statutes, Title XV: Homestead and Exemptions (25 sections) | 3 | Official 2024 and 2025 annual-edition snapshots and published 2026 text; exact commencement dates are not asserted |
 | `title-16-teachers-retirement-system-higher-educational-facilities-bonds/` | Florida Statutes, Title XVI: Teachers' Retirement System; Higher Educational Facilities Bonds (81 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-17-military-affairs-and-related-matters/` | Florida Statutes, Title XVII: Military Affairs and Related Matters (171 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
 | `title-18-public-lands-and-property/` | Florida Statutes, Title XVIII: Public Lands and Property (480 sections) | 2 | Official 2025 annual-edition snapshot and published 2026 text; exact commencement dates are not asserted |
@@ -112,4 +112,4 @@ The record also includes 49 title snapshots containing 24,866 sections from the 
 
 ## 2024 annual-edition additions
 
-Titles I, II, III, VII and VIII have source-checked 2024 snapshots (339 sections across 10 chapters), followed by the previously published 2025 edition and current text. The year-end date identifies an edition boundary, not the commencement day of each section. Earlier annual editions and section-level effective dates remain incomplete.
+Titles I, II, III, VII, VIII and XV have source-checked 2024 snapshots (364 sections across 11 chapters), followed by the previously published 2025 edition and current text. The year-end date identifies an edition boundary, not the commencement day of each section. Earlier annual editions and section-level effective dates remain incomplete.
