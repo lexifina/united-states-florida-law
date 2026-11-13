@@ -32,10 +32,10 @@ b. By general law and subject to conditions specified therein, the legislature s
 (3) The legislature must provide that such property shall be assessed at just value as of the next assessment date after a qualifying improvement, as defined by general law, is made to such property. Thereafter, such property shall be assessed as provided in this subsection.
 (4) The legislature may provide that such property shall be assessed at just value as of the next assessment date after a change of ownership or control, as defined by general law, including any change of ownership of the legal entity that owns the property. Thereafter, such property shall be assessed as provided in this subsection.
 (5) Changes, additions, reductions, or improvements to such property shall be assessed as provided for by general law; however, after the adjustment for any change, addition, reduction, or improvement, the property shall be assessed as provided in this subsection.
-1 (i) The legislature, by general law and subject to conditions specified therein, may prohibit the consideration of the following in the determination of the assessed value of real property:
+1(i) The legislature, by general law and subject to conditions specified therein, may prohibit the consideration of the following in the determination of the assessed value of real property:
 (1) Any change or improvement to real property used for residential purposes made to improve the property’s resistance to wind damage.
 (2) The installation of a solar or renewable energy source device.
-2 (j)
+2(j)
 (1) The assessment of the following working waterfront properties shall be based upon the current use of the property:
 a. Land used predominantly for commercial fishing purposes.
 b. Land that is accessible to the public and used for vessel launches into waters that are navigable.
