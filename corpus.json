@@ -1,0 +1,17 @@
+{
+ "corpus": "us/florida/acts",
+ "path": "united-states/florida/acts",
+ "scope": "selected-acts",
+ "acts": 50,
+ "future_branch": "future",
+ "publisher": "Florida Legislature (Online Sunshine)",
+ "name": "Florida",
+ "language": "en",
+ "coverage": "50 acts of Florida, the current text of each as of 2026-11-03",
+ "history": "current-only",
+ "history_from": "2026-10-29",
+ "record_to": "2026-11-03",
+ "checked_on": "2026-11-13",
+ "record_note": "Texts from Florida Legislature (Online Sunshine).",
+ "in_force_trailer": "In-force"
+}
