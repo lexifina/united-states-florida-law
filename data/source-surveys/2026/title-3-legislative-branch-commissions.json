@@ -1,0 +1,23 @@
+{
+  "act": "title-3-legislative-branch-commissions",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 76,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0010/0010.html&StatuteYear=2026",
+      "sha256": "b0950f0688481071814513eb69da94f2fc11a3ea4863b6c601811f9630f70c55",
+      "bytes": 1358093
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0011/0011.html&StatuteYear=2026",
+      "sha256": "f1c75ad1e083e6b9cc9e7a10c3953197b50a4ca7083b0bab5e778b44c576e2bf",
+      "bytes": 273265
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
