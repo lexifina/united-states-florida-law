@@ -1,0 +1,48 @@
+{
+  "act": "title-22-ports-and-harbors",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 90,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0308/0308.html&StatuteYear=2026",
+      "sha256": "fd8fa0e4da20a8c69717b6e825bb95b2fcb2c8e93579a27e1a4b9a69eeebb8b2",
+      "bytes": 22408
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0309/0309.html&StatuteYear=2026",
+      "sha256": "11b397876d190ac00b0860ca07e7723bce571ab6c0ac7008b848534afbef2fd2",
+      "bytes": 24780
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0310/0310.html&StatuteYear=2026",
+      "sha256": "dc4984f33ef522de117e715e05d5bc561eb2a585a8bdb37d9c72f3d3aac0bd24",
+      "bytes": 120751
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0311/0311.html&StatuteYear=2026",
+      "sha256": "28dca9c09db4e9d5a0c27038cdd89636ccc02effd05aa2b30d0052c27c905eb1",
+      "bytes": 118558
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0313/0313.html&StatuteYear=2026",
+      "sha256": "0713c38475a8104c9300413f70299e1bc37aacc442b8b615eec06bf2c167a737",
+      "bytes": 29923
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0314/0314.html&StatuteYear=2026",
+      "sha256": "a699a41ad54754a82914fb84245bcbfe8b7b9c47cf5bf44a72b268aa9a6799d5",
+      "bytes": 27485
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0315/0315.html&StatuteYear=2026",
+      "sha256": "6dccc7d4a8db6fcf4ea999f524b47689edba12ce386c1e9b35e754f6616fa9cb",
+      "bytes": 62551
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
