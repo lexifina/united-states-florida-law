@@ -1,0 +1,63 @@
+{
+  "act": "title-27-railroads-and-other-regulated-utilities",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 196,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0350/0350.html&StatuteYear=2026",
+      "sha256": "c792527c2a2301e54a33aeaa6db9a3199e21a8fa9c43f4a99c8b59bd69529b3b",
+      "bytes": 130996
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0351/0351.html&StatuteYear=2026",
+      "sha256": "c6624f8e3a3a49762d709bff00e02e35f11eb79bfcd908509a1135038e5213ca",
+      "bytes": 29741
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0354/0354.html&StatuteYear=2026",
+      "sha256": "4770ddb30ba907b4b9befedb0999c1a152a5cb2aae59059ec84abc17277a156b",
+      "bytes": 24076
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0361/0361.html&StatuteYear=2026",
+      "sha256": "5dc459ae67dabca1a5aacb095697b8afaeb3c2667fbb9e14f0846030da4af981",
+      "bytes": 52761
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0362/0362.html&StatuteYear=2026",
+      "sha256": "3cdf0f2250ef04273a47c5575bb44f954b266e5b48cc37fe0d6cd57f24d23c20",
+      "bytes": 19607
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0364/0364.html&StatuteYear=2026",
+      "sha256": "d8d2a34a321f6a298214b65fadea91b2084c6fc7fc4c11a2e60ddfb3a6f11fa3",
+      "bytes": 113489
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0365/0365.html&StatuteYear=2026",
+      "sha256": "6cd93372576a82f716a3fbffb985cbecc8c29f2aa06968da908223f765a7eb9c",
+      "bytes": 167314
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0366/0366.html&StatuteYear=2026",
+      "sha256": "060941f88d86e462f8a01946bc7baaaf82af82b43d39fc47db7607c0179fa949",
+      "bytes": 356199
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0367/0367.html&StatuteYear=2026",
+      "sha256": "68e80a48587fd462e380c5d0e13b5595cfc15304581c29f3735166d0c0b3befd",
+      "bytes": 165547
+    },
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0368/0368.html&StatuteYear=2026",
+      "sha256": "9238c6beecf4a35c0f80a45f1bde4460f7f27663cdc5bac9645ece88bec7760e",
+      "bytes": 60441
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
