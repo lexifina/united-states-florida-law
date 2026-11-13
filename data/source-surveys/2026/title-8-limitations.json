@@ -1,0 +1,18 @@
+{
+  "act": "title-8-limitations",
+  "edition": "2026 Florida Statutes",
+  "record_date": "2026-11-03",
+  "verification": "heading and complete body, History and Note token streams compared independently with official HTML",
+  "source_images": 0,
+  "images_deferred": [],
+  "sections": 24,
+  "chapter_sources": [
+    {
+      "url": "https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0095/0095.html&StatuteYear=2026",
+      "sha256": "49a9caca7decb476e3827ee9ace2dd983ce332bb11fa125d6cfa523ed744a5cc",
+      "bytes": 113327
+    }
+  ],
+  "published_base": "330cd6d6da268f8de57e7843802df0dc7eccc268",
+  "historical_editions": "not verified by this current-text survey"
+}
